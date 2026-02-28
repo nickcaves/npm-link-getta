@@ -1,0 +1,26 @@
+name: Weekly scrape
+
+on:
+  schedule:
+    # Runs every Friday at 8 PM UTC (when NPR typically publishes)
+    - cron: "0 20 * * 5"
+  workflow_dispatch: # Run manually from GitHub Actions tab
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - run: npm ci
+      - run: npm run scrape
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update albums from NPR New Music Friday"
+          file_pattern: data/albums.json

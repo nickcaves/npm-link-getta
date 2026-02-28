@@ -1,0 +1,1665 @@
+{
+  "source": "https://www.npr.org/2026/02/27/nx-s1-5727557/new-music-friday-best-albums-feb-27",
+  "scrapedAt": "2026-02-28T21:56:42.513Z",
+  "date": "2026-02-27",
+  "title": "The best new albums out Feb. 27",
+  "total": 13,
+  "albums": [
+    {
+      "artist": "Mitski",
+      "album": "Nothing's About to Happen to Me",
+      "label": "Dead Oceans",
+      "section": "starting5",
+      "spotify": null,
+      "songlink": null,
+      "spotifySearchUrl": "https://open.spotify.com/search/Mitski%20Nothing's%20About%20to%20Happen%20to%20Me"
+    },
+    {
+      "artist": "Gorillaz",
+      "album": "The Mountain",
+      "label": "Kong",
+      "section": "starting5",
+      "spotify": {
+        "id": "1RvJmGd47lKS4XMXs9j8hD",
+        "name": "The Mountain",
+        "url": "https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD",
+        "release_date": "2026-02-27",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273eeb01b41f48210d032d1b6a4",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02eeb01b41f48210d032d1b6a4",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851eeb01b41f48210d032d1b6a4",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "3AA28KZvwAUcZuOKwyblJQ",
+            "name": "Gorillaz"
+          }
+        ]
+      },
+      "songlink": {
+        "pageUrl": "https://album.link/s/1RvJmGd47lKS4XMXs9j8hD",
+        "entitiesByUniqueId": {
+          "BANDCAMP_ALBUM::3089755547": {
+            "id": "3089755547",
+            "type": "album",
+            "title": "The Mountain",
+            "artistName": "Gorillaz",
+            "thumbnailUrl": "https://f4.bcbits.com/img/a1650655616_5.jpg",
+            "thumbnailWidth": 700,
+            "thumbnailHeight": 700,
+            "apiProvider": "bandcamp",
+            "platforms": [
+              "bandcamp"
+            ]
+          },
+          "PANDORA_ALBUM::AL:61799774": {
+            "id": "AL:61799774",
+            "type": "album",
+            "title": "The Mountain",
+            "artistName": "Gorillaz",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/37/a7/e6/a1/42304811a546363046b6f9b0/_500W_500H.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "pandora",
+            "platforms": [
+              "pandora"
+            ]
+          },
+          "SOUNDCLOUD_PLAYLIST::2197391495": {
+            "id": "2197391495",
+            "type": "album",
+            "title": "The Mountain",
+            "artistName": "Gorillaz",
+            "thumbnailUrl": "https://i1.sndcdn.com/artworks-686266b3-2db4-458f-bd7d-484c8c75b8ea-0-t500x500.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "soundcloud",
+            "platforms": [
+              "soundcloud"
+            ]
+          },
+          "SPOTIFY_ALBUM::1RvJmGd47lKS4XMXs9j8hD": {
+            "id": "1RvJmGd47lKS4XMXs9j8hD",
+            "type": "album",
+            "title": "The Mountain",
+            "artistName": "Gorillaz",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273eeb01b41f48210d032d1b6a4",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "spotify",
+            "platforms": [
+              "spotify"
+            ]
+          },
+          "TIDAL_ALBUM::500753046": {
+            "id": "500753046",
+            "type": "album",
+            "title": "The Mountain",
+            "artistName": "Gorillaz",
+            "thumbnailUrl": "https://resources.tidal.com/images/cb19aef8/684c/4ed5/bb96/7fa878522bd1/640x640.jpg",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "tidal",
+            "platforms": [
+              "tidal"
+            ]
+          },
+          "YOUTUBE_PLAYLIST::OLAK5uy_kxotrr0UBs54oag6GEmyYhZHfylB4I3To": {
+            "id": "OLAK5uy_kxotrr0UBs54oag6GEmyYhZHfylB4I3To",
+            "type": "album",
+            "title": "Album - The Mountain",
+            "artistName": "Gorillaz",
+            "thumbnailUrl": "https://i9.ytimg.com/s_p/OLAK5uy_kxotrr0UBs54oag6GEmyYhZHfylB4I3To/sddefault.jpg?sqp=CIzohM0Gir7X7AMICJOa4swGEAE=&rs=AOn4CLA_Y4y9dKiiHvtMvGHfXtiKCyMLlQ&v=1771605267",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "youtube",
+            "platforms": [
+              "youtube",
+              "youtubeMusic"
+            ]
+          }
+        },
+        "platforms": {
+          "spotify": "https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD",
+          "appleMusic": null,
+          "deezer": null,
+          "tidal": "https://listen.tidal.com/album/500753046",
+          "youtube": "https://www.youtube.com/playlist?list=OLAK5uy_kxotrr0UBs54oag6GEmyYhZHfylB4I3To",
+          "youtubeMusic": "https://music.youtube.com/playlist?list=OLAK5uy_kxotrr0UBs54oag6GEmyYhZHfylB4I3To",
+          "soundcloud": "https://soundcloud.com/gorillaz/sets/the-mountain-442495695?utm_medium=api&utm_campaign=social_sharing&utm_source=id_314547",
+          "amazonMusic": null
+        }
+      },
+      "spotifySearchUrl": null
+    },
+    {
+      "artist": "Heavenly",
+      "album": "Highway to Heavenly",
+      "label": "Skep Wax",
+      "section": "starting5",
+      "spotify": {
+        "id": "5YhrzQG6OpE1FtYJ4Erdsm",
+        "name": "Highway To Heavenly",
+        "url": "https://open.spotify.com/album/5YhrzQG6OpE1FtYJ4Erdsm",
+        "release_date": "2026-02-27",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273ba0d4a45d9307d8f32b47d3d",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02ba0d4a45d9307d8f32b47d3d",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851ba0d4a45d9307d8f32b47d3d",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "1sDWIdL18InXgES9TwvsL2",
+            "name": "Heavenly"
+          }
+        ]
+      },
+      "songlink": {
+        "pageUrl": "https://album.link/s/5YhrzQG6OpE1FtYJ4Erdsm",
+        "entitiesByUniqueId": {
+          "BANDCAMP_ALBUM::1752716461": {
+            "id": "1752716461",
+            "type": "album",
+            "title": "Highway To Heavenly",
+            "artistName": "Heavenly",
+            "thumbnailUrl": "https://f4.bcbits.com/img/a3864515830_5.jpg",
+            "thumbnailWidth": 700,
+            "thumbnailHeight": 700,
+            "apiProvider": "bandcamp",
+            "platforms": [
+              "bandcamp"
+            ]
+          },
+          "ITUNES_ALBUM::1862201506": {
+            "id": "1862201506",
+            "type": "album",
+            "title": "Highway To Heavenly",
+            "artistName": "Heavenly",
+            "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fa/b5/48/fab5487f-d504-d67e-6719-fd7f6084c6a8/15972.jpg/512x512bb.jpg",
+            "thumbnailWidth": 512,
+            "thumbnailHeight": 512,
+            "apiProvider": "itunes",
+            "platforms": [
+              "appleMusic",
+              "itunes"
+            ]
+          },
+          "PANDORA_ALBUM::AL:58123037": {
+            "id": "AL:58123037",
+            "type": "album",
+            "title": "Highway To Heavenly",
+            "artistName": "Heavenly",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/05/07/2c/06/3f754868b090e5e6c66e55f0/_500W_500H.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "pandora",
+            "platforms": [
+              "pandora"
+            ]
+          },
+          "SOUNDCLOUD_PLAYLIST::2160111707": {
+            "id": "2160111707",
+            "type": "album",
+            "title": "Highway To Heavenly",
+            "artistName": "Heavenly",
+            "thumbnailUrl": "https://i1.sndcdn.com/artworks-828542a9-5198-4085-af2c-edd0cda3e5bb-0-t500x500.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "soundcloud",
+            "platforms": [
+              "soundcloud"
+            ]
+          },
+          "SPOTIFY_ALBUM::5YhrzQG6OpE1FtYJ4Erdsm": {
+            "id": "5YhrzQG6OpE1FtYJ4Erdsm",
+            "type": "album",
+            "title": "Highway To Heavenly",
+            "artistName": "Heavenly",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273ba0d4a45d9307d8f32b47d3d",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "spotify",
+            "platforms": [
+              "spotify"
+            ]
+          },
+          "TIDAL_ALBUM::482675346": {
+            "id": "482675346",
+            "type": "album",
+            "title": "Highway To Heavenly",
+            "artistName": "Heavenly",
+            "thumbnailUrl": "https://resources.tidal.com/images/cc8eeddc/6f36/4942/a6bc/e408154550fa/640x640.jpg",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "tidal",
+            "platforms": [
+              "tidal"
+            ]
+          }
+        },
+        "platforms": {
+          "spotify": "https://open.spotify.com/album/5YhrzQG6OpE1FtYJ4Erdsm",
+          "appleMusic": "https://geo.music.apple.com/au/album/_/1862201506?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m",
+          "deezer": null,
+          "tidal": "https://listen.tidal.com/album/482675346",
+          "youtube": null,
+          "youtubeMusic": null,
+          "soundcloud": "https://soundcloud.com/heavenly35387/sets/highway-to-heavenly?utm_medium=api&utm_campaign=social_sharing&utm_source=id_314547",
+          "amazonMusic": null
+        }
+      },
+      "spotifySearchUrl": null
+    },
+    {
+      "artist": "Voxtrot",
+      "album": "Dreamers in Exile",
+      "label": "Cult Hero",
+      "section": "starting5",
+      "spotify": {
+        "id": "7xeo24FBX2dE8HCPGtxTQb",
+        "name": "Dreamers in Exile",
+        "url": "https://open.spotify.com/album/7xeo24FBX2dE8HCPGtxTQb",
+        "release_date": "2026-02-27",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273cac0ed870c8358fd37394014",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02cac0ed870c8358fd37394014",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851cac0ed870c8358fd37394014",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "7b697TI9p2abLzSo3eJTKW",
+            "name": "Voxtrot"
+          }
+        ]
+      },
+      "songlink": {
+        "pageUrl": "https://album.link/s/7xeo24FBX2dE8HCPGtxTQb",
+        "entitiesByUniqueId": {
+          "AMAZON_ALBUM::B0G3FBQBH3": {
+            "id": "B0G3FBQBH3",
+            "type": "album",
+            "title": "Dreamers in Exile",
+            "artistName": "Voxtrot",
+            "thumbnailUrl": "https://m.media-amazon.com/images/I/51HUiN3P3mL.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "amazon",
+            "platforms": [
+              "amazonMusic",
+              "amazonStore"
+            ]
+          },
+          "BANDCAMP_ALBUM::1299720627": {
+            "id": "1299720627",
+            "type": "album",
+            "title": "Dreamers in Exile",
+            "artistName": "Voxtrot",
+            "thumbnailUrl": "https://f4.bcbits.com/img/a4192593042_5.jpg",
+            "thumbnailWidth": 700,
+            "thumbnailHeight": 700,
+            "apiProvider": "bandcamp",
+            "platforms": [
+              "bandcamp"
+            ]
+          },
+          "PANDORA_ALBUM::AL:56764154": {
+            "id": "AL:56764154",
+            "type": "album",
+            "title": "Dreamers in Exile",
+            "artistName": "Voxtrot",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/b0/7f/73/db/ed5447418ed34d2dd36abe38/_500W_500H.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "pandora",
+            "platforms": [
+              "pandora"
+            ]
+          },
+          "SOUNDCLOUD_PLAYLIST::2186672312": {
+            "id": "2186672312",
+            "type": "album",
+            "title": "Dreamers in Exile",
+            "artistName": "Voxtrot",
+            "thumbnailUrl": "https://i1.sndcdn.com/artworks-65a8699c-08c6-40b7-8451-cb656142ea3c-0-t500x500.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "soundcloud",
+            "platforms": [
+              "soundcloud"
+            ]
+          },
+          "SPOTIFY_ALBUM::7xeo24FBX2dE8HCPGtxTQb": {
+            "id": "7xeo24FBX2dE8HCPGtxTQb",
+            "type": "album",
+            "title": "Dreamers in Exile",
+            "artistName": "Voxtrot",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273cac0ed870c8358fd37394014",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "spotify",
+            "platforms": [
+              "spotify"
+            ]
+          },
+          "TIDAL_ALBUM::475910578": {
+            "id": "475910578",
+            "type": "album",
+            "title": "Dreamers in Exile",
+            "artistName": "Voxtrot",
+            "thumbnailUrl": "https://resources.tidal.com/images/e83465f8/8b08/42d6/82d0/e5d57715c921/640x640.jpg",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "tidal",
+            "platforms": [
+              "tidal"
+            ]
+          }
+        },
+        "platforms": {
+          "spotify": "https://open.spotify.com/album/7xeo24FBX2dE8HCPGtxTQb",
+          "appleMusic": null,
+          "deezer": null,
+          "tidal": "https://listen.tidal.com/album/475910578",
+          "youtube": null,
+          "youtubeMusic": null,
+          "soundcloud": "https://soundcloud.com/voxtrotofficial/sets/dreamers-in-exile?utm_medium=api&utm_campaign=social_sharing&utm_source=id_314547",
+          "amazonMusic": "https://music.amazon.com/albums/B0G3FBQBH3"
+        }
+      },
+      "spotifySearchUrl": null
+    },
+    {
+      "artist": "Nothing",
+      "album": "A Short History of Decay",
+      "label": "Run for Cover",
+      "section": "starting5",
+      "spotify": {
+        "id": "6jGx2Xh0Z5Yi3vCAZ044fc",
+        "name": "a short history of decay",
+        "url": "https://open.spotify.com/album/6jGx2Xh0Z5Yi3vCAZ044fc",
+        "release_date": "2026-02-27",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27337b83246c811870372df8974",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0237b83246c811870372df8974",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485137b83246c811870372df8974",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "60mqEPQp1eNjuwt1Z4yL4J",
+            "name": "Nothing"
+          }
+        ]
+      },
+      "songlink": {
+        "pageUrl": "https://album.link/s/6jGx2Xh0Z5Yi3vCAZ044fc",
+        "entitiesByUniqueId": {
+          "AMAZON_ALBUM::B0FY5864SW": {
+            "id": "B0FY5864SW",
+            "type": "album",
+            "title": "a short history of decay [Explicit]",
+            "artistName": "Nothing",
+            "thumbnailUrl": "https://m.media-amazon.com/images/I/81UJ9II4krL._AA500.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "amazon",
+            "platforms": [
+              "amazonMusic",
+              "amazonStore"
+            ]
+          },
+          "BANDCAMP_ALBUM::3329244554": {
+            "id": "3329244554",
+            "type": "album",
+            "title": "a short history of decay",
+            "artistName": "Nothing",
+            "thumbnailUrl": "https://f4.bcbits.com/img/a2204997033_5.jpg",
+            "thumbnailWidth": 700,
+            "thumbnailHeight": 700,
+            "apiProvider": "bandcamp",
+            "platforms": [
+              "bandcamp"
+            ]
+          },
+          "SOUNDCLOUD_PLAYLIST::2098448515": {
+            "id": "2098448515",
+            "type": "album",
+            "title": "a short history of decay",
+            "artistName": "Nothing",
+            "thumbnailUrl": "https://i1.sndcdn.com/artworks-325dc967-efbe-4c0d-8848-c7f6b9c6bda7-0-t500x500.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "soundcloud",
+            "platforms": [
+              "soundcloud"
+            ]
+          },
+          "SPOTIFY_ALBUM::6jGx2Xh0Z5Yi3vCAZ044fc": {
+            "id": "6jGx2Xh0Z5Yi3vCAZ044fc",
+            "type": "album",
+            "title": "a short history of decay",
+            "artistName": "Nothing",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b27337b83246c811870372df8974",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "spotify",
+            "platforms": [
+              "spotify"
+            ]
+          },
+          "TIDAL_ALBUM::470003474": {
+            "id": "470003474",
+            "type": "album",
+            "title": "a short history of decay",
+            "artistName": "NOTHING",
+            "thumbnailUrl": "https://resources.tidal.com/images/3919fb5d/500a/4752/8410/714740d86b34/640x640.jpg",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "tidal",
+            "platforms": [
+              "tidal"
+            ]
+          },
+          "YOUTUBE_PLAYLIST::PLI6lvCsENi_G0bGFIkkzJl8z-gf9SJ6xA": {
+            "id": "PLI6lvCsENi_G0bGFIkkzJl8z-gf9SJ6xA",
+            "type": "album",
+            "title": "Nothing - A Short History of Decay",
+            "artistName": "Brian Werner",
+            "thumbnailUrl": "https://i4.ytimg.com/vi/_jM-OHwJwkY/hqdefault.jpg",
+            "thumbnailWidth": 480,
+            "thumbnailHeight": 360,
+            "apiProvider": "youtube",
+            "platforms": [
+              "youtube",
+              "youtubeMusic"
+            ]
+          }
+        },
+        "platforms": {
+          "spotify": "https://open.spotify.com/album/6jGx2Xh0Z5Yi3vCAZ044fc",
+          "appleMusic": null,
+          "deezer": null,
+          "tidal": "https://listen.tidal.com/album/470003474",
+          "youtube": "https://www.youtube.com/playlist?list=PLI6lvCsENi_G0bGFIkkzJl8z-gf9SJ6xA",
+          "youtubeMusic": "https://music.youtube.com/playlist?list=PLI6lvCsENi_G0bGFIkkzJl8z-gf9SJ6xA",
+          "soundcloud": "https://soundcloud.com/nothing-72230/sets/a-short-history-of-decay-1?utm_medium=api&utm_campaign=social_sharing&utm_source=id_314547",
+          "amazonMusic": "https://music.amazon.com/albums/B0FY5864SW"
+        }
+      },
+      "spotifySearchUrl": null
+    },
+    {
+      "artist": "Buck Meek",
+      "album": "The Mirror",
+      "label": "4AD",
+      "section": "lightningRound",
+      "spotify": {
+        "id": "3LE5w1aEJa09VcrUk2SCEF",
+        "name": "The Mirror",
+        "url": "https://open.spotify.com/album/3LE5w1aEJa09VcrUk2SCEF",
+        "release_date": "2026-02-27",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273b0d8ae626c03195293535af1",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02b0d8ae626c03195293535af1",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851b0d8ae626c03195293535af1",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "4mYY0UqYdvgdz60psupYBR",
+            "name": "Buck Meek"
+          }
+        ]
+      },
+      "songlink": {
+        "pageUrl": "https://album.link/s/3LE5w1aEJa09VcrUk2SCEF",
+        "entitiesByUniqueId": {
+          "AMAZON_ALBUM::B0G7GMCV1T": {
+            "id": "B0G7GMCV1T",
+            "type": "album",
+            "title": "The Mirror",
+            "artistName": "Buck Meek",
+            "thumbnailUrl": "https://m.media-amazon.com/images/I/51mq1oY8sPL._AA500.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "amazon",
+            "platforms": [
+              "amazonMusic",
+              "amazonStore"
+            ]
+          },
+          "BANDCAMP_ALBUM::2322163469": {
+            "id": "2322163469",
+            "type": "album",
+            "title": "The Mirror",
+            "artistName": "Buck Meek",
+            "thumbnailUrl": "https://f4.bcbits.com/img/a3916470919_5.jpg",
+            "thumbnailWidth": 700,
+            "thumbnailHeight": 700,
+            "apiProvider": "bandcamp",
+            "platforms": [
+              "bandcamp"
+            ]
+          },
+          "ITUNES_ALBUM::1854203200": {
+            "id": "1854203200",
+            "type": "album",
+            "title": "The Mirror",
+            "artistName": "Buck Meek",
+            "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/66/ff/3666ffe1-0f7b-2819-115a-0c41fda5f884/191400087071.png/512x512bb.jpg",
+            "thumbnailWidth": 512,
+            "thumbnailHeight": 512,
+            "apiProvider": "itunes",
+            "platforms": [
+              "appleMusic",
+              "itunes"
+            ]
+          },
+          "PANDORA_ALBUM::AL:61712617": {
+            "id": "AL:61712617",
+            "type": "album",
+            "title": "The Mirror",
+            "artistName": "Buck Meek",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/38/70/29/bc/150d4789ab6e58605efb85b4/_500W_500H.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "pandora",
+            "platforms": [
+              "pandora"
+            ]
+          },
+          "SOUNDCLOUD_PLAYLIST::2193910484": {
+            "id": "2193910484",
+            "type": "album",
+            "title": "The Mirror",
+            "artistName": "Buck Meek",
+            "thumbnailUrl": "https://i1.sndcdn.com/artworks-d4e7ad48-92cf-4ca4-b240-43d05387d9fb-0-t500x500.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "soundcloud",
+            "platforms": [
+              "soundcloud"
+            ]
+          },
+          "SPOTIFY_ALBUM::3LE5w1aEJa09VcrUk2SCEF": {
+            "id": "3LE5w1aEJa09VcrUk2SCEF",
+            "type": "album",
+            "title": "The Mirror",
+            "artistName": "Buck Meek",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273b0d8ae626c03195293535af1",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "spotify",
+            "platforms": [
+              "spotify"
+            ]
+          },
+          "TIDAL_ALBUM::496159095": {
+            "id": "496159095",
+            "type": "album",
+            "title": "The Mirror",
+            "artistName": "Buck Meek",
+            "thumbnailUrl": "https://resources.tidal.com/images/a342e9d9/3751/4dc3/8093/f85a66690e81/640x640.jpg",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "tidal",
+            "platforms": [
+              "tidal"
+            ]
+          },
+          "YANDEX_ALBUM::40762214": {
+            "id": "40762214",
+            "type": "album",
+            "title": "The Mirror",
+            "artistName": "Buck Meek",
+            "thumbnailUrl": "https://avatars.yandex.net/get-music-content/16508792/f4f269b8.a.40762214-1/600x600",
+            "thumbnailWidth": 600,
+            "thumbnailHeight": 600,
+            "apiProvider": "yandex",
+            "platforms": [
+              "yandex"
+            ]
+          },
+          "YOUTUBE_PLAYLIST::PLZxKy04e5wXrHub0DkHwkbesLf9dJXYJK": {
+            "id": "PLZxKy04e5wXrHub0DkHwkbesLf9dJXYJK",
+            "type": "album",
+            "title": "Buck Meek ~ The Mirror [Full Album]",
+            "artistName": "Mix Albums",
+            "thumbnailUrl": "https://i4.ytimg.com/vi/sp5vcPRgOR8/hqdefault.jpg",
+            "thumbnailWidth": 480,
+            "thumbnailHeight": 360,
+            "apiProvider": "youtube",
+            "platforms": [
+              "youtube",
+              "youtubeMusic"
+            ]
+          }
+        },
+        "platforms": {
+          "spotify": "https://open.spotify.com/album/3LE5w1aEJa09VcrUk2SCEF",
+          "appleMusic": "https://geo.music.apple.com/au/album/_/1854203200?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m",
+          "deezer": null,
+          "tidal": "https://listen.tidal.com/album/496159095",
+          "youtube": "https://www.youtube.com/playlist?list=PLZxKy04e5wXrHub0DkHwkbesLf9dJXYJK",
+          "youtubeMusic": "https://music.youtube.com/playlist?list=PLZxKy04e5wXrHub0DkHwkbesLf9dJXYJK",
+          "soundcloud": "https://soundcloud.com/buckmeek/sets/the-mirror-713868703?utm_medium=api&utm_campaign=social_sharing&utm_source=id_314547",
+          "amazonMusic": "https://music.amazon.com/albums/B0G7GMCV1T"
+        }
+      },
+      "spotifySearchUrl": null
+    },
+    {
+      "artist": "Maria BC",
+      "album": "Marathon",
+      "label": "Sacred Bones",
+      "section": "lightningRound",
+      "spotify": {
+        "id": "6DygEWTpUZOaQWSugKs4mk",
+        "name": "Marathon",
+        "url": "https://open.spotify.com/album/6DygEWTpUZOaQWSugKs4mk",
+        "release_date": "2026-02-27",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27326b9b08fd44a08aa4001b220",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0226b9b08fd44a08aa4001b220",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485126b9b08fd44a08aa4001b220",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "1GRdVyqsikMsJrvHskjwry",
+            "name": "Maria BC"
+          }
+        ]
+      },
+      "songlink": {
+        "pageUrl": "https://album.link/s/6DygEWTpUZOaQWSugKs4mk",
+        "entitiesByUniqueId": {
+          "BANDCAMP_ALBUM::3601956730": {
+            "id": "3601956730",
+            "type": "album",
+            "title": "Marathon",
+            "artistName": "Maria BC",
+            "thumbnailUrl": "https://f4.bcbits.com/img/a3207365271_5.jpg",
+            "thumbnailWidth": 700,
+            "thumbnailHeight": 700,
+            "apiProvider": "bandcamp",
+            "platforms": [
+              "bandcamp"
+            ]
+          },
+          "ITUNES_ALBUM::1851555420": {
+            "id": "1851555420",
+            "type": "album",
+            "title": "Marathon",
+            "artistName": "Maria BC",
+            "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/09/3a/fb/093afba5-8acb-fdd3-5473-addc810a8812/60188.jpg/512x512bb.jpg",
+            "thumbnailWidth": 512,
+            "thumbnailHeight": 512,
+            "apiProvider": "itunes",
+            "platforms": [
+              "appleMusic",
+              "itunes"
+            ]
+          },
+          "PANDORA_ALBUM::AL:55990489": {
+            "id": "AL:55990489",
+            "type": "album",
+            "title": "Marathon",
+            "artistName": "Maria BC",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/45/dc/41/da/f00341cd9a8e8b1e49970043/_500W_500H.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "pandora",
+            "platforms": [
+              "pandora"
+            ]
+          },
+          "SOUNDCLOUD_PLAYLIST::2110827086": {
+            "id": "2110827086",
+            "type": "album",
+            "title": "Marathon",
+            "artistName": "Maria BC",
+            "thumbnailUrl": "https://i1.sndcdn.com/artworks-42717006-1fef-4f91-9a85-d2d52d257acc-0-t500x500.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "soundcloud",
+            "platforms": [
+              "soundcloud"
+            ]
+          },
+          "SPOTIFY_ALBUM::6DygEWTpUZOaQWSugKs4mk": {
+            "id": "6DygEWTpUZOaQWSugKs4mk",
+            "type": "album",
+            "title": "Marathon",
+            "artistName": "Maria BC",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b27326b9b08fd44a08aa4001b220",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "spotify",
+            "platforms": [
+              "spotify"
+            ]
+          },
+          "TIDAL_ALBUM::472485037": {
+            "id": "472485037",
+            "type": "album",
+            "title": "Marathon",
+            "artistName": "Maria BC",
+            "thumbnailUrl": "https://resources.tidal.com/images/c68a6210/99bc/469c/8bef/efab42188897/640x640.jpg",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "tidal",
+            "platforms": [
+              "tidal"
+            ]
+          },
+          "YOUTUBE_PLAYLIST::PLBCYJDQ1g88DT1jBMj-VfRismW28E5HR-": {
+            "id": "PLBCYJDQ1g88DT1jBMj-VfRismW28E5HR-",
+            "type": "album",
+            "title": "Marathon / Maria BC",
+            "artistName": "田沢美夫",
+            "thumbnailUrl": "https://i3.ytimg.com/vi/rtetcfOvuU0/hqdefault.jpg",
+            "thumbnailWidth": 480,
+            "thumbnailHeight": 360,
+            "apiProvider": "youtube",
+            "platforms": [
+              "youtube",
+              "youtubeMusic"
+            ]
+          }
+        },
+        "platforms": {
+          "spotify": "https://open.spotify.com/album/6DygEWTpUZOaQWSugKs4mk",
+          "appleMusic": "https://geo.music.apple.com/au/album/_/1851555420?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m",
+          "deezer": null,
+          "tidal": "https://listen.tidal.com/album/472485037",
+          "youtube": "https://www.youtube.com/playlist?list=PLBCYJDQ1g88DT1jBMj-VfRismW28E5HR-",
+          "youtubeMusic": "https://music.youtube.com/playlist?list=PLBCYJDQ1g88DT1jBMj-VfRismW28E5HR-",
+          "soundcloud": "https://soundcloud.com/maria-b-c/sets/marathon-548458301?utm_medium=api&utm_campaign=social_sharing&utm_source=id_314547",
+          "amazonMusic": null
+        }
+      },
+      "spotifySearchUrl": null
+    },
+    {
+      "artist": "Bill Callahan",
+      "album": "My Days of 58",
+      "label": "Drag City",
+      "section": "lightningRound",
+      "spotify": {
+        "id": "497p1j3P9Xzlb7vXay7tNl",
+        "name": "My Days of 58",
+        "url": "https://open.spotify.com/album/497p1j3P9Xzlb7vXay7tNl",
+        "release_date": "2026-02-27",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2736172648d29acadc71f725e35",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e026172648d29acadc71f725e35",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048516172648d29acadc71f725e35",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "7gqsi6aBSkRMJoL9psKqMr",
+            "name": "Bill Callahan"
+          }
+        ]
+      },
+      "songlink": {
+        "pageUrl": "https://album.link/s/497p1j3P9Xzlb7vXay7tNl",
+        "entitiesByUniqueId": {
+          "AMAZON_ALBUM::B0FWHLCRSS": {
+            "id": "B0FWHLCRSS",
+            "type": "album",
+            "title": "My Days of 58",
+            "artistName": "Bill Callahan",
+            "thumbnailUrl": "https://m.media-amazon.com/images/I/51VDcUxHXIL._AA500.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "amazon",
+            "platforms": [
+              "amazonMusic",
+              "amazonStore"
+            ]
+          },
+          "BANDCAMP_ALBUM::359176910": {
+            "id": "359176910",
+            "type": "album",
+            "title": "My Days of 58",
+            "artistName": "Bill Callahan",
+            "thumbnailUrl": "https://f4.bcbits.com/img/a2665315025_5.jpg",
+            "thumbnailWidth": 700,
+            "thumbnailHeight": 700,
+            "apiProvider": "bandcamp",
+            "platforms": [
+              "bandcamp"
+            ]
+          },
+          "ITUNES_ALBUM::1846471021": {
+            "id": "1846471021",
+            "type": "album",
+            "title": "My Days of 58",
+            "artistName": "Bill Callahan",
+            "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/8e/7a/1d8e7ab4-364a-b86d-0c23-c920c25ee502/781484096429.png/512x512bb.jpg",
+            "thumbnailWidth": 512,
+            "thumbnailHeight": 512,
+            "apiProvider": "itunes",
+            "platforms": [
+              "appleMusic",
+              "itunes"
+            ]
+          },
+          "PANDORA_ALBUM::AL:55212708": {
+            "id": "AL:55212708",
+            "type": "album",
+            "title": "My Days of 58",
+            "artistName": "Bill Callahan",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/07/d6/78/88/99294fb5902247fa1716df90/_500W_500H.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "pandora",
+            "platforms": [
+              "pandora"
+            ]
+          },
+          "SOUNDCLOUD_PLAYLIST::2102083847": {
+            "id": "2102083847",
+            "type": "album",
+            "title": "My Days of 58",
+            "artistName": "Bill Callahan",
+            "thumbnailUrl": "https://i1.sndcdn.com/artworks-e3f63bd8-a11f-4183-8311-6794ec01d493-0-t500x500.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "soundcloud",
+            "platforms": [
+              "soundcloud"
+            ]
+          },
+          "SPOTIFY_ALBUM::497p1j3P9Xzlb7vXay7tNl": {
+            "id": "497p1j3P9Xzlb7vXay7tNl",
+            "type": "album",
+            "title": "My Days of 58",
+            "artistName": "Bill Callahan",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2736172648d29acadc71f725e35",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "spotify",
+            "platforms": [
+              "spotify"
+            ]
+          },
+          "TIDAL_ALBUM::468933161": {
+            "id": "468933161",
+            "type": "album",
+            "title": "My Days of 58",
+            "artistName": "Bill Callahan",
+            "thumbnailUrl": "https://resources.tidal.com/images/f3eeee48/c5df/460b/a8e3/a9689247d271/640x640.jpg",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "tidal",
+            "platforms": [
+              "tidal"
+            ]
+          }
+        },
+        "platforms": {
+          "spotify": "https://open.spotify.com/album/497p1j3P9Xzlb7vXay7tNl",
+          "appleMusic": "https://geo.music.apple.com/au/album/_/1846471021?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m",
+          "deezer": null,
+          "tidal": "https://listen.tidal.com/album/468933161",
+          "youtube": null,
+          "youtubeMusic": null,
+          "soundcloud": "https://soundcloud.com/billcallahan/sets/my-days-of-58-1?utm_medium=api&utm_campaign=social_sharing&utm_source=id_314547",
+          "amazonMusic": "https://music.amazon.com/albums/B0FWHLCRSS"
+        }
+      },
+      "spotifySearchUrl": null
+    },
+    {
+      "artist": "GENA",
+      "album": "The Pleasure is Yours",
+      "label": "Lex",
+      "section": "lightningRound",
+      "spotify": {
+        "id": "2PW3hhgsQRGgJbPIhHCYrS",
+        "name": "The Pleasure Is Yours",
+        "url": "https://open.spotify.com/album/2PW3hhgsQRGgJbPIhHCYrS",
+        "release_date": "2026-02-27",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273179298893d95ccb23535b27b",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02179298893d95ccb23535b27b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851179298893d95ccb23535b27b",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "1ptSYluUqpp93ZRQEYJ4bE",
+            "name": "GENA"
+          },
+          {
+            "id": "0YCL71Clky5els6NireSBP",
+            "name": "Liv.e"
+          },
+          {
+            "id": "6e7BQ0gM6o8ecMXRZkXxlZ",
+            "name": "Karriem Riggins"
+          }
+        ]
+      },
+      "songlink": {
+        "pageUrl": "https://album.link/s/2PW3hhgsQRGgJbPIhHCYrS",
+        "entitiesByUniqueId": {
+          "BANDCAMP_ALBUM::1116564455": {
+            "id": 1116564455,
+            "type": "album",
+            "title": "The Pleasure is Yours",
+            "artistName": "GENA",
+            "thumbnailUrl": "https://f4.bcbits.com/img/a1862225738_5.jpg",
+            "thumbnailWidth": 700,
+            "thumbnailHeight": 700,
+            "apiProvider": "bandcamp",
+            "platforms": [
+              "bandcamp"
+            ]
+          },
+          "ITUNES_ALBUM::1859936382": {
+            "id": "1859936382",
+            "type": "album",
+            "title": "The Pleasure is Yours",
+            "artistName": "GENA, Liv.e & Karriem Riggins",
+            "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/e9/73/68e973b2-01d8-f80d-d452-096335df46fd/608.jpg/512x512bb.jpg",
+            "thumbnailWidth": 512,
+            "thumbnailHeight": 512,
+            "apiProvider": "itunes",
+            "platforms": [
+              "appleMusic",
+              "itunes"
+            ]
+          },
+          "PANDORA_ALBUM::AL:57609432": {
+            "id": "AL:57609432",
+            "type": "album",
+            "title": "The Pleasure is Yours",
+            "artistName": "GENA, Liv.e & Karriem Riggins",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/6f/eb/cb/b2/b1d944fdbe3570aa9c4d280e/_500W_500H.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "pandora",
+            "platforms": [
+              "pandora"
+            ]
+          },
+          "SOUNDCLOUD_PLAYLIST::2156457932": {
+            "id": "2156457932",
+            "type": "album",
+            "title": "The Pleasure Is Yours",
+            "artistName": "GENA",
+            "thumbnailUrl": "https://i1.sndcdn.com/artworks-e109af80-95e6-46a1-ae9a-99378b848256-0-t500x500.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "soundcloud",
+            "platforms": [
+              "soundcloud"
+            ]
+          },
+          "SPOTIFY_ALBUM::2PW3hhgsQRGgJbPIhHCYrS": {
+            "id": "2PW3hhgsQRGgJbPIhHCYrS",
+            "type": "album",
+            "title": "The Pleasure Is Yours",
+            "artistName": "GENA, Liv.e, Karriem Riggins",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273179298893d95ccb23535b27b",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "spotify",
+            "platforms": [
+              "spotify"
+            ]
+          },
+          "TIDAL_ALBUM::479200128": {
+            "id": "479200128",
+            "type": "album",
+            "title": "The Pleasure is Yours",
+            "artistName": "GENA, Liv.e, Karriem Riggins",
+            "thumbnailUrl": "https://resources.tidal.com/images/3c7d78a5/c518/41af/8c1a/da12d445ab87/640x640.jpg",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "tidal",
+            "platforms": [
+              "tidal"
+            ]
+          }
+        },
+        "platforms": {
+          "spotify": "https://open.spotify.com/album/2PW3hhgsQRGgJbPIhHCYrS",
+          "appleMusic": "https://geo.music.apple.com/au/album/_/1859936382?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m",
+          "deezer": null,
+          "tidal": "https://listen.tidal.com/album/479200128",
+          "youtube": null,
+          "youtubeMusic": null,
+          "soundcloud": "https://soundcloud.com/gena40647/sets/the-pleasure-is-urs-1?utm_medium=api&utm_campaign=social_sharing&utm_source=id_314547",
+          "amazonMusic": null
+        }
+      },
+      "spotifySearchUrl": null
+    },
+    {
+      "artist": "Sarah Kirkland Snider",
+      "album": "Forward Into Light",
+      "label": "New Amsterdam/Nonesuch",
+      "section": "lightningRound",
+      "spotify": {
+        "id": "1QIfQehsLmwiwF3v9wkwAE",
+        "name": "Sarah Kirkland Snider: Forward Into Light",
+        "url": "https://open.spotify.com/album/1QIfQehsLmwiwF3v9wkwAE",
+        "release_date": "2026-02-27",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27379908691e4a4891ec61ecfb4",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0279908691e4a4891ec61ecfb4",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485179908691e4a4891ec61ecfb4",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "1NyStz4hQEZr2ahU5ADzw9",
+            "name": "Sarah Kirkland Snider"
+          },
+          {
+            "id": "7M4SGchCWEPMVvx16DKXOy",
+            "name": "Metropolis Ensemble"
+          },
+          {
+            "id": "7IYpnn8USNUEn96TyEDNVL",
+            "name": "Andrew Cyr"
+          }
+        ]
+      },
+      "songlink": {
+        "pageUrl": "https://album.link/s/1QIfQehsLmwiwF3v9wkwAE",
+        "entitiesByUniqueId": {
+          "BANDCAMP_ALBUM::1866635468": {
+            "id": 1866635468,
+            "type": "album",
+            "title": "Forward Into Light",
+            "artistName": "Sarah Kirkland Snider & Metropolis Ensemble",
+            "thumbnailUrl": "https://f4.bcbits.com/img/a2507248794_5.jpg",
+            "thumbnailWidth": 700,
+            "thumbnailHeight": 700,
+            "apiProvider": "bandcamp",
+            "platforms": [
+              "bandcamp"
+            ]
+          },
+          "ITUNES_ALBUM::1854849809": {
+            "id": "1854849809",
+            "type": "album",
+            "title": "Sarah Kirkland Snider: Forward Into Light",
+            "artistName": "Andrew Cyr & Metropolis Ensemble",
+            "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c4/5a/49/c45a4978-c674-dcb6-71c4-8d017d884600/075597893281.jpg/512x512bb.jpg",
+            "thumbnailWidth": 512,
+            "thumbnailHeight": 512,
+            "apiProvider": "itunes",
+            "platforms": [
+              "appleMusic",
+              "itunes"
+            ]
+          },
+          "PANDORA_ALBUM::AL:59675106": {
+            "id": "AL:59675106",
+            "type": "album",
+            "title": "Sarah Kirkland Snider: Forward Into Light",
+            "artistName": "Metropolis Ensemble & Andrew Cyr",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/bf/90/f2/e1/10d04deea2f0380f4c8b036d/_500W_500H.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "pandora",
+            "platforms": [
+              "pandora"
+            ]
+          },
+          "SPOTIFY_ALBUM::1QIfQehsLmwiwF3v9wkwAE": {
+            "id": "1QIfQehsLmwiwF3v9wkwAE",
+            "type": "album",
+            "title": "Sarah Kirkland Snider: Forward Into Light",
+            "artistName": "Sarah Kirkland Snider, Metropolis Ensemble, Andrew Cyr",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b27379908691e4a4891ec61ecfb4",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "spotify",
+            "platforms": [
+              "spotify"
+            ]
+          },
+          "TIDAL_ALBUM::474028577": {
+            "id": "474028577",
+            "type": "album",
+            "title": "Sarah Kirkland Snider: Forward Into Light",
+            "artistName": "Metropolis Ensemble, Andrew Cyr",
+            "thumbnailUrl": "https://resources.tidal.com/images/63d85507/6a19/4f75/9fc0/8197afceefeb/640x640.jpg",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "tidal",
+            "platforms": [
+              "tidal"
+            ]
+          },
+          "YOUTUBE_PLAYLIST::PLpMx6WPPoWyamYqgCnaGuniHsYaTcosaE": {
+            "id": "PLpMx6WPPoWyamYqgCnaGuniHsYaTcosaE",
+            "type": "album",
+            "title": "Sarah Kirkland Snider - Forward Into Light (2026)",
+            "artistName": "Nonesuch Records",
+            "thumbnailUrl": "https://i4.ytimg.com/vi/KRpDaA61pcY/hqdefault.jpg",
+            "thumbnailWidth": 480,
+            "thumbnailHeight": 360,
+            "apiProvider": "youtube",
+            "platforms": [
+              "youtube",
+              "youtubeMusic"
+            ]
+          }
+        },
+        "platforms": {
+          "spotify": "https://open.spotify.com/album/1QIfQehsLmwiwF3v9wkwAE",
+          "appleMusic": "https://geo.music.apple.com/au/album/_/1854849809?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m",
+          "deezer": null,
+          "tidal": "https://listen.tidal.com/album/474028577",
+          "youtube": "https://www.youtube.com/playlist?list=PLpMx6WPPoWyamYqgCnaGuniHsYaTcosaE",
+          "youtubeMusic": "https://music.youtube.com/playlist?list=PLpMx6WPPoWyamYqgCnaGuniHsYaTcosaE",
+          "soundcloud": null,
+          "amazonMusic": null
+        }
+      },
+      "spotifySearchUrl": null
+    },
+    {
+      "artist": "cootie catcher",
+      "album": "Something We All Got",
+      "label": "Carpark",
+      "section": "dorasCorner",
+      "spotify": {
+        "id": "32j4EDA9M1EGWJABMenklc",
+        "name": "Something We All Got",
+        "url": "https://open.spotify.com/album/32j4EDA9M1EGWJABMenklc",
+        "release_date": "2026-02-27",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273e1ad7219e469a49a4ccbcd82",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e1ad7219e469a49a4ccbcd82",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e1ad7219e469a49a4ccbcd82",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "46ufOtURSipSKdxoz8KZzu",
+            "name": "cootie catcher"
+          }
+        ]
+      },
+      "songlink": {
+        "pageUrl": "https://album.link/s/32j4EDA9M1EGWJABMenklc",
+        "entitiesByUniqueId": {
+          "AMAZON_ALBUM::B0FTXVKHFJ": {
+            "id": "B0FTXVKHFJ",
+            "type": "album",
+            "title": "Something We All Got",
+            "artistName": "cootie catcher",
+            "thumbnailUrl": "https://m.media-amazon.com/images/I/51ytcoMz+6L.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "amazon",
+            "platforms": [
+              "amazonMusic",
+              "amazonStore"
+            ]
+          },
+          "BANDCAMP_ALBUM::1440885555": {
+            "id": "1440885555",
+            "type": "album",
+            "title": "Something We All Got",
+            "artistName": "cootie catcher",
+            "thumbnailUrl": "https://f4.bcbits.com/img/a3411096387_5.jpg",
+            "thumbnailWidth": 700,
+            "thumbnailHeight": 700,
+            "apiProvider": "bandcamp",
+            "platforms": [
+              "bandcamp"
+            ]
+          },
+          "ITUNES_ALBUM::1844206678": {
+            "id": "1844206678",
+            "type": "album",
+            "title": "Something We All Got",
+            "artistName": "cootie catcher",
+            "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/2f/e3/e22fe35d-8296-594a-6bc3-3bd0ff38c4e1/117863.jpg/512x512bb.jpg",
+            "thumbnailWidth": 512,
+            "thumbnailHeight": 512,
+            "apiProvider": "itunes",
+            "platforms": [
+              "appleMusic",
+              "itunes"
+            ]
+          },
+          "PANDORA_ALBUM::AL:54451146": {
+            "id": "AL:54451146",
+            "type": "album",
+            "title": "Something We All Got",
+            "artistName": "Cootie Catcher",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/47/f3/6e/76/c5334851a72af8bfd2fe9133/_500W_500H.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "pandora",
+            "platforms": [
+              "pandora"
+            ]
+          },
+          "SOUNDCLOUD_PLAYLIST::2095672807": {
+            "id": "2095672807",
+            "type": "album",
+            "title": "Something We All Got",
+            "artistName": "Cootie Catcher",
+            "thumbnailUrl": "https://i1.sndcdn.com/artworks-20de9ed9-3e07-43c1-8798-04f4d17cfa7a-0-t500x500.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "soundcloud",
+            "platforms": [
+              "soundcloud"
+            ]
+          },
+          "SPOTIFY_ALBUM::32j4EDA9M1EGWJABMenklc": {
+            "id": "32j4EDA9M1EGWJABMenklc",
+            "type": "album",
+            "title": "Something We All Got",
+            "artistName": "cootie catcher",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273e1ad7219e469a49a4ccbcd82",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "spotify",
+            "platforms": [
+              "spotify"
+            ]
+          },
+          "TIDAL_ALBUM::464992576": {
+            "id": "464992576",
+            "type": "album",
+            "title": "Something We All Got",
+            "artistName": "Cootie Catcher",
+            "thumbnailUrl": "https://resources.tidal.com/images/86534317/9b07/47ba/b421/fd8c90317b11/640x640.jpg",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "tidal",
+            "platforms": [
+              "tidal"
+            ]
+          },
+          "YANDEX_ALBUM::38683373": {
+            "id": "38683373",
+            "type": "album",
+            "title": "Something We All Got",
+            "artistName": "cootie catcher",
+            "thumbnailUrl": "https://avatars.yandex.net/get-music-content/15406468/4ec22b6a.a.38683373-1/600x600",
+            "thumbnailWidth": 600,
+            "thumbnailHeight": 600,
+            "apiProvider": "yandex",
+            "platforms": [
+              "yandex"
+            ]
+          }
+        },
+        "platforms": {
+          "spotify": "https://open.spotify.com/album/32j4EDA9M1EGWJABMenklc",
+          "appleMusic": "https://geo.music.apple.com/au/album/_/1844206678?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m",
+          "deezer": null,
+          "tidal": "https://listen.tidal.com/album/464992576",
+          "youtube": null,
+          "youtubeMusic": null,
+          "soundcloud": "https://soundcloud.com/cootiecatcher-music/sets/something-we-all-got-1?utm_medium=api&utm_campaign=social_sharing&utm_source=id_314547",
+          "amazonMusic": "https://music.amazon.com/albums/B0FTXVKHFJ"
+        }
+      },
+      "spotifySearchUrl": null
+    },
+    {
+      "artist": "Sideshow",
+      "album": "TIGRAY FUNK",
+      "label": "10k",
+      "section": "dorasCorner",
+      "spotify": {
+        "id": "2ffHSjHOlyZeKhP7vpbrsK",
+        "name": "TIGRAY FUNK",
+        "url": "https://open.spotify.com/album/2ffHSjHOlyZeKhP7vpbrsK",
+        "release_date": "2026-02-27",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27350499363f4649a1760bb02d7",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0250499363f4649a1760bb02d7",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485150499363f4649a1760bb02d7",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "53xeKWbSRuGgTxViJTAZKC",
+            "name": "Sideshow"
+          }
+        ]
+      },
+      "songlink": {
+        "pageUrl": "https://album.link/s/2ffHSjHOlyZeKhP7vpbrsK",
+        "entitiesByUniqueId": {
+          "BANDCAMP_ALBUM::2548113364": {
+            "id": 2548113364,
+            "type": "album",
+            "title": "TIGRAY FUNK",
+            "artistName": "Sideshow",
+            "thumbnailUrl": "https://f4.bcbits.com/img/a3688310231_5.jpg",
+            "thumbnailWidth": 700,
+            "thumbnailHeight": 700,
+            "apiProvider": "bandcamp",
+            "platforms": [
+              "bandcamp"
+            ]
+          },
+          "BOOMPLAY_ALBUM::126441182": {
+            "id": "126441182",
+            "type": "album",
+            "title": "TIGRAY FUNK",
+            "artistName": "Sideshow",
+            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/02/27/f1337d779388458bae5b9239775e4637H1500W1500_464_464.png",
+            "thumbnailWidth": 464,
+            "thumbnailHeight": 464,
+            "apiProvider": "boomplay",
+            "platforms": [
+              "boomplay"
+            ]
+          },
+          "PANDORA_ALBUM::AL:59529612": {
+            "id": "AL:59529612",
+            "type": "album",
+            "title": "TIGRAY FUNK",
+            "artistName": "Sideshow",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/b5/5b/df/d8/e4f343fd848aac66c77fa219/_500W_500H.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "pandora",
+            "platforms": [
+              "pandora"
+            ]
+          },
+          "SPOTIFY_ALBUM::2ffHSjHOlyZeKhP7vpbrsK": {
+            "id": "2ffHSjHOlyZeKhP7vpbrsK",
+            "type": "album",
+            "title": "TIGRAY FUNK",
+            "artistName": "Sideshow",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2738d76ef150ca1cb1d45f12ab0",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "spotify",
+            "platforms": [
+              "spotify"
+            ]
+          },
+          "TIDAL_ALBUM::490756116": {
+            "id": "490756116",
+            "type": "album",
+            "title": "TIGRAY FUNK",
+            "artistName": "Sideshow",
+            "thumbnailUrl": "https://resources.tidal.com/images/91abb3d4/9213/4be3/b9f9/4d0b2bc99ade/640x640.jpg",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "tidal",
+            "platforms": [
+              "tidal"
+            ]
+          }
+        },
+        "platforms": {
+          "spotify": "https://open.spotify.com/album/2ffHSjHOlyZeKhP7vpbrsK",
+          "appleMusic": null,
+          "deezer": null,
+          "tidal": "https://listen.tidal.com/album/490756116",
+          "youtube": null,
+          "youtubeMusic": null,
+          "soundcloud": null,
+          "amazonMusic": null
+        }
+      },
+      "spotifySearchUrl": null
+    },
+    {
+      "artist": "2charm",
+      "album": "star scum city",
+      "label": "STAR SCUM",
+      "section": "dorasCorner",
+      "spotify": {
+        "id": "0T5M2ccVJg6rJZaLAp5xmZ",
+        "name": "star scum city",
+        "url": "https://open.spotify.com/album/0T5M2ccVJg6rJZaLAp5xmZ",
+        "release_date": "2026-02-27",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2734b979bf5f9665b1fcaaae381",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e024b979bf5f9665b1fcaaae381",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048514b979bf5f9665b1fcaaae381",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "7HKUxdZeGZQHLE7vFG4Syr",
+            "name": "2charm"
+          }
+        ]
+      },
+      "songlink": {
+        "pageUrl": "https://album.link/s/0T5M2ccVJg6rJZaLAp5xmZ",
+        "entitiesByUniqueId": {
+          "ITUNES_ALBUM::1861363515": {
+            "id": "1861363515",
+            "type": "album",
+            "title": "star scum city",
+            "artistName": "2charm",
+            "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/82/46/268246f1-765c-08f5-b58c-53d565bbb261/199806730041.jpg/512x512bb.jpg",
+            "thumbnailWidth": 512,
+            "thumbnailHeight": 512,
+            "apiProvider": "itunes",
+            "platforms": [
+              "appleMusic",
+              "itunes"
+            ]
+          },
+          "PANDORA_ALBUM::AL:57944346": {
+            "id": "AL:57944346",
+            "type": "album",
+            "title": "star scum city",
+            "artistName": "2charm",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/ce/64/87/a2/6e6241be87064cbba11c817c/_500W_500H.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "pandora",
+            "platforms": [
+              "pandora"
+            ]
+          },
+          "SOUNDCLOUD_PLAYLIST::2159116031": {
+            "id": "2159116031",
+            "type": "album",
+            "title": "star scum city",
+            "artistName": "2charm",
+            "thumbnailUrl": "https://i1.sndcdn.com/artworks-e7570030-b41d-40de-be8b-0a5cc7560093-0-t500x500.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "soundcloud",
+            "platforms": [
+              "soundcloud"
+            ]
+          },
+          "SPOTIFY_ALBUM::0T5M2ccVJg6rJZaLAp5xmZ": {
+            "id": "0T5M2ccVJg6rJZaLAp5xmZ",
+            "type": "album",
+            "title": "star scum city",
+            "artistName": "2charm",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2734b979bf5f9665b1fcaaae381",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "spotify",
+            "platforms": [
+              "spotify"
+            ]
+          },
+          "TIDAL_ALBUM::481658322": {
+            "id": "481658322",
+            "type": "album",
+            "title": "star scum city",
+            "artistName": "2charm",
+            "thumbnailUrl": "https://resources.tidal.com/images/8723f734/d1d2/416b/81d1/322f6a6e0e4e/640x640.jpg",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "tidal",
+            "platforms": [
+              "tidal"
+            ]
+          }
+        },
+        "platforms": {
+          "spotify": "https://open.spotify.com/album/0T5M2ccVJg6rJZaLAp5xmZ",
+          "appleMusic": "https://geo.music.apple.com/au/album/_/1861363515?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m",
+          "deezer": null,
+          "tidal": "https://listen.tidal.com/album/481658322",
+          "youtube": null,
+          "youtubeMusic": null,
+          "soundcloud": "https://soundcloud.com/2charm-990981507/sets/star-scum-city-1?utm_medium=api&utm_campaign=social_sharing&utm_source=id_314547",
+          "amazonMusic": null
+        }
+      },
+      "spotifySearchUrl": null
+    }
+  ]
+}

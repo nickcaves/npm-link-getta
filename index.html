@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>NPR New Music Friday</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="site.css">
+</head>
+<body>
+  <header class="header">
+    <h1>New Music Friday</h1>
+    <p class="subtitle">from NPR Music</p>
+    <p class="meta" id="meta"></p>
+  </header>
+
+  <main class="main">
+    <section id="albums" class="albums">
+      <p class="loading" id="loading">Loading…</p>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>Data from <a href="https://www.npr.org/sections/music/" target="_blank" rel="noopener">NPR Music</a>. Links via <a href="https://album.link" target="_blank" rel="noopener">album.link</a>.</p>
+  </footer>
+
+  <script src="data/albums-data.js"></script>
+  <script src="site.js" type="module"></script>
+</body>
+</html>

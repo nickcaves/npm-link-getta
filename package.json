@@ -1,0 +1,20 @@
+{
+  "name": "npr-new-music",
+  "version": "1.0.0",
+  "description": "Scraper for NPR New Music Friday albums",
+  "type": "module",
+  "scripts": {
+    "scrape": "node scripts/scraper.js",
+    "scrape:url": "node scripts/scraper.js --url",
+    "resolve": "node scripts/resolve-links.js",
+    "site": "node scripts/embed-albums.js && npx serve . -p 3000",
+    "build": "node scripts/embed-albums.js"
+  },
+  "keywords": ["npr", "music", "scraper"],
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "node-fetch": "^3.3.2",
+    "dotenv": "^16.4.5"
+  }
+}
