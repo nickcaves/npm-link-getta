@@ -12,8 +12,9 @@ const RSS_URL = "https://feeds.npr.org/510019/podcast.xml";
 
 // Match NPR article URLs that look like New Music Friday album list pages:
 // https://www.npr.org/YYYY/MM/DD/nx-s1-XXXXX/new-music-friday-...
+// Stop at < so we don't capture trailing </link> or similar.
 const NEW_MUSIC_FRIDAY_URL_RE =
-  /https:\/\/www\.npr\.org\/\d{4}\/\d{2}\/\d{2}\/[^"\s<>]+new-music-friday[^"\s<>]*/gi;
+  /https:\/\/www\.npr\.org\/\d{4}\/\d{2}\/\d{2}\/[^"\s<>]+new-music-friday[^"\s<>]*/i;
 
 async function main() {
   const res = await fetch(RSS_URL, {
@@ -25,14 +26,17 @@ async function main() {
   if (!res.ok) throw new Error(`RSS fetch failed: ${res.status}`);
   const xml = await res.text();
 
-  const matches = xml.match(NEW_MUSIC_FRIDAY_URL_RE);
-  if (!matches || matches.length === 0) {
-    throw new Error("No New Music Friday URL found in NPR Music podcast feed.");
+  const match = xml.match(NEW_MUSIC_FRIDAY_URL_RE);
+  if (!match) {
+    const idx = xml.indexOf("new-music-friday");
+    const snippet = idx >= 0 ? xml.slice(Math.max(0, idx - 80), idx + 80) : "(not found)";
+    throw new Error(
+      "No New Music Friday URL found in NPR Music podcast feed. Snippet: " + snippet
+    );
   }
 
-  // First match is the most recent episode in the feed.
-  const url = matches[0].replace(/&amp;/g, "&");
-  process.stdout.write(url);
+  const url = match[0].replace(/&amp;/g, "&").trim();
+  process.stdout.write(url + "\n");
 }
 
 main().catch((err) => {
