@@ -4,19 +4,22 @@ const SECTIONS = {
   dorasCorner: "Dora's Corner",
 };
 
+function buildWebSearchUrl(album) {
+  const q = `${album.artist} ${album.album}`.trim();
+  return `https://www.google.com/search?q=${encodeURIComponent(q)}`;
+}
+
 function getLink(album) {
-  return (
-    album.songlink?.pageUrl ||
-    album.spotifySearchUrl ||
-    album.spotify?.url ||
-    null
-  );
+  if (album.songlink?.pageUrl) return album.songlink.pageUrl;
+  if (album.spotify?.url) return album.spotify.url;
+  if (album.spotifySearchUrl) return buildWebSearchUrl(album);
+  return null;
 }
 
 function getLinkLabel(album) {
-  if (album.songlink?.pageUrl) return "Open in your app";
-  if (album.spotifySearchUrl) return "Search on Spotify";
+  if (album.songlink?.pageUrl) return "Album link";
   if (album.spotify?.url) return "Open on Spotify";
+  if (album.spotifySearchUrl) return "Search the web";
   return null;
 }
 
@@ -50,7 +53,7 @@ function renderAlbum(album) {
     : `<div class="card-art" aria-hidden="true"></div>`;
 
   const btn = link
-    ? `<a href="${link}" target="_blank" rel="noopener" class="btn${label === "Search on Spotify" ? " search" : ""}">${label}</a>`
+    ? `<a href="${link}" target="_blank" rel="noopener" class="btn${label === "Search the web" ? " search" : ""}">${label}</a>`
     : "";
 
   return `
