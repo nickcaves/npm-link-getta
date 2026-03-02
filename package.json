@@ -6,6 +6,7 @@
   "scripts": {
     "scrape": "node scripts/scraper.js",
     "scrape:url": "node scripts/scraper.js --url",
+    "discover-url": "node scripts/discover-npr-url.js",
     "resolve": "node scripts/resolve-links.js",
     "site": "node scripts/embed-albums.js && npx serve . -p 3000",
     "build": "node scripts/embed-albums.js"

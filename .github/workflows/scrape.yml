@@ -1,13 +1,22 @@
-name: Weekly scrape
+name: Weekly scrape & resolve
 
 on:
   schedule:
-    # Runs every Friday at 8 PM UTC (when NPR typically publishes)
+    # Saturday 06:00 AEST (Friday 20:00 UTC)
     - cron: "0 20 * * 5"
-  workflow_dispatch: # Run manually from GitHub Actions tab
+  workflow_dispatch:
+    inputs:
+      npr_url:
+        description: "NPR New Music Friday URL (optional; leave blank to auto-discover from RSS)"
+        required: false
+        type: string
+
+env:
+  SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+  SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
 
 jobs:
-  scrape:
+  scrape-and-resolve:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -18,9 +27,27 @@ jobs:
           cache: "npm"
 
       - run: npm ci
-      - run: npm run scrape
+
+      - name: Discover latest NPR New Music Friday URL
+        id: discover
+        run: echo "url=$(node scripts/discover-npr-url.js)" >> $GITHUB_OUTPUT
+
+      - name: Scrape NPR
+        run: |
+          NPR_URL="${{ inputs.npr_url || steps.discover.outputs.url }}"
+          echo "Using URL: $NPR_URL"
+          npm run scrape -- --url "$NPR_URL"
+
+      - name: Resolve links (Spotify + Songlink)
+        run: npm run resolve
+
+      - name: Embed data for site
+        run: npm run build
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Update albums from NPR New Music Friday"
-          file_pattern: data/albums.json
+          commit_message: "chore: update albums from NPR New Music Friday"
+          file_pattern: |
+            data/albums.json
+            data/albums-with-links.json
+            data/albums-data.js

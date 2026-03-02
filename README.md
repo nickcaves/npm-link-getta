@@ -134,39 +134,24 @@ git branch -M main
 git push -u origin main
 ```
 
-### 3. Optional: GitHub Actions for weekly scraping
+### 3. Weekly automation (GitHub Actions)
 
-Create `.github/workflows/scrape.yml`:
+The workflow in `.github/workflows/scrape.yml` runs **every Saturday at 06:00 AEST** (Friday 20:00 UTC) and on manual trigger. It:
 
-```yaml
-name: Weekly scrape
+1. **Discovers** the latest New Music Friday page URL from the [NPR Music podcast RSS feed](https://feeds.npr.org/510019/podcast.xml) (no guessing — uses the first matching episode link).  
+2. **Scrapes** that NPR page  
+3. **Resolves** Spotify + Songlink links (needs your Spotify credentials)  
+4. **Embeds** data for the site  
+5. **Commits and pushes** updated `data/albums.json`, `data/albums-with-links.json`, and `data/albums-data.js`
 
-on:
-  schedule:
-    # Runs every Friday at 8 PM UTC
-    - cron: '0 20 * * 5'
-  workflow_dispatch:  # Allows manual run from GitHub Actions tab
+**Add repo secrets** (required for the resolver):
 
-jobs:
-  scrape:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
+1. In the repo: **Settings** → **Secrets and variables** → **Actions**
+2. **New repository secret** for each:
+   - Name: `SPOTIFY_CLIENT_ID` → Value: your Spotify app Client ID  
+   - Name: `SPOTIFY_CLIENT_SECRET` → Value: your Spotify app Client Secret  
 
-      - uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-
-      - run: npm ci
-      - run: npm run scrape
-
-      - uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "Update albums from NPR New Music Friday"
-          file_pattern: data/albums.json
-```
-
-**Note:** You’ll need to decide how to discover the current week’s NPR URL (NPR homepage, RSS, or manual update). For now the scraper uses the URL hardcoded in `package.json` or the one you pass with `--url`.
+**Manual run:** In **Actions** → **Weekly scrape & resolve** → **Run workflow** you can optionally pass an **NPR URL** to scrape a specific week; if left blank, the workflow uses the URL discovered from the RSS feed.
 
 ## Output format
 
