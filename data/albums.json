@@ -1,419 +1,326 @@
 {
-  "source": "https://www.npr.org/2026/03/06/nx-s1-5736215/new-music-friday-best-albums-march-6-2026",
-  "scrapedAt": "2026-03-13T00:14:26.039Z",
-  "date": "2026-03-06",
-  "title": "New Music Friday: The best albums out March 6",
+  "source": "https://www.npr.org/2026/03/13/nx-s1-5745084/new-music-friday-best-albums-march-13-2026",
+  "scrapedAt": "2026-03-13T20:24:30.183Z",
+  "date": "2026-03-13",
+  "title": "New Music Friday: The best albums out March 13",
   "starting5": [
     {
-      "artist": "Flying Lotus",
-      "album": "BIG MAMA EP",
-      "label": "Brainfeeder"
+      "artist": "Johnny Blue Skies & the Dark Clouds",
+      "album": "Mutiny After Midnight",
+      "label": "Atlantic"
     },
     {
-      "artist": "waterbaby",
-      "album": "Memory Be A Blade",
-      "label": "Sub Pop"
+      "artist": "James Blake",
+      "album": "Trying Times",
+      "label": "Good Boy"
     },
     {
-      "artist": "Shabaka",
-      "album": "Of the Earth",
-      "label": "Shabaka Records"
+      "artist": "Anjimile",
+      "album": "You're Free to Go",
+      "label": "4AD"
     },
     {
-      "artist": "Joshua Idehen, I Know You're Hurting, Everyone Is Hurting, Everyone Is Trying",
-      "album": "You Have Got To Try",
-      "label": "Heavenly"
+      "artist": "Kim Gordon",
+      "album": "Play Me",
+      "label": "Matador"
     },
     {
-      "artist": "The Scythe",
-      "album": "Strictly 4 the Scythe",
-      "label": "Loma Vista"
+      "artist": "Blessing Jolie",
+      "album": "20nothing",
+      "label": "Thirty Tigers / RCA"
     }
   ],
   "lightningRound": [
     {
-      "artist": "Cece Coakley",
-      "album": "Pleasant Attack EP",
-      "label": "Tone Tree"
+      "artist": "Morgan Nager, I've Got Nothing To Lose",
+      "album": "and I'm Losing It",
+      "label": "Little Operation"
     },
     {
-      "artist": "Terrace Martin",
-      "album": "Purpose",
-      "label": "Sounds of Chrenshaw"
+      "artist": "Tinariwen",
+      "album": "Hoggar",
+      "label": "Wedge"
     },
     {
-      "artist": "V/A",
-      "album": "HELP(2)",
-      "label": "War Child Records"
+      "artist": "Jorge Drexler",
+      "album": "Taracá",
+      "label": "Sony España"
     },
     {
-      "artist": "Alice Sara Ott",
-      "album": "Jóhann Jóhannsson: Piano Works",
-      "label": "Deutsche Grammophon GmbH, Berlin"
+      "artist": "Fugazi",
+      "album": "Albini Sessions (Benefit for Letters Charity)",
+      "label": "Dischord"
     },
     {
-      "artist": "Macha & Bedhead",
-      "album": "Macha Loved Bedhead - Bedhead Loved Macha",
-      "label": "Numero Group"
+      "artist": "The Tallis Scholars",
+      "album": "Nico Muhly: No Resting Place",
+      "label": "Outhere"
     }
   ],
   "dorasCorner": [
     {
-      "artist": "Dutch Interior",
-      "album": "It's Glass EP",
-      "label": "Fat Possum"
+      "artist": "Prostitute",
+      "album": "Attempted Martyr",
+      "label": "Mute"
     },
     {
-      "artist": "OHYUNG",
-      "album": "IOWA",
-      "label": "DIY"
+      "artist": "E L U C I D & Sebb Bash",
+      "album": "I Guess U Had to Be There",
+      "label": "Rhymesayers/Secretly"
     },
     {
-      "artist": "Tanya Tagaq",
-      "album": "Saputjiji",
-      "label": "Six Shooter"
+      "artist": "Cashier",
+      "album": "The Weight EP",
+      "label": "Julia's War Recording"
     }
   ],
   "longList": {
-    "Pop": [
+    "Classical": [
       {
-        "artist": "Arima Ederra",
-        "album": "A Rush To Nowhere",
-        "label": "RCA"
-      },
-      {
-        "artist": "Cobrah",
-        "album": "Torn",
-        "label": "Atlantic"
-      },
-      {
-        "artist": "Elly Kace",
-        "album": "The Seventh Gate",
-        "label": "DIY"
-      },
-      {
-        "artist": "Endearments",
-        "album": "An Always Open Door",
-        "label": "Trash Casual"
-      },
-      {
-        "artist": "Human Potential",
-        "album": "Eel Sparkles",
-        "label": "What Delicate"
-      },
-      {
-        "artist": "Katelyn Tarver",
-        "album": "Tell Me How You Really Feel",
-        "label": "Nettwerk"
+        "artist": "Randall Scotting",
+        "album": "Divine Impresario: Nicolini on Stage",
+        "label": "Signum Classics"
       }
     ],
     "Country/Folk/Americana": [
       {
-        "artist": "Austin Michael",
-        "album": "Lonestar",
-        "label": "DIY"
-      },
-      {
-        "artist": "Jesper Lindell",
-        "album": "3614 Jackson Highway",
-        "label": "Yep Roc"
-      },
-      {
-        "artist": "Natalie Jane Hill",
-        "album": "Hopeful Woman",
-        "label": "Dear Life"
-      },
-      {
-        "artist": "Ted Lucas",
-        "album": "Images of Life",
-        "label": "Third Man"
-      },
-      {
-        "artist": "The Delines",
-        "album": "The Set Up",
-        "label": "Decor"
-      },
-      {
-        "artist": "Travis Bolt",
-        "album": "Burning Bridges",
-        "label": "Gravel Road"
-      },
-      {
-        "artist": "Deloyd Elze",
-        "album": "Nellene",
+        "artist": "Cat Clyde",
+        "album": "Mud Blood Bone",
         "label": "Concord"
+      },
+      {
+        "artist": "Colton Bowlin",
+        "album": "Grandpa's Mill",
+        "label": "Thirty Tigers"
+      },
+      {
+        "artist": "Sweet Petunia",
+        "album": "Foggy Mountain",
+        "label": "Righteous Babe"
+      },
+      {
+        "artist": "Tenderness",
+        "album": "True",
+        "label": "Amorphous Sounds"
       }
     ],
     "Electronic/Out There": [
       {
-        "artist": "Andrew Wasylyk",
-        "album": "Irreparable Parables",
-        "label": "Clay Pipe"
+        "artist": "Bentley Anderson",
+        "album": "Valence",
+        "label": "Digital Regress"
       },
       {
-        "artist": "Aukai",
-        "album": "Chambers",
-        "label": "Apapachoa Records"
+        "artist": "Claire Dickson",
+        "album": "Balance",
+        "label": "New Amsterdam"
       },
       {
-        "artist": "Daniel Avery",
-        "album": "Tremor (Midnight Versions)",
-        "label": "Domino"
+        "artist": "Delphine Dora",
+        "album": "l'ineluctable pulsation du temps",
+        "label": "Marionette"
       },
       {
-        "artist": "Fred again..",
-        "album": "USB002 REMIXES",
-        "label": "Atlantic"
+        "artist": "Laurel Halo",
+        "album": "Midnight Zone OST",
+        "label": "Awe"
       },
       {
-        "artist": "Mark Mothersbaugh",
-        "album": "Hoppers OST",
-        "label": "Disney/Pixar"
+        "artist": "Paperclip",
+        "album": "Minimiser II",
+        "label": "Peak Oil"
       },
       {
-        "artist": "New Age Doom",
-        "album": "Angels Against Angels",
-        "label": "We Are Busy Bodies"
+        "artist": "Shy One",
+        "album": "Mali",
+        "label": "Touching Bass"
       },
       {
-        "artist": "Sun Angels",
-        "album": "OPUS",
-        "label": "Cascine"
+        "artist": "Simo Cell & Abdullah Miniawy",
+        "album": "Dying is the internet",
+        "label": "Dekmantel"
       },
       {
-        "artist": "Third Angle",
-        "album": "New Music 1000 Airplanes on the Roof",
-        "label": "Orange Mountain Music"
+        "artist": "Terrence Dixon",
+        "album": "When Stars Remember EP",
+        "label": "Tresor"
       },
       {
-        "artist": "Those Who Walk Away",
-        "album": "Afterlife Requiem",
-        "label": "DIY"
+        "artist": "The Prodigy",
+        "album": "Firestarter - x30 Vinyl Edition 12\"",
+        "label": "XL"
       },
       {
-        "artist": "Tomu DJ",
-        "album": "Antagonist",
-        "label": "sound as language"
-      },
-      {
-        "artist": "Aaron Hibell",
-        "album": "SYNCHRONICITY",
-        "label": "Astralwerks/Capitol"
-      },
-      {
-        "artist": "CVCHE",
-        "album": "Get Fluffy",
-        "label": "DIY"
+        "artist": "Unknown Mobile",
+        "album": "Field Work",
+        "label": "Pacific Rhythm"
       }
     ],
     "Global": [
       {
-        "artist": "Lloyiso",
-        "album": "Never Thought I Could EP",
-        "label": "Empire"
+        "artist": "Ana Tijoux & Dj Dacel",
+        "album": "97",
+        "label": "Altafonte"
       },
       {
-        "artist": "Pupillo",
-        "album": "Pupillo",
-        "label": "Amor in Sound"
+        "artist": "Yahritza Y Su Esencia",
+        "album": "Metamorfosis",
+        "label": "Sony"
       }
     ],
     "Jazz": [
       {
-        "artist": "Amalie Dahl",
-        "album": "Live at Moldejazz",
-        "label": "Sonic Transmissions"
+        "artist": "Mark Turner",
+        "album": "Patternmaster",
+        "label": "ECM"
+      }
+    ],
+    "Pop": [
+      {
+        "artist": "googly eyes",
+        "album": "paint me like one of your fav american girls EP",
+        "label": "Pretty Swede"
       },
       {
-        "artist": "Okkyung Lee & Explore Ensemble",
-        "album": "Signals",
-        "label": "Flung"
-      },
-      {
-        "artist": "Walter Smith III, Twio",
-        "album": "Vol. 2",
-        "label": "Blue Note"
-      },
-      {
-        "artist": "Gregory Uhlmann",
-        "album": "Extra Stars",
-        "label": "International Anthem"
+        "artist": "Jack Harlow",
+        "album": "Monica Generation",
+        "label": "Atlantic"
       }
     ],
     "R&B/Soul": [
       {
-        "artist": "Emeline",
-        "album": "Emotional",
-        "label": "Virgin United Masters"
-      },
-      {
-        "artist": "Pat Kelly",
-        "album": "Hook",
-        "label": "Glamour Gowns"
-      },
-      {
-        "artist": "Yebba",
-        "album": "Jean",
-        "label": "RCA"
+        "artist": "Leven Kali",
+        "album": "LK99",
+        "label": "Def Jam"
       }
     ],
-    "Rap/Hip-Hop": [
+    "Rap-HipHop": [
       {
-        "artist": "Deltron 3030",
-        "album": "Making Deltron 3030",
-        "label": "Deltron Projects/RBM Records"
+        "artist": "Ms Banks",
+        "album": "SOUTH LDN LOVER GIRL",
+        "label": "Believe"
       },
       {
-        "artist": "Joey Cool",
-        "album": "Time Will Tell",
-        "label": "Virgin"
+        "artist": "Bruiser Wolf & Sheefy McFly",
+        "album": "PUSH & PAINT",
+        "label": "Bruiser/FSH"
       },
       {
-        "artist": "Paul Russell",
-        "album": "Miracle Mile",
-        "label": "Arista"
+        "artist": "NAS",
+        "album": "Legend Has It.. Nas Feature Presentation",
+        "label": "Mass Appeal"
       },
       {
-        "artist": "Gnarls Barkley",
-        "album": "Atlanta",
-        "label": "Atlantic"
-      },
-      {
-        "artist": "Nettspend",
-        "album": "early life crisis",
-        "label": "Grade A/Interscope"
-      },
-      {
-        "artist": "Ty Dolla $ign",
-        "album": "girl music vol. 1 EP",
-        "label": "Atlantic"
+        "artist": "Aesop Rock & Homeboy Sandman",
+        "album": "Miami Lice: Season Four",
+        "label": "Rhymesayers"
       }
     ],
     "Rock/Alt/Indie": [
       {
-        "artist": "Ages and Ages",
-        "album": "Fine Thanks and You",
-        "label": "Needle and Thread"
+        "artist": "Alexis Taylor",
+        "album": "Paris in the Spring",
+        "label": "Night Time Stories"
       },
       {
-        "artist": "Arima Ederra",
-        "album": "A Rush To Nowhere",
-        "label": "LAB/RCA"
+        "artist": "Annahstasia",
+        "album": "Live at Glasshaus",
+        "label": "Glasshaus/drink sum wtr"
       },
       {
-        "artist": "Bitter Branches",
-        "album": "Let's Give The Land Back To The Animals",
-        "label": "Equal Vision"
+        "artist": "Art School Girlfriend",
+        "album": "Lean In",
+        "label": "Fiction"
       },
       {
-        "artist": "Black Lung",
-        "album": "Forever Beyond",
-        "label": "Magnetic Eye"
+        "artist": "Brigette Calls Me Baby",
+        "album": "Irreversible",
+        "label": "ATO"
       },
       {
-        "artist": "Bonnie \"Prince\" Billy",
-        "album": "We Are Together Again",
-        "label": "No Quarter"
+        "artist": "Crack Cloud",
+        "album": "Peace and Purpose",
+        "label": "Meat Machine"
       },
       {
-        "artist": "Bory",
-        "album": "Never Turns To Night",
-        "label": "Bleak Enterprise"
+        "artist": "Cut Worms",
+        "album": "Transmitter",
+        "label": "JAGJAGUWAR"
       },
       {
-        "artist": "Bosse-de-Nage",
-        "album": "Hidden Fires Burn Hottest",
-        "label": "The Flenser"
+        "artist": "Daniel Romano",
+        "album": "Preservers of the Pearl",
+        "label": "You've Change"
       },
       {
-        "artist": "ERRA",
-        "album": "silence outlives the earth",
-        "label": "UNFD"
+        "artist": "Foy Vance",
+        "album": "The Wake",
+        "label": "Rounder"
       },
       {
-        "artist": "Field Commander Ali",
-        "album": "The Next From Field Commander",
-        "label": "World of Echo"
-      },
-      {
-        "artist": "Hater",
-        "album": "Mosquito",
-        "label": "Fire"
-      },
-      {
-        "artist": "Katherine Priddy",
-        "album": "These Frightening Machines",
-        "label": "Cooking Vinyl"
-      },
-      {
-        "artist": "Matt Corby",
-        "album": "Tragic Magic",
-        "label": "Island Australia"
-      },
-      {
-        "artist": "Melodi Ghazal",
-        "album": "Idol Melodies",
-        "label": "Anyines"
-      },
-      {
-        "artist": "Morrissey",
-        "album": "Make-Up Is a Lie",
-        "label": "Sire"
-      },
-      {
-        "artist": "Mute Swan",
-        "album": "Skin Slip",
-        "label": "Hit The North"
-      },
-      {
-        "artist": "Nova One",
-        "album": "How To Kiss",
-        "label": "Community"
-      },
-      {
-        "artist": "Pacific Avenue",
-        "album": "Lovesick Sentimental",
-        "label": "BMG"
-      },
-      {
-        "artist": "Scout Gillett",
-        "album": "Tough Touch",
-        "label": "Slouch Records"
-      },
-      {
-        "artist": "SLAG",
-        "album": "Losing",
-        "label": "Big Scary Monsters"
-      },
-      {
-        "artist": "Solya",
-        "album": "Queen of Texas",
-        "label": "Version III"
-      },
-      {
-        "artist": "Squeeze",
-        "album": "Trixies",
-        "label": "BMG"
-      },
-      {
-        "artist": "Status/Non-Status",
-        "album": "Big Changes",
-        "label": "You've Changed Records"
-      },
-      {
-        "artist": "Surfbort",
-        "album": "Reality Star",
+        "artist": "Haute & Freddy",
+        "album": "Big Disgrace",
         "label": "DIY"
       },
       {
-        "artist": "Swell Maps",
-        "album": "C21",
-        "label": "Tiny Global"
+        "artist": "Jason P. Woodbury",
+        "album": "Jason P. Woodbury & The Night Bird Singing Quartet",
+        "label": "Always Happening"
       },
       {
-        "artist": "Talking Heads",
-        "album": "Tentative Decisions: Demos & Live",
-        "label": "Rhino"
+        "artist": "Lamb of God",
+        "album": "Into Oblivion",
+        "label": "DIY"
+      },
+      {
+        "artist": "Mary Ocher",
+        "album": "Weimar",
+        "label": "Underground Institute"
+      },
+      {
+        "artist": "midori jaeger",
+        "album": "(Un)planted EP",
+        "label": "DIY"
+      },
+      {
+        "artist": "Ora Cogan",
+        "album": "Hard Hearted Woman",
+        "label": "Sacred Bones"
+      },
+      {
+        "artist": "Powerplant",
+        "album": "Bridge Of Sacrifice",
+        "label": "Arcane Dynamics"
+      },
+      {
+        "artist": "PUP",
+        "album": "Megacity Madness (The Official Live Recordings)",
+        "label": "Little Dipper/Rise"
+      },
+      {
+        "artist": "Soft Machine",
+        "album": "Thirteen (Reissue)",
+        "label": "Dyad"
+      },
+      {
+        "artist": "Sweet Pill",
+        "album": "Still There's a Glow",
+        "label": "DIY"
+      },
+      {
+        "artist": "The Black Crowes",
+        "album": "A Pound of Feathers",
+        "label": "DIY"
+      },
+      {
+        "artist": "The Foot & Leg Clinic",
+        "album": "Sit Down for Rock and Roll",
+        "label": "DIY"
+      },
+      {
+        "artist": "The Monochrome Set",
+        "album": "Lotus Bridge",
+        "label": "Tapete"
       },
       {
         "artist": "The Notwist",
@@ -421,104 +328,109 @@
         "label": "Morr Music"
       },
       {
-        "artist": "The S.E.T.",
-        "album": "Self Evident Truth",
-        "label": "Flatspot"
+        "artist": "The Orielles",
+        "album": "Only You Left",
+        "label": "Heavenly"
       },
       {
-        "artist": "Void",
-        "album": "Live - 1982",
-        "label": "Outer Battery Records"
+        "artist": "The Sophs",
+        "album": "GOLDSTAR",
+        "label": "Rough Trade"
       },
       {
-        "artist": "Savage Beat, Bright Lights",
-        "album": "Tall Shadows",
-        "label": "Wap Shoo Wap"
+        "artist": "The Third Mind",
+        "album": "Spellbinder! EP",
+        "label": "Yep Roc"
       },
       {
-        "artist": "V/A",
-        "album": "Peaky Blinders: The Immortal Man",
-        "label": "Sony"
+        "artist": "UnityTX, Somewhere",
+        "album": "In Between…",
+        "label": "Pure Noise Records"
+      },
+      {
+        "artist": "WAAX",
+        "album": "Angel's Mess",
+        "label": "AWAL"
       }
     ]
   },
   "allAlbums": [
     {
-      "artist": "Flying Lotus",
-      "album": "BIG MAMA EP",
-      "label": "Brainfeeder",
+      "artist": "Johnny Blue Skies & the Dark Clouds",
+      "album": "Mutiny After Midnight",
+      "label": "Atlantic",
       "section": "starting5"
     },
     {
-      "artist": "waterbaby",
-      "album": "Memory Be A Blade",
-      "label": "Sub Pop",
+      "artist": "James Blake",
+      "album": "Trying Times",
+      "label": "Good Boy",
       "section": "starting5"
     },
     {
-      "artist": "Shabaka",
-      "album": "Of the Earth",
-      "label": "Shabaka Records",
+      "artist": "Anjimile",
+      "album": "You're Free to Go",
+      "label": "4AD",
       "section": "starting5"
     },
     {
-      "artist": "Joshua Idehen, I Know You're Hurting, Everyone Is Hurting, Everyone Is Trying",
-      "album": "You Have Got To Try",
-      "label": "Heavenly",
+      "artist": "Kim Gordon",
+      "album": "Play Me",
+      "label": "Matador",
       "section": "starting5"
     },
     {
-      "artist": "The Scythe",
-      "album": "Strictly 4 the Scythe",
-      "label": "Loma Vista",
+      "artist": "Blessing Jolie",
+      "album": "20nothing",
+      "label": "Thirty Tigers / RCA",
       "section": "starting5"
     },
     {
-      "artist": "Cece Coakley",
-      "album": "Pleasant Attack EP",
-      "label": "Tone Tree",
+      "artist": "Morgan Nager, I've Got Nothing To Lose",
+      "album": "and I'm Losing It",
+      "label": "Little Operation",
       "section": "lightningRound"
     },
     {
-      "artist": "Terrace Martin",
-      "album": "Purpose",
-      "label": "Sounds of Chrenshaw",
+      "artist": "Tinariwen",
+      "album": "Hoggar",
+      "label": "Wedge",
       "section": "lightningRound"
     },
     {
-      "artist": "V/A",
-      "album": "HELP(2)",
-      "label": "War Child Records",
+      "artist": "Jorge Drexler",
+      "album": "Taracá",
+      "label": "Sony España",
       "section": "lightningRound"
     },
     {
-      "artist": "Alice Sara Ott",
-      "album": "Jóhann Jóhannsson: Piano Works",
-      "label": "Deutsche Grammophon GmbH, Berlin",
+      "artist": "Fugazi",
+      "album": "Albini Sessions (Benefit for Letters Charity)",
+      "label": "Dischord",
       "section": "lightningRound"
     },
     {
-      "artist": "Macha & Bedhead",
-      "album": "Macha Loved Bedhead - Bedhead Loved Macha",
-      "label": "Numero Group",
+      "artist": "The Tallis Scholars",
+      "album": "Nico Muhly: No Resting Place",
+      "label": "Outhere",
       "section": "lightningRound"
     },
     {
-      "artist": "Dutch Interior",
-      "album": "It's Glass EP",
-      "label": "Fat Possum",
+      "artist": "Prostitute",
+      "album": "Attempted Martyr",
+      "label": "Mute",
       "section": "dorasCorner"
     },
     {
-      "artist": "OHYUNG",
-      "album": "IOWA",
-      "label": "DIY",
+      "artist": "E L U C I D & Sebb Bash",
+      "album": "I Guess U Had to Be There",
+      "label": "Rhymesayers/Secretly",
       "section": "dorasCorner"
     },
     {
-      "artist": "Tanya Tagaq",
-      "album": "Saputjiji",
-      "label": "Six Shooter",
+      "artist": "Cashier",
+      "album": "The Weight EP",
+      "label": "Julia's War Recording",
       "section": "dorasCorner"
     }
   ]
