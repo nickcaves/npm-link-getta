@@ -1,31 +1,31 @@
 {
   "source": "https://www.npr.org/2026/03/06/nx-s1-5736215/new-music-friday-best-albums-march-6-2026",
-  "scrapedAt": "2026-03-07T23:33:34.446Z",
+  "scrapedAt": "2026-03-13T00:14:26.039Z",
   "date": "2026-03-06",
   "title": "New Music Friday: The best albums out March 6",
   "starting5": [
     {
-      "artist": "\udfb5 Flying Lotus",
+      "artist": "Flying Lotus",
       "album": "BIG MAMA EP",
       "label": "Brainfeeder"
     },
     {
-      "artist": "\udfb5 waterbaby",
+      "artist": "waterbaby",
       "album": "Memory Be A Blade",
       "label": "Sub Pop"
     },
     {
-      "artist": "\udfb5 Shabaka",
+      "artist": "Shabaka",
       "album": "Of the Earth",
       "label": "Shabaka Records"
     },
     {
-      "artist": "\udfb5 Joshua Idehen, I Know You're Hurting, Everyone Is Hurting, Everyone Is Trying",
+      "artist": "Joshua Idehen, I Know You're Hurting, Everyone Is Hurting, Everyone Is Trying",
       "album": "You Have Got To Try",
       "label": "Heavenly"
     },
     {
-      "artist": "\udfb5 The Scythe",
+      "artist": "The Scythe",
       "album": "Strictly 4 the Scythe",
       "label": "Loma Vista"
     }
@@ -59,17 +59,17 @@
   ],
   "dorasCorner": [
     {
-      "artist": "\udcbf Dutch Interior",
+      "artist": "Dutch Interior",
       "album": "It's Glass EP",
       "label": "Fat Possum"
     },
     {
-      "artist": "\udcbf OHYUNG",
+      "artist": "OHYUNG",
       "album": "IOWA",
       "label": "DIY"
     },
     {
-      "artist": "\udcbf Tanya Tagaq",
+      "artist": "Tanya Tagaq",
       "album": "Saputjiji",
       "label": "Six Shooter"
     }
@@ -444,31 +444,31 @@
   },
   "allAlbums": [
     {
-      "artist": "\udfb5 Flying Lotus",
+      "artist": "Flying Lotus",
       "album": "BIG MAMA EP",
       "label": "Brainfeeder",
       "section": "starting5"
     },
     {
-      "artist": "\udfb5 waterbaby",
+      "artist": "waterbaby",
       "album": "Memory Be A Blade",
       "label": "Sub Pop",
       "section": "starting5"
     },
     {
-      "artist": "\udfb5 Shabaka",
+      "artist": "Shabaka",
       "album": "Of the Earth",
       "label": "Shabaka Records",
       "section": "starting5"
     },
     {
-      "artist": "\udfb5 Joshua Idehen, I Know You're Hurting, Everyone Is Hurting, Everyone Is Trying",
+      "artist": "Joshua Idehen, I Know You're Hurting, Everyone Is Hurting, Everyone Is Trying",
       "album": "You Have Got To Try",
       "label": "Heavenly",
       "section": "starting5"
     },
     {
-      "artist": "\udfb5 The Scythe",
+      "artist": "The Scythe",
       "album": "Strictly 4 the Scythe",
       "label": "Loma Vista",
       "section": "starting5"
@@ -504,19 +504,19 @@
       "section": "lightningRound"
     },
     {
-      "artist": "\udcbf Dutch Interior",
+      "artist": "Dutch Interior",
       "album": "It's Glass EP",
       "label": "Fat Possum",
       "section": "dorasCorner"
     },
     {
-      "artist": "\udcbf OHYUNG",
+      "artist": "OHYUNG",
       "album": "IOWA",
       "label": "DIY",
       "section": "dorasCorner"
     },
     {
-      "artist": "\udcbf Tanya Tagaq",
+      "artist": "Tanya Tagaq",
       "album": "Saputjiji",
       "label": "Six Shooter",
       "section": "dorasCorner"

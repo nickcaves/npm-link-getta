@@ -3,9 +3,9 @@
  * NPR New Music Friday Scraper
  *
  * Scrapes album lists from NPR's New Music Friday pages and outputs JSON.
- * Usage: node scripts/scraper.js [url]
- *   - No URL: uses default page (Feb 27, 2026)
- *   - With --url: pass URL as next argument
+ * Usage: node scripts/scraper.js [--url URL]
+ *   - No URL: discovers latest from NPR Music RSS, then scrapes it
+ *   - With --url: scrapes the given URL
  */
 
 import fetch from "node-fetch";
@@ -13,11 +13,15 @@ import * as cheerio from "cheerio";
 import { writeFileSync, mkdirSync } from "fs";
 import { dirname, join } from "path";
 import { fileURLToPath } from "url";
+import { execSync } from "child_process";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT_DIR = join(__dirname, "..");
-const DEFAULT_URL =
-  "https://www.npr.org/2026/02/27/nx-s1-5727557/new-music-friday-best-albums-feb-27";
+
+function discoverLatestUrl() {
+  const scriptPath = join(__dirname, "discover-npr-url.js");
+  return execSync(`node "${scriptPath}"`, { encoding: "utf8" }).trim();
+}
 
 /**
  * Extract artist, album, and label from "Artist, Album (Label)" text.
@@ -68,18 +72,32 @@ async function scrape(url) {
     longList: {},
   };
 
-  // Helper: extract from p with strong + em (Starting 5, Lightning Round, Dora's Corner)
+  // Helper: extract from p (Starting 5, Lightning Round, Dora's Corner).
+  // Handles both formats: "<strong>Artist</strong>, <em>Album</em> (Label)" and "Artist, <em>Album</em> (Label)".
   const extractFromP = (pEl) => {
     const $p = $(pEl);
     const strong = $p.find("strong").first();
     const em = $p.find("em").first();
-    if (!strong.length || !em.length) return null;
-    const artist = strong.text().replace(/,\s*$/, "").trim(); // handle "GENA," typo
-    const album = em.text().trim();
-    const labelMatch = $p.text().match(/\(([^)]+)\)/);
-    const label = labelMatch ? labelMatch[1].trim() : null;
-    if (!artist || !album) return null;
-    return { artist, album, label };
+    if (strong.length && em.length) {
+      const artist = strong.text().replace(/,\s*$/, "").trim();
+      const album = em.text().trim();
+      const labelMatch = $p.text().match(/\(([^)]+)\)/);
+      const label = labelMatch ? labelMatch[1].trim() : null;
+      if (artist && album) return { artist, album, label };
+    }
+    // No strong (e.g. March 2026 layout): parse plain text "Artist, Album (Label)"
+    // Strip leading emoji/symbols and trailing " — Recommender"
+    let raw = $p
+      .text()
+      .replace(/\s*—\s*[^—]+$/, "")
+      .trim();
+    raw = raw.replace(/^[\s\uD83C\uDFB5\u26A1\uD83C\uDFBF]+/g, "").trim();
+    if (!raw) return null;
+    const entry = parseAlbumEntry(raw);
+    if (entry && entry.artist) {
+      entry.artist = entry.artist.replace(/^[\s\p{So}\p{Sk}\p{C}]+/gu, "").trim();
+    }
+    return entry;
   };
 
   // Walk through #storytext children, track current section
@@ -160,11 +178,13 @@ function flattenAlbums(data) {
 async function main() {
   const args = process.argv.slice(2);
   const urlIndex = args.indexOf("--url");
-  const url =
-    urlIndex !== -1 && args[urlIndex + 1]
-      ? args[urlIndex + 1]
-      : DEFAULT_URL;
-
+  let url;
+  if (urlIndex !== -1 && args[urlIndex + 1]) {
+    url = args[urlIndex + 1];
+  } else {
+    console.log("Discovering latest NPR New Music Friday URL...");
+    url = discoverLatestUrl();
+  }
   console.log("Scraping:", url);
   const data = await scrape(url);
   const allAlbums = flattenAlbums(data);
