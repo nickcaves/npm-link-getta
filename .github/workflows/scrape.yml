@@ -38,6 +38,7 @@ jobs:
           echo "Using URL: $NPR_URL"
           npm run scrape -- --url "$NPR_URL"
 
+      # Order matters: resolve reads albums.json → build reads albums-with-links.json
       - name: Resolve links (Spotify + Songlink)
         run: npm run resolve
 
