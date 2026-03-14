@@ -40,10 +40,32 @@ jobs:
 
       # Order matters: resolve reads albums.json → build reads albums-with-links.json
       - name: Resolve links (Spotify + Songlink)
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
         run: npm run resolve
 
       - name: Embed data for site
         run: npm run build
+
+      - name: Verify all data files are in sync
+        run: |
+          node -e "
+            const fs = require('fs');
+            const a = JSON.parse(fs.readFileSync('data/albums.json', 'utf8'));
+            const b = JSON.parse(fs.readFileSync('data/albums-with-links.json', 'utf8'));
+            const js = fs.readFileSync('data/albums-data.js', 'utf8');
+            const scrapedAt = a.scrapedAt;
+            if (b.scrapedAt !== scrapedAt) {
+              console.error('::error::albums-with-links.json out of sync. Resolve step may have failed.');
+              process.exit(1);
+            }
+            if (!js.includes(scrapedAt)) {
+              console.error('::error::albums-data.js missing scrapedAt. Embed step may have failed.');
+              process.exit(1);
+            }
+            console.log('Data files in sync (scrapedAt=' + scrapedAt + ')');
+          "
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
