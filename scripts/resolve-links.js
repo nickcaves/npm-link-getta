@@ -14,7 +14,7 @@
 
 import "dotenv/config";
 import fetch from "node-fetch";
-import { readFileSync, writeFileSync, mkdirSync } from "fs";
+import { readFileSync, writeFileSync, mkdirSync, appendFileSync } from "fs";
 import { dirname, join } from "path";
 import { fileURLToPath } from "url";
 
@@ -22,6 +22,13 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT_DIR = join(__dirname, "..");
 const DATA_PATH = join(ROOT_DIR, "data", "albums.json");
 const OUTPUT_PATH = join(ROOT_DIR, "data", "albums-with-links.json");
+// #region agent log
+const DEBUG_LOG = join(ROOT_DIR, "resolve-debug.log");
+function debugLog(msg, data = {}) {
+  const line = `${new Date().toISOString()} ${msg} ${JSON.stringify(data)}`;
+  try { appendFileSync(DEBUG_LOG, line + "\n"); } catch (_) {}
+}
+// #endregion
 
 const {
   SPOTIFY_CLIENT_ID: clientId,
@@ -29,6 +36,9 @@ const {
 } = process.env;
 
 if (!clientId || !clientSecret) {
+  // #region agent log
+  debugLog("exit: missing credentials", { hasClientId: !!clientId, hasClientSecret: !!clientSecret });
+  // #endregion
   console.error(
     "Missing SPOTIFY_CLIENT_ID or SPOTIFY_CLIENT_SECRET.\n" +
       "Create a Spotify app at https://developer.spotify.com/dashboard,\n" +
@@ -143,10 +153,21 @@ function buildSpotifySearchUrl({ artist, album }) {
 async function main() {
   console.log("Loading albums from", DATA_PATH);
   const { meta, albums } = loadAlbums();
+  // #region agent log
+  debugLog("loadAlbums", { dataPath: DATA_PATH, outputPath: OUTPUT_PATH, cwd: process.cwd(), albumsLength: albums.length, scrapedAt: meta?.scrapedAt });
+  // #endregion
   console.log(`Found ${albums.length} featured albums to resolve.`);
 
   console.log("Getting Spotify access token...");
-  const token = await getSpotifyToken();
+  let token;
+  try {
+    token = await getSpotifyToken();
+  } catch (err) {
+    // #region agent log
+    debugLog("getSpotifyToken failed", { message: err.message });
+    // #endregion
+    throw err;
+  }
   console.log("Got Spotify token.");
 
   const resolved = [];
@@ -211,11 +232,17 @@ async function main() {
     albums: resolved,
   };
 
+  // #region agent log
+  debugLog("about to write", { outputPath: OUTPUT_PATH, resolvedCount: resolved.length });
+  // #endregion
   writeFileSync(OUTPUT_PATH, JSON.stringify(output, null, 2), "utf8");
   console.log("Wrote", OUTPUT_PATH);
 }
 
 main().catch((err) => {
+  // #region agent log
+  debugLog("main failed", { message: err.message });
+  // #endregion
   console.error(err);
   process.exit(1);
 });

@@ -45,6 +45,12 @@ jobs:
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
         run: npm run resolve
 
+      - name: Resolve debug log
+        if: always()
+        run: |
+          echo "--- resolve-debug.log ---"
+          cat resolve-debug.log 2>/dev/null || echo "(no log file)"
+
       - name: Embed data for site
         run: npm run build
 
