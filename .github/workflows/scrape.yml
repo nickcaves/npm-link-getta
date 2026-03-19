@@ -98,7 +98,3 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update albums from NPR New Music Friday"
-          file_pattern: |
-            data/albums.json
-            data/albums-with-links.json
-            data/albums-data.js
