@@ -54,6 +54,28 @@ jobs:
       - name: Embed data for site
         run: npm run build
 
+      - name: Debug changed files before auto-commit
+        if: always()
+        run: |
+          echo "=== git status --porcelain ==="
+          git status --porcelain
+          echo "=== git diff --name-only (targeted) ==="
+          git diff --name-only -- data/albums.json data/albums-with-links.json data/albums-data.js || true
+          echo "=== scrapedAt values ==="
+          node -e "
+            try {
+              const fs = require('fs');
+              const a = JSON.parse(fs.readFileSync('data/albums.json', 'utf8'));
+              const b = JSON.parse(fs.readFileSync('data/albums-with-links.json', 'utf8'));
+              const js = fs.readFileSync('data/albums-data.js', 'utf8');
+              console.log('albums.json scrapedAt=' + a.scrapedAt);
+              console.log('albums-with-links scrapedAt=' + b.scrapedAt);
+              console.log('albums-data.js includes scrapedAt=' + js.includes(a.scrapedAt));
+            } catch (e) {
+              console.error('debug scrapedAt read failed:', e && e.message ? e.message : String(e));
+            }
+          "
+
       - name: Verify all data files are in sync
         run: |
           node -e "
