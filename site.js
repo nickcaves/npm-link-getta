@@ -9,18 +9,33 @@ function buildWebSearchUrl(album) {
   return `https://www.google.com/search?q=${encodeURIComponent(q)}`;
 }
 
-function getLink(album) {
-  if (album.songlink?.pageUrl) return album.songlink.pageUrl;
-  if (album.spotify?.url) return album.spotify.url;
-  if (album.spotifySearchUrl) return buildWebSearchUrl(album);
-  return null;
-}
+/** @returns {{ href: string, label: string, variant: "primary" | "secondary" | "search" }[]} */
+function getActionButtons(album) {
+  const songlinkUrl = album.songlink?.pageUrl || null;
+  const spotifyUrl = album.spotify?.url || null;
 
-function getLinkLabel(album) {
-  if (album.songlink?.pageUrl) return "Album link";
-  if (album.spotify?.url) return "Open on Spotify";
-  if (album.spotifySearchUrl) return "Search the web";
-  return null;
+  if (spotifyUrl && songlinkUrl) {
+    return [
+      { href: spotifyUrl, label: "Open on Spotify", variant: "primary" },
+      { href: songlinkUrl, label: "Album link", variant: "secondary" },
+    ];
+  }
+  if (songlinkUrl) {
+    return [{ href: songlinkUrl, label: "Album link", variant: "primary" }];
+  }
+  if (spotifyUrl) {
+    return [{ href: spotifyUrl, label: "Open on Spotify", variant: "primary" }];
+  }
+  if (album.spotifySearchUrl) {
+    return [
+      {
+        href: buildWebSearchUrl(album),
+        label: "Search the web",
+        variant: "search",
+      },
+    ];
+  }
+  return [];
 }
 
 function getImageUrl(album) {
@@ -44,17 +59,21 @@ function formatDate(dateStr) {
 }
 
 function renderAlbum(album) {
-  const link = getLink(album);
-  const label = getLinkLabel(album);
+  const buttons = getActionButtons(album);
   const imgUrl = getImageUrl(album);
 
   const art = imgUrl
     ? `<img class="card-art" src="${imgUrl}" alt="" loading="lazy">`
     : `<div class="card-art" aria-hidden="true"></div>`;
 
-  const btn = link
-    ? `<a href="${link}" target="_blank" rel="noopener" class="btn${label === "Search the web" ? " search" : ""}">${label}</a>`
-    : "";
+  const btnHtml = buttons
+    .map(({ href, label, variant }) => {
+      const classes = ["btn"];
+      if (variant === "secondary") classes.push("btn-secondary");
+      if (variant === "search") classes.push("search");
+      return `<a href="${escapeAttr(href)}" target="_blank" rel="noopener" class="${classes.join(" ")}">${escapeHtml(label)}</a>`;
+    })
+    .join("");
 
   return `
     <article class="card">
@@ -64,7 +83,7 @@ function renderAlbum(album) {
         <p class="card-album">${escapeHtml(album.album)}</p>
         ${album.label ? `<p class="card-label">${escapeHtml(album.label)}</p>` : ""}
       </div>
-      <div class="card-actions">${btn}</div>
+      <div class="card-actions">${btnHtml}</div>
     </article>
   `;
 }
@@ -73,6 +92,14 @@ function escapeHtml(str) {
   const div = document.createElement("div");
   div.textContent = str;
   return div.innerHTML;
+}
+
+function escapeAttr(str) {
+  return String(str)
+    .replace(/&/g, "&amp;")
+    .replace(/"/g, "&quot;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;");
 }
 
 function groupBySection(albums) {
