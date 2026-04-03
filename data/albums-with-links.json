@@ -1,536 +1,390 @@
 {
-  "source": "https://www.npr.org/2026/03/27/nx-s1-5761257/new-music-friday-best-albums-march-27-2026",
-  "scrapedAt": "2026-03-27T20:28:53.809Z",
-  "date": "2026-03-27",
-  "title": "New Music Friday: The best albums out March 27",
-  "total": 14,
+  "source": "https://www.npr.org/2026/04/02/nx-s1-5766519/new-music-friday-best-albums-april-3-2026",
+  "scrapedAt": "2026-04-03T20:26:27.114Z",
+  "date": "2026-04-03",
+  "title": "New Music Friday: The best albums out April 3",
+  "total": 13,
   "albums": [
     {
-      "artist": "Robyn",
-      "album": "Sexistential",
-      "label": "Konichiwa / Young",
+      "artist": "Arlo Parks",
+      "album": "Ambiguous Desire",
+      "label": "Transgressive",
       "section": "starting5",
       "spotify": {
-        "id": "6RYCig4T2bEZu2gnM0OxRL",
-        "name": "Sexistential",
-        "url": "https://open.spotify.com/album/6RYCig4T2bEZu2gnM0OxRL",
-        "release_date": "2026-03-27",
+        "id": "2l7Qtf3Mffx6ZIDTpyaMtS",
+        "name": "Ambiguous Desire",
+        "url": "https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS",
+        "release_date": "2026-04-03",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273336cad51aa65f15d0be7aec4",
+            "url": "https://i.scdn.co/image/ab67616d0000b2732484ff82a37d8d94d21a0f4b",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02336cad51aa65f15d0be7aec4",
+            "url": "https://i.scdn.co/image/ab67616d00001e022484ff82a37d8d94d21a0f4b",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851336cad51aa65f15d0be7aec4",
+            "url": "https://i.scdn.co/image/ab67616d000048512484ff82a37d8d94d21a0f4b",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "6UE7nl9mha6s8z0wFQFIZ2",
-            "name": "Robyn"
+            "id": "4kIwETcbpuFgRukE8o7Opx",
+            "name": "Arlo Parks"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Robyn%20Sexistential"
+      "spotifySearchUrl": "https://open.spotify.com/search/Arlo%20Parks%20Ambiguous%20Desire"
     },
     {
-      "artist": "RAYE",
-      "album": "THIS MUSIC MAY CONTAIN HOPE.",
-      "label": "Human Re Sources",
+      "artist": "Dermot Kennedy",
+      "album": "The Weight of the Woods",
+      "label": "Interscope",
       "section": "starting5",
       "spotify": {
-        "id": "3ZN01xzenGMhWHdC5kfAe9",
-        "name": "THIS MUSIC MAY CONTAIN HOPE.",
-        "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9",
-        "release_date": "2026-03-27",
+        "id": "75pxFt8fBxAZaSII4Ur6Dd",
+        "name": "The Weight of the Woods",
+        "url": "https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd",
+        "release_date": "2026-04-03",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27397c0928704e5a2bd8d4c5b90",
+            "url": "https://i.scdn.co/image/ab67616d0000b273dffaa485f4ca2d646ffafad2",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0297c0928704e5a2bd8d4c5b90",
+            "url": "https://i.scdn.co/image/ab67616d00001e02dffaa485f4ca2d646ffafad2",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485197c0928704e5a2bd8d4c5b90",
+            "url": "https://i.scdn.co/image/ab67616d00004851dffaa485f4ca2d646ffafad2",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "5KKpBU5eC2tJDzf0wmlRp2",
-            "name": "RAYE"
+            "id": "5KNNVgR6LBIABRIomyCwKJ",
+            "name": "Dermot Kennedy"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/RAYE%20THIS%20MUSIC%20MAY%20CONTAIN%20HOPE."
+      "spotifySearchUrl": "https://open.spotify.com/search/Dermot%20Kennedy%20The%20Weight%20of%20the%20Woods"
     },
     {
-      "artist": "Courtney Barnett",
-      "album": "Creature of Habit",
-      "label": "Mom + Pop",
+      "artist": "Thundercat",
+      "album": "Distracted",
+      "label": "Brainfeeder",
       "section": "starting5",
       "spotify": {
-        "id": "6d8sED7egAL2q09h2j3A16",
-        "name": "Creature of Habit",
-        "url": "https://open.spotify.com/album/6d8sED7egAL2q09h2j3A16",
-        "release_date": "2026-03-27",
+        "id": "4DkVTJfU9qyNWKbjLoTENL",
+        "name": "Distracted",
+        "url": "https://open.spotify.com/album/4DkVTJfU9qyNWKbjLoTENL",
+        "release_date": "2026-04-03",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273a0ff27db1be3b541c1c36d09",
+            "url": "https://i.scdn.co/image/ab67616d0000b2735d6505356d39c9ec421d489b",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02a0ff27db1be3b541c1c36d09",
+            "url": "https://i.scdn.co/image/ab67616d00001e025d6505356d39c9ec421d489b",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851a0ff27db1be3b541c1c36d09",
+            "url": "https://i.scdn.co/image/ab67616d000048515d6505356d39c9ec421d489b",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "4OOlG5eBXSkSAAEeKjJb5Y",
-            "name": "Courtney Barnett"
+            "id": "4frXpPxQQZwbCu3eTGnZEw",
+            "name": "Thundercat"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Courtney%20Barnett%20Creature%20of%20Habit"
+      "spotifySearchUrl": "https://open.spotify.com/search/Thundercat%20Distracted"
     },
     {
-      "artist": "The New Pornographers",
-      "album": "The Former Site Of",
-      "label": "Merge",
+      "artist": "Joe Pernice, Sunny",
+      "album": "I Was Wrong",
+      "label": "New West",
       "section": "starting5",
       "spotify": {
-        "id": "10Ehvbp6eFc4X4D84aOxhc",
-        "name": "The Former Site Of",
-        "url": "https://open.spotify.com/album/10Ehvbp6eFc4X4D84aOxhc",
-        "release_date": "2026-03-27",
+        "id": "3FbtAQJjbjhCWXWAK3qvSP",
+        "name": "Sunny, I Was Wrong",
+        "url": "https://open.spotify.com/album/3FbtAQJjbjhCWXWAK3qvSP",
+        "release_date": "2026-04-03",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273eb0d872278dc0fd7396eadbf",
+            "url": "https://i.scdn.co/image/ab67616d0000b273a9e01ea0d28cd0a9f4f6e8d6",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02eb0d872278dc0fd7396eadbf",
+            "url": "https://i.scdn.co/image/ab67616d00001e02a9e01ea0d28cd0a9f4f6e8d6",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851eb0d872278dc0fd7396eadbf",
+            "url": "https://i.scdn.co/image/ab67616d00004851a9e01ea0d28cd0a9f4f6e8d6",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "4mO4aGO6u29UyR6XLZR9XW",
-            "name": "The New Pornographers"
+            "id": "1W6z6i8gjySesldcmxtsAW",
+            "name": "Joe Pernice"
+          },
+          {
+            "id": "1CgvL3gASrnuI8SKXr8K7F",
+            "name": "Pernice Brothers"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/The%20New%20Pornographers%20The%20Former%20Site%20Of"
+      "spotifySearchUrl": "https://open.spotify.com/search/Joe%20Pernice%2C%20Sunny%20I%20Was%20Wrong"
     },
     {
-      "artist": "Flea",
-      "album": "Honora",
-      "label": "Nonesuch",
+      "artist": "Earl Sweatshirt, MIKE & Surf Gang",
+      "album": "POMPEII // UTILITY",
+      "label": "The Harp",
       "section": "starting5",
       "spotify": {
-        "id": "4RsSlnwkUAvEtg0Tk86HnM",
-        "name": "Honora",
-        "url": "https://open.spotify.com/album/4RsSlnwkUAvEtg0Tk86HnM",
-        "release_date": "2026-03-27",
+        "id": "3RoyVaZOzBSTfo6jm4dvSR",
+        "name": "POMPEII // UTILITY",
+        "url": "https://open.spotify.com/album/3RoyVaZOzBSTfo6jm4dvSR",
+        "release_date": "2026-04-03",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273017eb062be58097ec134eeb6",
+            "url": "https://i.scdn.co/image/ab67616d0000b2732da17f0e1d1ff1a6e9ccc424",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02017eb062be58097ec134eeb6",
+            "url": "https://i.scdn.co/image/ab67616d00001e022da17f0e1d1ff1a6e9ccc424",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851017eb062be58097ec134eeb6",
+            "url": "https://i.scdn.co/image/ab67616d000048512da17f0e1d1ff1a6e9ccc424",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "0Xl5J6iOgiQHFqgri7TF8j",
-            "name": "Flea"
+            "id": "3A5tHz1SfngyOZM2gItYKu",
+            "name": "Earl Sweatshirt"
+          },
+          {
+            "id": "1wlzPS1hSNrkriIIwLFTmU",
+            "name": "MIKE"
+          },
+          {
+            "id": "0rTeZQSxEg1XzZ1dFz6Moz",
+            "name": "SURF GANG"
           }
         ]
       },
-      "songlink": {
-        "pageUrl": "https://album.link/s/4RsSlnwkUAvEtg0Tk86HnM",
-        "entitiesByUniqueId": {
-          "AMAZON_ALBUM::B0G76V95QH": {
-            "id": "B0G76V95QH",
-            "type": "album",
-            "title": "Honora",
-            "artistName": "Flea",
-            "thumbnailUrl": "https://m.media-amazon.com/images/I/41bwoMflHIL.jpg",
-            "thumbnailWidth": 500,
-            "thumbnailHeight": 500,
-            "apiProvider": "amazon",
-            "platforms": [
-              "amazonMusic",
-              "amazonStore"
-            ]
-          },
-          "BANDCAMP_ALBUM::450065828": {
-            "id": "450065828",
-            "type": "album",
-            "title": "Honora",
-            "artistName": "Flea",
-            "thumbnailUrl": "https://f4.bcbits.com/img/a0084861691_5.jpg",
-            "thumbnailWidth": 700,
-            "thumbnailHeight": 700,
-            "apiProvider": "bandcamp",
-            "platforms": [
-              "bandcamp"
-            ]
-          },
-          "BOOMPLAY_ALBUM::128264725": {
-            "id": "128264725",
-            "type": "album",
-            "title": "Honora",
-            "artistName": "FLEA",
-            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/03/24/ef0499cc357b4d44b76907a5039369edH1500W1500_464_464.jpg",
-            "thumbnailWidth": 464,
-            "thumbnailHeight": 464,
-            "apiProvider": "boomplay",
-            "platforms": [
-              "boomplay"
-            ]
-          },
-          "PANDORA_ALBUM::AL:62729928": {
-            "id": "AL:62729928",
-            "type": "album",
-            "title": "Honora",
-            "artistName": "Flea",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/40/9d/ac/f9/c2a2464e910a2848b043e031/_500W_500H.jpg",
-            "thumbnailWidth": 500,
-            "thumbnailHeight": 500,
-            "apiProvider": "pandora",
-            "platforms": [
-              "pandora"
-            ]
-          },
-          "SPOTIFY_ALBUM::4RsSlnwkUAvEtg0Tk86HnM": {
-            "id": "4RsSlnwkUAvEtg0Tk86HnM",
-            "type": "album",
-            "title": "Honora",
-            "artistName": "Flea",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273017eb062be58097ec134eeb6",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "spotify",
-            "platforms": [
-              "spotify"
-            ]
-          },
-          "TIDAL_ALBUM::504977267": {
-            "id": "504977267",
-            "type": "album",
-            "title": "Honora",
-            "artistName": "Flea",
-            "thumbnailUrl": "https://resources.tidal.com/images/c78a6412/2817/4d0e/ab5e/6f8f5bde02d3/640x640.jpg",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "tidal",
-            "platforms": [
-              "tidal"
-            ]
-          }
-        },
-        "platforms": {
-          "spotify": "https://open.spotify.com/album/4RsSlnwkUAvEtg0Tk86HnM",
-          "appleMusic": null,
-          "deezer": null,
-          "tidal": "https://listen.tidal.com/album/504977267",
-          "youtube": null,
-          "youtubeMusic": null,
-          "soundcloud": null,
-          "amazonMusic": "https://music.amazon.com/albums/B0G76V95QH"
-        }
-      },
-      "spotifySearchUrl": null
+      "songlink": null,
+      "spotifySearchUrl": "https://open.spotify.com/search/Earl%20Sweatshirt%2C%20MIKE%20%26%20Surf%20Gang%20POMPEII%20%2F%2F%20UTILITY"
     },
     {
-      "artist": "Connie Converse, How Sad",
-      "album": "How Lovely (Reissue)",
-      "label": "Third Man",
+      "artist": "Maria Taylor",
+      "album": "Story's End",
+      "label": "Million Stars",
+      "section": "lightningRound",
+      "spotify": {
+        "id": "1ZVufTemxbdERJ5wHFzyq2",
+        "name": "Story's End",
+        "url": "https://open.spotify.com/album/1ZVufTemxbdERJ5wHFzyq2",
+        "release_date": "2026-04-03",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273e8383a96c9b6f807897b5aae",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e8383a96c9b6f807897b5aae",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e8383a96c9b6f807897b5aae",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "6iKiDPed4LAQEcPZpvf00m",
+            "name": "Maria Taylor"
+          }
+        ]
+      },
+      "songlink": null,
+      "spotifySearchUrl": "https://open.spotify.com/search/Maria%20Taylor%20Story's%20End"
+    },
+    {
+      "artist": "Wendy Eisenberg",
+      "album": "Wendy Eisenberg",
+      "label": "Joyful Noise",
       "section": "lightningRound",
       "spotify": null,
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Connie%20Converse%2C%20How%20Sad%20How%20Lovely%20(Reissue)"
+      "spotifySearchUrl": "https://open.spotify.com/search/Wendy%20Eisenberg%20Wendy%20Eisenberg"
     },
     {
-      "artist": "Snail Mail",
-      "album": "Ricochet",
-      "label": "Matador",
-      "section": "lightningRound",
-      "spotify": {
-        "id": "5b7UrNnuckYDfCp6ZW0Sji",
-        "name": "Ricochet",
-        "url": "https://open.spotify.com/album/5b7UrNnuckYDfCp6ZW0Sji",
-        "release_date": "2026-03-27",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273e22bac16a37570489587ad5c",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02e22bac16a37570489587ad5c",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851e22bac16a37570489587ad5c",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "4QkSD9TRUnMtI8Fq1jXJJe",
-            "name": "Snail Mail"
-          }
-        ]
-      },
-      "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Snail%20Mail%20Ricochet"
-    },
-    {
-      "artist": "The Philharmonik",
-      "album": "Transcendentalism I EP",
-      "label": "GoodTalk",
+      "artist": "SUNN O)))",
+      "album": "sunn O)))",
+      "label": "Sub Pop",
       "section": "lightningRound",
       "spotify": null,
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/The%20Philharmonik%20Transcendentalism%20I%20EP"
+      "spotifySearchUrl": "https://open.spotify.com/search/SUNN%20O)))%20sunn%20O)))"
     },
     {
-      "artist": "Irreversible Entanglements",
-      "album": "Future Present Past",
-      "label": "Impulse!",
+      "artist": "Gabriel Kahane & Roomful of Teeth",
+      "album": "Elevator Songs",
+      "label": "Octoverse Media",
+      "section": "lightningRound",
+      "spotify": null,
+      "songlink": null,
+      "spotifySearchUrl": "https://open.spotify.com/search/Gabriel%20Kahane%20%26%20Roomful%20of%20Teeth%20Elevator%20Songs"
+    },
+    {
+      "artist": "Sofía Rei",
+      "album": "Antónima",
+      "label": "GroundUP",
       "section": "lightningRound",
       "spotify": {
-        "id": "78InQgdMEK9DxrXthavnmP",
-        "name": "Future Present Past",
-        "url": "https://open.spotify.com/album/78InQgdMEK9DxrXthavnmP",
-        "release_date": "2026-03-27",
+        "id": "4Yq1gRDOOOzXuyHIWtZW12",
+        "name": "Antónima",
+        "url": "https://open.spotify.com/album/4Yq1gRDOOOzXuyHIWtZW12",
+        "release_date": "2026-04-03",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273c4a4b3f466b653f5a8306e14",
+            "url": "https://i.scdn.co/image/ab67616d0000b273475fc8168da3c58c51df291b",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02c4a4b3f466b653f5a8306e14",
+            "url": "https://i.scdn.co/image/ab67616d00001e02475fc8168da3c58c51df291b",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851c4a4b3f466b653f5a8306e14",
+            "url": "https://i.scdn.co/image/ab67616d00004851475fc8168da3c58c51df291b",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "5XqyqoLZXA69lCNyBT3f89",
-            "name": "Irreversible Entanglements"
+            "id": "6jIvSVTvBMdlsCWqTQJKbJ",
+            "name": "Sofia Rei"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Irreversible%20Entanglements%20Future%20Present%20Past"
+      "spotifySearchUrl": "https://open.spotify.com/search/Sof%C3%ADa%20Rei%20Ant%C3%B3nima"
     },
     {
-      "artist": "Sluice",
-      "album": "Companion",
-      "label": "Mtn Laurel",
-      "section": "lightningRound",
+      "artist": "deary",
+      "album": "Birding",
+      "label": "Bella Union",
+      "section": "dorasCorner",
       "spotify": {
-        "id": "7tIAKXEuqT5IGs8HZXb0cz",
-        "name": "Companion",
-        "url": "https://open.spotify.com/album/7tIAKXEuqT5IGs8HZXb0cz",
-        "release_date": "2026-03-27",
+        "id": "4LRV1hTTosrrR7cdWyqyJo",
+        "name": "Birding",
+        "url": "https://open.spotify.com/album/4LRV1hTTosrrR7cdWyqyJo",
+        "release_date": "2026-04-03",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273cde82ced8b5287571353ac6c",
+            "url": "https://i.scdn.co/image/ab67616d0000b273b2b07d7646b507c872295cac",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02cde82ced8b5287571353ac6c",
+            "url": "https://i.scdn.co/image/ab67616d00001e02b2b07d7646b507c872295cac",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851cde82ced8b5287571353ac6c",
+            "url": "https://i.scdn.co/image/ab67616d00004851b2b07d7646b507c872295cac",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "2G2lzG0hD7813EiPyiCC4j",
-            "name": "Sluice"
+            "id": "5Pir3nnrulz7WMyC9bFhkL",
+            "name": "deary"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Sluice%20Companion"
+      "spotifySearchUrl": "https://open.spotify.com/search/deary%20Birding"
     },
     {
-      "artist": "Charlotte Cornfield",
-      "album": "Hurts Like Hell",
-      "label": "Merge",
-      "section": "lightningRound",
+      "artist": "Robber Robber",
+      "album": "Two Wheels Move the Soul",
+      "label": "Fire Talk",
+      "section": "dorasCorner",
       "spotify": {
-        "id": "21IyvAnogGM9zfJYOShEBj",
-        "name": "Hurts Like Hell",
-        "url": "https://open.spotify.com/album/21IyvAnogGM9zfJYOShEBj",
-        "release_date": "2026-03-27",
+        "id": "3H4iX1m8kNm12NV2oijGcu",
+        "name": "Two Wheels Move the Soul",
+        "url": "https://open.spotify.com/album/3H4iX1m8kNm12NV2oijGcu",
+        "release_date": "2026-04-03",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273982c2f6e0b4c649e56901dce",
+            "url": "https://i.scdn.co/image/ab67616d0000b273dd66bfcfe441b70d11323f31",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02982c2f6e0b4c649e56901dce",
+            "url": "https://i.scdn.co/image/ab67616d00001e02dd66bfcfe441b70d11323f31",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851982c2f6e0b4c649e56901dce",
+            "url": "https://i.scdn.co/image/ab67616d00004851dd66bfcfe441b70d11323f31",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "59aqTTQGnvttJ4BCThaABZ",
-            "name": "Charlotte Cornfield"
+            "id": "7kXZ3iTr0blml9QgUdfwGM",
+            "name": "Robber Robber"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Charlotte%20Cornfield%20Hurts%20Like%20Hell"
+      "spotifySearchUrl": "https://open.spotify.com/search/Robber%20Robber%20Two%20Wheels%20Move%20the%20Soul"
     },
     {
-      "artist": "Model/Actriz",
-      "album": "Swan Songs EP",
-      "label": "True Panther",
+      "artist": "Los Thuthanaka",
+      "album": "Waq'a",
+      "label": "DIY",
       "section": "dorasCorner",
       "spotify": null,
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Model%2FActriz%20Swan%20Songs%20EP"
-    },
-    {
-      "artist": "José González",
-      "album": "Against the Dying of the Light",
-      "label": "Mute",
-      "section": "dorasCorner",
-      "spotify": {
-        "id": "6tfCh6LUufsg9neWwD6E5X",
-        "name": "Against The Dying Of The Light",
-        "url": "https://open.spotify.com/album/6tfCh6LUufsg9neWwD6E5X",
-        "release_date": "2026-03-27",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27389e1f8a821eb3f32e7c93f72",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0289e1f8a821eb3f32e7c93f72",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485189e1f8a821eb3f32e7c93f72",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "6xrCU6zdcSTsG2hLrojpmI",
-            "name": "José González"
-          }
-        ]
-      },
-      "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Jos%C3%A9%20Gonz%C3%A1lez%20Against%20the%20Dying%20of%20the%20Light"
-    },
-    {
-      "artist": "Shinichi Atobe",
-      "album": "Silent Way",
-      "label": "Plastic & Sounds",
-      "section": "dorasCorner",
-      "spotify": {
-        "id": "0VNrAhVsTuL1RLopapcQFE",
-        "name": "Silent Way",
-        "url": "https://open.spotify.com/album/0VNrAhVsTuL1RLopapcQFE",
-        "release_date": "2026-03-27",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273dee0859a25d448081e91149e",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02dee0859a25d448081e91149e",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851dee0859a25d448081e91149e",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "2n1YSv6tFmLxYalICWxOGv",
-            "name": "Shinichi Atobe"
-          }
-        ]
-      },
-      "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Shinichi%20Atobe%20Silent%20Way"
+      "spotifySearchUrl": "https://open.spotify.com/search/Los%20Thuthanaka%20Waq'a"
     }
   ]
 }
