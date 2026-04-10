@@ -1,390 +1,285 @@
 {
-  "source": "https://www.npr.org/2026/04/02/nx-s1-5766519/new-music-friday-best-albums-april-3-2026",
-  "scrapedAt": "2026-04-03T20:26:27.114Z",
-  "date": "2026-04-03",
-  "title": "New Music Friday: The best albums out April 3",
-  "total": 13,
+  "source": "https://www.npr.org/2026/04/09/nx-s1-5778465/new-music-friday-best-albums-april-10-2026",
+  "scrapedAt": "2026-04-10T20:25:50.688Z",
+  "date": "2026-04-10",
+  "title": "New Music Friday: The best albums out April 10",
+  "total": 8,
   "albums": [
     {
-      "artist": "Arlo Parks",
-      "album": "Ambiguous Desire",
-      "label": "Transgressive",
-      "section": "starting5",
-      "spotify": {
-        "id": "2l7Qtf3Mffx6ZIDTpyaMtS",
-        "name": "Ambiguous Desire",
-        "url": "https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS",
-        "release_date": "2026-04-03",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2732484ff82a37d8d94d21a0f4b",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e022484ff82a37d8d94d21a0f4b",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048512484ff82a37d8d94d21a0f4b",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "4kIwETcbpuFgRukE8o7Opx",
-            "name": "Arlo Parks"
-          }
-        ]
-      },
-      "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Arlo%20Parks%20Ambiguous%20Desire"
-    },
-    {
-      "artist": "Dermot Kennedy",
-      "album": "The Weight of the Woods",
-      "label": "Interscope",
-      "section": "starting5",
-      "spotify": {
-        "id": "75pxFt8fBxAZaSII4Ur6Dd",
-        "name": "The Weight of the Woods",
-        "url": "https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd",
-        "release_date": "2026-04-03",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273dffaa485f4ca2d646ffafad2",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02dffaa485f4ca2d646ffafad2",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851dffaa485f4ca2d646ffafad2",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "5KNNVgR6LBIABRIomyCwKJ",
-            "name": "Dermot Kennedy"
-          }
-        ]
-      },
-      "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Dermot%20Kennedy%20The%20Weight%20of%20the%20Woods"
-    },
-    {
-      "artist": "Thundercat",
-      "album": "Distracted",
-      "label": "Brainfeeder",
-      "section": "starting5",
-      "spotify": {
-        "id": "4DkVTJfU9qyNWKbjLoTENL",
-        "name": "Distracted",
-        "url": "https://open.spotify.com/album/4DkVTJfU9qyNWKbjLoTENL",
-        "release_date": "2026-04-03",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2735d6505356d39c9ec421d489b",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e025d6505356d39c9ec421d489b",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048515d6505356d39c9ec421d489b",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "4frXpPxQQZwbCu3eTGnZEw",
-            "name": "Thundercat"
-          }
-        ]
-      },
-      "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Thundercat%20Distracted"
-    },
-    {
-      "artist": "Joe Pernice, Sunny",
-      "album": "I Was Wrong",
-      "label": "New West",
-      "section": "starting5",
-      "spotify": {
-        "id": "3FbtAQJjbjhCWXWAK3qvSP",
-        "name": "Sunny, I Was Wrong",
-        "url": "https://open.spotify.com/album/3FbtAQJjbjhCWXWAK3qvSP",
-        "release_date": "2026-04-03",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273a9e01ea0d28cd0a9f4f6e8d6",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02a9e01ea0d28cd0a9f4f6e8d6",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851a9e01ea0d28cd0a9f4f6e8d6",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "1W6z6i8gjySesldcmxtsAW",
-            "name": "Joe Pernice"
-          },
-          {
-            "id": "1CgvL3gASrnuI8SKXr8K7F",
-            "name": "Pernice Brothers"
-          }
-        ]
-      },
-      "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Joe%20Pernice%2C%20Sunny%20I%20Was%20Wrong"
-    },
-    {
-      "artist": "Earl Sweatshirt, MIKE & Surf Gang",
-      "album": "POMPEII // UTILITY",
-      "label": "The Harp",
-      "section": "starting5",
-      "spotify": {
-        "id": "3RoyVaZOzBSTfo6jm4dvSR",
-        "name": "POMPEII // UTILITY",
-        "url": "https://open.spotify.com/album/3RoyVaZOzBSTfo6jm4dvSR",
-        "release_date": "2026-04-03",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2732da17f0e1d1ff1a6e9ccc424",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e022da17f0e1d1ff1a6e9ccc424",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048512da17f0e1d1ff1a6e9ccc424",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "3A5tHz1SfngyOZM2gItYKu",
-            "name": "Earl Sweatshirt"
-          },
-          {
-            "id": "1wlzPS1hSNrkriIIwLFTmU",
-            "name": "MIKE"
-          },
-          {
-            "id": "0rTeZQSxEg1XzZ1dFz6Moz",
-            "name": "SURF GANG"
-          }
-        ]
-      },
-      "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Earl%20Sweatshirt%2C%20MIKE%20%26%20Surf%20Gang%20POMPEII%20%2F%2F%20UTILITY"
-    },
-    {
-      "artist": "Maria Taylor",
-      "album": "Story's End",
-      "label": "Million Stars",
+      "artist": "Gracie and Rachel, If We Could",
+      "album": "Would We",
+      "label": "Righteous Babe",
       "section": "lightningRound",
       "spotify": {
-        "id": "1ZVufTemxbdERJ5wHFzyq2",
-        "name": "Story's End",
-        "url": "https://open.spotify.com/album/1ZVufTemxbdERJ5wHFzyq2",
-        "release_date": "2026-04-03",
+        "id": "14isRFBuLjdXwuQXes0WXr",
+        "name": "If We Could, Would We",
+        "url": "https://open.spotify.com/album/14isRFBuLjdXwuQXes0WXr",
+        "release_date": "2026-04-10",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273e8383a96c9b6f807897b5aae",
+            "url": "https://i.scdn.co/image/ab67616d0000b273c6a14177cffab1a5d71d8fbb",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02e8383a96c9b6f807897b5aae",
+            "url": "https://i.scdn.co/image/ab67616d00001e02c6a14177cffab1a5d71d8fbb",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851e8383a96c9b6f807897b5aae",
+            "url": "https://i.scdn.co/image/ab67616d00004851c6a14177cffab1a5d71d8fbb",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "6iKiDPed4LAQEcPZpvf00m",
-            "name": "Maria Taylor"
+            "id": "4jKFMEVOa9uon9utRFsLLX",
+            "name": "Gracie and Rachel"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Maria%20Taylor%20Story's%20End"
+      "spotifySearchUrl": "https://open.spotify.com/search/Gracie%20and%20Rachel%2C%20If%20We%20Could%20Would%20We"
     },
     {
-      "artist": "Wendy Eisenberg",
-      "album": "Wendy Eisenberg",
-      "label": "Joyful Noise",
-      "section": "lightningRound",
-      "spotify": null,
-      "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Wendy%20Eisenberg%20Wendy%20Eisenberg"
-    },
-    {
-      "artist": "SUNN O)))",
-      "album": "sunn O)))",
-      "label": "Sub Pop",
-      "section": "lightningRound",
-      "spotify": null,
-      "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/SUNN%20O)))%20sunn%20O)))"
-    },
-    {
-      "artist": "Gabriel Kahane & Roomful of Teeth",
-      "album": "Elevator Songs",
-      "label": "Octoverse Media",
-      "section": "lightningRound",
-      "spotify": null,
-      "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Gabriel%20Kahane%20%26%20Roomful%20of%20Teeth%20Elevator%20Songs"
-    },
-    {
-      "artist": "Sofía Rei",
-      "album": "Antónima",
-      "label": "GroundUP",
+      "artist": "Melanie Baker, Somebody Help Me",
+      "album": "I'm Being Spontaneous!",
+      "label": "Tambourhinocerous",
       "section": "lightningRound",
       "spotify": {
-        "id": "4Yq1gRDOOOzXuyHIWtZW12",
-        "name": "Antónima",
-        "url": "https://open.spotify.com/album/4Yq1gRDOOOzXuyHIWtZW12",
-        "release_date": "2026-04-03",
+        "id": "4HpW8zDIK4ASIvMKEBlYoo",
+        "name": "Somebody Help Me, I’m Being Spontaneous!",
+        "url": "https://open.spotify.com/album/4HpW8zDIK4ASIvMKEBlYoo",
+        "release_date": "2026-04-10",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273475fc8168da3c58c51df291b",
+            "url": "https://i.scdn.co/image/ab67616d0000b273ede5dd3f7fe0d07f7c9a0ab0",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02475fc8168da3c58c51df291b",
+            "url": "https://i.scdn.co/image/ab67616d00001e02ede5dd3f7fe0d07f7c9a0ab0",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851475fc8168da3c58c51df291b",
+            "url": "https://i.scdn.co/image/ab67616d00004851ede5dd3f7fe0d07f7c9a0ab0",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "6jIvSVTvBMdlsCWqTQJKbJ",
-            "name": "Sofia Rei"
+            "id": "71VckCz8JMieQkjjAXzR5y",
+            "name": "Melanie Baker"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Sof%C3%ADa%20Rei%20Ant%C3%B3nima"
+      "spotifySearchUrl": "https://open.spotify.com/search/Melanie%20Baker%2C%20Somebody%20Help%20Me%20I'm%20Being%20Spontaneous!"
     },
     {
-      "artist": "deary",
-      "album": "Birding",
-      "label": "Bella Union",
+      "artist": "upsammy & Valentina Magaletti",
+      "album": "Seismo",
+      "label": "PAN",
+      "section": "lightningRound",
+      "spotify": {
+        "id": "2K5yO5Gr7ZhjhMfW3SFSFq",
+        "name": "Seismo",
+        "url": "https://open.spotify.com/album/2K5yO5Gr7ZhjhMfW3SFSFq",
+        "release_date": "2026-04-10",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27338159d4e18e0242c157241a0",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0238159d4e18e0242c157241a0",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485138159d4e18e0242c157241a0",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "2orXY2oMFNUtiNrNMDyreV",
+            "name": "upsammy"
+          },
+          {
+            "id": "0jPLDwuZUzb6qZdfi5XPHz",
+            "name": "Valentina Magaletti"
+          }
+        ]
+      },
+      "songlink": null,
+      "spotifySearchUrl": "https://open.spotify.com/search/upsammy%20%26%20Valentina%20Magaletti%20Seismo"
+    },
+    {
+      "artist": "Spirit Adrift",
+      "album": "Infinite Illumination",
+      "label": "20 Buck Spin",
+      "section": "lightningRound",
+      "spotify": {
+        "id": "0R8q7pytUouh1Olbn5Uu2k",
+        "name": "Infinite Illumination",
+        "url": "https://open.spotify.com/album/0R8q7pytUouh1Olbn5Uu2k",
+        "release_date": "2026-04-10",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2733aa9414ad2f27f5f73f7ad58",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e023aa9414ad2f27f5f73f7ad58",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048513aa9414ad2f27f5f73f7ad58",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "5sW5eR9g4kNibasfrlw4EN",
+            "name": "Spirit Adrift"
+          }
+        ]
+      },
+      "songlink": null,
+      "spotifySearchUrl": "https://open.spotify.com/search/Spirit%20Adrift%20Infinite%20Illumination"
+    },
+    {
+      "artist": "Drivin N Cryin",
+      "album": "Crushing Flowers",
+      "label": "self-released",
+      "section": "lightningRound",
+      "spotify": {
+        "id": "4zGlyJuGMMaG320axZH1CY",
+        "name": "Crushing Flowers",
+        "url": "https://open.spotify.com/album/4zGlyJuGMMaG320axZH1CY",
+        "release_date": "2026-04-10",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273120d40c01c5bd93eed488c7f",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02120d40c01c5bd93eed488c7f",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851120d40c01c5bd93eed488c7f",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "26yYgoh7hehqYix76g3LcS",
+            "name": "Drivin N Cryin"
+          }
+        ]
+      },
+      "songlink": null,
+      "spotifySearchUrl": "https://open.spotify.com/search/Drivin%20N%20Cryin%20Crushing%20Flowers"
+    },
+    {
+      "artist": "My New Band Believe",
+      "album": "My New Band Believe",
+      "label": "Rough Trade",
       "section": "dorasCorner",
       "spotify": {
-        "id": "4LRV1hTTosrrR7cdWyqyJo",
-        "name": "Birding",
-        "url": "https://open.spotify.com/album/4LRV1hTTosrrR7cdWyqyJo",
-        "release_date": "2026-04-03",
+        "id": "0FypCc1StF9mNiLemcuJ3J",
+        "name": "My New Band Believe",
+        "url": "https://open.spotify.com/album/0FypCc1StF9mNiLemcuJ3J",
+        "release_date": "2026-04-10",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273b2b07d7646b507c872295cac",
+            "url": "https://i.scdn.co/image/ab67616d0000b273b2de727fc0b3d644cd8b7e57",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02b2b07d7646b507c872295cac",
+            "url": "https://i.scdn.co/image/ab67616d00001e02b2de727fc0b3d644cd8b7e57",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851b2b07d7646b507c872295cac",
+            "url": "https://i.scdn.co/image/ab67616d00004851b2de727fc0b3d644cd8b7e57",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "5Pir3nnrulz7WMyC9bFhkL",
-            "name": "deary"
+            "id": "5bPSCPf8wOY03ENKd6Aw9O",
+            "name": "My New Band Believe"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/deary%20Birding"
+      "spotifySearchUrl": "https://open.spotify.com/search/My%20New%20Band%20Believe%20My%20New%20Band%20Believe"
     },
     {
-      "artist": "Robber Robber",
-      "album": "Two Wheels Move the Soul",
-      "label": "Fire Talk",
+      "artist": "Félicia Atkinson & Christina Vantzou",
+      "album": "Reflections Vol. 3: Water Poems",
+      "label": "Mute",
       "section": "dorasCorner",
       "spotify": {
-        "id": "3H4iX1m8kNm12NV2oijGcu",
-        "name": "Two Wheels Move the Soul",
-        "url": "https://open.spotify.com/album/3H4iX1m8kNm12NV2oijGcu",
-        "release_date": "2026-04-03",
+        "id": "3OWKy0zcaRmi0mx4XCLTOF",
+        "name": "Reflections Vol. 3: Water Poems",
+        "url": "https://open.spotify.com/album/3OWKy0zcaRmi0mx4XCLTOF",
+        "release_date": "2026-04-10",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273dd66bfcfe441b70d11323f31",
+            "url": "https://i.scdn.co/image/ab67616d0000b273f47b2cbda0f690a5cc74baac",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02dd66bfcfe441b70d11323f31",
+            "url": "https://i.scdn.co/image/ab67616d00001e02f47b2cbda0f690a5cc74baac",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851dd66bfcfe441b70d11323f31",
+            "url": "https://i.scdn.co/image/ab67616d00004851f47b2cbda0f690a5cc74baac",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "7kXZ3iTr0blml9QgUdfwGM",
-            "name": "Robber Robber"
+            "id": "5YQURNvswNpWWUWyeNT7we",
+            "name": "Felicia Atkinson"
+          },
+          {
+            "id": "4CMC2nnStv4EENjKBSDpKR",
+            "name": "Christina Vantzou"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Robber%20Robber%20Two%20Wheels%20Move%20the%20Soul"
+      "spotifySearchUrl": "https://open.spotify.com/search/F%C3%A9licia%20Atkinson%20%26%20Christina%20Vantzou%20Reflections%20Vol.%203%3A%20Water%20Poems"
     },
     {
-      "artist": "Los Thuthanaka",
-      "album": "Waq'a",
-      "label": "DIY",
+      "artist": "Mei Semones",
+      "album": "Kurage EP",
+      "label": "Bayonet",
       "section": "dorasCorner",
       "spotify": null,
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Los%20Thuthanaka%20Waq'a"
+      "spotifySearchUrl": "https://open.spotify.com/search/Mei%20Semones%20Kurage%20EP"
     }
   ]
 }
