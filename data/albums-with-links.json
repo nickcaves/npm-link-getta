@@ -1,285 +1,212 @@
 {
-  "source": "https://www.npr.org/2026/04/09/nx-s1-5778465/new-music-friday-best-albums-april-10-2026",
-  "scrapedAt": "2026-04-10T20:25:50.688Z",
-  "date": "2026-04-10",
-  "title": "New Music Friday: The best albums out April 10",
-  "total": 8,
+  "source": "https://www.npr.org/2026/04/16/nx-s1-5778466/new-music-friday-best-albums-april-17-2026",
+  "scrapedAt": "2026-04-17T20:36:17.581Z",
+  "date": "2026-04-17",
+  "title": "New Music Friday: The best albums out April 17",
+  "total": 7,
   "albums": [
     {
-      "artist": "Gracie and Rachel, If We Could",
-      "album": "Would We",
-      "label": "Righteous Babe",
+      "artist": "Kathryn Mohr",
+      "album": "Carve",
+      "label": "The Flenser",
       "section": "lightningRound",
       "spotify": {
-        "id": "14isRFBuLjdXwuQXes0WXr",
-        "name": "If We Could, Would We",
-        "url": "https://open.spotify.com/album/14isRFBuLjdXwuQXes0WXr",
-        "release_date": "2026-04-10",
+        "id": "6yvVX20gPe9oQtvQZmmI8Z",
+        "name": "Carve",
+        "url": "https://open.spotify.com/album/6yvVX20gPe9oQtvQZmmI8Z",
+        "release_date": "2026-04-17",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273c6a14177cffab1a5d71d8fbb",
+            "url": "https://i.scdn.co/image/ab67616d0000b273933a1cbd18511fd64e93249d",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02c6a14177cffab1a5d71d8fbb",
+            "url": "https://i.scdn.co/image/ab67616d00001e02933a1cbd18511fd64e93249d",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851c6a14177cffab1a5d71d8fbb",
+            "url": "https://i.scdn.co/image/ab67616d00004851933a1cbd18511fd64e93249d",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "4jKFMEVOa9uon9utRFsLLX",
-            "name": "Gracie and Rachel"
+            "id": "2lbUZvIMQVI9unYN34lmOZ",
+            "name": "Kathryn Mohr"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Gracie%20and%20Rachel%2C%20If%20We%20Could%20Would%20We"
+      "spotifySearchUrl": "https://open.spotify.com/search/Kathryn%20Mohr%20Carve"
     },
     {
-      "artist": "Melanie Baker, Somebody Help Me",
-      "album": "I'm Being Spontaneous!",
-      "label": "Tambourhinocerous",
+      "artist": "Protoje",
+      "album": "The Art of Acceptance",
+      "label": "In.Digg.Nation/Ineffable",
       "section": "lightningRound",
       "spotify": {
-        "id": "4HpW8zDIK4ASIvMKEBlYoo",
-        "name": "Somebody Help Me, I’m Being Spontaneous!",
-        "url": "https://open.spotify.com/album/4HpW8zDIK4ASIvMKEBlYoo",
-        "release_date": "2026-04-10",
+        "id": "6O6NjoFBSEM5UkE7r8O1od",
+        "name": "The Art of Acceptance",
+        "url": "https://open.spotify.com/album/6O6NjoFBSEM5UkE7r8O1od",
+        "release_date": "2026-04-17",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273ede5dd3f7fe0d07f7c9a0ab0",
+            "url": "https://i.scdn.co/image/ab67616d0000b273b04150ce7f9c34d5928dfa92",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02ede5dd3f7fe0d07f7c9a0ab0",
+            "url": "https://i.scdn.co/image/ab67616d00001e02b04150ce7f9c34d5928dfa92",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851ede5dd3f7fe0d07f7c9a0ab0",
+            "url": "https://i.scdn.co/image/ab67616d00004851b04150ce7f9c34d5928dfa92",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "71VckCz8JMieQkjjAXzR5y",
-            "name": "Melanie Baker"
+            "id": "7BGR8y1VZAWK2oR4zD9COr",
+            "name": "Protoje"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Melanie%20Baker%2C%20Somebody%20Help%20Me%20I'm%20Being%20Spontaneous!"
+      "spotifySearchUrl": "https://open.spotify.com/search/Protoje%20The%20Art%20of%20Acceptance"
     },
     {
-      "artist": "upsammy & Valentina Magaletti",
-      "album": "Seismo",
-      "label": "PAN",
+      "artist": "PPJ",
+      "album": "Joker EP",
+      "label": "Recherche & Développement",
+      "section": "lightningRound",
+      "spotify": null,
+      "songlink": null,
+      "spotifySearchUrl": "https://open.spotify.com/search/PPJ%20Joker%20EP"
+    },
+    {
+      "artist": "Adrian Younge",
+      "album": "Younge",
+      "label": "Linear Labs",
       "section": "lightningRound",
       "spotify": {
-        "id": "2K5yO5Gr7ZhjhMfW3SFSFq",
-        "name": "Seismo",
-        "url": "https://open.spotify.com/album/2K5yO5Gr7ZhjhMfW3SFSFq",
-        "release_date": "2026-04-10",
+        "id": "37nNm3RVTz6KulC5r0O6ey",
+        "name": "Younge",
+        "url": "https://open.spotify.com/album/37nNm3RVTz6KulC5r0O6ey",
+        "release_date": "2026-04-17",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27338159d4e18e0242c157241a0",
+            "url": "https://i.scdn.co/image/ab67616d0000b2731671a28beb7dfa5ee26bef67",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0238159d4e18e0242c157241a0",
+            "url": "https://i.scdn.co/image/ab67616d00001e021671a28beb7dfa5ee26bef67",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485138159d4e18e0242c157241a0",
+            "url": "https://i.scdn.co/image/ab67616d000048511671a28beb7dfa5ee26bef67",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "2orXY2oMFNUtiNrNMDyreV",
-            "name": "upsammy"
-          },
-          {
-            "id": "0jPLDwuZUzb6qZdfi5XPHz",
-            "name": "Valentina Magaletti"
+            "id": "4aMeIY7MkJoZg7O91cmDDd",
+            "name": "Adrian Younge"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/upsammy%20%26%20Valentina%20Magaletti%20Seismo"
+      "spotifySearchUrl": "https://open.spotify.com/search/Adrian%20Younge%20Younge"
     },
     {
-      "artist": "Spirit Adrift",
-      "album": "Infinite Illumination",
-      "label": "20 Buck Spin",
-      "section": "lightningRound",
-      "spotify": {
-        "id": "0R8q7pytUouh1Olbn5Uu2k",
-        "name": "Infinite Illumination",
-        "url": "https://open.spotify.com/album/0R8q7pytUouh1Olbn5Uu2k",
-        "release_date": "2026-04-10",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2733aa9414ad2f27f5f73f7ad58",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e023aa9414ad2f27f5f73f7ad58",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048513aa9414ad2f27f5f73f7ad58",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "5sW5eR9g4kNibasfrlw4EN",
-            "name": "Spirit Adrift"
-          }
-        ]
-      },
-      "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Spirit%20Adrift%20Infinite%20Illumination"
-    },
-    {
-      "artist": "Drivin N Cryin",
-      "album": "Crushing Flowers",
-      "label": "self-released",
-      "section": "lightningRound",
-      "spotify": {
-        "id": "4zGlyJuGMMaG320axZH1CY",
-        "name": "Crushing Flowers",
-        "url": "https://open.spotify.com/album/4zGlyJuGMMaG320axZH1CY",
-        "release_date": "2026-04-10",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273120d40c01c5bd93eed488c7f",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02120d40c01c5bd93eed488c7f",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851120d40c01c5bd93eed488c7f",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "26yYgoh7hehqYix76g3LcS",
-            "name": "Drivin N Cryin"
-          }
-        ]
-      },
-      "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Drivin%20N%20Cryin%20Crushing%20Flowers"
-    },
-    {
-      "artist": "My New Band Believe",
-      "album": "My New Band Believe",
-      "label": "Rough Trade",
+      "artist": "Tokischa",
+      "album": "AMOR & DROGA",
+      "label": "Warner Music Latina",
       "section": "dorasCorner",
       "spotify": {
-        "id": "0FypCc1StF9mNiLemcuJ3J",
-        "name": "My New Band Believe",
-        "url": "https://open.spotify.com/album/0FypCc1StF9mNiLemcuJ3J",
-        "release_date": "2026-04-10",
+        "id": "2nEcbAjssahw9l2VdiZswg",
+        "name": "AMOR & DROGA",
+        "url": "https://open.spotify.com/album/2nEcbAjssahw9l2VdiZswg",
+        "release_date": "2026-04-16",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273b2de727fc0b3d644cd8b7e57",
+            "url": "https://i.scdn.co/image/ab67616d0000b273eef9392001e47eae1f175f27",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02b2de727fc0b3d644cd8b7e57",
+            "url": "https://i.scdn.co/image/ab67616d00001e02eef9392001e47eae1f175f27",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851b2de727fc0b3d644cd8b7e57",
+            "url": "https://i.scdn.co/image/ab67616d00004851eef9392001e47eae1f175f27",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "5bPSCPf8wOY03ENKd6Aw9O",
-            "name": "My New Band Believe"
+            "id": "2p4aN0Uxkk3iT3HK0cJ2cJ",
+            "name": "Tokischa"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/My%20New%20Band%20Believe%20My%20New%20Band%20Believe"
+      "spotifySearchUrl": "https://open.spotify.com/search/Tokischa%20AMOR%20%26%20DROGA"
     },
     {
-      "artist": "Félicia Atkinson & Christina Vantzou",
-      "album": "Reflections Vol. 3: Water Poems",
-      "label": "Mute",
-      "section": "dorasCorner",
-      "spotify": {
-        "id": "3OWKy0zcaRmi0mx4XCLTOF",
-        "name": "Reflections Vol. 3: Water Poems",
-        "url": "https://open.spotify.com/album/3OWKy0zcaRmi0mx4XCLTOF",
-        "release_date": "2026-04-10",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273f47b2cbda0f690a5cc74baac",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02f47b2cbda0f690a5cc74baac",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851f47b2cbda0f690a5cc74baac",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "5YQURNvswNpWWUWyeNT7we",
-            "name": "Felicia Atkinson"
-          },
-          {
-            "id": "4CMC2nnStv4EENjKBSDpKR",
-            "name": "Christina Vantzou"
-          }
-        ]
-      },
-      "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/F%C3%A9licia%20Atkinson%20%26%20Christina%20Vantzou%20Reflections%20Vol.%203%3A%20Water%20Poems"
-    },
-    {
-      "artist": "Mei Semones",
-      "album": "Kurage EP",
-      "label": "Bayonet",
+      "artist": "Lucy Liyou",
+      "album": "Mr Cobra",
+      "label": "Orange Milk",
       "section": "dorasCorner",
       "spotify": null,
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Mei%20Semones%20Kurage%20EP"
+      "spotifySearchUrl": "https://open.spotify.com/search/Lucy%20Liyou%20Mr%20Cobra"
+    },
+    {
+      "artist": "Kuru",
+      "album": "Backstage Hologram",
+      "label": "deadAir",
+      "section": "dorasCorner",
+      "spotify": {
+        "id": "5yuppYMA1k2OQQ1uW14mNi",
+        "name": "Backstage hologram",
+        "url": "https://open.spotify.com/album/5yuppYMA1k2OQQ1uW14mNi",
+        "release_date": "2026-04-17",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27375df9f6cd486b64e3585bf0f",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0275df9f6cd486b64e3585bf0f",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485175df9f6cd486b64e3585bf0f",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "1KJ5ZZBncdHtz60i3fiQYu",
+            "name": "kuru"
+          }
+        ]
+      },
+      "songlink": null,
+      "spotifySearchUrl": "https://open.spotify.com/search/Kuru%20Backstage%20Hologram"
     }
   ]
 }
