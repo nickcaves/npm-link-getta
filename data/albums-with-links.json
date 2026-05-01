@@ -1,53 +1,53 @@
 {
-  "source": "https://www.npr.org/2026/04/24/nx-s1-5778468/new-music-friday-best-albums-april-24",
-  "scrapedAt": "2026-04-24T20:37:21.919Z",
-  "date": "2026-04-24",
-  "title": "New Music Friday: The best albums out April 24",
-  "total": 13,
+  "source": "https://www.npr.org/2026/05/01/nx-s1-5778469/new-music-friday-best-albums-may-1-2026",
+  "scrapedAt": "2026-05-01T20:41:36.349Z",
+  "date": "2026-05-01",
+  "title": "New Music Friday: The best albums out May 1",
+  "total": 8,
   "albums": [
     {
-      "artist": "Noah Kahan",
-      "album": "The Great Divide",
-      "label": "Mercury",
+      "artist": "Kacey Musgraves",
+      "album": "Middle of Nowhere",
+      "label": "Lost Highway",
       "section": "starting5",
       "spotify": {
-        "id": "2fnkyn9EybagIoFJ7a13oz",
-        "name": "The Great Divide",
-        "url": "https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz",
-        "release_date": "2026-04-24",
+        "id": "269NuTU0YVTRAmvI8uW6Vr",
+        "name": "Middle of Nowhere",
+        "url": "https://open.spotify.com/album/269NuTU0YVTRAmvI8uW6Vr",
+        "release_date": "2026-04-30",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273d879855b819250d3d00a1a38",
+            "url": "https://i.scdn.co/image/ab67616d0000b273959baa3a3328879470b85865",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02d879855b819250d3d00a1a38",
+            "url": "https://i.scdn.co/image/ab67616d00001e02959baa3a3328879470b85865",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851d879855b819250d3d00a1a38",
+            "url": "https://i.scdn.co/image/ab67616d00004851959baa3a3328879470b85865",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "2RQXRUsr4IW1f3mKyKsy4B",
-            "name": "Noah Kahan"
+            "id": "70kkdajctXSbqSMJbQO424",
+            "name": "Kacey Musgraves"
           }
         ]
       },
       "songlink": {
-        "pageUrl": "https://album.link/s/2fnkyn9EybagIoFJ7a13oz",
+        "pageUrl": "https://album.link/s/269NuTU0YVTRAmvI8uW6Vr",
         "entitiesByUniqueId": {
-          "BOOMPLAY_ALBUM::129922091": {
-            "id": "129922091",
+          "BOOMPLAY_ALBUM::130391567": {
+            "id": "130391567",
             "type": "album",
-            "title": "The Great Divide",
-            "artistName": "Noah Kahan",
-            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/04/23/72b39df66b7a4f1c8e175718cc672c06H1400W1400_464_464.jpg",
+            "title": "Middle of Nowhere",
+            "artistName": "Kacey Musgraves",
+            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/05/01/b468cb6fad3f412e9ce1ce505de58d48H1400W1400_464_464.jpg",
             "thumbnailWidth": 464,
             "thumbnailHeight": 464,
             "apiProvider": "boomplay",
@@ -55,12 +55,12 @@
               "boomplay"
             ]
           },
-          "PANDORA_ALBUM::AL:65487269": {
-            "id": "AL:65487269",
+          "PANDORA_ALBUM::AL:65877644": {
+            "id": "AL:65877644",
             "type": "album",
-            "title": "The Great Divide",
-            "artistName": "Noah Kahan",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/09/11/ae/9d/89bd43b18a931dd669b7b038/_500W_500H.jpg",
+            "title": "Middle of Nowhere",
+            "artistName": "Kacey Musgraves",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/e1/fd/46/1f/01b64d359d897eec835389c2/_500W_500H.jpg",
             "thumbnailWidth": 500,
             "thumbnailHeight": 500,
             "apiProvider": "pandora",
@@ -68,12 +68,12 @@
               "pandora"
             ]
           },
-          "SPOTIFY_ALBUM::2fnkyn9EybagIoFJ7a13oz": {
-            "id": "2fnkyn9EybagIoFJ7a13oz",
+          "SPOTIFY_ALBUM::269NuTU0YVTRAmvI8uW6Vr": {
+            "id": "269NuTU0YVTRAmvI8uW6Vr",
             "type": "album",
-            "title": "The Great Divide",
-            "artistName": "Noah Kahan",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2737abae6f27205a204965c8737",
+            "title": "Middle of Nowhere",
+            "artistName": "Kacey Musgraves",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273959baa3a3328879470b85865",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "spotify",
@@ -81,12 +81,12 @@
               "spotify"
             ]
           },
-          "TIDAL_ALBUM::517821564": {
-            "id": "517821564",
+          "TIDAL_ALBUM::519978284": {
+            "id": "519978284",
             "type": "album",
-            "title": "The Great Divide",
-            "artistName": "Noah Kahan",
-            "thumbnailUrl": "https://resources.tidal.com/images/adf2f4f5/2893/4335/a962/25bf114105a9/640x640.jpg",
+            "title": "Middle of Nowhere",
+            "artistName": "Kacey Musgraves",
+            "thumbnailUrl": "https://resources.tidal.com/images/2e33430c/5849/42f0/b822/3482ebb5dee4/640x640.jpg",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "tidal",
@@ -96,10 +96,10 @@
           }
         },
         "platforms": {
-          "spotify": "https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz",
+          "spotify": "https://open.spotify.com/album/269NuTU0YVTRAmvI8uW6Vr",
           "appleMusic": null,
           "deezer": null,
-          "tidal": "https://listen.tidal.com/album/517821564",
+          "tidal": "https://listen.tidal.com/album/519978284",
           "youtube": null,
           "youtubeMusic": null,
           "soundcloud": null,
@@ -109,48 +109,61 @@
       "spotifySearchUrl": null
     },
     {
-      "artist": "Kehlani",
-      "album": "Kehlani",
-      "label": "Atlantic",
+      "artist": "American Football",
+      "album": "American Football LP4",
+      "label": "Polyvinyl",
       "section": "starting5",
       "spotify": {
-        "id": "2xkYTmqjear3lSGydIn7wh",
-        "name": "Kehlani",
-        "url": "https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh",
-        "release_date": "2026-04-24",
+        "id": "3fhKJU3nUfduKj9YhEAoGf",
+        "name": "American Football (LP4)",
+        "url": "https://open.spotify.com/album/3fhKJU3nUfduKj9YhEAoGf",
+        "release_date": "2026-05-01",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273d4ffe3d4cddee37b9fd6ffcd",
+            "url": "https://i.scdn.co/image/ab67616d0000b27359654022fe74df87ff7cf866",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02d4ffe3d4cddee37b9fd6ffcd",
+            "url": "https://i.scdn.co/image/ab67616d00001e0259654022fe74df87ff7cf866",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851d4ffe3d4cddee37b9fd6ffcd",
+            "url": "https://i.scdn.co/image/ab67616d0000485159654022fe74df87ff7cf866",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "0cGUm45nv7Z6M6qdXYQGTX",
-            "name": "Kehlani"
+            "id": "5FwydyGVcsQllnM4xM6jw4",
+            "name": "American Football"
           }
         ]
       },
       "songlink": {
-        "pageUrl": "https://album.link/s/2xkYTmqjear3lSGydIn7wh",
+        "pageUrl": "https://album.link/s/3fhKJU3nUfduKj9YhEAoGf",
         "entitiesByUniqueId": {
-          "BOOMPLAY_ALBUM::129801656": {
-            "id": "129801656",
+          "BANDCAMP_ALBUM::1561914484": {
+            "id": "1561914484",
             "type": "album",
-            "title": "Kehlani",
-            "artistName": "Kehlani",
-            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/04/23/8f1e7a4afe8844368d9746a69bba4e41H1500W1500_464_464.jpg",
+            "title": "American Football (LP4)",
+            "artistName": "American Football",
+            "thumbnailUrl": "https://f4.bcbits.com/img/a2959862396_5.jpg",
+            "thumbnailWidth": 700,
+            "thumbnailHeight": 700,
+            "apiProvider": "bandcamp",
+            "platforms": [
+              "bandcamp"
+            ]
+          },
+          "BOOMPLAY_ALBUM::127048155": {
+            "id": "127048155",
+            "type": "album",
+            "title": "American Football (LP4)",
+            "artistName": "American Football",
+            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/03/27/801e5044334d46c4bfb41925bfcb0a4cH1500W1500_464_464.png",
             "thumbnailWidth": 464,
             "thumbnailHeight": 464,
             "apiProvider": "boomplay",
@@ -158,12 +171,12 @@
               "boomplay"
             ]
           },
-          "PANDORA_ALBUM::AL:65515132": {
-            "id": "AL:65515132",
+          "PANDORA_ALBUM::AL:59152194": {
+            "id": "AL:59152194",
             "type": "album",
-            "title": "Kehlani",
-            "artistName": "Kehlani",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/4f/68/26/83/975846719efe0c797bdf325d/_500W_500H.jpg",
+            "title": "American Football (LP4)",
+            "artistName": "American Football",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/30/d7/6f/9b/091043b48adb1e0c317982d0/_500W_500H.jpg",
             "thumbnailWidth": 500,
             "thumbnailHeight": 500,
             "apiProvider": "pandora",
@@ -171,12 +184,12 @@
               "pandora"
             ]
           },
-          "SPOTIFY_ALBUM::2xkYTmqjear3lSGydIn7wh": {
-            "id": "2xkYTmqjear3lSGydIn7wh",
+          "SPOTIFY_ALBUM::3fhKJU3nUfduKj9YhEAoGf": {
+            "id": "3fhKJU3nUfduKj9YhEAoGf",
             "type": "album",
-            "title": "Kehlani",
-            "artistName": "Kehlani",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273d4ffe3d4cddee37b9fd6ffcd",
+            "title": "American Football (LP4)",
+            "artistName": "American Football",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b27359654022fe74df87ff7cf866",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "spotify",
@@ -184,12 +197,12 @@
               "spotify"
             ]
           },
-          "TIDAL_ALBUM::518341073": {
-            "id": "518341073",
+          "TIDAL_ALBUM::487367594": {
+            "id": "487367594",
             "type": "album",
-            "title": "Kehlani",
-            "artistName": "Kehlani",
-            "thumbnailUrl": "https://resources.tidal.com/images/e13f8571/6a6a/4a85/8de0/b367255c6b8a/640x640.jpg",
+            "title": "American Football (LP4)",
+            "artistName": "American Football",
+            "thumbnailUrl": "https://resources.tidal.com/images/c6963988/9f04/4b15/8a7e/9f749a6d752a/640x640.jpg",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "tidal",
@@ -199,10 +212,10 @@
           }
         },
         "platforms": {
-          "spotify": "https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh",
+          "spotify": "https://open.spotify.com/album/3fhKJU3nUfduKj9YhEAoGf",
           "appleMusic": null,
           "deezer": null,
-          "tidal": "https://listen.tidal.com/album/518341073",
+          "tidal": "https://listen.tidal.com/album/487367594",
           "youtube": null,
           "youtubeMusic": null,
           "soundcloud": null,
@@ -212,573 +225,57 @@
       "spotifySearchUrl": null
     },
     {
-      "artist": "Metric",
-      "album": "Romanticize The Dive",
-      "label": "Thirty Tigers",
+      "artist": "Isaiah Rashad",
+      "album": "It's Been Awful",
+      "label": "TDE",
       "section": "starting5",
-      "spotify": {
-        "id": "75oefoG5Cn2MbBc32uNPnu",
-        "name": "Romanticize The Dive",
-        "url": "https://open.spotify.com/album/75oefoG5Cn2MbBc32uNPnu",
-        "release_date": "2026-04-24",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2730ba923d0303075146f7bed95",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e020ba923d0303075146f7bed95",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048510ba923d0303075146f7bed95",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "1rCIEwPp5OnXW0ornlSsRl",
-            "name": "Metric"
-          }
-        ]
-      },
-      "songlink": {
-        "pageUrl": "https://album.link/s/75oefoG5Cn2MbBc32uNPnu",
-        "entitiesByUniqueId": {
-          "AMAZON_ALBUM::B0G7NFRZSK": {
-            "id": "B0G7NFRZSK",
-            "type": "album",
-            "title": "Romanticize The Dive",
-            "artistName": "Metric",
-            "thumbnailUrl": "https://m.media-amazon.com/images/I/41lz6z+XsRL.jpg",
-            "thumbnailWidth": 500,
-            "thumbnailHeight": 500,
-            "apiProvider": "amazon",
-            "platforms": [
-              "amazonMusic",
-              "amazonStore"
-            ]
-          },
-          "PANDORA_ALBUM::AL:58045114": {
-            "id": "AL:58045114",
-            "type": "album",
-            "title": "Romanticize The Dive",
-            "artistName": "Metric",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/f9/e8/d9/b5/a4ca4b728989bf61e667ce64/_500W_500H.jpg",
-            "thumbnailWidth": 500,
-            "thumbnailHeight": 500,
-            "apiProvider": "pandora",
-            "platforms": [
-              "pandora"
-            ]
-          },
-          "SPOTIFY_ALBUM::75oefoG5Cn2MbBc32uNPnu": {
-            "id": "75oefoG5Cn2MbBc32uNPnu",
-            "type": "album",
-            "title": "Romanticize The Dive",
-            "artistName": "Metric",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2730ba923d0303075146f7bed95",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "spotify",
-            "platforms": [
-              "spotify"
-            ]
-          },
-          "TIDAL_ALBUM::482411342": {
-            "id": "482411342",
-            "type": "album",
-            "title": "Romanticize The Dive",
-            "artistName": "Metric",
-            "thumbnailUrl": "https://resources.tidal.com/images/78ca9fa4/73fc/4fe2/a48d/ddc3c14d9661/640x640.jpg",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "tidal",
-            "platforms": [
-              "tidal"
-            ]
-          }
-        },
-        "platforms": {
-          "spotify": "https://open.spotify.com/album/75oefoG5Cn2MbBc32uNPnu",
-          "appleMusic": null,
-          "deezer": null,
-          "tidal": "https://listen.tidal.com/album/482411342",
-          "youtube": null,
-          "youtubeMusic": null,
-          "soundcloud": null,
-          "amazonMusic": "https://music.amazon.com/albums/B0G7NFRZSK"
-        }
-      },
-      "spotifySearchUrl": null
-    },
-    {
-      "artist": "Gia Margaret",
-      "album": "Singing",
-      "label": "Jagjaguwar",
-      "section": "starting5",
-      "spotify": {
-        "id": "1h0ikRmxNYZFYR0s7xurzf",
-        "name": "Singing",
-        "url": "https://open.spotify.com/album/1h0ikRmxNYZFYR0s7xurzf",
-        "release_date": "2026-04-24",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2731c338fd56753e69a5ac621cc",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e021c338fd56753e69a5ac621cc",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048511c338fd56753e69a5ac621cc",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "7fnMav7xXJwwjbyWbSjF4C",
-            "name": "Gia Margaret"
-          }
-        ]
-      },
-      "songlink": {
-        "pageUrl": "https://album.link/s/1h0ikRmxNYZFYR0s7xurzf",
-        "entitiesByUniqueId": {
-          "BANDCAMP_ALBUM::2458591742": {
-            "id": "2458591742",
-            "type": "album",
-            "title": "Singing",
-            "artistName": "Gia Margaret",
-            "thumbnailUrl": "https://f4.bcbits.com/img/a3266928931_5.jpg",
-            "thumbnailWidth": 700,
-            "thumbnailHeight": 700,
-            "apiProvider": "bandcamp",
-            "platforms": [
-              "bandcamp"
-            ]
-          },
-          "PANDORA_ALBUM::AL:59667539": {
-            "id": "AL:59667539",
-            "type": "album",
-            "title": "Singing",
-            "artistName": "Gia Margaret",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/20/95/b3/63/7599435ea5408d52e07062ea/_500W_500H.jpg",
-            "thumbnailWidth": 500,
-            "thumbnailHeight": 500,
-            "apiProvider": "pandora",
-            "platforms": [
-              "pandora"
-            ]
-          },
-          "SPOTIFY_ALBUM::1h0ikRmxNYZFYR0s7xurzf": {
-            "id": "1h0ikRmxNYZFYR0s7xurzf",
-            "type": "album",
-            "title": "Singing",
-            "artistName": "Gia Margaret",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2731c338fd56753e69a5ac621cc",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "spotify",
-            "platforms": [
-              "spotify"
-            ]
-          },
-          "TIDAL_ALBUM::489681644": {
-            "id": "489681644",
-            "type": "album",
-            "title": "Singing",
-            "artistName": "Gia Margaret",
-            "thumbnailUrl": "https://resources.tidal.com/images/0611691c/1e13/4ebf/8ac6/540299f6ead6/640x640.jpg",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "tidal",
-            "platforms": [
-              "tidal"
-            ]
-          }
-        },
-        "platforms": {
-          "spotify": "https://open.spotify.com/album/1h0ikRmxNYZFYR0s7xurzf",
-          "appleMusic": null,
-          "deezer": null,
-          "tidal": "https://listen.tidal.com/album/489681644",
-          "youtube": null,
-          "youtubeMusic": null,
-          "soundcloud": null,
-          "amazonMusic": null
-        }
-      },
-      "spotifySearchUrl": null
-    },
-    {
-      "artist": "Season 2",
-      "album": "Power of Now",
-      "label": "Upset the Rhythm",
-      "section": "starting5",
-      "spotify": {
-        "id": "6fkPWNsCaR0laWBfxsJuzq",
-        "name": "Power of Now",
-        "url": "https://open.spotify.com/album/6fkPWNsCaR0laWBfxsJuzq",
-        "release_date": "2026-04-24",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2731b662524379a194aee20ba4e",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e021b662524379a194aee20ba4e",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048511b662524379a194aee20ba4e",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "6NNLJ1tWGNmek1B62hDtJf",
-            "name": "Season 2"
-          }
-        ]
-      },
-      "songlink": {
-        "pageUrl": "https://album.link/s/6fkPWNsCaR0laWBfxsJuzq",
-        "entitiesByUniqueId": {
-          "PANDORA_ALBUM::AL:59798564": {
-            "id": "AL:59798564",
-            "type": "album",
-            "title": "Power of Now",
-            "artistName": "Season 2",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/5b/4e/2d/93/e6c84181aefa2e2c60c48713/_500W_500H.jpg",
-            "thumbnailWidth": 500,
-            "thumbnailHeight": 500,
-            "apiProvider": "pandora",
-            "platforms": [
-              "pandora"
-            ]
-          },
-          "SPOTIFY_ALBUM::6fkPWNsCaR0laWBfxsJuzq": {
-            "id": "6fkPWNsCaR0laWBfxsJuzq",
-            "type": "album",
-            "title": "Power of Now",
-            "artistName": "Season 2",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2731b662524379a194aee20ba4e",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "spotify",
-            "platforms": [
-              "spotify"
-            ]
-          },
-          "TIDAL_ALBUM::490233428": {
-            "id": "490233428",
-            "type": "album",
-            "title": "Power of Now",
-            "artistName": "Season 2",
-            "thumbnailUrl": "https://resources.tidal.com/images/4eb36a76/1919/45f9/8da6/31261da9a95b/640x640.jpg",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "tidal",
-            "platforms": [
-              "tidal"
-            ]
-          }
-        },
-        "platforms": {
-          "spotify": "https://open.spotify.com/album/6fkPWNsCaR0laWBfxsJuzq",
-          "appleMusic": null,
-          "deezer": null,
-          "tidal": "https://listen.tidal.com/album/490233428",
-          "youtube": null,
-          "youtubeMusic": null,
-          "soundcloud": null,
-          "amazonMusic": null
-        }
-      },
-      "spotifySearchUrl": null
-    },
-    {
-      "artist": "Quiet Light",
-      "album": "Blue Angel Sparkling Silver 2",
-      "label": "True Panther",
-      "section": "lightningRound",
-      "spotify": {
-        "id": "6jWka3XgiDpdNIuo04NMor",
-        "name": "Blue Angel Sparkling Silver 2",
-        "url": "https://open.spotify.com/album/6jWka3XgiDpdNIuo04NMor",
-        "release_date": "2026-04-24",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273f4dce28b1c871707478538ba",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02f4dce28b1c871707478538ba",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851f4dce28b1c871707478538ba",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "6Uy2IwBjxdF0MxQVIN18n9",
-            "name": "Quiet Light"
-          }
-        ]
-      },
-      "songlink": {
-        "pageUrl": "https://album.link/s/6jWka3XgiDpdNIuo04NMor",
-        "entitiesByUniqueId": {
-          "BANDCAMP_ALBUM::4172088059": {
-            "id": "4172088059",
-            "type": "album",
-            "title": "Blue Angel Sparkling Silver 2",
-            "artistName": "Quiet Light",
-            "thumbnailUrl": "https://f4.bcbits.com/img/a0376551553_5.jpg",
-            "thumbnailWidth": 700,
-            "thumbnailHeight": 700,
-            "apiProvider": "bandcamp",
-            "platforms": [
-              "bandcamp"
-            ]
-          },
-          "BOOMPLAY_ALBUM::123568109": {
-            "id": "123568109",
-            "type": "album",
-            "title": "Blue Angel Sparkling Silver 2",
-            "artistName": "Quiet Light",
-            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/01/13/fba63f53e0d94847bb3ed72b70db0e3fH1500W1500_464_464.jpg",
-            "thumbnailWidth": 464,
-            "thumbnailHeight": 464,
-            "apiProvider": "boomplay",
-            "platforms": [
-              "boomplay"
-            ]
-          },
-          "PANDORA_ALBUM::AL:59545199": {
-            "id": "AL:59545199",
-            "type": "album",
-            "title": "Blue Angel Sparkling Silver 2",
-            "artistName": "Quiet Light",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/de/b6/59/eb/00de4d2a8c79b7b7122d75d5/_500W_500H.jpg",
-            "thumbnailWidth": 500,
-            "thumbnailHeight": 500,
-            "apiProvider": "pandora",
-            "platforms": [
-              "pandora"
-            ]
-          },
-          "SPOTIFY_ALBUM::6jWka3XgiDpdNIuo04NMor": {
-            "id": "6jWka3XgiDpdNIuo04NMor",
-            "type": "album",
-            "title": "Blue Angel Sparkling Silver 2",
-            "artistName": "Quiet Light",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273f4dce28b1c871707478538ba",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "spotify",
-            "platforms": [
-              "spotify"
-            ]
-          },
-          "TIDAL_ALBUM::489322329": {
-            "id": "489322329",
-            "type": "album",
-            "title": "Blue Angel Sparkling Silver 2",
-            "artistName": "Quiet Light",
-            "thumbnailUrl": "https://resources.tidal.com/images/e681282b/99c6/488d/b440/2065127a0ef6/640x640.jpg",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "tidal",
-            "platforms": [
-              "tidal"
-            ]
-          }
-        },
-        "platforms": {
-          "spotify": "https://open.spotify.com/album/6jWka3XgiDpdNIuo04NMor",
-          "appleMusic": null,
-          "deezer": null,
-          "tidal": "https://listen.tidal.com/album/489322329",
-          "youtube": null,
-          "youtubeMusic": null,
-          "soundcloud": null,
-          "amazonMusic": null
-        }
-      },
-      "spotifySearchUrl": null
-    },
-    {
-      "artist": "Kiki Cavazos",
-      "album": "Goodbye Blues",
-      "label": "Jalopy",
-      "section": "lightningRound",
-      "spotify": {
-        "id": "2b9RE0ID237Eo1sZ6JNtmb",
-        "name": "Goodbye Blues",
-        "url": "https://open.spotify.com/album/2b9RE0ID237Eo1sZ6JNtmb",
-        "release_date": "2026-04-24",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27374a9867c4c992ad234df7ea8",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0274a9867c4c992ad234df7ea8",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485174a9867c4c992ad234df7ea8",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "0uDFMiwD7FYcxMSfBwYYzH",
-            "name": "Kiki Cavazos"
-          }
-        ]
-      },
-      "songlink": {
-        "pageUrl": "https://album.link/s/2b9RE0ID237Eo1sZ6JNtmb",
-        "entitiesByUniqueId": {
-          "BANDCAMP_ALBUM::1939957747": {
-            "id": "1939957747",
-            "type": "album",
-            "title": "Goodbye Blues",
-            "artistName": "Kiki Cavazos",
-            "thumbnailUrl": "https://f4.bcbits.com/img/a1203692961_5.jpg",
-            "thumbnailWidth": 700,
-            "thumbnailHeight": 700,
-            "apiProvider": "bandcamp",
-            "platforms": [
-              "bandcamp"
-            ]
-          },
-          "PANDORA_ALBUM::AL:61138143": {
-            "id": "AL:61138143",
-            "type": "album",
-            "title": "Goodbye Blues",
-            "artistName": "Kiki Cavazos",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/17/d5/8a/0a/166640e0a505cc819fb13e7f/_500W_500H.jpg",
-            "thumbnailWidth": 500,
-            "thumbnailHeight": 500,
-            "apiProvider": "pandora",
-            "platforms": [
-              "pandora"
-            ]
-          },
-          "SPOTIFY_ALBUM::2b9RE0ID237Eo1sZ6JNtmb": {
-            "id": "2b9RE0ID237Eo1sZ6JNtmb",
-            "type": "album",
-            "title": "Goodbye Blues",
-            "artistName": "Kiki Cavazos",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b27374a9867c4c992ad234df7ea8",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "spotify",
-            "platforms": [
-              "spotify"
-            ]
-          },
-          "TIDAL_ALBUM::487707883": {
-            "id": "487707883",
-            "type": "album",
-            "title": "Goodbye Blues",
-            "artistName": "Kiki Cavazos",
-            "thumbnailUrl": "https://resources.tidal.com/images/d884107c/d045/4ac0/bfd7/1c7ae0650e95/640x640.jpg",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "tidal",
-            "platforms": [
-              "tidal"
-            ]
-          }
-        },
-        "platforms": {
-          "spotify": "https://open.spotify.com/album/2b9RE0ID237Eo1sZ6JNtmb",
-          "appleMusic": null,
-          "deezer": null,
-          "tidal": "https://listen.tidal.com/album/487707883",
-          "youtube": null,
-          "youtubeMusic": null,
-          "soundcloud": null,
-          "amazonMusic": null
-        }
-      },
-      "spotifySearchUrl": null
-    },
-    {
-      "artist": "Carla Del Forno",
-      "album": "Confession",
-      "label": "Kallista",
-      "section": "lightningRound",
       "spotify": null,
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Carla%20Del%20Forno%20Confession"
+      "spotifySearchUrl": "https://open.spotify.com/search/Isaiah%20Rashad%20It's%20Been%20Awful"
     },
     {
-      "artist": "The Milk Carton Kids",
-      "album": "Lost Cause Lover Fool",
-      "label": "Thirty Tigers",
-      "section": "lightningRound",
+      "artist": "Tori Amos",
+      "album": "In Times of Dragons",
+      "label": "Fontana",
+      "section": "starting5",
       "spotify": {
-        "id": "5Da2gVIzT3m8pSAsNHv9Mv",
-        "name": "Lost Cause Lover Fool",
-        "url": "https://open.spotify.com/album/5Da2gVIzT3m8pSAsNHv9Mv",
-        "release_date": "2026-04-24",
+        "id": "6KnWKWlU9xvhuOxEgkl4l2",
+        "name": "In Times Of Dragons",
+        "url": "https://open.spotify.com/album/6KnWKWlU9xvhuOxEgkl4l2",
+        "release_date": "2026-05-01",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2731f6dfd6f32765c60f518429b",
+            "url": "https://i.scdn.co/image/ab67616d0000b27341c50399a462a25ffc9c29ae",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e021f6dfd6f32765c60f518429b",
+            "url": "https://i.scdn.co/image/ab67616d00001e0241c50399a462a25ffc9c29ae",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048511f6dfd6f32765c60f518429b",
+            "url": "https://i.scdn.co/image/ab67616d0000485141c50399a462a25ffc9c29ae",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "7fxtWEwKKrFaykKItspdYg",
-            "name": "The Milk Carton Kids"
+            "id": "1KsASRNugxU85T0u6zSg32",
+            "name": "Tori Amos"
           }
         ]
       },
       "songlink": {
-        "pageUrl": "https://album.link/s/5Da2gVIzT3m8pSAsNHv9Mv",
+        "pageUrl": "https://album.link/s/6KnWKWlU9xvhuOxEgkl4l2",
         "entitiesByUniqueId": {
-          "BANDCAMP_ALBUM::3760503319": {
-            "id": "3760503319",
+          "BANDCAMP_ALBUM::2672090638": {
+            "id": "2672090638",
             "type": "album",
-            "title": "Lost Cause Lover Fool",
-            "artistName": "The Milk Carton Kids",
-            "thumbnailUrl": "https://f4.bcbits.com/img/a3426553220_5.jpg",
+            "title": "In Times Of Dragons",
+            "artistName": "Tori Amos",
+            "thumbnailUrl": "https://f4.bcbits.com/img/a4161038197_5.jpg",
             "thumbnailWidth": 700,
             "thumbnailHeight": 700,
             "apiProvider": "bandcamp",
@@ -786,12 +283,25 @@
               "bandcamp"
             ]
           },
-          "PANDORA_ALBUM::AL:57759994": {
-            "id": "AL:57759994",
+          "BOOMPLAY_ALBUM::130274652": {
+            "id": "130274652",
             "type": "album",
-            "title": "Lost Cause Lover Fool",
-            "artistName": "The Milk Carton Kids",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/c8/83/78/aa/bf8c40179ecff0484e5b1baf/_500W_500H.jpg",
+            "title": "In Times Of Dragons",
+            "artistName": "Tori Amos",
+            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/05/01/c8f30ff875384ba4b1c122bcf9005cc7H1400W1400_464_464.jpg",
+            "thumbnailWidth": 464,
+            "thumbnailHeight": 464,
+            "apiProvider": "boomplay",
+            "platforms": [
+              "boomplay"
+            ]
+          },
+          "PANDORA_ALBUM::AL:65662449": {
+            "id": "AL:65662449",
+            "type": "album",
+            "title": "In Times Of Dragons",
+            "artistName": "Tori Amos",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/ee/75/df/b2/289c4316a27d5eb82f5db5b5/_500W_500H.jpg",
             "thumbnailWidth": 500,
             "thumbnailHeight": 500,
             "apiProvider": "pandora",
@@ -799,12 +309,12 @@
               "pandora"
             ]
           },
-          "SPOTIFY_ALBUM::5Da2gVIzT3m8pSAsNHv9Mv": {
-            "id": "5Da2gVIzT3m8pSAsNHv9Mv",
+          "SPOTIFY_ALBUM::6KnWKWlU9xvhuOxEgkl4l2": {
+            "id": "6KnWKWlU9xvhuOxEgkl4l2",
             "type": "album",
-            "title": "Lost Cause Lover Fool",
-            "artistName": "The Milk Carton Kids",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2731f6dfd6f32765c60f518429b",
+            "title": "In Times Of Dragons",
+            "artistName": "Tori Amos",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b27341c50399a462a25ffc9c29ae",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "spotify",
@@ -812,12 +322,12 @@
               "spotify"
             ]
           },
-          "TIDAL_ALBUM::480761604": {
-            "id": "480761604",
+          "TIDAL_ALBUM::518738176": {
+            "id": "518738176",
             "type": "album",
-            "title": "Lost Cause Lover Fool",
-            "artistName": "The Milk Carton Kids",
-            "thumbnailUrl": "https://resources.tidal.com/images/023d8757/d45d/4a27/ab58/d072b5ce7984/640x640.jpg",
+            "title": "In Times Of Dragons",
+            "artistName": "Tori Amos",
+            "thumbnailUrl": "https://resources.tidal.com/images/9bcc5a3e/f978/48f1/a7a6/dccfcfc8e795/640x640.jpg",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "tidal",
@@ -827,10 +337,10 @@
           }
         },
         "platforms": {
-          "spotify": "https://open.spotify.com/album/5Da2gVIzT3m8pSAsNHv9Mv",
+          "spotify": "https://open.spotify.com/album/6KnWKWlU9xvhuOxEgkl4l2",
           "appleMusic": null,
           "deezer": null,
-          "tidal": "https://listen.tidal.com/album/480761604",
+          "tidal": "https://listen.tidal.com/album/518738176",
           "youtube": null,
           "youtubeMusic": null,
           "soundcloud": null,
@@ -840,138 +350,48 @@
       "spotifySearchUrl": null
     },
     {
-      "artist": "Trueno",
-      "album": "TURR4ZO",
-      "label": "Sony Music",
-      "section": "lightningRound",
+      "artist": "Ana Roxanne",
+      "album": "Poem 1",
+      "label": "Kranky",
+      "section": "starting5",
       "spotify": {
-        "id": "5nUfysd9pD76m2nxU0qHmU",
-        "name": "TURR4ZO",
-        "url": "https://open.spotify.com/album/5nUfysd9pD76m2nxU0qHmU",
-        "release_date": "2026-04-24",
+        "id": "4eLf3APm1Cb4vqmJUnDLpr",
+        "name": "Poem 1",
+        "url": "https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr",
+        "release_date": "2026-05-01",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2737a601fb00cbcc3536e33eabc",
+            "url": "https://i.scdn.co/image/ab67616d0000b273f32a3d82c33b956a32dd3fb9",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e027a601fb00cbcc3536e33eabc",
+            "url": "https://i.scdn.co/image/ab67616d00001e02f32a3d82c33b956a32dd3fb9",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048517a601fb00cbcc3536e33eabc",
+            "url": "https://i.scdn.co/image/ab67616d00004851f32a3d82c33b956a32dd3fb9",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "2x7PC78TmgqpEIjaGAZ0Oz",
-            "name": "Trueno"
+            "id": "2fSBHYgZUSIQPolv5skG5I",
+            "name": "Ana Roxanne"
           }
         ]
       },
       "songlink": {
-        "pageUrl": "https://album.link/s/5nUfysd9pD76m2nxU0qHmU",
+        "pageUrl": "https://album.link/s/4eLf3APm1Cb4vqmJUnDLpr",
         "entitiesByUniqueId": {
-          "PANDORA_ALBUM::AL:65471262": {
-            "id": "AL:65471262",
+          "BANDCAMP_ALBUM::2434629595": {
+            "id": "2434629595",
             "type": "album",
-            "title": "TURR4ZO",
-            "artistName": "Trueno",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/75/cd/82/d7/467e4310a02134964b35635e/_500W_500H.jpg",
-            "thumbnailWidth": 500,
-            "thumbnailHeight": 500,
-            "apiProvider": "pandora",
-            "platforms": [
-              "pandora"
-            ]
-          },
-          "SPOTIFY_ALBUM::5nUfysd9pD76m2nxU0qHmU": {
-            "id": "5nUfysd9pD76m2nxU0qHmU",
-            "type": "album",
-            "title": "TURR4ZO",
-            "artistName": "Trueno",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273f9b224a1d2999f16ba6d5ffb",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "spotify",
-            "platforms": [
-              "spotify"
-            ]
-          },
-          "TIDAL_ALBUM::518713500": {
-            "id": "518713500",
-            "type": "album",
-            "title": "TURR4ZO",
-            "artistName": "Trueno",
-            "thumbnailUrl": "https://resources.tidal.com/images/2da63500/5a74/4bc7/a17d/6e8cfb7f4800/640x640.jpg",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "tidal",
-            "platforms": [
-              "tidal"
-            ]
-          }
-        },
-        "platforms": {
-          "spotify": "https://open.spotify.com/album/5nUfysd9pD76m2nxU0qHmU",
-          "appleMusic": null,
-          "deezer": null,
-          "tidal": "https://listen.tidal.com/album/518713500",
-          "youtube": null,
-          "youtubeMusic": null,
-          "soundcloud": null,
-          "amazonMusic": null
-        }
-      },
-      "spotifySearchUrl": null
-    },
-    {
-      "artist": "Friko",
-      "album": "Something Worth Waiting For",
-      "label": "ATO",
-      "section": "dorasCorner",
-      "spotify": {
-        "id": "188WRkngMxrMTVmeWKp3yG",
-        "name": "Something Worth Waiting For",
-        "url": "https://open.spotify.com/album/188WRkngMxrMTVmeWKp3yG",
-        "release_date": "2026-04-24",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27366eb2130827a7c52b5928d53",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0266eb2130827a7c52b5928d53",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485166eb2130827a7c52b5928d53",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "5HViQsHNdOovxKa420CPGR",
-            "name": "Friko"
-          }
-        ]
-      },
-      "songlink": {
-        "pageUrl": "https://album.link/s/188WRkngMxrMTVmeWKp3yG",
-        "entitiesByUniqueId": {
-          "BANDCAMP_ALBUM::2962217654": {
-            "id": "2962217654",
-            "type": "album",
-            "title": "Something Worth Waiting For",
-            "artistName": "Friko",
-            "thumbnailUrl": "https://f4.bcbits.com/img/a3443920591_5.jpg",
+            "title": "Poem 1",
+            "artistName": "Ana Roxanne",
+            "thumbnailUrl": "https://f4.bcbits.com/img/a1765181823_5.jpg",
             "thumbnailWidth": 700,
             "thumbnailHeight": 700,
             "apiProvider": "bandcamp",
@@ -979,25 +399,12 @@
               "bandcamp"
             ]
           },
-          "BOOMPLAY_ALBUM::123002103": {
-            "id": "123002103",
+          "PANDORA_ALBUM::AL:61284622": {
+            "id": "AL:61284622",
             "type": "album",
-            "title": "Something Worth Waiting For",
-            "artistName": "Friko",
-            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/01/04/c7b268f2fb874d488e7e6e5339f2fe70H1500W1500_464_464.jpg",
-            "thumbnailWidth": 464,
-            "thumbnailHeight": 464,
-            "apiProvider": "boomplay",
-            "platforms": [
-              "boomplay"
-            ]
-          },
-          "PANDORA_ALBUM::AL:59150915": {
-            "id": "AL:59150915",
-            "type": "album",
-            "title": "Something Worth Waiting For",
-            "artistName": "Friko",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/0c/f9/2d/31/c08f42618a8c859f728724a5/_500W_500H.jpg",
+            "title": "Poem 1",
+            "artistName": "Ana Roxanne",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/65/1d/d8/d1/bd51453f8f390c08b9b8e84f/_500W_500H.jpg",
             "thumbnailWidth": 500,
             "thumbnailHeight": 500,
             "apiProvider": "pandora",
@@ -1005,12 +412,12 @@
               "pandora"
             ]
           },
-          "SPOTIFY_ALBUM::188WRkngMxrMTVmeWKp3yG": {
-            "id": "188WRkngMxrMTVmeWKp3yG",
+          "SPOTIFY_ALBUM::4eLf3APm1Cb4vqmJUnDLpr": {
+            "id": "4eLf3APm1Cb4vqmJUnDLpr",
             "type": "album",
-            "title": "Something Worth Waiting For",
-            "artistName": "Friko",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b27366eb2130827a7c52b5928d53",
+            "title": "Poem 1",
+            "artistName": "Ana Roxanne",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273f32a3d82c33b956a32dd3fb9",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "spotify",
@@ -1018,12 +425,12 @@
               "spotify"
             ]
           },
-          "TIDAL_ALBUM::487209030": {
-            "id": "487209030",
+          "TIDAL_ALBUM::498603469": {
+            "id": "498603469",
             "type": "album",
-            "title": "Something Worth Waiting For",
-            "artistName": "Friko",
-            "thumbnailUrl": "https://resources.tidal.com/images/5fe6b2a1/9559/44fd/9999/bb367be3551b/640x640.jpg",
+            "title": "Poem 1",
+            "artistName": "Ana Roxanne",
+            "thumbnailUrl": "https://resources.tidal.com/images/6eecbfb0/f866/4dfa/beb2/c34b94e6f4c4/640x640.jpg",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "tidal",
@@ -1033,10 +440,10 @@
           }
         },
         "platforms": {
-          "spotify": "https://open.spotify.com/album/188WRkngMxrMTVmeWKp3yG",
+          "spotify": "https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr",
           "appleMusic": null,
           "deezer": null,
-          "tidal": "https://listen.tidal.com/album/487209030",
+          "tidal": "https://listen.tidal.com/album/498603469",
           "youtube": null,
           "youtubeMusic": null,
           "soundcloud": null,
@@ -1046,164 +453,48 @@
       "spotifySearchUrl": null
     },
     {
-      "artist": "James K",
-      "album": "Friend Remixes",
-      "label": "AD93",
+      "artist": "Lip Critic",
+      "album": "Theft World",
+      "label": "Partisan",
       "section": "dorasCorner",
       "spotify": {
-        "id": "0ttON9DNtdujNQ8qcnIMMS",
-        "name": "Friend Remixes",
-        "url": "https://open.spotify.com/album/0ttON9DNtdujNQ8qcnIMMS",
-        "release_date": "2026-04-24",
+        "id": "6UQvKJID9tTP81IIFRt9Dk",
+        "name": "Theft World",
+        "url": "https://open.spotify.com/album/6UQvKJID9tTP81IIFRt9Dk",
+        "release_date": "2026-05-01",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27372a66f006fb6412e22ad3076",
+            "url": "https://i.scdn.co/image/ab67616d0000b2732dd01abb077567509f00a39c",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0272a66f006fb6412e22ad3076",
+            "url": "https://i.scdn.co/image/ab67616d00001e022dd01abb077567509f00a39c",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485172a66f006fb6412e22ad3076",
+            "url": "https://i.scdn.co/image/ab67616d000048512dd01abb077567509f00a39c",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "25BObiRSDCMwVrBGIVaLIf",
-            "name": "james K"
+            "id": "4ABuKdLlVyzLztIFR8ETX9",
+            "name": "Lip Critic"
           }
         ]
       },
       "songlink": {
-        "pageUrl": "https://album.link/s/0ttON9DNtdujNQ8qcnIMMS",
+        "pageUrl": "https://album.link/s/6UQvKJID9tTP81IIFRt9Dk",
         "entitiesByUniqueId": {
-          "BOOMPLAY_ALBUM::129957544": {
-            "id": "129957544",
+          "AMAZON_ALBUM::B0G26WDTWB": {
+            "id": "B0G26WDTWB",
             "type": "album",
-            "title": "Friend Remixes",
-            "artistName": "james K",
-            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/04/23/d2dba3e7ebcb4f669377b9e44623570bH1500W1500_464_464.png",
-            "thumbnailWidth": 464,
-            "thumbnailHeight": 464,
-            "apiProvider": "boomplay",
-            "platforms": [
-              "boomplay"
-            ]
-          },
-          "PANDORA_ALBUM::AL:65645692": {
-            "id": "AL:65645692",
-            "type": "album",
-            "title": "Friend Remixes",
-            "artistName": "James K",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/9a/89/65/6c/43e643b7bd48cc77c546db51/_500W_500H.jpg",
-            "thumbnailWidth": 500,
-            "thumbnailHeight": 500,
-            "apiProvider": "pandora",
-            "platforms": [
-              "pandora"
-            ]
-          },
-          "SPOTIFY_ALBUM::0ttON9DNtdujNQ8qcnIMMS": {
-            "id": "0ttON9DNtdujNQ8qcnIMMS",
-            "type": "album",
-            "title": "Friend Remixes",
-            "artistName": "james K",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b27372a66f006fb6412e22ad3076",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "spotify",
-            "platforms": [
-              "spotify"
-            ]
-          },
-          "TIDAL_ALBUM::518683784": {
-            "id": "518683784",
-            "type": "album",
-            "title": "Friend Remixes",
-            "artistName": "james K",
-            "thumbnailUrl": "https://resources.tidal.com/images/0c3ef902/49c9/453d/99ad/780c71c1a12c/640x640.jpg",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "tidal",
-            "platforms": [
-              "tidal"
-            ]
-          },
-          "YANDEX_ALBUM::41768247": {
-            "id": "41768247",
-            "type": "album",
-            "title": "Friend Remixes",
-            "artistName": "James K",
-            "thumbnailUrl": "https://avatars.yandex.net/get-music-content/16450533/1d4d54a5.a.41768247-1/600x600",
-            "thumbnailWidth": 600,
-            "thumbnailHeight": 600,
-            "apiProvider": "yandex",
-            "platforms": [
-              "yandex"
-            ]
-          }
-        },
-        "platforms": {
-          "spotify": "https://open.spotify.com/album/0ttON9DNtdujNQ8qcnIMMS",
-          "appleMusic": null,
-          "deezer": null,
-          "tidal": "https://listen.tidal.com/album/518683784",
-          "youtube": null,
-          "youtubeMusic": null,
-          "soundcloud": null,
-          "amazonMusic": null
-        }
-      },
-      "spotifySearchUrl": null
-    },
-    {
-      "artist": "portrayal of guilt",
-      "album": "…Beginning of the End",
-      "label": "Run For Cover",
-      "section": "dorasCorner",
-      "spotify": {
-        "id": "18CWBgJcAxjZJ4LbiigPfY",
-        "name": "...Beginning of the End",
-        "url": "https://open.spotify.com/album/18CWBgJcAxjZJ4LbiigPfY",
-        "release_date": "2026-04-24",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2735b62b13ab9b9decd8b4582f7",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e025b62b13ab9b9decd8b4582f7",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048515b62b13ab9b9decd8b4582f7",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "1Uwe1MbiKnPHAFh3qMWuNp",
-            "name": "Portrayal of Guilt"
-          }
-        ]
-      },
-      "songlink": {
-        "pageUrl": "https://album.link/s/18CWBgJcAxjZJ4LbiigPfY",
-        "entitiesByUniqueId": {
-          "AMAZON_ALBUM::B0GLK4DPYT": {
-            "id": "B0GLK4DPYT",
-            "type": "album",
-            "title": "...Beginning of the End",
-            "artistName": "Portrayal of Guilt",
-            "thumbnailUrl": "https://m.media-amazon.com/images/I/41fEuYxaqZL._AA500.jpg",
+            "title": "Theft World",
+            "artistName": "Lip Critic",
+            "thumbnailUrl": "https://m.media-amazon.com/images/I/51WkXrlKhnL.jpg",
             "thumbnailWidth": 500,
             "thumbnailHeight": 500,
             "apiProvider": "amazon",
@@ -1212,12 +503,25 @@
               "amazonStore"
             ]
           },
-          "BOOMPLAY_ALBUM::125141867": {
-            "id": "125141867",
+          "BANDCAMP_ALBUM::2959453651": {
+            "id": "2959453651",
             "type": "album",
-            "title": "...Beginning of the End",
-            "artistName": "Portrayal of Guilt",
-            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/02/04/37dfef6104d4430a8180e56ee5cf2627H1500W1500_464_464.jpg",
+            "title": "Theft World",
+            "artistName": "Lip Critic",
+            "thumbnailUrl": "https://f4.bcbits.com/img/a0908375874_5.jpg",
+            "thumbnailWidth": 700,
+            "thumbnailHeight": 700,
+            "apiProvider": "bandcamp",
+            "platforms": [
+              "bandcamp"
+            ]
+          },
+          "BOOMPLAY_ALBUM::119576685": {
+            "id": "119576685",
+            "type": "album",
+            "title": "Theft World",
+            "artistName": "Lip Critic",
+            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/01/09/3090aa07a9284a9a8100104932dba8daH1500W1500_464_464.jpg",
             "thumbnailWidth": 464,
             "thumbnailHeight": 464,
             "apiProvider": "boomplay",
@@ -1225,12 +529,12 @@
               "boomplay"
             ]
           },
-          "PANDORA_ALBUM::AL:60877749": {
-            "id": "AL:60877749",
+          "PANDORA_ALBUM::AL:56324976": {
+            "id": "AL:56324976",
             "type": "album",
-            "title": "...Beginning of the End",
-            "artistName": "Portrayal of Guilt",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/dd/21/5e/d0/1303408c91465867f3f7b345/_500W_500H.jpg",
+            "title": "Theft World",
+            "artistName": "Lip Critic",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/09/10/e2/47/80ee4881b68611160db6d4e8/_500W_500H.jpg",
             "thumbnailWidth": 500,
             "thumbnailHeight": 500,
             "apiProvider": "pandora",
@@ -1238,12 +542,12 @@
               "pandora"
             ]
           },
-          "SPOTIFY_ALBUM::18CWBgJcAxjZJ4LbiigPfY": {
-            "id": "18CWBgJcAxjZJ4LbiigPfY",
+          "SPOTIFY_ALBUM::6UQvKJID9tTP81IIFRt9Dk": {
+            "id": "6UQvKJID9tTP81IIFRt9Dk",
             "type": "album",
-            "title": "...Beginning of the End",
-            "artistName": "Portrayal of Guilt",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2735b62b13ab9b9decd8b4582f7",
+            "title": "Theft World",
+            "artistName": "Lip Critic",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2732dd01abb077567509f00a39c",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "spotify",
@@ -1251,12 +555,12 @@
               "spotify"
             ]
           },
-          "TIDAL_ALBUM::496039211": {
-            "id": "496039211",
+          "TIDAL_ALBUM::473731142": {
+            "id": "473731142",
             "type": "album",
-            "title": "...Beginning of the End",
-            "artistName": "Portrayal of Guilt",
-            "thumbnailUrl": "https://resources.tidal.com/images/54bd19ff/d157/4293/97ae/ba431be875ef/640x640.jpg",
+            "title": "Theft World",
+            "artistName": "Lip Critic",
+            "thumbnailUrl": "https://resources.tidal.com/images/b0804a0c/3c6f/4d0b/bf6a/d5ddcd3e52b2/640x640.jpg",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "tidal",
@@ -1266,14 +570,233 @@
           }
         },
         "platforms": {
-          "spotify": "https://open.spotify.com/album/18CWBgJcAxjZJ4LbiigPfY",
+          "spotify": "https://open.spotify.com/album/6UQvKJID9tTP81IIFRt9Dk",
           "appleMusic": null,
           "deezer": null,
-          "tidal": "https://listen.tidal.com/album/496039211",
+          "tidal": "https://listen.tidal.com/album/473731142",
           "youtube": null,
           "youtubeMusic": null,
           "soundcloud": null,
-          "amazonMusic": "https://music.amazon.com/albums/B0GLK4DPYT"
+          "amazonMusic": "https://music.amazon.com/albums/B0G26WDTWB"
+        }
+      },
+      "spotifySearchUrl": null
+    },
+    {
+      "artist": "Frail Talk",
+      "album": "Circles & Visions",
+      "label": "self-released",
+      "section": "dorasCorner",
+      "spotify": {
+        "id": "15omljahSJTErXoGVolpYV",
+        "name": "Circles & Visions",
+        "url": "https://open.spotify.com/album/15omljahSJTErXoGVolpYV",
+        "release_date": "2026-05-01",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273a0ac4dc28a75c7cf90a87159",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02a0ac4dc28a75c7cf90a87159",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851a0ac4dc28a75c7cf90a87159",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "7stmp1OR4yaVInBIXIeKBf",
+            "name": "Frail Talk"
+          }
+        ]
+      },
+      "songlink": {
+        "pageUrl": "https://album.link/s/15omljahSJTErXoGVolpYV",
+        "entitiesByUniqueId": {
+          "BANDCAMP_ALBUM::2941838792": {
+            "id": "2941838792",
+            "type": "album",
+            "title": "Circles & Visions",
+            "artistName": "Frail Talk",
+            "thumbnailUrl": "https://f4.bcbits.com/img/a1879807143_5.jpg",
+            "thumbnailWidth": 700,
+            "thumbnailHeight": 700,
+            "apiProvider": "bandcamp",
+            "platforms": [
+              "bandcamp"
+            ]
+          },
+          "PANDORA_ALBUM::AL:63576225": {
+            "id": "AL:63576225",
+            "type": "album",
+            "title": "Circles & Visions",
+            "artistName": "Frail Talk",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/f0/17/49/14/0b29499ea416ee4bdea1e90c/_500W_500H.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "pandora",
+            "platforms": [
+              "pandora"
+            ]
+          },
+          "SPOTIFY_ALBUM::15omljahSJTErXoGVolpYV": {
+            "id": "15omljahSJTErXoGVolpYV",
+            "type": "album",
+            "title": "Circles & Visions",
+            "artistName": "Frail Talk",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273a0ac4dc28a75c7cf90a87159",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "spotify",
+            "platforms": [
+              "spotify"
+            ]
+          },
+          "TIDAL_ALBUM::508835410": {
+            "id": "508835410",
+            "type": "album",
+            "title": "Circles & Visions",
+            "artistName": "Frail Talk",
+            "thumbnailUrl": "https://resources.tidal.com/images/b4741026/2c1f/4456/befc/ff83e3d70a3b/640x640.jpg",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "tidal",
+            "platforms": [
+              "tidal"
+            ]
+          }
+        },
+        "platforms": {
+          "spotify": "https://open.spotify.com/album/15omljahSJTErXoGVolpYV",
+          "appleMusic": null,
+          "deezer": null,
+          "tidal": "https://listen.tidal.com/album/508835410",
+          "youtube": null,
+          "youtubeMusic": null,
+          "soundcloud": null,
+          "amazonMusic": null
+        }
+      },
+      "spotifySearchUrl": null
+    },
+    {
+      "artist": "Knats",
+      "album": "A Great Day In Newcastle",
+      "label": "Gearbox",
+      "section": "dorasCorner",
+      "spotify": {
+        "id": "5XtH8sRhkHf0TOCM0E5ful",
+        "name": "A Great Day In Newcastle",
+        "url": "https://open.spotify.com/album/5XtH8sRhkHf0TOCM0E5ful",
+        "release_date": "2026-05-01",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2735d7a03393528ae1a4155b8e9",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e025d7a03393528ae1a4155b8e9",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048515d7a03393528ae1a4155b8e9",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "0l2OFUKz7eXLlPfO1LrGt7",
+            "name": "Knats"
+          }
+        ]
+      },
+      "songlink": {
+        "pageUrl": "https://album.link/s/5XtH8sRhkHf0TOCM0E5ful",
+        "entitiesByUniqueId": {
+          "BANDCAMP_ALBUM::95106358": {
+            "id": "95106358",
+            "type": "album",
+            "title": "A Great Day In Newcastle",
+            "artistName": "Knats",
+            "thumbnailUrl": "https://f4.bcbits.com/img/a3088128743_5.jpg",
+            "thumbnailWidth": 700,
+            "thumbnailHeight": 700,
+            "apiProvider": "bandcamp",
+            "platforms": [
+              "bandcamp"
+            ]
+          },
+          "BOOMPLAY_ALBUM::124423156": {
+            "id": "124423156",
+            "type": "album",
+            "title": "A Great Day In Newcastle",
+            "artistName": "Knats",
+            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/05/01/11de4e5ac87b426ba8e2793301568399H1400W1400_464_464.jpg",
+            "thumbnailWidth": 464,
+            "thumbnailHeight": 464,
+            "apiProvider": "boomplay",
+            "platforms": [
+              "boomplay"
+            ]
+          },
+          "PANDORA_ALBUM::AL:60383612": {
+            "id": "AL:60383612",
+            "type": "album",
+            "title": "A Great Day In Newcastle",
+            "artistName": "Knats",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/17/96/2e/4c/adb04428aec7df37114f835b/_500W_500H.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "pandora",
+            "platforms": [
+              "pandora"
+            ]
+          },
+          "SPOTIFY_ALBUM::5XtH8sRhkHf0TOCM0E5ful": {
+            "id": "5XtH8sRhkHf0TOCM0E5ful",
+            "type": "album",
+            "title": "A Great Day In Newcastle",
+            "artistName": "Knats",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2735d7a03393528ae1a4155b8e9",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "spotify",
+            "platforms": [
+              "spotify"
+            ]
+          },
+          "TIDAL_ALBUM::518748366": {
+            "id": "518748366",
+            "type": "album",
+            "title": "A Great Day In Newcastle",
+            "artistName": "Knats",
+            "thumbnailUrl": "https://resources.tidal.com/images/9f50f5d8/a451/4b60/8614/0d45100f4bf4/640x640.jpg",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "tidal",
+            "platforms": [
+              "tidal"
+            ]
+          }
+        },
+        "platforms": {
+          "spotify": "https://open.spotify.com/album/5XtH8sRhkHf0TOCM0E5ful",
+          "appleMusic": null,
+          "deezer": null,
+          "tidal": "https://listen.tidal.com/album/518748366",
+          "youtube": null,
+          "youtubeMusic": null,
+          "soundcloud": null,
+          "amazonMusic": null
         }
       },
       "spotifySearchUrl": null
