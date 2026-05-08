@@ -1,156 +1,53 @@
 {
-  "source": "https://www.npr.org/2026/05/01/nx-s1-5778469/new-music-friday-best-albums-may-1-2026",
-  "scrapedAt": "2026-05-01T20:41:36.349Z",
-  "date": "2026-05-01",
-  "title": "New Music Friday: The best albums out May 1",
-  "total": 8,
+  "source": "https://www.npr.org/2026/05/08/nx-s1-5778471/new-music-friday-best-albums-may-8-2026",
+  "scrapedAt": "2026-05-08T20:48:11.635Z",
+  "date": "2026-05-08",
+  "title": "New Music Friday: The best albums out May 8",
+  "total": 13,
   "albums": [
     {
-      "artist": "Kacey Musgraves",
-      "album": "Middle of Nowhere",
-      "label": "Lost Highway",
+      "artist": "MUNA",
+      "album": "Dancing on the Wall",
+      "label": "Saddest Factory",
       "section": "starting5",
       "spotify": {
-        "id": "269NuTU0YVTRAmvI8uW6Vr",
-        "name": "Middle of Nowhere",
-        "url": "https://open.spotify.com/album/269NuTU0YVTRAmvI8uW6Vr",
-        "release_date": "2026-04-30",
+        "id": "2CJw4ooOgUAxJkJpNiKcd3",
+        "name": "Dancing On The Wall",
+        "url": "https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3",
+        "release_date": "2026-05-08",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273959baa3a3328879470b85865",
+            "url": "https://i.scdn.co/image/ab67616d0000b2739db5c80354d45ef87ae5bfd3",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02959baa3a3328879470b85865",
+            "url": "https://i.scdn.co/image/ab67616d00001e029db5c80354d45ef87ae5bfd3",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851959baa3a3328879470b85865",
+            "url": "https://i.scdn.co/image/ab67616d000048519db5c80354d45ef87ae5bfd3",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "70kkdajctXSbqSMJbQO424",
-            "name": "Kacey Musgraves"
+            "id": "6xdRb2GypJ7DqnWAI2mHGn",
+            "name": "MUNA"
           }
         ]
       },
       "songlink": {
-        "pageUrl": "https://album.link/s/269NuTU0YVTRAmvI8uW6Vr",
+        "pageUrl": "https://album.link/s/2CJw4ooOgUAxJkJpNiKcd3",
         "entitiesByUniqueId": {
-          "BOOMPLAY_ALBUM::130391567": {
-            "id": "130391567",
+          "BANDCAMP_ALBUM::1358396162": {
+            "id": "1358396162",
             "type": "album",
-            "title": "Middle of Nowhere",
-            "artistName": "Kacey Musgraves",
-            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/05/01/b468cb6fad3f412e9ce1ce505de58d48H1400W1400_464_464.jpg",
-            "thumbnailWidth": 464,
-            "thumbnailHeight": 464,
-            "apiProvider": "boomplay",
-            "platforms": [
-              "boomplay"
-            ]
-          },
-          "PANDORA_ALBUM::AL:65877644": {
-            "id": "AL:65877644",
-            "type": "album",
-            "title": "Middle of Nowhere",
-            "artistName": "Kacey Musgraves",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/e1/fd/46/1f/01b64d359d897eec835389c2/_500W_500H.jpg",
-            "thumbnailWidth": 500,
-            "thumbnailHeight": 500,
-            "apiProvider": "pandora",
-            "platforms": [
-              "pandora"
-            ]
-          },
-          "SPOTIFY_ALBUM::269NuTU0YVTRAmvI8uW6Vr": {
-            "id": "269NuTU0YVTRAmvI8uW6Vr",
-            "type": "album",
-            "title": "Middle of Nowhere",
-            "artistName": "Kacey Musgraves",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273959baa3a3328879470b85865",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "spotify",
-            "platforms": [
-              "spotify"
-            ]
-          },
-          "TIDAL_ALBUM::519978284": {
-            "id": "519978284",
-            "type": "album",
-            "title": "Middle of Nowhere",
-            "artistName": "Kacey Musgraves",
-            "thumbnailUrl": "https://resources.tidal.com/images/2e33430c/5849/42f0/b822/3482ebb5dee4/640x640.jpg",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "tidal",
-            "platforms": [
-              "tidal"
-            ]
-          }
-        },
-        "platforms": {
-          "spotify": "https://open.spotify.com/album/269NuTU0YVTRAmvI8uW6Vr",
-          "appleMusic": null,
-          "deezer": null,
-          "tidal": "https://listen.tidal.com/album/519978284",
-          "youtube": null,
-          "youtubeMusic": null,
-          "soundcloud": null,
-          "amazonMusic": null
-        }
-      },
-      "spotifySearchUrl": null
-    },
-    {
-      "artist": "American Football",
-      "album": "American Football LP4",
-      "label": "Polyvinyl",
-      "section": "starting5",
-      "spotify": {
-        "id": "3fhKJU3nUfduKj9YhEAoGf",
-        "name": "American Football (LP4)",
-        "url": "https://open.spotify.com/album/3fhKJU3nUfduKj9YhEAoGf",
-        "release_date": "2026-05-01",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27359654022fe74df87ff7cf866",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0259654022fe74df87ff7cf866",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485159654022fe74df87ff7cf866",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "5FwydyGVcsQllnM4xM6jw4",
-            "name": "American Football"
-          }
-        ]
-      },
-      "songlink": {
-        "pageUrl": "https://album.link/s/3fhKJU3nUfduKj9YhEAoGf",
-        "entitiesByUniqueId": {
-          "BANDCAMP_ALBUM::1561914484": {
-            "id": "1561914484",
-            "type": "album",
-            "title": "American Football (LP4)",
-            "artistName": "American Football",
-            "thumbnailUrl": "https://f4.bcbits.com/img/a2959862396_5.jpg",
+            "title": "Dancing On The Wall",
+            "artistName": "MUNA",
+            "thumbnailUrl": "https://f4.bcbits.com/img/a2560159771_5.jpg",
             "thumbnailWidth": 700,
             "thumbnailHeight": 700,
             "apiProvider": "bandcamp",
@@ -158,25 +55,12 @@
               "bandcamp"
             ]
           },
-          "BOOMPLAY_ALBUM::127048155": {
-            "id": "127048155",
+          "PANDORA_ALBUM::AL:60026285": {
+            "id": "AL:60026285",
             "type": "album",
-            "title": "American Football (LP4)",
-            "artistName": "American Football",
-            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/03/27/801e5044334d46c4bfb41925bfcb0a4cH1500W1500_464_464.png",
-            "thumbnailWidth": 464,
-            "thumbnailHeight": 464,
-            "apiProvider": "boomplay",
-            "platforms": [
-              "boomplay"
-            ]
-          },
-          "PANDORA_ALBUM::AL:59152194": {
-            "id": "AL:59152194",
-            "type": "album",
-            "title": "American Football (LP4)",
-            "artistName": "American Football",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/30/d7/6f/9b/091043b48adb1e0c317982d0/_500W_500H.jpg",
+            "title": "Dancing On The Wall",
+            "artistName": "MUNA",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/d2/e3/0d/44/da8046bba8c30078f63a711e/_500W_500H.jpg",
             "thumbnailWidth": 500,
             "thumbnailHeight": 500,
             "apiProvider": "pandora",
@@ -184,12 +68,12 @@
               "pandora"
             ]
           },
-          "SPOTIFY_ALBUM::3fhKJU3nUfduKj9YhEAoGf": {
-            "id": "3fhKJU3nUfduKj9YhEAoGf",
+          "SPOTIFY_ALBUM::2CJw4ooOgUAxJkJpNiKcd3": {
+            "id": "2CJw4ooOgUAxJkJpNiKcd3",
             "type": "album",
-            "title": "American Football (LP4)",
-            "artistName": "American Football",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b27359654022fe74df87ff7cf866",
+            "title": "Dancing On The Wall",
+            "artistName": "MUNA",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2739db5c80354d45ef87ae5bfd3",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "spotify",
@@ -197,12 +81,12 @@
               "spotify"
             ]
           },
-          "TIDAL_ALBUM::487367594": {
-            "id": "487367594",
+          "TIDAL_ALBUM::491226198": {
+            "id": "491226198",
             "type": "album",
-            "title": "American Football (LP4)",
-            "artistName": "American Football",
-            "thumbnailUrl": "https://resources.tidal.com/images/c6963988/9f04/4b15/8a7e/9f749a6d752a/640x640.jpg",
+            "title": "Dancing On The Wall",
+            "artistName": "muna",
+            "thumbnailUrl": "https://resources.tidal.com/images/d6d2b71b/32b2/4f6c/b114/5e286f26a4d9/640x640.jpg",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "tidal",
@@ -212,10 +96,10 @@
           }
         },
         "platforms": {
-          "spotify": "https://open.spotify.com/album/3fhKJU3nUfduKj9YhEAoGf",
+          "spotify": "https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3",
           "appleMusic": null,
           "deezer": null,
-          "tidal": "https://listen.tidal.com/album/487367594",
+          "tidal": "https://listen.tidal.com/album/491226198",
           "youtube": null,
           "youtubeMusic": null,
           "soundcloud": null,
@@ -225,276 +109,48 @@
       "spotifySearchUrl": null
     },
     {
-      "artist": "Isaiah Rashad",
-      "album": "It's Been Awful",
-      "label": "TDE",
-      "section": "starting5",
-      "spotify": null,
-      "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Isaiah%20Rashad%20It's%20Been%20Awful"
-    },
-    {
-      "artist": "Tori Amos",
-      "album": "In Times of Dragons",
-      "label": "Fontana",
+      "artist": "Aldous Harding",
+      "album": "Train on the Island",
+      "label": "4AD",
       "section": "starting5",
       "spotify": {
-        "id": "6KnWKWlU9xvhuOxEgkl4l2",
-        "name": "In Times Of Dragons",
-        "url": "https://open.spotify.com/album/6KnWKWlU9xvhuOxEgkl4l2",
-        "release_date": "2026-05-01",
+        "id": "0AePRMHymMl4oHBb5EuGiV",
+        "name": "Train on the Island",
+        "url": "https://open.spotify.com/album/0AePRMHymMl4oHBb5EuGiV",
+        "release_date": "2026-05-08",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27341c50399a462a25ffc9c29ae",
+            "url": "https://i.scdn.co/image/ab67616d0000b27373870381d130b608e2deb080",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0241c50399a462a25ffc9c29ae",
+            "url": "https://i.scdn.co/image/ab67616d00001e0273870381d130b608e2deb080",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485141c50399a462a25ffc9c29ae",
+            "url": "https://i.scdn.co/image/ab67616d0000485173870381d130b608e2deb080",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "1KsASRNugxU85T0u6zSg32",
-            "name": "Tori Amos"
+            "id": "3lmR0qMiGuoIF9UC54egcG",
+            "name": "Aldous Harding"
           }
         ]
       },
       "songlink": {
-        "pageUrl": "https://album.link/s/6KnWKWlU9xvhuOxEgkl4l2",
+        "pageUrl": "https://album.link/s/0AePRMHymMl4oHBb5EuGiV",
         "entitiesByUniqueId": {
-          "BANDCAMP_ALBUM::2672090638": {
-            "id": "2672090638",
+          "AMAZON_ALBUM::B0GN3VM9X2": {
+            "id": "B0GN3VM9X2",
             "type": "album",
-            "title": "In Times Of Dragons",
-            "artistName": "Tori Amos",
-            "thumbnailUrl": "https://f4.bcbits.com/img/a4161038197_5.jpg",
-            "thumbnailWidth": 700,
-            "thumbnailHeight": 700,
-            "apiProvider": "bandcamp",
-            "platforms": [
-              "bandcamp"
-            ]
-          },
-          "BOOMPLAY_ALBUM::130274652": {
-            "id": "130274652",
-            "type": "album",
-            "title": "In Times Of Dragons",
-            "artistName": "Tori Amos",
-            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/05/01/c8f30ff875384ba4b1c122bcf9005cc7H1400W1400_464_464.jpg",
-            "thumbnailWidth": 464,
-            "thumbnailHeight": 464,
-            "apiProvider": "boomplay",
-            "platforms": [
-              "boomplay"
-            ]
-          },
-          "PANDORA_ALBUM::AL:65662449": {
-            "id": "AL:65662449",
-            "type": "album",
-            "title": "In Times Of Dragons",
-            "artistName": "Tori Amos",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/ee/75/df/b2/289c4316a27d5eb82f5db5b5/_500W_500H.jpg",
-            "thumbnailWidth": 500,
-            "thumbnailHeight": 500,
-            "apiProvider": "pandora",
-            "platforms": [
-              "pandora"
-            ]
-          },
-          "SPOTIFY_ALBUM::6KnWKWlU9xvhuOxEgkl4l2": {
-            "id": "6KnWKWlU9xvhuOxEgkl4l2",
-            "type": "album",
-            "title": "In Times Of Dragons",
-            "artistName": "Tori Amos",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b27341c50399a462a25ffc9c29ae",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "spotify",
-            "platforms": [
-              "spotify"
-            ]
-          },
-          "TIDAL_ALBUM::518738176": {
-            "id": "518738176",
-            "type": "album",
-            "title": "In Times Of Dragons",
-            "artistName": "Tori Amos",
-            "thumbnailUrl": "https://resources.tidal.com/images/9bcc5a3e/f978/48f1/a7a6/dccfcfc8e795/640x640.jpg",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "tidal",
-            "platforms": [
-              "tidal"
-            ]
-          }
-        },
-        "platforms": {
-          "spotify": "https://open.spotify.com/album/6KnWKWlU9xvhuOxEgkl4l2",
-          "appleMusic": null,
-          "deezer": null,
-          "tidal": "https://listen.tidal.com/album/518738176",
-          "youtube": null,
-          "youtubeMusic": null,
-          "soundcloud": null,
-          "amazonMusic": null
-        }
-      },
-      "spotifySearchUrl": null
-    },
-    {
-      "artist": "Ana Roxanne",
-      "album": "Poem 1",
-      "label": "Kranky",
-      "section": "starting5",
-      "spotify": {
-        "id": "4eLf3APm1Cb4vqmJUnDLpr",
-        "name": "Poem 1",
-        "url": "https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr",
-        "release_date": "2026-05-01",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273f32a3d82c33b956a32dd3fb9",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02f32a3d82c33b956a32dd3fb9",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851f32a3d82c33b956a32dd3fb9",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "2fSBHYgZUSIQPolv5skG5I",
-            "name": "Ana Roxanne"
-          }
-        ]
-      },
-      "songlink": {
-        "pageUrl": "https://album.link/s/4eLf3APm1Cb4vqmJUnDLpr",
-        "entitiesByUniqueId": {
-          "BANDCAMP_ALBUM::2434629595": {
-            "id": "2434629595",
-            "type": "album",
-            "title": "Poem 1",
-            "artistName": "Ana Roxanne",
-            "thumbnailUrl": "https://f4.bcbits.com/img/a1765181823_5.jpg",
-            "thumbnailWidth": 700,
-            "thumbnailHeight": 700,
-            "apiProvider": "bandcamp",
-            "platforms": [
-              "bandcamp"
-            ]
-          },
-          "PANDORA_ALBUM::AL:61284622": {
-            "id": "AL:61284622",
-            "type": "album",
-            "title": "Poem 1",
-            "artistName": "Ana Roxanne",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/65/1d/d8/d1/bd51453f8f390c08b9b8e84f/_500W_500H.jpg",
-            "thumbnailWidth": 500,
-            "thumbnailHeight": 500,
-            "apiProvider": "pandora",
-            "platforms": [
-              "pandora"
-            ]
-          },
-          "SPOTIFY_ALBUM::4eLf3APm1Cb4vqmJUnDLpr": {
-            "id": "4eLf3APm1Cb4vqmJUnDLpr",
-            "type": "album",
-            "title": "Poem 1",
-            "artistName": "Ana Roxanne",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273f32a3d82c33b956a32dd3fb9",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "spotify",
-            "platforms": [
-              "spotify"
-            ]
-          },
-          "TIDAL_ALBUM::498603469": {
-            "id": "498603469",
-            "type": "album",
-            "title": "Poem 1",
-            "artistName": "Ana Roxanne",
-            "thumbnailUrl": "https://resources.tidal.com/images/6eecbfb0/f866/4dfa/beb2/c34b94e6f4c4/640x640.jpg",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "tidal",
-            "platforms": [
-              "tidal"
-            ]
-          }
-        },
-        "platforms": {
-          "spotify": "https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr",
-          "appleMusic": null,
-          "deezer": null,
-          "tidal": "https://listen.tidal.com/album/498603469",
-          "youtube": null,
-          "youtubeMusic": null,
-          "soundcloud": null,
-          "amazonMusic": null
-        }
-      },
-      "spotifySearchUrl": null
-    },
-    {
-      "artist": "Lip Critic",
-      "album": "Theft World",
-      "label": "Partisan",
-      "section": "dorasCorner",
-      "spotify": {
-        "id": "6UQvKJID9tTP81IIFRt9Dk",
-        "name": "Theft World",
-        "url": "https://open.spotify.com/album/6UQvKJID9tTP81IIFRt9Dk",
-        "release_date": "2026-05-01",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2732dd01abb077567509f00a39c",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e022dd01abb077567509f00a39c",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048512dd01abb077567509f00a39c",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "4ABuKdLlVyzLztIFR8ETX9",
-            "name": "Lip Critic"
-          }
-        ]
-      },
-      "songlink": {
-        "pageUrl": "https://album.link/s/6UQvKJID9tTP81IIFRt9Dk",
-        "entitiesByUniqueId": {
-          "AMAZON_ALBUM::B0G26WDTWB": {
-            "id": "B0G26WDTWB",
-            "type": "album",
-            "title": "Theft World",
-            "artistName": "Lip Critic",
-            "thumbnailUrl": "https://m.media-amazon.com/images/I/51WkXrlKhnL.jpg",
+            "title": "Train on the Island",
+            "artistName": "Aldous Harding",
+            "thumbnailUrl": "https://m.media-amazon.com/images/I/51qL1KbLVqL.jpg",
             "thumbnailWidth": 500,
             "thumbnailHeight": 500,
             "apiProvider": "amazon",
@@ -503,12 +159,12 @@
               "amazonStore"
             ]
           },
-          "BANDCAMP_ALBUM::2959453651": {
-            "id": "2959453651",
+          "BANDCAMP_ALBUM::1490968628": {
+            "id": "1490968628",
             "type": "album",
-            "title": "Theft World",
-            "artistName": "Lip Critic",
-            "thumbnailUrl": "https://f4.bcbits.com/img/a0908375874_5.jpg",
+            "title": "Train on the Island",
+            "artistName": "Aldous Harding",
+            "thumbnailUrl": "https://f4.bcbits.com/img/a2623687861_5.jpg",
             "thumbnailWidth": 700,
             "thumbnailHeight": 700,
             "apiProvider": "bandcamp",
@@ -516,12 +172,12 @@
               "bandcamp"
             ]
           },
-          "BOOMPLAY_ALBUM::119576685": {
-            "id": "119576685",
+          "BOOMPLAY_ALBUM::130351313": {
+            "id": "130351313",
             "type": "album",
-            "title": "Theft World",
-            "artistName": "Lip Critic",
-            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/01/09/3090aa07a9284a9a8100104932dba8daH1500W1500_464_464.jpg",
+            "title": "Train on the Island",
+            "artistName": "Aldous Harding",
+            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/04/30/34895716f9bd427ab130b12a494401d6H1500W1500_464_464.png",
             "thumbnailWidth": 464,
             "thumbnailHeight": 464,
             "apiProvider": "boomplay",
@@ -529,12 +185,12 @@
               "boomplay"
             ]
           },
-          "PANDORA_ALBUM::AL:56324976": {
-            "id": "AL:56324976",
+          "PANDORA_ALBUM::AL:65945093": {
+            "id": "AL:65945093",
             "type": "album",
-            "title": "Theft World",
-            "artistName": "Lip Critic",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/09/10/e2/47/80ee4881b68611160db6d4e8/_500W_500H.jpg",
+            "title": "Train on the Island",
+            "artistName": "Aldous Harding",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/36/f9/ab/10/48ed4882bd6f911cc44bab4c/_500W_500H.jpg",
             "thumbnailWidth": 500,
             "thumbnailHeight": 500,
             "apiProvider": "pandora",
@@ -542,12 +198,12 @@
               "pandora"
             ]
           },
-          "SPOTIFY_ALBUM::6UQvKJID9tTP81IIFRt9Dk": {
-            "id": "6UQvKJID9tTP81IIFRt9Dk",
+          "SPOTIFY_ALBUM::0AePRMHymMl4oHBb5EuGiV": {
+            "id": "0AePRMHymMl4oHBb5EuGiV",
             "type": "album",
-            "title": "Theft World",
-            "artistName": "Lip Critic",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2732dd01abb077567509f00a39c",
+            "title": "Train on the Island",
+            "artistName": "Aldous Harding",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b27373870381d130b608e2deb080",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "spotify",
@@ -555,89 +211,89 @@
               "spotify"
             ]
           },
-          "TIDAL_ALBUM::473731142": {
-            "id": "473731142",
+          "TIDAL_ALBUM::516381572": {
+            "id": "516381572",
             "type": "album",
-            "title": "Theft World",
-            "artistName": "Lip Critic",
-            "thumbnailUrl": "https://resources.tidal.com/images/b0804a0c/3c6f/4d0b/bf6a/d5ddcd3e52b2/640x640.jpg",
+            "title": "Train on the Island",
+            "artistName": "Aldous Harding",
+            "thumbnailUrl": "https://resources.tidal.com/images/1d6797aa/90d5/4997/bdbe/3ffa5941869b/640x640.jpg",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "tidal",
             "platforms": [
               "tidal"
             ]
+          },
+          "YANDEX_ALBUM::41859595": {
+            "id": "41859595",
+            "type": "album",
+            "title": "Train on the Island",
+            "artistName": "Aldous Harding",
+            "thumbnailUrl": "https://avatars.yandex.net/get-music-content/18132539/5b4832ac.a.41859595-1/600x600",
+            "thumbnailWidth": 600,
+            "thumbnailHeight": 600,
+            "apiProvider": "yandex",
+            "platforms": [
+              "yandex"
+            ]
           }
         },
         "platforms": {
-          "spotify": "https://open.spotify.com/album/6UQvKJID9tTP81IIFRt9Dk",
+          "spotify": "https://open.spotify.com/album/0AePRMHymMl4oHBb5EuGiV",
           "appleMusic": null,
           "deezer": null,
-          "tidal": "https://listen.tidal.com/album/473731142",
+          "tidal": "https://listen.tidal.com/album/516381572",
           "youtube": null,
           "youtubeMusic": null,
           "soundcloud": null,
-          "amazonMusic": "https://music.amazon.com/albums/B0G26WDTWB"
+          "amazonMusic": "https://music.amazon.com/albums/B0GN3VM9X2"
         }
       },
       "spotifySearchUrl": null
     },
     {
-      "artist": "Frail Talk",
-      "album": "Circles & Visions",
-      "label": "self-released",
-      "section": "dorasCorner",
+      "artist": "Deb Never",
+      "album": "ARCADE",
+      "label": "Giant",
+      "section": "starting5",
       "spotify": {
-        "id": "15omljahSJTErXoGVolpYV",
-        "name": "Circles & Visions",
-        "url": "https://open.spotify.com/album/15omljahSJTErXoGVolpYV",
-        "release_date": "2026-05-01",
+        "id": "5CIQzG3okTPTbvawZ1Pczs",
+        "name": "ARCADE",
+        "url": "https://open.spotify.com/album/5CIQzG3okTPTbvawZ1Pczs",
+        "release_date": "2026-05-08",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273a0ac4dc28a75c7cf90a87159",
+            "url": "https://i.scdn.co/image/ab67616d0000b27338655310bb0320ddcfde10cd",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02a0ac4dc28a75c7cf90a87159",
+            "url": "https://i.scdn.co/image/ab67616d00001e0238655310bb0320ddcfde10cd",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851a0ac4dc28a75c7cf90a87159",
+            "url": "https://i.scdn.co/image/ab67616d0000485138655310bb0320ddcfde10cd",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "7stmp1OR4yaVInBIXIeKBf",
-            "name": "Frail Talk"
+            "id": "55EarwWraRQY9diMo9Oeul",
+            "name": "Deb Never"
           }
         ]
       },
       "songlink": {
-        "pageUrl": "https://album.link/s/15omljahSJTErXoGVolpYV",
+        "pageUrl": "https://album.link/s/5CIQzG3okTPTbvawZ1Pczs",
         "entitiesByUniqueId": {
-          "BANDCAMP_ALBUM::2941838792": {
-            "id": "2941838792",
+          "PANDORA_ALBUM::AL:60746547": {
+            "id": "AL:60746547",
             "type": "album",
-            "title": "Circles & Visions",
-            "artistName": "Frail Talk",
-            "thumbnailUrl": "https://f4.bcbits.com/img/a1879807143_5.jpg",
-            "thumbnailWidth": 700,
-            "thumbnailHeight": 700,
-            "apiProvider": "bandcamp",
-            "platforms": [
-              "bandcamp"
-            ]
-          },
-          "PANDORA_ALBUM::AL:63576225": {
-            "id": "AL:63576225",
-            "type": "album",
-            "title": "Circles & Visions",
-            "artistName": "Frail Talk",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/f0/17/49/14/0b29499ea416ee4bdea1e90c/_500W_500H.jpg",
+            "title": "ARCADE",
+            "artistName": "Deb Never",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/83/e3/2c/47/792b4061a1f3ffd86f92037c/_500W_500H.jpg",
             "thumbnailWidth": 500,
             "thumbnailHeight": 500,
             "apiProvider": "pandora",
@@ -645,12 +301,12 @@
               "pandora"
             ]
           },
-          "SPOTIFY_ALBUM::15omljahSJTErXoGVolpYV": {
-            "id": "15omljahSJTErXoGVolpYV",
+          "SPOTIFY_ALBUM::5CIQzG3okTPTbvawZ1Pczs": {
+            "id": "5CIQzG3okTPTbvawZ1Pczs",
             "type": "album",
-            "title": "Circles & Visions",
-            "artistName": "Frail Talk",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273a0ac4dc28a75c7cf90a87159",
+            "title": "ARCADE",
+            "artistName": "Deb Never",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b27338655310bb0320ddcfde10cd",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "spotify",
@@ -658,12 +314,12 @@
               "spotify"
             ]
           },
-          "TIDAL_ALBUM::508835410": {
-            "id": "508835410",
+          "TIDAL_ALBUM::495323847": {
+            "id": "495323847",
             "type": "album",
-            "title": "Circles & Visions",
-            "artistName": "Frail Talk",
-            "thumbnailUrl": "https://resources.tidal.com/images/b4741026/2c1f/4456/befc/ff83e3d70a3b/640x640.jpg",
+            "title": "ARCADE",
+            "artistName": "Deb Never",
+            "thumbnailUrl": "https://resources.tidal.com/images/ea470fdc/c0a0/44b5/a57c/a582ba7c9d8e/640x640.jpg",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "tidal",
@@ -673,10 +329,10 @@
           }
         },
         "platforms": {
-          "spotify": "https://open.spotify.com/album/15omljahSJTErXoGVolpYV",
+          "spotify": "https://open.spotify.com/album/5CIQzG3okTPTbvawZ1Pczs",
           "appleMusic": null,
           "deezer": null,
-          "tidal": "https://listen.tidal.com/album/508835410",
+          "tidal": "https://listen.tidal.com/album/495323847",
           "youtube": null,
           "youtubeMusic": null,
           "soundcloud": null,
@@ -686,48 +342,62 @@
       "spotifySearchUrl": null
     },
     {
-      "artist": "Knats",
-      "album": "A Great Day In Newcastle",
-      "label": "Gearbox",
-      "section": "dorasCorner",
+      "artist": "Lykke Li",
+      "album": "The Afterparty",
+      "label": "Neon Gold",
+      "section": "starting5",
       "spotify": {
-        "id": "5XtH8sRhkHf0TOCM0E5ful",
-        "name": "A Great Day In Newcastle",
-        "url": "https://open.spotify.com/album/5XtH8sRhkHf0TOCM0E5ful",
-        "release_date": "2026-05-01",
+        "id": "3eqH5aQKPKLKD1kFNBczwl",
+        "name": "The Afterparty",
+        "url": "https://open.spotify.com/album/3eqH5aQKPKLKD1kFNBczwl",
+        "release_date": "2026-05-08",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2735d7a03393528ae1a4155b8e9",
+            "url": "https://i.scdn.co/image/ab67616d0000b27390dd2011ea9c67547500b26f",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e025d7a03393528ae1a4155b8e9",
+            "url": "https://i.scdn.co/image/ab67616d00001e0290dd2011ea9c67547500b26f",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048515d7a03393528ae1a4155b8e9",
+            "url": "https://i.scdn.co/image/ab67616d0000485190dd2011ea9c67547500b26f",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "0l2OFUKz7eXLlPfO1LrGt7",
-            "name": "Knats"
+            "id": "6oBm8HB0yfrIc9IHbxs6in",
+            "name": "Lykke Li"
           }
         ]
       },
       "songlink": {
-        "pageUrl": "https://album.link/s/5XtH8sRhkHf0TOCM0E5ful",
+        "pageUrl": "https://album.link/s/3eqH5aQKPKLKD1kFNBczwl",
         "entitiesByUniqueId": {
-          "BANDCAMP_ALBUM::95106358": {
-            "id": "95106358",
+          "AMAZON_ALBUM::B0G4S1F6B2": {
+            "id": "B0G4S1F6B2",
             "type": "album",
-            "title": "A Great Day In Newcastle",
-            "artistName": "Knats",
-            "thumbnailUrl": "https://f4.bcbits.com/img/a3088128743_5.jpg",
+            "title": "The Afterparty",
+            "artistName": "Lykke Li",
+            "thumbnailUrl": "https://m.media-amazon.com/images/I/3156LSy-OZL.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "amazon",
+            "platforms": [
+              "amazonMusic",
+              "amazonStore"
+            ]
+          },
+          "BANDCAMP_ALBUM::3180654719": {
+            "id": "3180654719",
+            "type": "album",
+            "title": "The Afterparty",
+            "artistName": "Lykke Li",
+            "thumbnailUrl": "https://f4.bcbits.com/img/a2452434727_5.jpg",
             "thumbnailWidth": 700,
             "thumbnailHeight": 700,
             "apiProvider": "bandcamp",
@@ -735,12 +405,12 @@
               "bandcamp"
             ]
           },
-          "BOOMPLAY_ALBUM::124423156": {
-            "id": "124423156",
+          "BOOMPLAY_ALBUM::120735446": {
+            "id": "120735446",
             "type": "album",
-            "title": "A Great Day In Newcastle",
-            "artistName": "Knats",
-            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/05/01/11de4e5ac87b426ba8e2793301568399H1400W1400_464_464.jpg",
+            "title": "The Afterparty",
+            "artistName": "Lykke Li",
+            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/02/09/cdc315cb9105493fa350ab5cfe43aba9H1500W1500_464_464.jpg",
             "thumbnailWidth": 464,
             "thumbnailHeight": 464,
             "apiProvider": "boomplay",
@@ -748,12 +418,12 @@
               "boomplay"
             ]
           },
-          "PANDORA_ALBUM::AL:60383612": {
-            "id": "AL:60383612",
+          "PANDORA_ALBUM::AL:57264106": {
+            "id": "AL:57264106",
             "type": "album",
-            "title": "A Great Day In Newcastle",
-            "artistName": "Knats",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/17/96/2e/4c/adb04428aec7df37114f835b/_500W_500H.jpg",
+            "title": "The Afterparty",
+            "artistName": "Lykke Li",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/df/4f/97/23/e17245ecad0d49164c36267f/_500W_500H.jpg",
             "thumbnailWidth": 500,
             "thumbnailHeight": 500,
             "apiProvider": "pandora",
@@ -761,12 +431,12 @@
               "pandora"
             ]
           },
-          "SPOTIFY_ALBUM::5XtH8sRhkHf0TOCM0E5ful": {
-            "id": "5XtH8sRhkHf0TOCM0E5ful",
+          "SPOTIFY_ALBUM::3eqH5aQKPKLKD1kFNBczwl": {
+            "id": "3eqH5aQKPKLKD1kFNBczwl",
             "type": "album",
-            "title": "A Great Day In Newcastle",
-            "artistName": "Knats",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2735d7a03393528ae1a4155b8e9",
+            "title": "The Afterparty",
+            "artistName": "Lykke Li",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b27390dd2011ea9c67547500b26f",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "spotify",
@@ -774,12 +444,12 @@
               "spotify"
             ]
           },
-          "TIDAL_ALBUM::518748366": {
-            "id": "518748366",
+          "TIDAL_ALBUM::518822536": {
+            "id": "518822536",
             "type": "album",
-            "title": "A Great Day In Newcastle",
-            "artistName": "Knats",
-            "thumbnailUrl": "https://resources.tidal.com/images/9f50f5d8/a451/4b60/8614/0d45100f4bf4/640x640.jpg",
+            "title": "The Afterparty",
+            "artistName": "Lykke Li",
+            "thumbnailUrl": "https://resources.tidal.com/images/73b8589c/d4f9/4fc5/bc7b/5f40877b6413/640x640.jpg",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "tidal",
@@ -789,10 +459,113 @@
           }
         },
         "platforms": {
-          "spotify": "https://open.spotify.com/album/5XtH8sRhkHf0TOCM0E5ful",
+          "spotify": "https://open.spotify.com/album/3eqH5aQKPKLKD1kFNBczwl",
           "appleMusic": null,
           "deezer": null,
-          "tidal": "https://listen.tidal.com/album/518748366",
+          "tidal": "https://listen.tidal.com/album/518822536",
+          "youtube": null,
+          "youtubeMusic": null,
+          "soundcloud": null,
+          "amazonMusic": "https://music.amazon.com/albums/B0G4S1F6B2"
+        }
+      },
+      "spotifySearchUrl": null
+    },
+    {
+      "artist": "Stephen Sanchez, Love, Love",
+      "album": "Love",
+      "label": "Mercury",
+      "section": "starting5",
+      "spotify": {
+        "id": "1eWcwjwfEHXp1zdBSsbnu2",
+        "name": "LOVE, LOVE, LOVE",
+        "url": "https://open.spotify.com/album/1eWcwjwfEHXp1zdBSsbnu2",
+        "release_date": "2026-05-08",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273461d2df639370b7008de15dc",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02461d2df639370b7008de15dc",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851461d2df639370b7008de15dc",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "5XKFrudbV4IiuE5WuTPRmT",
+            "name": "Stephen Sanchez"
+          }
+        ]
+      },
+      "songlink": {
+        "pageUrl": "https://album.link/s/1eWcwjwfEHXp1zdBSsbnu2",
+        "entitiesByUniqueId": {
+          "BOOMPLAY_ALBUM::130734641": {
+            "id": "130734641",
+            "type": "album",
+            "title": "LOVE, LOVE, LOVE",
+            "artistName": "Stephen Sanchez",
+            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/05/08/78b0e756a6a0444f8fedca65e41a2025H1400W1400_464_464.jpg",
+            "thumbnailWidth": 464,
+            "thumbnailHeight": 464,
+            "apiProvider": "boomplay",
+            "platforms": [
+              "boomplay"
+            ]
+          },
+          "PANDORA_ALBUM::AL:65989435": {
+            "id": "AL:65989435",
+            "type": "album",
+            "title": "LOVE, LOVE, LOVE",
+            "artistName": "Stephen Sanchez",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/88/1c/61/7c/6c214ad69946543cbeb4319c/_500W_500H.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "pandora",
+            "platforms": [
+              "pandora"
+            ]
+          },
+          "SPOTIFY_ALBUM::1eWcwjwfEHXp1zdBSsbnu2": {
+            "id": "1eWcwjwfEHXp1zdBSsbnu2",
+            "type": "album",
+            "title": "LOVE, LOVE, LOVE",
+            "artistName": "Stephen Sanchez",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273461d2df639370b7008de15dc",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "spotify",
+            "platforms": [
+              "spotify"
+            ]
+          },
+          "TIDAL_ALBUM::520682426": {
+            "id": "520682426",
+            "type": "album",
+            "title": "LOVE, LOVE, LOVE",
+            "artistName": "Stephen Sanchez",
+            "thumbnailUrl": "https://resources.tidal.com/images/4b9d7661/dead/43b0/aea1/f21bd47c99e3/640x640.jpg",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "tidal",
+            "platforms": [
+              "tidal"
+            ]
+          }
+        },
+        "platforms": {
+          "spotify": "https://open.spotify.com/album/1eWcwjwfEHXp1zdBSsbnu2",
+          "appleMusic": null,
+          "deezer": null,
+          "tidal": "https://listen.tidal.com/album/520682426",
           "youtube": null,
           "youtubeMusic": null,
           "soundcloud": null,
@@ -800,6 +573,764 @@
         }
       },
       "spotifySearchUrl": null
+    },
+    {
+      "artist": "Ashley McBryde",
+      "album": "Wild",
+      "label": "Warner Nashville",
+      "section": "lightningRound",
+      "spotify": {
+        "id": "1K8Fb2kSg4efx4fNZ8CTXL",
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/1K8Fb2kSg4efx4fNZ8CTXL",
+        "release_date": "2026-05-08",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2734a3f39c7d3837a15aa51fb01",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e024a3f39c7d3837a15aa51fb01",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048514a3f39c7d3837a15aa51fb01",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "371jpyGdoChzUASOIG2ECV",
+            "name": "Ashley McBryde"
+          }
+        ]
+      },
+      "songlink": {
+        "pageUrl": "https://album.link/s/1K8Fb2kSg4efx4fNZ8CTXL",
+        "entitiesByUniqueId": {
+          "BOOMPLAY_ALBUM::9520251": {
+            "id": "9520251",
+            "type": "album",
+            "title": "Never Will",
+            "artistName": "Ashley McBryde",
+            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/18/43/9bd5713847514c3ba0001d5d2c865377_464_464.jpg",
+            "thumbnailWidth": 464,
+            "thumbnailHeight": 464,
+            "apiProvider": "boomplay",
+            "platforms": [
+              "boomplay"
+            ]
+          },
+          "PANDORA_ALBUM::AL:61680228": {
+            "id": "AL:61680228",
+            "type": "album",
+            "title": "Wild",
+            "artistName": "Ashley McBryde",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/f1/5b/eb/29/b2e145c487ef6c2c494427d0/_500W_500H.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "pandora",
+            "platforms": [
+              "pandora"
+            ]
+          },
+          "SPOTIFY_ALBUM::1K8Fb2kSg4efx4fNZ8CTXL": {
+            "id": "1K8Fb2kSg4efx4fNZ8CTXL",
+            "type": "album",
+            "title": "Wild",
+            "artistName": "Ashley McBryde",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2734a3f39c7d3837a15aa51fb01",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "spotify",
+            "platforms": [
+              "spotify"
+            ]
+          },
+          "TIDAL_ALBUM::510102640": {
+            "id": "510102640",
+            "type": "album",
+            "title": "Wild",
+            "artistName": "Ashley McBryde",
+            "thumbnailUrl": "https://resources.tidal.com/images/7e4548aa/8c34/4e13/8e01/8188f5303176/640x640.jpg",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "tidal",
+            "platforms": [
+              "tidal"
+            ]
+          }
+        },
+        "platforms": {
+          "spotify": "https://open.spotify.com/album/1K8Fb2kSg4efx4fNZ8CTXL",
+          "appleMusic": null,
+          "deezer": null,
+          "tidal": "https://listen.tidal.com/album/510102640",
+          "youtube": null,
+          "youtubeMusic": null,
+          "soundcloud": null,
+          "amazonMusic": null
+        }
+      },
+      "spotifySearchUrl": null
+    },
+    {
+      "artist": "Broken Social Scene",
+      "album": "Remember The Humans",
+      "label": "Arts & Crafts",
+      "section": "lightningRound",
+      "spotify": {
+        "id": "6skQ2cM5dafp4UdvvN0Xf9",
+        "name": "Remember The Humans",
+        "url": "https://open.spotify.com/album/6skQ2cM5dafp4UdvvN0Xf9",
+        "release_date": "2026-05-08",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273bcfe2732a20086bfa27a3bba",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02bcfe2732a20086bfa27a3bba",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851bcfe2732a20086bfa27a3bba",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "7lOJ7WXyopaxri0dbOiZkd",
+            "name": "Broken Social Scene"
+          }
+        ]
+      },
+      "songlink": {
+        "pageUrl": "https://album.link/s/6skQ2cM5dafp4UdvvN0Xf9",
+        "entitiesByUniqueId": {
+          "AMAZON_ALBUM::B0GHPZFV7Q": {
+            "id": "B0GHPZFV7Q",
+            "type": "album",
+            "title": "Remember The Humans",
+            "artistName": "Broken Social Scene",
+            "thumbnailUrl": "https://m.media-amazon.com/images/I/51VAWnxH43L.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "amazon",
+            "platforms": [
+              "amazonMusic",
+              "amazonStore"
+            ]
+          },
+          "BANDCAMP_ALBUM::1250995216": {
+            "id": "1250995216",
+            "type": "album",
+            "title": "Remember The Humans",
+            "artistName": "Broken Social Scene",
+            "thumbnailUrl": "https://f4.bcbits.com/img/a2851060513_5.jpg",
+            "thumbnailWidth": 700,
+            "thumbnailHeight": 700,
+            "apiProvider": "bandcamp",
+            "platforms": [
+              "bandcamp"
+            ]
+          },
+          "BOOMPLAY_ALBUM::130729635": {
+            "id": "130729635",
+            "type": "album",
+            "title": "Remember The Humans",
+            "artistName": "Broken Social Scene",
+            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/05/06/3572d41e4c5c4b0b9cefddffa550242dH1400W1400_464_464.jpg",
+            "thumbnailWidth": 464,
+            "thumbnailHeight": 464,
+            "apiProvider": "boomplay",
+            "platforms": [
+              "boomplay"
+            ]
+          },
+          "PANDORA_ALBUM::AL:65989926": {
+            "id": "AL:65989926",
+            "type": "album",
+            "title": "Remember The Humans",
+            "artistName": "Broken Social Scene",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/d8/72/a5/39/df434c2d916246e040cbc919/_500W_500H.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "pandora",
+            "platforms": [
+              "pandora"
+            ]
+          },
+          "SPOTIFY_ALBUM::6skQ2cM5dafp4UdvvN0Xf9": {
+            "id": "6skQ2cM5dafp4UdvvN0Xf9",
+            "type": "album",
+            "title": "Remember The Humans",
+            "artistName": "Broken Social Scene",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273bcfe2732a20086bfa27a3bba",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "spotify",
+            "platforms": [
+              "spotify"
+            ]
+          },
+          "TIDAL_ALBUM::520664019": {
+            "id": "520664019",
+            "type": "album",
+            "title": "Remember The Humans",
+            "artistName": "Broken Social Scene",
+            "thumbnailUrl": "https://resources.tidal.com/images/4ed2e34f/1b36/4a58/b7bf/8754c1565f29/640x640.jpg",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "tidal",
+            "platforms": [
+              "tidal"
+            ]
+          }
+        },
+        "platforms": {
+          "spotify": "https://open.spotify.com/album/6skQ2cM5dafp4UdvvN0Xf9",
+          "appleMusic": null,
+          "deezer": null,
+          "tidal": "https://listen.tidal.com/album/520664019",
+          "youtube": null,
+          "youtubeMusic": null,
+          "soundcloud": null,
+          "amazonMusic": "https://music.amazon.com/albums/B0GHPZFV7Q"
+        }
+      },
+      "spotifySearchUrl": null
+    },
+    {
+      "artist": "Ray Bull",
+      "album": "Please Stop Laughing",
+      "label": "AWAL",
+      "section": "lightningRound",
+      "spotify": {
+        "id": "77aIM7XrwLNM2JykZc1UD1",
+        "name": "Please Stop Laughing",
+        "url": "https://open.spotify.com/album/77aIM7XrwLNM2JykZc1UD1",
+        "release_date": "2026-05-08",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27390bf5bb55b9d11dce31bdc74",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0290bf5bb55b9d11dce31bdc74",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485190bf5bb55b9d11dce31bdc74",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "3P4jnIuA9z5WsvkbsoqkTu",
+            "name": "Ray Bull"
+          }
+        ]
+      },
+      "songlink": {
+        "pageUrl": "https://album.link/s/77aIM7XrwLNM2JykZc1UD1",
+        "entitiesByUniqueId": {
+          "PANDORA_ALBUM::AL:60089246": {
+            "id": "AL:60089246",
+            "type": "album",
+            "title": "Please Stop Laughing",
+            "artistName": "Ray Bull",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/b2/0d/28/1d/113d4e15af6707f602612f9b/_500W_500H.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "pandora",
+            "platforms": [
+              "pandora"
+            ]
+          },
+          "SPOTIFY_ALBUM::77aIM7XrwLNM2JykZc1UD1": {
+            "id": "77aIM7XrwLNM2JykZc1UD1",
+            "type": "album",
+            "title": "Please Stop Laughing",
+            "artistName": "Ray Bull",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b27390bf5bb55b9d11dce31bdc74",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "spotify",
+            "platforms": [
+              "spotify"
+            ]
+          },
+          "TIDAL_ALBUM::491566793": {
+            "id": "491566793",
+            "type": "album",
+            "title": "Please Stop Laughing",
+            "artistName": "Ray Bull",
+            "thumbnailUrl": "https://resources.tidal.com/images/d3b30a99/938b/4d1d/8b43/009afa79dc39/640x640.jpg",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "tidal",
+            "platforms": [
+              "tidal"
+            ]
+          }
+        },
+        "platforms": {
+          "spotify": "https://open.spotify.com/album/77aIM7XrwLNM2JykZc1UD1",
+          "appleMusic": null,
+          "deezer": null,
+          "tidal": "https://listen.tidal.com/album/491566793",
+          "youtube": null,
+          "youtubeMusic": null,
+          "soundcloud": null,
+          "amazonMusic": null
+        }
+      },
+      "spotifySearchUrl": null
+    },
+    {
+      "artist": "Anastasia Kristensen",
+      "album": "Bestiarium Sombre",
+      "label": "Intercept",
+      "section": "lightningRound",
+      "spotify": {
+        "id": "4ozKdH9SdADfK6w7PgNu4O",
+        "name": "Bestiarium Sombre",
+        "url": "https://open.spotify.com/album/4ozKdH9SdADfK6w7PgNu4O",
+        "release_date": "2026-05-08",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2733b5d2585383ed981ee83d6fa",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e023b5d2585383ed981ee83d6fa",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048513b5d2585383ed981ee83d6fa",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "3cK7x3KOVZFqHKRTZOtwgd",
+            "name": "Anastasia Kristensen"
+          }
+        ]
+      },
+      "songlink": {
+        "pageUrl": "https://album.link/s/4ozKdH9SdADfK6w7PgNu4O",
+        "entitiesByUniqueId": {
+          "BANDCAMP_ALBUM::3318402662": {
+            "id": "3318402662",
+            "type": "album",
+            "title": "Bestiarium Sombre",
+            "artistName": "Anastasia Kristensen",
+            "thumbnailUrl": "https://f4.bcbits.com/img/a2205080407_5.jpg",
+            "thumbnailWidth": 700,
+            "thumbnailHeight": 700,
+            "apiProvider": "bandcamp",
+            "platforms": [
+              "bandcamp"
+            ]
+          },
+          "PANDORA_ALBUM::AL:62072945": {
+            "id": "AL:62072945",
+            "type": "album",
+            "title": "Bestiarium Sombre",
+            "artistName": "Anastasia Kristensen",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/10/d2/61/25/2e8a4c1ca4e5ed312242bf21/_500W_500H.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "pandora",
+            "platforms": [
+              "pandora"
+            ]
+          },
+          "SPOTIFY_ALBUM::4ozKdH9SdADfK6w7PgNu4O": {
+            "id": "4ozKdH9SdADfK6w7PgNu4O",
+            "type": "album",
+            "title": "Bestiarium Sombre",
+            "artistName": "Anastasia Kristensen",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2733b5d2585383ed981ee83d6fa",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "spotify",
+            "platforms": [
+              "spotify"
+            ]
+          },
+          "TIDAL_ALBUM::502162117": {
+            "id": "502162117",
+            "type": "album",
+            "title": "Bestiarium Sombre",
+            "artistName": "Anastasia Kristensen",
+            "thumbnailUrl": "https://resources.tidal.com/images/98aafea4/9945/4679/b4dc/b934213dbe5d/640x640.jpg",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "tidal",
+            "platforms": [
+              "tidal"
+            ]
+          }
+        },
+        "platforms": {
+          "spotify": "https://open.spotify.com/album/4ozKdH9SdADfK6w7PgNu4O",
+          "appleMusic": null,
+          "deezer": null,
+          "tidal": "https://listen.tidal.com/album/502162117",
+          "youtube": null,
+          "youtubeMusic": null,
+          "soundcloud": null,
+          "amazonMusic": null
+        }
+      },
+      "spotifySearchUrl": null
+    },
+    {
+      "artist": "Amy Grant",
+      "album": "The Me That Remains",
+      "label": "Thirty Tigers",
+      "section": "lightningRound",
+      "spotify": {
+        "id": "40Q1PUv4aWPsxGJTvlKHx4",
+        "name": "The Me That Remains",
+        "url": "https://open.spotify.com/album/40Q1PUv4aWPsxGJTvlKHx4",
+        "release_date": "2026-05-08",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273308d37a4b1ed92b127f90bf0",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02308d37a4b1ed92b127f90bf0",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851308d37a4b1ed92b127f90bf0",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "72Nhcx7prNk2ZCxhx0Y5es",
+            "name": "Amy Grant"
+          }
+        ]
+      },
+      "songlink": {
+        "pageUrl": "https://album.link/s/40Q1PUv4aWPsxGJTvlKHx4",
+        "entitiesByUniqueId": {
+          "AMAZON_ALBUM::B0GML31VYM": {
+            "id": "B0GML31VYM",
+            "type": "album",
+            "title": "The Me That Remains",
+            "artistName": "Amy Grant",
+            "thumbnailUrl": "https://m.media-amazon.com/images/I/51VJDTNU0yL.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "amazon",
+            "platforms": [
+              "amazonMusic",
+              "amazonStore"
+            ]
+          },
+          "PANDORA_ALBUM::AL:61066186": {
+            "id": "AL:61066186",
+            "type": "album",
+            "title": "The Me That Remains",
+            "artistName": "Amy Grant",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/9e/81/1a/94/7a8141269fcba91bef0b8551/_500W_500H.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "pandora",
+            "platforms": [
+              "pandora"
+            ]
+          },
+          "SPOTIFY_ALBUM::40Q1PUv4aWPsxGJTvlKHx4": {
+            "id": "40Q1PUv4aWPsxGJTvlKHx4",
+            "type": "album",
+            "title": "The Me That Remains",
+            "artistName": "Amy Grant",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273308d37a4b1ed92b127f90bf0",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "spotify",
+            "platforms": [
+              "spotify"
+            ]
+          },
+          "TIDAL_ALBUM::497600298": {
+            "id": "497600298",
+            "type": "album",
+            "title": "The Me That Remains",
+            "artistName": "Amy Grant",
+            "thumbnailUrl": "https://resources.tidal.com/images/cdbd10a9/f4a2/471a/83c0/7e6c242669f3/640x640.jpg",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "tidal",
+            "platforms": [
+              "tidal"
+            ]
+          }
+        },
+        "platforms": {
+          "spotify": "https://open.spotify.com/album/40Q1PUv4aWPsxGJTvlKHx4",
+          "appleMusic": null,
+          "deezer": null,
+          "tidal": "https://listen.tidal.com/album/497600298",
+          "youtube": null,
+          "youtubeMusic": null,
+          "soundcloud": null,
+          "amazonMusic": "https://music.amazon.com/albums/B0GML31VYM"
+        }
+      },
+      "spotifySearchUrl": null
+    },
+    {
+      "artist": "Olof Dreijer",
+      "album": "Loud Bloom",
+      "label": "DH2",
+      "section": "dorasCorner",
+      "spotify": {
+        "id": "2I8Y2r289lu5s26k50N9GL",
+        "name": "Loud Bloom",
+        "url": "https://open.spotify.com/album/2I8Y2r289lu5s26k50N9GL",
+        "release_date": "2026-05-08",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273e5cdd7b071509cdf058e81eb",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e5cdd7b071509cdf058e81eb",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e5cdd7b071509cdf058e81eb",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "1Wxx3yxd6gZsNiAF1OwLk0",
+            "name": "Olof Dreijer"
+          }
+        ]
+      },
+      "songlink": {
+        "pageUrl": "https://album.link/s/2I8Y2r289lu5s26k50N9GL",
+        "entitiesByUniqueId": {
+          "BANDCAMP_ALBUM::3812983830": {
+            "id": "3812983830",
+            "type": "album",
+            "title": "Loud Bloom",
+            "artistName": "Olof Dreijer",
+            "thumbnailUrl": "https://f4.bcbits.com/img/a3818274723_5.jpg",
+            "thumbnailWidth": 700,
+            "thumbnailHeight": 700,
+            "apiProvider": "bandcamp",
+            "platforms": [
+              "bandcamp"
+            ]
+          },
+          "BOOMPLAY_ALBUM::125208927": {
+            "id": "125208927",
+            "type": "album",
+            "title": "Loud Bloom",
+            "artistName": "Olof Dreijer",
+            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/02/05/77c383a7854c4e1197ae0e1da0595204H1500W1500_464_464.jpg",
+            "thumbnailWidth": 464,
+            "thumbnailHeight": 464,
+            "apiProvider": "boomplay",
+            "platforms": [
+              "boomplay"
+            ]
+          },
+          "PANDORA_ALBUM::AL:60930093": {
+            "id": "AL:60930093",
+            "type": "album",
+            "title": "Loud Bloom",
+            "artistName": "Olof Dreijer",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/f4/07/01/86/00a2413192b180c360be837b/_500W_500H.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "pandora",
+            "platforms": [
+              "pandora"
+            ]
+          },
+          "SPOTIFY_ALBUM::2I8Y2r289lu5s26k50N9GL": {
+            "id": "2I8Y2r289lu5s26k50N9GL",
+            "type": "album",
+            "title": "Loud Bloom",
+            "artistName": "Olof Dreijer",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273e5cdd7b071509cdf058e81eb",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "spotify",
+            "platforms": [
+              "spotify"
+            ]
+          },
+          "TIDAL_ALBUM::496362330": {
+            "id": "496362330",
+            "type": "album",
+            "title": "Loud Bloom",
+            "artistName": "Olof Dreijer",
+            "thumbnailUrl": "https://resources.tidal.com/images/f26b1724/a817/493a/8237/1df413e32da6/640x640.jpg",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "tidal",
+            "platforms": [
+              "tidal"
+            ]
+          }
+        },
+        "platforms": {
+          "spotify": "https://open.spotify.com/album/2I8Y2r289lu5s26k50N9GL",
+          "appleMusic": null,
+          "deezer": null,
+          "tidal": "https://listen.tidal.com/album/496362330",
+          "youtube": null,
+          "youtubeMusic": null,
+          "soundcloud": null,
+          "amazonMusic": null
+        }
+      },
+      "spotifySearchUrl": null
+    },
+    {
+      "artist": "Loraine James",
+      "album": "Detached From The Rest Of You",
+      "label": "Hyperdub",
+      "section": "dorasCorner",
+      "spotify": {
+        "id": "3Faii5tIYVSGT9IKCBPrVH",
+        "name": "Detached From The Rest Of You",
+        "url": "https://open.spotify.com/album/3Faii5tIYVSGT9IKCBPrVH",
+        "release_date": "2026-05-08",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273badf7bb72ae2d47fed692e47",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02badf7bb72ae2d47fed692e47",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851badf7bb72ae2d47fed692e47",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "536qHynzDH1QviwhWY9dE3",
+            "name": "Loraine James"
+          }
+        ]
+      },
+      "songlink": {
+        "pageUrl": "https://album.link/s/3Faii5tIYVSGT9IKCBPrVH",
+        "entitiesByUniqueId": {
+          "BANDCAMP_ALBUM::618140986": {
+            "id": "618140986",
+            "type": "album",
+            "title": "Detached From The Rest Of You",
+            "artistName": "Loraine James",
+            "thumbnailUrl": "https://f4.bcbits.com/img/a2420633024_5.jpg",
+            "thumbnailWidth": 700,
+            "thumbnailHeight": 700,
+            "apiProvider": "bandcamp",
+            "platforms": [
+              "bandcamp"
+            ]
+          },
+          "PANDORA_ALBUM::AL:61922183": {
+            "id": "AL:61922183",
+            "type": "album",
+            "title": "Detached From The Rest Of You",
+            "artistName": "Loraine James",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/00/3b/92/b4/efda4cae98b58e6892ec7b14/_500W_500H.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "pandora",
+            "platforms": [
+              "pandora"
+            ]
+          },
+          "SPOTIFY_ALBUM::3Faii5tIYVSGT9IKCBPrVH": {
+            "id": "3Faii5tIYVSGT9IKCBPrVH",
+            "type": "album",
+            "title": "Detached From The Rest Of You",
+            "artistName": "Loraine James",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273badf7bb72ae2d47fed692e47",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "spotify",
+            "platforms": [
+              "spotify"
+            ]
+          },
+          "TIDAL_ALBUM::501243749": {
+            "id": "501243749",
+            "type": "album",
+            "title": "Detached From The Rest Of You",
+            "artistName": "Loraine James",
+            "thumbnailUrl": "https://resources.tidal.com/images/2e0c809d/1602/4021/bfab/1a932605bbb5/640x640.jpg",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "tidal",
+            "platforms": [
+              "tidal"
+            ]
+          }
+        },
+        "platforms": {
+          "spotify": "https://open.spotify.com/album/3Faii5tIYVSGT9IKCBPrVH",
+          "appleMusic": null,
+          "deezer": null,
+          "tidal": "https://listen.tidal.com/album/501243749",
+          "youtube": null,
+          "youtubeMusic": null,
+          "soundcloud": null,
+          "amazonMusic": null
+        }
+      },
+      "spotifySearchUrl": null
+    },
+    {
+      "artist": "runo plum",
+      "album": "Bloom Again EP",
+      "label": "Winspear",
+      "section": "dorasCorner",
+      "spotify": null,
+      "songlink": null,
+      "spotifySearchUrl": "https://open.spotify.com/search/runo%20plum%20Bloom%20Again%20EP"
     }
   ]
 }

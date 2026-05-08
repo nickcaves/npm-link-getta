@@ -1,365 +1,489 @@
 {
-  "source": "https://www.npr.org/2026/05/01/nx-s1-5778469/new-music-friday-best-albums-may-1-2026",
-  "scrapedAt": "2026-05-01T20:41:36.349Z",
-  "date": "2026-05-01",
-  "title": "New Music Friday: The best albums out May 1",
+  "source": "https://www.npr.org/2026/05/08/nx-s1-5778471/new-music-friday-best-albums-may-8-2026",
+  "scrapedAt": "2026-05-08T20:48:11.635Z",
+  "date": "2026-05-08",
+  "title": "New Music Friday: The best albums out May 8",
   "starting5": [
     {
-      "artist": "Kacey Musgraves",
-      "album": "Middle of Nowhere",
-      "label": "Lost Highway"
+      "artist": "MUNA",
+      "album": "Dancing on the Wall",
+      "label": "Saddest Factory"
     },
     {
-      "artist": "American Football",
-      "album": "American Football LP4",
-      "label": "Polyvinyl"
+      "artist": "Aldous Harding",
+      "album": "Train on the Island",
+      "label": "4AD"
     },
     {
-      "artist": "Isaiah Rashad",
-      "album": "It's Been Awful",
-      "label": "TDE"
+      "artist": "Deb Never",
+      "album": "ARCADE",
+      "label": "Giant"
     },
     {
-      "artist": "Tori Amos",
-      "album": "In Times of Dragons",
-      "label": "Fontana"
+      "artist": "Lykke Li",
+      "album": "The Afterparty",
+      "label": "Neon Gold"
     },
     {
-      "artist": "Ana Roxanne",
-      "album": "Poem 1",
-      "label": "Kranky"
+      "artist": "Stephen Sanchez, Love, Love",
+      "album": "Love",
+      "label": "Mercury"
     }
   ],
-  "lightningRound": [],
+  "lightningRound": [
+    {
+      "artist": "Ashley McBryde",
+      "album": "Wild",
+      "label": "Warner Nashville"
+    },
+    {
+      "artist": "Broken Social Scene",
+      "album": "Remember The Humans",
+      "label": "Arts & Crafts"
+    },
+    {
+      "artist": "Ray Bull",
+      "album": "Please Stop Laughing",
+      "label": "AWAL"
+    },
+    {
+      "artist": "Anastasia Kristensen",
+      "album": "Bestiarium Sombre",
+      "label": "Intercept"
+    },
+    {
+      "artist": "Amy Grant",
+      "album": "The Me That Remains",
+      "label": "Thirty Tigers"
+    }
+  ],
   "dorasCorner": [
     {
-      "artist": "Lip Critic",
-      "album": "Theft World",
-      "label": "Partisan"
+      "artist": "Olof Dreijer",
+      "album": "Loud Bloom",
+      "label": "DH2"
     },
     {
-      "artist": "Frail Talk",
-      "album": "Circles & Visions",
-      "label": "self-released"
+      "artist": "Loraine James",
+      "album": "Detached From The Rest Of You",
+      "label": "Hyperdub"
     },
     {
-      "artist": "Knats",
-      "album": "A Great Day In Newcastle",
-      "label": "Gearbox"
+      "artist": "runo plum",
+      "album": "Bloom Again EP",
+      "label": "Winspear"
     }
   ],
   "longList": {
-    "Rap/Hip-Hop": [
+    "Rock/Alt/Indie": [
       {
-        "artist": "Kneecap",
-        "album": "FENIAN",
-        "label": "PIAS"
+        "artist": "Cola",
+        "album": "Cost of Living Adjustment",
+        "label": "Fire Talk"
       },
       {
-        "artist": "Lil Tjay",
-        "album": "They Just Ain't You",
-        "label": "TrenchKid"
-      }
-    ],
-    "Classical": [
-      {
-        "artist": "Alberto Giurioli",
-        "album": "Leftovers",
-        "label": "Decca"
+        "artist": "The American Analog Set",
+        "album": "Destroy Destroy Destroy box set",
+        "label": "Numero Group"
       },
       {
-        "artist": "Robert Walter",
-        "album": "The Breaks",
-        "label": "Color Red"
+        "artist": "Gun Outfit",
+        "album": "Process & Reality",
+        "label": "Upset the Rhythm"
+      },
+      {
+        "artist": "Ellen Froese",
+        "album": "Solitary Songs",
+        "label": "Victory Pool"
+      },
+      {
+        "artist": "37 Houses",
+        "album": "When and How It Happened",
+        "label": "self-released"
+      },
+      {
+        "artist": "Baby Jane",
+        "album": "Winter Forever",
+        "label": "Terem"
+      },
+      {
+        "artist": "Basement",
+        "album": "WIRED",
+        "label": "Run For Cover"
+      },
+      {
+        "artist": "Carla J. Easton",
+        "album": "I Think That I Might Love You",
+        "label": "Ernest Jenning"
+      },
+      {
+        "artist": "CROZ BOYCE",
+        "album": "CROZ BOYCE",
+        "label": "Domino"
+      },
+      {
+        "artist": "FIRE MAN",
+        "album": "How to Erase Everything",
+        "label": "self-released"
+      },
+      {
+        "artist": "Fireball Kid",
+        "album": "Deer Path Turn To A Shortcut",
+        "label": "Born Losers"
+      },
+      {
+        "artist": "Frozen Soul",
+        "album": "No Place of Warmth",
+        "label": "Century Media"
+      },
+      {
+        "artist": "Future Teens",
+        "album": "Still Life",
+        "label": "Take This To Heart"
+      },
+      {
+        "artist": "girli",
+        "album": "it's just my opinion",
+        "label": "Believe"
+      },
+      {
+        "artist": "Guttersnipe",
+        "album": "Extinction Burst",
+        "label": "Night School"
+      },
+      {
+        "artist": "Jena Malone",
+        "album": "Flowers For Men",
+        "label": "self-released"
+      },
+      {
+        "artist": "Lee Lewis",
+        "album": "HOWL EP",
+        "label": "AWAL"
+      },
+      {
+        "artist": "Lucky Break",
+        "album": "made it!",
+        "label": "Fire"
+      },
+      {
+        "artist": "Rural France",
+        "album": "SLOTHS",
+        "label": "Safe Suburban Home"
+      },
+      {
+        "artist": "sadie",
+        "album": "Better Angels",
+        "label": "Bloody Knuckles"
+      },
+      {
+        "artist": "Simon Bromide & The Bromides",
+        "album": "Forest Mountain Forest",
+        "label": "Scratchy"
+      },
+      {
+        "artist": "Social Distortion",
+        "album": "Born to Kill",
+        "label": "Epitaph"
+      },
+      {
+        "artist": "Sumos",
+        "album": "Luck EP",
+        "label": "Meritorio / Safe Suburban Home"
+      },
+      {
+        "artist": "The Lemon Twigs",
+        "album": "Look For Your Mind!",
+        "label": "Captured Tracks"
+      },
+      {
+        "artist": "The Loft",
+        "album": "Badges",
+        "label": "Tapete"
+      },
+      {
+        "artist": "The Sleeves",
+        "album": "The Sleeves",
+        "label": "12XU"
       }
     ],
     "Country/Folk/Americana": [
       {
-        "artist": "Taj Mahal",
-        "album": "Time",
-        "label": "Thirty Tigers"
+        "artist": "Abigail Lapell",
+        "album": "Shadow Child",
+        "label": "Outside"
       },
       {
-        "artist": "Austin Snell",
-        "album": "Colors EP",
-        "label": "Warner Nashville"
+        "artist": "India Ramey",
+        "album": "Villain Era",
+        "label": "Copaco / Blue Élan"
       },
       {
-        "artist": "Emily Nenni",
-        "album": "Movin' Shoes",
-        "label": "New West"
+        "artist": "Michaela Anne",
+        "album": "These are the Days",
+        "label": "Georgia June"
       },
       {
-        "artist": "Emily Portman",
-        "album": "Dominion of Spells",
-        "label": "Hudson"
-      },
-      {
-        "artist": "Hiss Golden Messenger",
-        "album": "I'm People",
-        "label": "Chrysalis"
-      },
-      {
-        "artist": "Paisley Fields",
-        "album": "Are U Mad At Me",
-        "label": "Don Giovanni"
-      },
-      {
-        "artist": "Silverdeer",
-        "album": "House of Devotion EP",
-        "label": "self-released"
+        "artist": "Trippers & Askers",
+        "album": "Tried to Do's",
+        "label": "Sleepy Cat"
       }
     ],
     "Electronic/Out There": [
       {
-        "artist": "Bergsonist",
-        "album": "Depths",
-        "label": "Dark Entries"
+        "artist": "Colombian Drone Mafia",
+        "album": "Sueno en Flor",
+        "label": "Space Talk"
       },
       {
-        "artist": "Seefeel",
-        "album": "Sol.Hz",
-        "label": "Warp"
+        "artist": "CORTIS",
+        "album": "GREENGREEN EP",
+        "label": "BIGHIT"
       },
       {
-        "artist": "Yu Su",
-        "album": "Foundry",
-        "label": "Short Span"
-      },
-      {
-        "artist": "Benny Benassi",
-        "album": "Feel The Bass",
-        "label": "Ultra"
-      },
-      {
-        "artist": "Glissandro 70",
-        "album": "G70 2: Bones Of Dundasa",
-        "label": "Constellation"
-      },
-      {
-        "artist": "Hekt",
-        "album": "Forever",
-        "label": "Numbers"
-      },
-      {
-        "artist": "INGI",
-        "album": "persona non grata",
+        "artist": "Fiona Zanetti",
+        "album": "Red Light Therapy",
         "label": "self-released"
       },
       {
-        "artist": "Jump Source",
-        "album": "Fold",
-        "label": "NAFF"
+        "artist": "Fire-Toolz",
+        "album": "Lavender Networks",
+        "label": "Warp"
       },
       {
-        "artist": "Miss Bashful",
-        "album": "Glamour Snobby",
-        "label": "Polydor/Capitol"
+        "artist": "Khôra & Mas Aya",
+        "album": "Primordial Mind",
+        "label": "Marionette"
       },
       {
-        "artist": "Speedy J",
-        "album": "Walkman",
-        "label": "STOOR"
+        "artist": "Laurie Anderson & Sexmob",
+        "album": "Let X=X",
+        "label": "Live at Brooklyn Academy of Music"
+      },
+      {
+        "artist": "Max Cooper",
+        "album": "Feeling Is Structure",
+        "label": "Manners McDade / Mesh"
+      },
+      {
+        "artist": "Y",
+        "album": "Enter EP",
+        "label": "SO"
+      },
+      {
+        "artist": "TYGAPAW",
+        "album": "Together You Gather All Power Applied Worldwide",
+        "label": "Tresor"
       }
     ],
     "Global": [
       {
-        "artist": "Asake",
-        "album": "M$NEY",
-        "label": "Empire"
+        "artist": "J Balvin",
+        "album": "OMERTA",
+        "label": "UMG"
       },
       {
-        "artist": "IZCO",
-        "album": "Powerscroft",
-        "label": "Brownswood"
+        "artist": "Jonny Greenwood, Shye Ben Tzur and The Rajasthan",
+        "album": "Express Ranjha",
+        "label": "World Circuit"
       },
       {
-        "artist": "La Doña",
-        "album": "Corrientes",
-        "label": "Text Me"
+        "artist": "Ruben Ramos",
+        "album": "Los Días de Calor",
+        "label": "Cosmica Artists"
       }
     ],
     "Jazz": [
       {
-        "artist": "Gabrielle Cavassa",
-        "album": "Diavola",
-        "label": "Blue Note"
+        "artist": "Alabaster DePlume, Dear Children of Our Children",
+        "album": "I Knew: Epilogue",
+        "label": "International Anthem"
       },
       {
-        "artist": "Jason Moran, BlankFor.ms and Marcus Gilmore",
-        "album": "Shards",
-        "label": "Red Hook"
+        "artist": "Bill Wells, El, El",
+        "album": "El",
+        "label": "Karaoke Kalk"
+      },
+      {
+        "artist": "Chris Potter",
+        "album": "Alive With Ghosts Today",
+        "label": "Edition"
+      },
+      {
+        "artist": "John Hollenbeck & GEORGE",
+        "album": "Looking for Consonance",
+        "label": "Out Of Your Head"
+      },
+      {
+        "artist": "Matthew Stevens",
+        "album": "Matthew Stevens",
+        "label": "Candid"
+      },
+      {
+        "artist": "Stix Hooper",
+        "album": "Cookin' Up The Groove",
+        "label": "self-released"
       }
     ],
     "Pop": [
       {
-        "artist": "Melanie C",
-        "album": "Sweat",
-        "label": "Red Girl"
+        "artist": "Clara Kimera",
+        "album": "the plushies EP",
+        "label": "Pack / Create Music Group"
       },
       {
-        "artist": "Rita Wilson",
-        "album": "Sound of a Woman",
-        "label": "Sing it Louder"
+        "artist": "glaive & kurtains",
+        "album": "God Save the Three",
+        "label": "broke"
+      },
+      {
+        "artist": "Namasenda",
+        "album": "Limbo",
+        "label": "YEAR0001"
+      },
+      {
+        "artist": "Sabrina Song",
+        "album": "Big Trick EP",
+        "label": "Many Hats"
+      },
+      {
+        "artist": "Slowe",
+        "album": "In Moments",
+        "label": "Tru Thoughts"
+      },
+      {
+        "artist": "The Haunted Youth",
+        "album": "Boys Cry Too",
+        "label": "PIAS"
+      },
+      {
+        "artist": "Neil Diamond",
+        "album": "Wild at Heart",
+        "label": "Capitol"
+      }
+    ],
+    "Rap/Hip-Hop": [
+      {
+        "artist": "JWords",
+        "album": "Sound Therapy",
+        "label": "self-released"
+      },
+      {
+        "artist": "Black Milk",
+        "album": "Ceremonial",
+        "label": "Computer Ugly"
+      },
+      {
+        "artist": "Little Simz",
+        "album": "Sugar Girl EP",
+        "label": "AWAL"
+      },
+      {
+        "artist": "Thaiboy",
+        "album": "Digital Paradise",
+        "label": "Bank of Star Sound System"
+      },
+      {
+        "artist": "Action Bronson",
+        "album": "PLANET FROG",
+        "label": "Baklava Industries"
+      },
+      {
+        "artist": "AZ",
+        "album": "Do or Die III",
+        "label": "Mass Appeal"
       }
     ],
     "R&B/Soul": [
       {
-        "artist": "The Nth Power",
-        "album": "Never Alone",
-        "label": "GroundUp"
-      }
-    ],
-    "Rock/Alt/Indie": [
-      {
-        "artist": "Cindy",
-        "album": "Another Country",
-        "label": "Tough Love"
-      },
-      {
-        "artist": "Maya Hawke",
-        "album": "Maitreya Corso",
-        "label": "Mom + Pop"
-      },
-      {
-        "artist": "The Sleeveens",
-        "album": "National Anthem",
-        "label": "Goner"
-      },
-      {
-        "artist": "Bonner Kramer & Thurston Moore",
-        "album": "They Came Like Swallows",
-        "label": "Silver Current"
-      },
-      {
-        "artist": "Eagles",
-        "album": "One Of These Nights (Deluxe Edition)",
-        "label": "Warner"
-      },
-      {
-        "artist": "Emma Louise",
-        "album": "Sunshine for Happiness",
-        "label": "Future Classic"
-      },
-      {
-        "artist": "Genre Is Death",
-        "album": "Attractive People",
-        "label": "In The Red"
-      },
-      {
-        "artist": "Modern Woman",
-        "album": "Johnny's Dreamworld",
-        "label": "One Little Independent"
-      },
-      {
-        "artist": "Pigeon",
-        "album": "OUTTANATIONAL",
-        "label": "Memphis Industries"
-      },
-      {
-        "artist": "Pope",
-        "album": "BFM",
-        "label": "Rite Field"
-      },
-      {
-        "artist": "Rainbow Conspiracy",
-        "album": "Facts From Fictions EP",
-        "label": "Not So Deep"
-      },
-      {
-        "artist": "Steve Wilson",
-        "album": "Enduring Sonance",
-        "label": "Smoke Sessions"
-      },
-      {
-        "artist": "Tarragon",
-        "album": "Home At Cofa",
-        "label": "self-released"
-      },
-      {
-        "artist": "The Black Keys",
-        "album": "Peaches!",
-        "label": "Easy Eye Sound/Warner"
-      },
-      {
-        "artist": "The Boo Radleys",
-        "album": "In Spite Of Everything",
-        "label": "Boostr"
-      },
-      {
-        "artist": "The Claypool Lennon Delirium",
-        "album": "The Great Parrot-Ox and the Golden Egg of Empathy",
+        "artist": "Brother Wallace",
+        "album": "Electric Love",
         "label": "ATO"
       },
       {
-        "artist": "The High Curbs",
-        "album": "HIGH SPEED",
-        "label": "LAUREN"
-      },
-      {
-        "artist": "Weird Nightmare",
-        "album": "Hoopla",
-        "label": "Sub Pop"
-      },
-      {
-        "artist": "youbet",
-        "album": "youbet",
-        "label": "Hardly Art"
-      },
-      {
-        "artist": "Young the Giant",
-        "album": "Victory Garden",
-        "label": "Fearless"
+        "artist": "Chris Brown",
+        "album": "BROWN",
+        "label": "RCA"
       }
     ]
   },
   "allAlbums": [
     {
-      "artist": "Kacey Musgraves",
-      "album": "Middle of Nowhere",
-      "label": "Lost Highway",
+      "artist": "MUNA",
+      "album": "Dancing on the Wall",
+      "label": "Saddest Factory",
       "section": "starting5"
     },
     {
-      "artist": "American Football",
-      "album": "American Football LP4",
-      "label": "Polyvinyl",
+      "artist": "Aldous Harding",
+      "album": "Train on the Island",
+      "label": "4AD",
       "section": "starting5"
     },
     {
-      "artist": "Isaiah Rashad",
-      "album": "It's Been Awful",
-      "label": "TDE",
+      "artist": "Deb Never",
+      "album": "ARCADE",
+      "label": "Giant",
       "section": "starting5"
     },
     {
-      "artist": "Tori Amos",
-      "album": "In Times of Dragons",
-      "label": "Fontana",
+      "artist": "Lykke Li",
+      "album": "The Afterparty",
+      "label": "Neon Gold",
       "section": "starting5"
     },
     {
-      "artist": "Ana Roxanne",
-      "album": "Poem 1",
-      "label": "Kranky",
+      "artist": "Stephen Sanchez, Love, Love",
+      "album": "Love",
+      "label": "Mercury",
       "section": "starting5"
     },
     {
-      "artist": "Lip Critic",
-      "album": "Theft World",
-      "label": "Partisan",
+      "artist": "Ashley McBryde",
+      "album": "Wild",
+      "label": "Warner Nashville",
+      "section": "lightningRound"
+    },
+    {
+      "artist": "Broken Social Scene",
+      "album": "Remember The Humans",
+      "label": "Arts & Crafts",
+      "section": "lightningRound"
+    },
+    {
+      "artist": "Ray Bull",
+      "album": "Please Stop Laughing",
+      "label": "AWAL",
+      "section": "lightningRound"
+    },
+    {
+      "artist": "Anastasia Kristensen",
+      "album": "Bestiarium Sombre",
+      "label": "Intercept",
+      "section": "lightningRound"
+    },
+    {
+      "artist": "Amy Grant",
+      "album": "The Me That Remains",
+      "label": "Thirty Tigers",
+      "section": "lightningRound"
+    },
+    {
+      "artist": "Olof Dreijer",
+      "album": "Loud Bloom",
+      "label": "DH2",
       "section": "dorasCorner"
     },
     {
-      "artist": "Frail Talk",
-      "album": "Circles & Visions",
-      "label": "self-released",
+      "artist": "Loraine James",
+      "album": "Detached From The Rest Of You",
+      "label": "Hyperdub",
       "section": "dorasCorner"
     },
     {
-      "artist": "Knats",
-      "album": "A Great Day In Newcastle",
-      "label": "Gearbox",
+      "artist": "runo plum",
+      "album": "Bloom Again EP",
+      "label": "Winspear",
       "section": "dorasCorner"
     }
   ]
