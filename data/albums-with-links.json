@@ -1,52 +1,53 @@
 {
-  "source": "https://www.npr.org/2026/05/15/nx-s1-5778473/new-music-friday-best-albums-may-15-2026",
-  "scrapedAt": "2026-05-15T20:52:05.061Z",
-  "date": "2026-05-15",
-  "title": "New Music Friday: The best albums out May 15",
+  "source": "https://www.npr.org/2026/05/22/nx-s1-5830344/new-music-friday-best-albums-may-22-2026",
+  "scrapedAt": "2026-05-22T21:03:16.906Z",
+  "date": "2026-05-22",
+  "title": "New Music Friday: The best albums out May 22",
   "total": 13,
   "albums": [
     {
-      "artist": "Jobi Riccio",
-      "album": "Face the Feeling",
-      "label": "Yep Roc",
+      "artist": "Bleachers",
+      "album": "everyone for ten minutes",
+      "label": "Dirty Hit",
       "section": "starting5",
       "spotify": {
-        "id": "0nbOE96i0mvngykkXaQew0",
-        "name": "Face The Feeling",
-        "url": "https://open.spotify.com/album/0nbOE96i0mvngykkXaQew0",
-        "release_date": "2026-05-15",
+        "id": "7fVpvNHItOKonMGgbhHL5o",
+        "name": "everyone for ten minutes",
+        "url": "https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o",
+        "release_date": "2026-05-22",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273134b97a96436707326fb4227",
+            "url": "https://i.scdn.co/image/ab67616d0000b27318cdf1e2b9a0ab04b987699b",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02134b97a96436707326fb4227",
+            "url": "https://i.scdn.co/image/ab67616d00001e0218cdf1e2b9a0ab04b987699b",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851134b97a96436707326fb4227",
+            "url": "https://i.scdn.co/image/ab67616d0000485118cdf1e2b9a0ab04b987699b",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "0iBeDti8V9DLGVPA2xHMeO",
-            "name": "Jobi Riccio"
+            "id": "2eam0iDomRHGBypaDQLwWI",
+            "name": "Bleachers"
           }
         ]
       },
       "songlink": {
-        "pageUrl": "https://album.link/s/0nbOE96i0mvngykkXaQew0",
+        "pageUrl": "https://album.link/s/7fVpvNHItOKonMGgbhHL5o",
         "entitiesByUniqueId": {
-          "BANDCAMP_ALBUM::587094334": {
-            "id": "587094334",
+          "BANDCAMP_ALBUM::2828832874": {
+            "id": "2828832874",
             "type": "album",
-            "title": "Face The Feeling",
-            "thumbnailUrl": "https://f4.bcbits.com/img/a3764522623_5.jpg",
+            "title": "everyone for ten minutes",
+            "artistName": "Bleachers",
+            "thumbnailUrl": "https://f4.bcbits.com/img/a0282700008_5.jpg",
             "thumbnailWidth": 700,
             "thumbnailHeight": 700,
             "apiProvider": "bandcamp",
@@ -54,12 +55,25 @@
               "bandcamp"
             ]
           },
-          "PANDORA_ALBUM::AL:58017058": {
-            "id": "AL:58017058",
+          "BOOMPLAY_ALBUM::130837922": {
+            "id": "130837922",
             "type": "album",
-            "title": "Face The Feeling",
-            "artistName": "Jobi Riccio",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/1b/3e/6a/eb/276a4bad9bd75c43340d4f6b/_500W_500H.jpg",
+            "title": "everyone for ten minutes",
+            "artistName": "Bleachers",
+            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/05/07/042a24719bfd47fe8d7b19903b8e6a08H1500W1500_464_464.jpg",
+            "thumbnailWidth": 464,
+            "thumbnailHeight": 464,
+            "apiProvider": "boomplay",
+            "platforms": [
+              "boomplay"
+            ]
+          },
+          "PANDORA_ALBUM::AL:66281563": {
+            "id": "AL:66281563",
+            "type": "album",
+            "title": "everyone for ten minutes",
+            "artistName": "Bleachers",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/9d/c5/1c/e1/939d4ca781c159de479a8b87/_500W_500H.jpg",
             "thumbnailWidth": 500,
             "thumbnailHeight": 500,
             "apiProvider": "pandora",
@@ -67,12 +81,12 @@
               "pandora"
             ]
           },
-          "SPOTIFY_ALBUM::0nbOE96i0mvngykkXaQew0": {
-            "id": "0nbOE96i0mvngykkXaQew0",
+          "SPOTIFY_ALBUM::7fVpvNHItOKonMGgbhHL5o": {
+            "id": "7fVpvNHItOKonMGgbhHL5o",
             "type": "album",
-            "title": "Face The Feeling",
-            "artistName": "Jobi Riccio",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273134b97a96436707326fb4227",
+            "title": "everyone for ten minutes",
+            "artistName": "Bleachers",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b27318cdf1e2b9a0ab04b987699b",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "spotify",
@@ -80,12 +94,12 @@
               "spotify"
             ]
           },
-          "TIDAL_ALBUM::482061606": {
-            "id": "482061606",
+          "TIDAL_ALBUM::522321007": {
+            "id": "522321007",
             "type": "album",
-            "title": "Face The Feeling",
-            "artistName": "Jobi Riccio",
-            "thumbnailUrl": "https://resources.tidal.com/images/8821fe94/d991/4239/82a8/42769bcbb7ef/640x640.jpg",
+            "title": "everyone for ten minutes",
+            "artistName": "Bleachers",
+            "thumbnailUrl": "https://resources.tidal.com/images/5daeae5b/5776/4f26/ae7c/5c3d5e699a57/640x640.jpg",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "tidal",
@@ -95,10 +109,10 @@
           }
         },
         "platforms": {
-          "spotify": "https://open.spotify.com/album/0nbOE96i0mvngykkXaQew0",
+          "spotify": "https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o",
           "appleMusic": null,
           "deezer": null,
-          "tidal": "https://listen.tidal.com/album/482061606",
+          "tidal": "https://listen.tidal.com/album/522321007",
           "youtube": null,
           "youtubeMusic": null,
           "soundcloud": null,
@@ -108,48 +122,580 @@
       "spotifySearchUrl": null
     },
     {
-      "artist": "Dua Saleh",
-      "album": "Of Earth & Wires",
-      "label": "Ghostly International",
+      "artist": "JPEGMAFIA",
+      "album": "Experimental Rap",
+      "label": "AWAL",
       "section": "starting5",
       "spotify": {
-        "id": "3qNTvRIpk5NhtwDOAUMeMx",
-        "name": "Of Earth & Wires",
-        "url": "https://open.spotify.com/album/3qNTvRIpk5NhtwDOAUMeMx",
-        "release_date": "2026-05-15",
+        "id": "5LmWpQ3tnLtX0kOm2SxB22",
+        "name": "EXPERIMENTAL RAP",
+        "url": "https://open.spotify.com/album/5LmWpQ3tnLtX0kOm2SxB22",
+        "release_date": "2026-05-21",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2735a410814a9b4da0f6fd376f6",
+            "url": "https://i.scdn.co/image/ab67616d0000b27373fe8f78133608dee4f3a5bd",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e025a410814a9b4da0f6fd376f6",
+            "url": "https://i.scdn.co/image/ab67616d00001e0273fe8f78133608dee4f3a5bd",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048515a410814a9b4da0f6fd376f6",
+            "url": "https://i.scdn.co/image/ab67616d0000485173fe8f78133608dee4f3a5bd",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "2DGBzoOLcKLK3eWxFyugdB",
-            "name": "Dua Saleh"
+            "id": "6yJ6QQ3Y5l0s0tn7b0arrO",
+            "name": "JPEGMAFIA"
           }
         ]
       },
       "songlink": {
-        "pageUrl": "https://album.link/s/3qNTvRIpk5NhtwDOAUMeMx",
+        "pageUrl": "https://album.link/s/5LmWpQ3tnLtX0kOm2SxB22",
         "entitiesByUniqueId": {
-          "AMAZON_ALBUM::B0GGL68LFY": {
-            "id": "B0GGL68LFY",
+          "PANDORA_ALBUM::AL:64754042": {
+            "id": "AL:64754042",
             "type": "album",
-            "title": "Of Earth & Wires",
-            "artistName": "Dua Saleh",
-            "thumbnailUrl": "https://m.media-amazon.com/images/I/4172wvECwDL.jpg",
+            "title": "EXPERIMENTAL RAP",
+            "artistName": "JPEGMAFIA",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/6e/24/62/f5/7523442987fabe8aad25330e/_500W_500H.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "pandora",
+            "platforms": [
+              "pandora"
+            ]
+          },
+          "SPOTIFY_ALBUM::5LmWpQ3tnLtX0kOm2SxB22": {
+            "id": "5LmWpQ3tnLtX0kOm2SxB22",
+            "type": "album",
+            "title": "EXPERIMENTAL RAP",
+            "artistName": "JPEGMAFIA",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b27373fe8f78133608dee4f3a5bd",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "spotify",
+            "platforms": [
+              "spotify"
+            ]
+          },
+          "TIDAL_ALBUM::514352919": {
+            "id": "514352919",
+            "type": "album",
+            "title": "EXPERIMENTAL RAP",
+            "artistName": "JPEGMAFIA",
+            "thumbnailUrl": "https://resources.tidal.com/images/c5b31a45/116c/423c/bb5c/5ec4ffa9a07e/640x640.jpg",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "tidal",
+            "platforms": [
+              "tidal"
+            ]
+          }
+        },
+        "platforms": {
+          "spotify": "https://open.spotify.com/album/5LmWpQ3tnLtX0kOm2SxB22",
+          "appleMusic": null,
+          "deezer": null,
+          "tidal": "https://listen.tidal.com/album/514352919",
+          "youtube": null,
+          "youtubeMusic": null,
+          "soundcloud": null,
+          "amazonMusic": null
+        }
+      },
+      "spotifySearchUrl": null
+    },
+    {
+      "artist": "Ed O'Brien",
+      "album": "Blue Morpho",
+      "label": "Transgressive",
+      "section": "starting5",
+      "spotify": {
+        "id": "6U0M6Tp6DMGduBdp5rVzqe",
+        "name": "Blue Morpho",
+        "url": "https://open.spotify.com/album/6U0M6Tp6DMGduBdp5rVzqe",
+        "release_date": "2026-05-22",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2733c408a82f600f91aec07a3c9",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e023c408a82f600f91aec07a3c9",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048513c408a82f600f91aec07a3c9",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "3E7aH1Yv84NoaP9JWcrMpE",
+            "name": "Ed O'Brien"
+          }
+        ]
+      },
+      "songlink": {
+        "pageUrl": "https://album.link/s/6U0M6Tp6DMGduBdp5rVzqe",
+        "entitiesByUniqueId": {
+          "BANDCAMP_ALBUM::589706175": {
+            "id": "589706175",
+            "type": "album",
+            "title": "Blue Morpho",
+            "artistName": "Ed O'Brien",
+            "thumbnailUrl": "https://f4.bcbits.com/img/a3660207475_5.jpg",
+            "thumbnailWidth": 700,
+            "thumbnailHeight": 700,
+            "apiProvider": "bandcamp",
+            "platforms": [
+              "bandcamp"
+            ]
+          },
+          "PANDORA_ALBUM::AL:60718081": {
+            "id": "AL:60718081",
+            "type": "album",
+            "title": "Blue Morpho",
+            "artistName": "Ed O'Brien",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/c6/cf/52/df/b8e84036ae63feba583f8516/_500W_500H.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "pandora",
+            "platforms": [
+              "pandora"
+            ]
+          },
+          "SPOTIFY_ALBUM::6U0M6Tp6DMGduBdp5rVzqe": {
+            "id": "6U0M6Tp6DMGduBdp5rVzqe",
+            "type": "album",
+            "title": "Blue Morpho",
+            "artistName": "Ed O'Brien",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2733c408a82f600f91aec07a3c9",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "spotify",
+            "platforms": [
+              "spotify"
+            ]
+          },
+          "TIDAL_ALBUM::495187955": {
+            "id": "495187955",
+            "type": "album",
+            "title": "Blue Morpho",
+            "artistName": "Ed O'Brien",
+            "thumbnailUrl": "https://resources.tidal.com/images/10b7a46f/f26b/45e4/9b75/08367b64d9cc/640x640.jpg",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "tidal",
+            "platforms": [
+              "tidal"
+            ]
+          }
+        },
+        "platforms": {
+          "spotify": "https://open.spotify.com/album/6U0M6Tp6DMGduBdp5rVzqe",
+          "appleMusic": null,
+          "deezer": null,
+          "tidal": "https://listen.tidal.com/album/495187955",
+          "youtube": null,
+          "youtubeMusic": null,
+          "soundcloud": null,
+          "amazonMusic": null
+        }
+      },
+      "spotifySearchUrl": null
+    },
+    {
+      "artist": "Aja Monet",
+      "album": "the color of rain",
+      "label": "drink sum wtr",
+      "section": "starting5",
+      "spotify": {
+        "id": "1UOnv9kNRxCm5v814qTjI4",
+        "name": "the color of rain",
+        "url": "https://open.spotify.com/album/1UOnv9kNRxCm5v814qTjI4",
+        "release_date": "2026-05-22",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2732e3c87fb12f6627713cab7da",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e022e3c87fb12f6627713cab7da",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048512e3c87fb12f6627713cab7da",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "6dclGxWbiv1ScMQwT5INQF",
+            "name": "aja monet"
+          }
+        ]
+      },
+      "songlink": {
+        "pageUrl": "https://album.link/s/1UOnv9kNRxCm5v814qTjI4",
+        "entitiesByUniqueId": {
+          "BANDCAMP_ALBUM::2401868897": {
+            "id": "2401868897",
+            "type": "album",
+            "title": "the color of rain",
+            "artistName": "aja monet",
+            "thumbnailUrl": "https://f4.bcbits.com/img/a0089373028_5.jpg",
+            "thumbnailWidth": 700,
+            "thumbnailHeight": 700,
+            "apiProvider": "bandcamp",
+            "platforms": [
+              "bandcamp"
+            ]
+          },
+          "PANDORA_ALBUM::AL:59809058": {
+            "id": "AL:59809058",
+            "type": "album",
+            "title": "the color of rain",
+            "artistName": "aja monet",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/b3/6c/e6/b2/ada44fef92050eefe68304bc/_500W_500H.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "pandora",
+            "platforms": [
+              "pandora"
+            ]
+          },
+          "SPOTIFY_ALBUM::1UOnv9kNRxCm5v814qTjI4": {
+            "id": "1UOnv9kNRxCm5v814qTjI4",
+            "type": "album",
+            "title": "the color of rain",
+            "artistName": "aja monet",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2732e3c87fb12f6627713cab7da",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "spotify",
+            "platforms": [
+              "spotify"
+            ]
+          },
+          "TIDAL_ALBUM::490308726": {
+            "id": "490308726",
+            "type": "album",
+            "title": "the color of rain",
+            "artistName": "Aja Monet",
+            "thumbnailUrl": "https://resources.tidal.com/images/77080567/5cd7/4874/8b14/5d6b1ca7f285/640x640.jpg",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "tidal",
+            "platforms": [
+              "tidal"
+            ]
+          }
+        },
+        "platforms": {
+          "spotify": "https://open.spotify.com/album/1UOnv9kNRxCm5v814qTjI4",
+          "appleMusic": null,
+          "deezer": null,
+          "tidal": "https://listen.tidal.com/album/490308726",
+          "youtube": null,
+          "youtubeMusic": null,
+          "soundcloud": null,
+          "amazonMusic": null
+        }
+      },
+      "spotifySearchUrl": null
+    },
+    {
+      "artist": "Lowertown",
+      "album": "Ugly Duckling Union",
+      "label": "Summer Shade",
+      "section": "starting5",
+      "spotify": {
+        "id": "6g8JRKz0Wx6shPLZoCFgLb",
+        "name": "Ugly Duckling Union",
+        "url": "https://open.spotify.com/album/6g8JRKz0Wx6shPLZoCFgLb",
+        "release_date": "2026-05-22",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273e3155f89f205d41388dadce4",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e3155f89f205d41388dadce4",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e3155f89f205d41388dadce4",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "1yI0RRPnOA9BFJmiZ6cEzw",
+            "name": "Lowertown"
+          }
+        ]
+      },
+      "songlink": {
+        "pageUrl": "https://album.link/s/6g8JRKz0Wx6shPLZoCFgLb",
+        "entitiesByUniqueId": {
+          "BANDCAMP_ALBUM::2455878433": {
+            "id": "2455878433",
+            "type": "album",
+            "title": "Ugly Duckling Union",
+            "artistName": "Lowertown",
+            "thumbnailUrl": "https://f4.bcbits.com/img/a3441178860_5.jpg",
+            "thumbnailWidth": 700,
+            "thumbnailHeight": 700,
+            "apiProvider": "bandcamp",
+            "platforms": [
+              "bandcamp"
+            ]
+          },
+          "BOOMPLAY_ALBUM::124379046": {
+            "id": "124379046",
+            "type": "album",
+            "title": "Ugly Duckling Union",
+            "artistName": "Lowertown",
+            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/01/27/dbbcf8f797e849ebaf63c72b6288b41eH1500W1500_464_464.jpg",
+            "thumbnailWidth": 464,
+            "thumbnailHeight": 464,
+            "apiProvider": "boomplay",
+            "platforms": [
+              "boomplay"
+            ]
+          },
+          "PANDORA_ALBUM::AL:60329882": {
+            "id": "AL:60329882",
+            "type": "album",
+            "title": "Ugly Duckling Union",
+            "artistName": "Lowertown",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/5d/87/01/40/0a07443c8634971966423987/_500W_500H.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "pandora",
+            "platforms": [
+              "pandora"
+            ]
+          },
+          "SPOTIFY_ALBUM::6g8JRKz0Wx6shPLZoCFgLb": {
+            "id": "6g8JRKz0Wx6shPLZoCFgLb",
+            "type": "album",
+            "title": "Ugly Duckling Union",
+            "artistName": "Lowertown",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273e3155f89f205d41388dadce4",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "spotify",
+            "platforms": [
+              "spotify"
+            ]
+          },
+          "TIDAL_ALBUM::493185407": {
+            "id": "493185407",
+            "type": "album",
+            "title": "Ugly Duckling Union",
+            "artistName": "Lowertown",
+            "thumbnailUrl": "https://resources.tidal.com/images/5df7a6fe/f2b9/46c0/b7df/9f563330595d/640x640.jpg",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "tidal",
+            "platforms": [
+              "tidal"
+            ]
+          }
+        },
+        "platforms": {
+          "spotify": "https://open.spotify.com/album/6g8JRKz0Wx6shPLZoCFgLb",
+          "appleMusic": null,
+          "deezer": null,
+          "tidal": "https://listen.tidal.com/album/493185407",
+          "youtube": null,
+          "youtubeMusic": null,
+          "soundcloud": null,
+          "amazonMusic": null
+        }
+      },
+      "spotifySearchUrl": null
+    },
+    {
+      "artist": "Alela Diane",
+      "album": "Who's Keeping Time?",
+      "label": "Fluff & Gravy",
+      "section": "lightningRound",
+      "spotify": null,
+      "songlink": null,
+      "spotifySearchUrl": "https://open.spotify.com/search/Alela%20Diane%20Who's%20Keeping%20Time%3F"
+    },
+    {
+      "artist": "Mexican Institute of Sound & Meridian Brothers",
+      "album": "Ruido Tovar",
+      "label": "Ansonia",
+      "section": "lightningRound",
+      "spotify": {
+        "id": "1DvzbmJeGavmXcQnXe5Cl1",
+        "name": "Ruido Tovar",
+        "url": "https://open.spotify.com/album/1DvzbmJeGavmXcQnXe5Cl1",
+        "release_date": "2026-05-22",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27370ddaea002796dfe4d92e53a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0270ddaea002796dfe4d92e53a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485170ddaea002796dfe4d92e53a",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "4TPTW3cTwUtiihgOMSQfmy",
+            "name": "Mexican Institute Of Sound"
+          },
+          {
+            "id": "08Y6RNx87Eolrcq1aLM6ow",
+            "name": "Meridian Brothers"
+          }
+        ]
+      },
+      "songlink": {
+        "pageUrl": "https://album.link/s/1DvzbmJeGavmXcQnXe5Cl1",
+        "entitiesByUniqueId": {
+          "BOOMPLAY_ALBUM::127922557": {
+            "id": "127922557",
+            "type": "album",
+            "title": "Ruido Tovar",
+            "artistName": "Mexican Institute of Sound",
+            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/03/18/e5e7bc2b71934a3ba324050ccf96d524H1500W1500_464_464.jpg",
+            "thumbnailWidth": 464,
+            "thumbnailHeight": 464,
+            "apiProvider": "boomplay",
+            "platforms": [
+              "boomplay"
+            ]
+          },
+          "PANDORA_ALBUM::AL:63417182": {
+            "id": "AL:63417182",
+            "type": "album",
+            "title": "Ruido Tovar",
+            "artistName": "Mexican Institute of Sound & Meridian Brothers",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/e2/a2/56/b0/f65b48488019343c3c76566b/_500W_500H.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "pandora",
+            "platforms": [
+              "pandora"
+            ]
+          },
+          "SPOTIFY_ALBUM::1DvzbmJeGavmXcQnXe5Cl1": {
+            "id": "1DvzbmJeGavmXcQnXe5Cl1",
+            "type": "album",
+            "title": "Ruido Tovar",
+            "artistName": "Mexican Institute Of Sound, Meridian Brothers",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b27370ddaea002796dfe4d92e53a",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "spotify",
+            "platforms": [
+              "spotify"
+            ]
+          },
+          "TIDAL_ALBUM::507985895": {
+            "id": "507985895",
+            "type": "album",
+            "title": "Ruido Tovar",
+            "artistName": "Mexican Institute of Sound, Meridian Brothers",
+            "thumbnailUrl": "https://resources.tidal.com/images/e65764eb/1c51/42f0/a529/30cd8c9c1ac5/640x640.jpg",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "tidal",
+            "platforms": [
+              "tidal"
+            ]
+          }
+        },
+        "platforms": {
+          "spotify": "https://open.spotify.com/album/1DvzbmJeGavmXcQnXe5Cl1",
+          "appleMusic": null,
+          "deezer": null,
+          "tidal": "https://listen.tidal.com/album/507985895",
+          "youtube": null,
+          "youtubeMusic": null,
+          "soundcloud": null,
+          "amazonMusic": null
+        }
+      },
+      "spotifySearchUrl": null
+    },
+    {
+      "artist": "Bill Orcutt & Mabe Fratti",
+      "album": "Almost Waking",
+      "label": "TAR",
+      "section": "lightningRound",
+      "spotify": {
+        "id": "4ibndjKCJUrodFOVLZ6lf3",
+        "name": "Almost Waking & El Inicio es Cuestión de Suerte",
+        "url": "https://open.spotify.com/album/4ibndjKCJUrodFOVLZ6lf3",
+        "release_date": "2026-03-12",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2738ada2c89fe006e6f396de58a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e028ada2c89fe006e6f396de58a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048518ada2c89fe006e6f396de58a",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "49ECnwhYzm6Nu97puMvwjG",
+            "name": "Bill Orcutt"
+          },
+          {
+            "id": "7yHfb2D8qIBgrzclpSsTeo",
+            "name": "Mabe Fratti"
+          }
+        ]
+      },
+      "songlink": {
+        "pageUrl": "https://album.link/s/4ibndjKCJUrodFOVLZ6lf3",
+        "entitiesByUniqueId": {
+          "AMAZON_ALBUM::B0GRC1KN8F": {
+            "id": "B0GRC1KN8F",
+            "type": "album",
+            "title": "Almost Waking & El Inicio es Cuestión de Suerte",
+            "artistName": "Bill Orcutt & Mabe Fratti",
+            "thumbnailUrl": "https://m.media-amazon.com/images/I/414Q2CbRU1L._AA500.jpg",
             "thumbnailWidth": 500,
             "thumbnailHeight": 500,
             "apiProvider": "amazon",
@@ -158,25 +704,12 @@
               "amazonStore"
             ]
           },
-          "BANDCAMP_ALBUM::641766569": {
-            "id": "641766569",
+          "PANDORA_ALBUM::AL:62637235": {
+            "id": "AL:62637235",
             "type": "album",
-            "title": "Of Earth & Wires",
-            "artistName": "Dua Saleh",
-            "thumbnailUrl": "https://f4.bcbits.com/img/a2732260010_5.jpg",
-            "thumbnailWidth": 700,
-            "thumbnailHeight": 700,
-            "apiProvider": "bandcamp",
-            "platforms": [
-              "bandcamp"
-            ]
-          },
-          "PANDORA_ALBUM::AL:59610702": {
-            "id": "AL:59610702",
-            "type": "album",
-            "title": "Of Earth & Wires",
-            "artistName": "Dua Saleh",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/be/ec/f3/bb/f5f24ff7b2bece4517767c87/_500W_500H.jpg",
+            "title": "Almost Waking & El Inicio es Cuestión de Suerte",
+            "artistName": "Bill Orcutt & Mabe Fratti",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/fa/91/02/62/a925485093623e0c00e6ec04/_500W_500H.jpg",
             "thumbnailWidth": 500,
             "thumbnailHeight": 500,
             "apiProvider": "pandora",
@@ -184,12 +717,12 @@
               "pandora"
             ]
           },
-          "SPOTIFY_ALBUM::3qNTvRIpk5NhtwDOAUMeMx": {
-            "id": "3qNTvRIpk5NhtwDOAUMeMx",
+          "SPOTIFY_ALBUM::4ibndjKCJUrodFOVLZ6lf3": {
+            "id": "4ibndjKCJUrodFOVLZ6lf3",
             "type": "album",
-            "title": "Of Earth & Wires",
-            "artistName": "Dua Saleh",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2735a410814a9b4da0f6fd376f6",
+            "title": "Almost Waking & El Inicio es Cuestión de Suerte",
+            "artistName": "Bill Orcutt, Mabe Fratti",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b27330c6cd0a67d691555eecbdcc",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "spotify",
@@ -197,12 +730,12 @@
               "spotify"
             ]
           },
-          "TIDAL_ALBUM::489481223": {
-            "id": "489481223",
+          "TIDAL_ALBUM::504584625": {
+            "id": "504584625",
             "type": "album",
-            "title": "Of Earth & Wires",
-            "artistName": "Dua Saleh",
-            "thumbnailUrl": "https://resources.tidal.com/images/0596c31a/b0ef/4768/b309/9f348556d78b/640x640.jpg",
+            "title": "Almost Waking & El Inicio es Cuestión de Suerte",
+            "artistName": "Bill Orcutt, Mabe Fratti",
+            "thumbnailUrl": "https://resources.tidal.com/images/e03924ee/33bb/47a2/8c5e/7e6fb266c28e/640x640.jpg",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "tidal",
@@ -212,396 +745,61 @@
           }
         },
         "platforms": {
-          "spotify": "https://open.spotify.com/album/3qNTvRIpk5NhtwDOAUMeMx",
+          "spotify": "https://open.spotify.com/album/4ibndjKCJUrodFOVLZ6lf3",
           "appleMusic": null,
           "deezer": null,
-          "tidal": "https://listen.tidal.com/album/489481223",
+          "tidal": "https://listen.tidal.com/album/504584625",
           "youtube": null,
           "youtubeMusic": null,
           "soundcloud": null,
-          "amazonMusic": "https://music.amazon.com/albums/B0GGL68LFY"
+          "amazonMusic": "https://music.amazon.com/albums/B0GRC1KN8F"
         }
       },
       "spotifySearchUrl": null
     },
     {
-      "artist": "Tank and the Bangas",
-      "album": "The Last Balloon",
-      "label": "Verve Forecast",
-      "section": "starting5",
-      "spotify": {
-        "id": "5JEpIlmNu8NE7hEPhmkFK4",
-        "name": "The Last Balloon",
-        "url": "https://open.spotify.com/album/5JEpIlmNu8NE7hEPhmkFK4",
-        "release_date": "2026-05-15",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273db987f248a4f12e3f49c7e98",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02db987f248a4f12e3f49c7e98",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851db987f248a4f12e3f49c7e98",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "5cAtakaadWHJLxmGKrKcX7",
-            "name": "Tank and The Bangas"
-          }
-        ]
-      },
-      "songlink": {
-        "pageUrl": "https://album.link/s/5JEpIlmNu8NE7hEPhmkFK4",
-        "entitiesByUniqueId": {
-          "BOOMPLAY_ALBUM::131370998": {
-            "id": "131370998",
-            "type": "album",
-            "title": "The Last Balloon",
-            "artistName": "Tank And The Bangas",
-            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/05/15/b233f667fa1849fa865233cb2fd11b1dH1400W1400_464_464.jpg",
-            "thumbnailWidth": 464,
-            "thumbnailHeight": 464,
-            "apiProvider": "boomplay",
-            "platforms": [
-              "boomplay"
-            ]
-          },
-          "PANDORA_ALBUM::AL:66296068": {
-            "id": "AL:66296068",
-            "type": "album",
-            "title": "The Last Balloon",
-            "artistName": "Tank And The Bangas",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/26/d4/d5/17/8a8d4aceaeaf0afa2c1dadd0/_500W_500H.jpg",
-            "thumbnailWidth": 500,
-            "thumbnailHeight": 500,
-            "apiProvider": "pandora",
-            "platforms": [
-              "pandora"
-            ]
-          },
-          "SPOTIFY_ALBUM::5JEpIlmNu8NE7hEPhmkFK4": {
-            "id": "5JEpIlmNu8NE7hEPhmkFK4",
-            "type": "album",
-            "title": "The Last Balloon",
-            "artistName": "Tank and The Bangas",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273db987f248a4f12e3f49c7e98",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "spotify",
-            "platforms": [
-              "spotify"
-            ]
-          },
-          "TIDAL_ALBUM::522564252": {
-            "id": "522564252",
-            "type": "album",
-            "title": "The Last Balloon",
-            "artistName": "Tank and The Bangas",
-            "thumbnailUrl": "https://resources.tidal.com/images/e26d56f2/0a7a/47b6/8e00/417c28a43078/640x640.jpg",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "tidal",
-            "platforms": [
-              "tidal"
-            ]
-          }
-        },
-        "platforms": {
-          "spotify": "https://open.spotify.com/album/5JEpIlmNu8NE7hEPhmkFK4",
-          "appleMusic": null,
-          "deezer": null,
-          "tidal": "https://listen.tidal.com/album/522564252",
-          "youtube": null,
-          "youtubeMusic": null,
-          "soundcloud": null,
-          "amazonMusic": null
-        }
-      },
-      "spotifySearchUrl": null
-    },
-    {
-      "artist": "Cocanha",
-      "album": "Flame Folclòre",
-      "label": "Les Disques Bongo Joe",
-      "section": "starting5",
-      "spotify": {
-        "id": "34jLO0rxXGkGAtMdSoidgb",
-        "name": "Flame Folclòre",
-        "url": "https://open.spotify.com/album/34jLO0rxXGkGAtMdSoidgb",
-        "release_date": "2026-05-15",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273252d9ac3530302de49ae188f",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02252d9ac3530302de49ae188f",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851252d9ac3530302de49ae188f",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "1MYfw8oJJ5lQisSkMKPGHl",
-            "name": "Cocanha"
-          }
-        ]
-      },
-      "songlink": {
-        "pageUrl": "https://album.link/s/34jLO0rxXGkGAtMdSoidgb",
-        "entitiesByUniqueId": {
-          "BANDCAMP_ALBUM::3271830832": {
-            "id": "3271830832",
-            "type": "album",
-            "title": "Flame Folclòre",
-            "artistName": "Cocanha",
-            "thumbnailUrl": "https://f4.bcbits.com/img/a1998509172_5.jpg",
-            "thumbnailWidth": 700,
-            "thumbnailHeight": 700,
-            "apiProvider": "bandcamp",
-            "platforms": [
-              "bandcamp"
-            ]
-          },
-          "PANDORA_ALBUM::AL:63081595": {
-            "id": "AL:63081595",
-            "type": "album",
-            "title": "Flame Folclòre",
-            "artistName": "Cocanha",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/55/2b/a0/cc/23c54d669f128d9a76e8aefd/_500W_500H.jpg",
-            "thumbnailWidth": 500,
-            "thumbnailHeight": 500,
-            "apiProvider": "pandora",
-            "platforms": [
-              "pandora"
-            ]
-          },
-          "SPOTIFY_ALBUM::34jLO0rxXGkGAtMdSoidgb": {
-            "id": "34jLO0rxXGkGAtMdSoidgb",
-            "type": "album",
-            "title": "Flame Folclòre",
-            "artistName": "Cocanha",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273252d9ac3530302de49ae188f",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "spotify",
-            "platforms": [
-              "spotify"
-            ]
-          },
-          "TIDAL_ALBUM::506517104": {
-            "id": "506517104",
-            "type": "album",
-            "title": "Flame Folclòre",
-            "artistName": "Cocanha",
-            "thumbnailUrl": "https://resources.tidal.com/images/c0a9b7f2/17d3/474b/8fec/f2a808e49f66/640x640.jpg",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "tidal",
-            "platforms": [
-              "tidal"
-            ]
-          }
-        },
-        "platforms": {
-          "spotify": "https://open.spotify.com/album/34jLO0rxXGkGAtMdSoidgb",
-          "appleMusic": null,
-          "deezer": null,
-          "tidal": "https://listen.tidal.com/album/506517104",
-          "youtube": null,
-          "youtubeMusic": null,
-          "soundcloud": null,
-          "amazonMusic": null
-        }
-      },
-      "spotifySearchUrl": null
-    },
-    {
-      "artist": "Tamikrest",
-      "album": "Assikel",
-      "label": "Glitterbeat",
-      "section": "starting5",
-      "spotify": {
-        "id": "6ZVvh872HSROeYs41a1CR4",
-        "name": "Assikel",
-        "url": "https://open.spotify.com/album/6ZVvh872HSROeYs41a1CR4",
-        "release_date": "2026-05-15",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273c17ebd3df72f4d2456b77a49",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02c17ebd3df72f4d2456b77a49",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851c17ebd3df72f4d2456b77a49",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "6nZ1wn9URV4oWk4UKuG872",
-            "name": "Tamikrest"
-          }
-        ]
-      },
-      "songlink": {
-        "pageUrl": "https://album.link/s/6ZVvh872HSROeYs41a1CR4",
-        "entitiesByUniqueId": {
-          "BANDCAMP_ALBUM::224761534": {
-            "id": "224761534",
-            "type": "album",
-            "title": "Assikel",
-            "artistName": "Tamikrest",
-            "thumbnailUrl": "https://f4.bcbits.com/img/a3851953747_5.jpg",
-            "thumbnailWidth": 700,
-            "thumbnailHeight": 700,
-            "apiProvider": "bandcamp",
-            "platforms": [
-              "bandcamp"
-            ]
-          },
-          "BOOMPLAY_ALBUM::128014138": {
-            "id": "128014138",
-            "type": "album",
-            "title": "Assikel",
-            "artistName": "Tamikrest",
-            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/03/19/0f158d95898c4319ba13dd8f11b12b79H1500W1500_464_464.jpg",
-            "thumbnailWidth": 464,
-            "thumbnailHeight": 464,
-            "apiProvider": "boomplay",
-            "platforms": [
-              "boomplay"
-            ]
-          },
-          "PANDORA_ALBUM::AL:60977771": {
-            "id": "AL:60977771",
-            "type": "album",
-            "title": "Assikel",
-            "artistName": "Tamikrest",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/6a/57/b0/64/f03d498fb34dc9e937466d61/_500W_500H.jpg",
-            "thumbnailWidth": 500,
-            "thumbnailHeight": 500,
-            "apiProvider": "pandora",
-            "platforms": [
-              "pandora"
-            ]
-          },
-          "SPOTIFY_ALBUM::6ZVvh872HSROeYs41a1CR4": {
-            "id": "6ZVvh872HSROeYs41a1CR4",
-            "type": "album",
-            "title": "Assikel",
-            "artistName": "Tamikrest",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273c17ebd3df72f4d2456b77a49",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "spotify",
-            "platforms": [
-              "spotify"
-            ]
-          },
-          "TIDAL_ALBUM::496598182": {
-            "id": "496598182",
-            "type": "album",
-            "title": "Assikel",
-            "artistName": "Tamikrest",
-            "thumbnailUrl": "https://resources.tidal.com/images/fd68b649/359a/4594/b5f7/e3437be536ba/640x640.jpg",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "tidal",
-            "platforms": [
-              "tidal"
-            ]
-          }
-        },
-        "platforms": {
-          "spotify": "https://open.spotify.com/album/6ZVvh872HSROeYs41a1CR4",
-          "appleMusic": null,
-          "deezer": null,
-          "tidal": "https://listen.tidal.com/album/496598182",
-          "youtube": null,
-          "youtubeMusic": null,
-          "soundcloud": null,
-          "amazonMusic": null
-        }
-      },
-      "spotifySearchUrl": null
-    },
-    {
-      "artist": "Eluvium",
-      "album": "Virga III",
-      "label": "Temporary Residence",
+      "artist": "Balming Tiger",
+      "album": "Gongbu",
+      "label": "AWAL",
       "section": "lightningRound",
       "spotify": {
-        "id": "7kXw4hLYoGtK3McyyshmiS",
-        "name": "Virga III",
-        "url": "https://open.spotify.com/album/7kXw4hLYoGtK3McyyshmiS",
-        "release_date": "2026-05-15",
+        "id": "2kwTXgEgFRv1DUbhmLsNcM",
+        "name": "Gongbu",
+        "url": "https://open.spotify.com/album/2kwTXgEgFRv1DUbhmLsNcM",
+        "release_date": "2026-05-19",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273c6b66dcf24f031b5adfba277",
+            "url": "https://i.scdn.co/image/ab67616d0000b273ab9284856f45e3fe87e769d6",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02c6b66dcf24f031b5adfba277",
+            "url": "https://i.scdn.co/image/ab67616d00001e02ab9284856f45e3fe87e769d6",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851c6b66dcf24f031b5adfba277",
+            "url": "https://i.scdn.co/image/ab67616d00004851ab9284856f45e3fe87e769d6",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "4QK3YJ6hzJdhJHE9q7kbVV",
-            "name": "Eluvium"
+            "id": "6vbKIm1WsvhMMDpthYONc1",
+            "name": "Balming Tiger"
           }
         ]
       },
       "songlink": {
-        "pageUrl": "https://album.link/s/7kXw4hLYoGtK3McyyshmiS",
+        "pageUrl": "https://album.link/s/2kwTXgEgFRv1DUbhmLsNcM",
         "entitiesByUniqueId": {
-          "BANDCAMP_ALBUM::3872548962": {
-            "id": "3872548962",
+          "PANDORA_ALBUM::AL:65800090": {
+            "id": "AL:65800090",
             "type": "album",
-            "title": "Virga III",
-            "artistName": "Eluvium",
-            "thumbnailUrl": "https://f4.bcbits.com/img/a2673487277_5.jpg",
-            "thumbnailWidth": 700,
-            "thumbnailHeight": 700,
-            "apiProvider": "bandcamp",
-            "platforms": [
-              "bandcamp"
-            ]
-          },
-          "PANDORA_ALBUM::AL:59208420": {
-            "id": "AL:59208420",
-            "type": "album",
-            "title": "Virga III",
-            "artistName": "Eluvium",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/a2/f2/c7/3f/d4eb46a1b7f226471f071258/_500W_500H.jpg",
+            "title": "Gongbu",
+            "artistName": "Balming Tiger",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/5f/ac/d7/38/a8014a0c88256f70f0799ea4/_500W_500H.jpg",
             "thumbnailWidth": 500,
             "thumbnailHeight": 500,
             "apiProvider": "pandora",
@@ -609,12 +807,12 @@
               "pandora"
             ]
           },
-          "SPOTIFY_ALBUM::7kXw4hLYoGtK3McyyshmiS": {
-            "id": "7kXw4hLYoGtK3McyyshmiS",
+          "SPOTIFY_ALBUM::2kwTXgEgFRv1DUbhmLsNcM": {
+            "id": "2kwTXgEgFRv1DUbhmLsNcM",
             "type": "album",
-            "title": "Virga III",
-            "artistName": "Eluvium",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273c6b66dcf24f031b5adfba277",
+            "title": "Gongbu",
+            "artistName": "Balming Tiger",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273ab9284856f45e3fe87e769d6",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "spotify",
@@ -622,12 +820,12 @@
               "spotify"
             ]
           },
-          "TIDAL_ALBUM::487633535": {
-            "id": "487633535",
+          "TIDAL_ALBUM::519531707": {
+            "id": "519531707",
             "type": "album",
-            "title": "Virga III",
-            "artistName": "Eluvium",
-            "thumbnailUrl": "https://resources.tidal.com/images/dbc1a61b/6afa/4e3a/a3e7/664943a6725e/640x640.jpg",
+            "title": "Gongbu",
+            "artistName": "Balming Tiger",
+            "thumbnailUrl": "https://resources.tidal.com/images/d22d7e9f/cdbc/4995/ba4c/96d8afd271c8/640x640.jpg",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "tidal",
@@ -637,10 +835,10 @@
           }
         },
         "platforms": {
-          "spotify": "https://open.spotify.com/album/7kXw4hLYoGtK3McyyshmiS",
+          "spotify": "https://open.spotify.com/album/2kwTXgEgFRv1DUbhmLsNcM",
           "appleMusic": null,
           "deezer": null,
-          "tidal": "https://listen.tidal.com/album/487633535",
+          "tidal": "https://listen.tidal.com/album/519531707",
           "youtube": null,
           "youtubeMusic": null,
           "soundcloud": null,
@@ -650,463 +848,70 @@
       "spotifySearchUrl": null
     },
     {
-      "artist": "Kevin Morby",
-      "album": "Little Wide Open",
-      "label": "Dead Oceans",
+      "artist": "Traumprinz",
+      "album": "Life",
+      "label": "self-released",
       "section": "lightningRound",
-      "spotify": {
-        "id": "4SE1kVQva7akjFCMxFiP7U",
-        "name": "Little Wide Open",
-        "url": "https://open.spotify.com/album/4SE1kVQva7akjFCMxFiP7U",
-        "release_date": "2026-05-15",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273470e488aa6f4be979eefc329",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02470e488aa6f4be979eefc329",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851470e488aa6f4be979eefc329",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "6fxk3UXHTFYET8qCT9WlBF",
-            "name": "Kevin Morby"
-          }
-        ]
-      },
-      "songlink": {
-        "pageUrl": "https://album.link/s/4SE1kVQva7akjFCMxFiP7U",
-        "entitiesByUniqueId": {
-          "BANDCAMP_ALBUM::3008491516": {
-            "id": "3008491516",
-            "type": "album",
-            "title": "Little Wide Open",
-            "artistName": "Kevin Morby",
-            "thumbnailUrl": "https://f4.bcbits.com/img/a1525739240_5.jpg",
-            "thumbnailWidth": 700,
-            "thumbnailHeight": 700,
-            "apiProvider": "bandcamp",
-            "platforms": [
-              "bandcamp"
-            ]
-          },
-          "PANDORA_ALBUM::AL:60053142": {
-            "id": "AL:60053142",
-            "type": "album",
-            "title": "Little Wide Open",
-            "artistName": "Kevin Morby",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/a0/29/e5/89/3a4d4ae089ac99036cff4956/_500W_500H.jpg",
-            "thumbnailWidth": 500,
-            "thumbnailHeight": 500,
-            "apiProvider": "pandora",
-            "platforms": [
-              "pandora"
-            ]
-          },
-          "SPOTIFY_ALBUM::4SE1kVQva7akjFCMxFiP7U": {
-            "id": "4SE1kVQva7akjFCMxFiP7U",
-            "type": "album",
-            "title": "Little Wide Open",
-            "artistName": "Kevin Morby",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273470e488aa6f4be979eefc329",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "spotify",
-            "platforms": [
-              "spotify"
-            ]
-          },
-          "TIDAL_ALBUM::491243836": {
-            "id": "491243836",
-            "type": "album",
-            "title": "Little Wide Open",
-            "artistName": "Kevin Morby",
-            "thumbnailUrl": "https://resources.tidal.com/images/780619d1/6a51/4022/8f9d/6a162bd8bd3b/640x640.jpg",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "tidal",
-            "platforms": [
-              "tidal"
-            ]
-          }
-        },
-        "platforms": {
-          "spotify": "https://open.spotify.com/album/4SE1kVQva7akjFCMxFiP7U",
-          "appleMusic": null,
-          "deezer": null,
-          "tidal": "https://listen.tidal.com/album/491243836",
-          "youtube": null,
-          "youtubeMusic": null,
-          "soundcloud": null,
-          "amazonMusic": null
-        }
-      },
-      "spotifySearchUrl": null
+      "spotify": null,
+      "songlink": null,
+      "spotifySearchUrl": "https://open.spotify.com/search/Traumprinz%20Life"
     },
     {
-      "artist": "Martyn",
-      "album": "Music for Existing",
-      "label": "3024",
-      "section": "lightningRound",
-      "spotify": {
-        "id": "04HAHgpRzwmtMfKfAa7eMG",
-        "name": "Music for Existing",
-        "url": "https://open.spotify.com/album/04HAHgpRzwmtMfKfAa7eMG",
-        "release_date": "2026-05-15",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2737748138096cb5807b51b28e2",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e027748138096cb5807b51b28e2",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048517748138096cb5807b51b28e2",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "68i1l0GWQ5dwzAy1UVNHNw",
-            "name": "Martyn"
-          }
-        ]
-      },
-      "songlink": {
-        "pageUrl": "https://album.link/s/04HAHgpRzwmtMfKfAa7eMG",
-        "entitiesByUniqueId": {
-          "BANDCAMP_ALBUM::1104501667": {
-            "id": "1104501667",
-            "type": "album",
-            "title": "Music for Existing",
-            "artistName": "Martyn",
-            "thumbnailUrl": "https://f4.bcbits.com/img/a2382831649_5.jpg",
-            "thumbnailWidth": 700,
-            "thumbnailHeight": 700,
-            "apiProvider": "bandcamp",
-            "platforms": [
-              "bandcamp"
-            ]
-          },
-          "BOOMPLAY_ALBUM::127951177": {
-            "id": "127951177",
-            "type": "album",
-            "title": "Music for Existing",
-            "artistName": "Martyn",
-            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/03/18/7cf1bc2ff8e64b67b25659703cf7c856H1500W1500_464_464.jpg",
-            "thumbnailWidth": 464,
-            "thumbnailHeight": 464,
-            "apiProvider": "boomplay",
-            "platforms": [
-              "boomplay"
-            ]
-          },
-          "PANDORA_ALBUM::AL:63432663": {
-            "id": "AL:63432663",
-            "type": "album",
-            "title": "Music for Existing",
-            "artistName": "Martyn",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/ef/72/e4/a5/15f74ae387f04dec9a390130/_500W_500H.jpg",
-            "thumbnailWidth": 500,
-            "thumbnailHeight": 500,
-            "apiProvider": "pandora",
-            "platforms": [
-              "pandora"
-            ]
-          },
-          "SPOTIFY_ALBUM::04HAHgpRzwmtMfKfAa7eMG": {
-            "id": "04HAHgpRzwmtMfKfAa7eMG",
-            "type": "album",
-            "title": "Music for Existing",
-            "artistName": "Martyn",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2737748138096cb5807b51b28e2",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "spotify",
-            "platforms": [
-              "spotify"
-            ]
-          },
-          "TIDAL_ALBUM::508094041": {
-            "id": "508094041",
-            "type": "album",
-            "title": "Music for Existing",
-            "artistName": "Martyn",
-            "thumbnailUrl": "https://resources.tidal.com/images/72b632cd/8e60/452a/9857/bffbcf59ab06/640x640.jpg",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "tidal",
-            "platforms": [
-              "tidal"
-            ]
-          }
-        },
-        "platforms": {
-          "spotify": "https://open.spotify.com/album/04HAHgpRzwmtMfKfAa7eMG",
-          "appleMusic": null,
-          "deezer": null,
-          "tidal": "https://listen.tidal.com/album/508094041",
-          "youtube": null,
-          "youtubeMusic": null,
-          "soundcloud": null,
-          "amazonMusic": null
-        }
-      },
-      "spotifySearchUrl": null
-    },
-    {
-      "artist": "Julieta Venegas",
-      "album": "Norteña",
-      "label": "Altafonte",
-      "section": "lightningRound",
-      "spotify": {
-        "id": "3VBpaVReuh97r9Fb7gwxUQ",
-        "name": "Norteña",
-        "url": "https://open.spotify.com/album/3VBpaVReuh97r9Fb7gwxUQ",
-        "release_date": "2026-05-14",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2737377663fcb950a6ec6510b65",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e027377663fcb950a6ec6510b65",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048517377663fcb950a6ec6510b65",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "2QWIScpFDNxmS6ZEMIUvgm",
-            "name": "Julieta Venegas"
-          }
-        ]
-      },
-      "songlink": {
-        "pageUrl": "https://album.link/s/3VBpaVReuh97r9Fb7gwxUQ",
-        "entitiesByUniqueId": {
-          "PANDORA_ALBUM::AL:66138913": {
-            "id": "AL:66138913",
-            "type": "album",
-            "title": "Norteña",
-            "artistName": "Julieta Venegas",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/38/67/79/44/dcb846bf8d55040c854c15c8/_500W_500H.jpg",
-            "thumbnailWidth": 500,
-            "thumbnailHeight": 500,
-            "apiProvider": "pandora",
-            "platforms": [
-              "pandora"
-            ]
-          },
-          "SPOTIFY_ALBUM::3VBpaVReuh97r9Fb7gwxUQ": {
-            "id": "3VBpaVReuh97r9Fb7gwxUQ",
-            "type": "album",
-            "title": "Norteña",
-            "artistName": "Julieta Venegas",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2737377663fcb950a6ec6510b65",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "spotify",
-            "platforms": [
-              "spotify"
-            ]
-          },
-          "TIDAL_ALBUM::521453553": {
-            "id": "521453553",
-            "type": "album",
-            "title": "Norteña",
-            "artistName": "Julieta Venegas",
-            "thumbnailUrl": "https://resources.tidal.com/images/f4a39889/e64b/48b4/868b/466cfaa8f87b/640x640.jpg",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "tidal",
-            "platforms": [
-              "tidal"
-            ]
-          }
-        },
-        "platforms": {
-          "spotify": "https://open.spotify.com/album/3VBpaVReuh97r9Fb7gwxUQ",
-          "appleMusic": null,
-          "deezer": null,
-          "tidal": "https://listen.tidal.com/album/521453553",
-          "youtube": null,
-          "youtubeMusic": null,
-          "soundcloud": null,
-          "amazonMusic": null
-        }
-      },
-      "spotifySearchUrl": null
-    },
-    {
-      "artist": "Jeff Parker & ETA IVtet",
-      "album": "Happy Today",
-      "label": "International Anthem",
-      "section": "lightningRound",
-      "spotify": {
-        "id": "3skYxKUaW4eEybNFSfpcK8",
-        "name": "Happy Today",
-        "url": "https://open.spotify.com/album/3skYxKUaW4eEybNFSfpcK8",
-        "release_date": "2026-05-15",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2737fda9861a4bd60908521e95e",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e027fda9861a4bd60908521e95e",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048517fda9861a4bd60908521e95e",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "3AaY5O1qS0tcNPHwwMwplt",
-            "name": "Jeff Parker"
-          },
-          {
-            "id": "3uZdiO7Irq5xyxDGjElwCw",
-            "name": "ETA IVtet"
-          }
-        ]
-      },
-      "songlink": {
-        "pageUrl": "https://album.link/s/3skYxKUaW4eEybNFSfpcK8",
-        "entitiesByUniqueId": {
-          "PANDORA_ALBUM::AL:65815144": {
-            "id": "AL:65815144",
-            "type": "album",
-            "title": "Happy Today",
-            "artistName": "Jeff Parker & ETA IVtet",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/4e/08/f7/70/0aec4075a70afc1540d0d832/_500W_500H.jpg",
-            "thumbnailWidth": 500,
-            "thumbnailHeight": 500,
-            "apiProvider": "pandora",
-            "platforms": [
-              "pandora"
-            ]
-          },
-          "SPOTIFY_ALBUM::3skYxKUaW4eEybNFSfpcK8": {
-            "id": "3skYxKUaW4eEybNFSfpcK8",
-            "type": "album",
-            "title": "Happy Today",
-            "artistName": "Jeff Parker, ETA IVtet",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2737fda9861a4bd60908521e95e",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "spotify",
-            "platforms": [
-              "spotify"
-            ]
-          },
-          "TIDAL_ALBUM::519619058": {
-            "id": "519619058",
-            "type": "album",
-            "title": "Happy Today",
-            "artistName": "Jeff Parker, ETA IVtet, Anna Butterss, Jay Bellerose, Josh Johnson",
-            "thumbnailUrl": "https://resources.tidal.com/images/5df8dde2/36eb/42bc/bc2e/c2b6020d7b2a/640x640.jpg",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "tidal",
-            "platforms": [
-              "tidal"
-            ]
-          }
-        },
-        "platforms": {
-          "spotify": "https://open.spotify.com/album/3skYxKUaW4eEybNFSfpcK8",
-          "appleMusic": null,
-          "deezer": null,
-          "tidal": "https://listen.tidal.com/album/519619058",
-          "youtube": null,
-          "youtubeMusic": null,
-          "soundcloud": null,
-          "amazonMusic": null
-        }
-      },
-      "spotifySearchUrl": null
-    },
-    {
-      "artist": "Smerz",
-      "album": "Easy EP",
-      "label": "Escho",
+      "artist": "Bladee",
+      "album": "Sulfur Surfer",
+      "label": "Trash Island",
       "section": "dorasCorner",
       "spotify": {
-        "id": "0QkPbnl52Cdx2cj8X3BhsH",
-        "name": "Easy EP",
-        "url": "https://open.spotify.com/album/0QkPbnl52Cdx2cj8X3BhsH",
-        "release_date": "2026-05-15",
+        "id": "0ZegzmzVWw6wVsSeXK3OQE",
+        "name": "Sulfur Surfer",
+        "url": "https://open.spotify.com/album/0ZegzmzVWw6wVsSeXK3OQE",
+        "release_date": "2026-05-20",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273c84bcfc3c1d8bf0374b6edaf",
+            "url": "https://i.scdn.co/image/ab67616d0000b27345114642b5642bace31a8819",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02c84bcfc3c1d8bf0374b6edaf",
+            "url": "https://i.scdn.co/image/ab67616d00001e0245114642b5642bace31a8819",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851c84bcfc3c1d8bf0374b6edaf",
+            "url": "https://i.scdn.co/image/ab67616d0000485145114642b5642bace31a8819",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "1f8PlfSHEW6fHnILSzm8dI",
-            "name": "Smerz"
+            "id": "2xvtxDNInKDV4AvGmjw6d1",
+            "name": "Bladee"
           }
         ]
       },
       "songlink": {
-        "pageUrl": "https://album.link/s/0QkPbnl52Cdx2cj8X3BhsH",
+        "pageUrl": "https://album.link/s/0ZegzmzVWw6wVsSeXK3OQE",
         "entitiesByUniqueId": {
-          "BANDCAMP_ALBUM::2690429918": {
-            "id": "2690429918",
+          "PANDORA_ALBUM::AL:66632544": {
+            "id": "AL:66632544",
             "type": "album",
-            "title": "Easy",
-            "thumbnailUrl": "https://f4.bcbits.com/img/a2732625877_5.jpg",
-            "thumbnailWidth": 700,
-            "thumbnailHeight": 700,
-            "apiProvider": "bandcamp",
+            "title": "Sulfur Surfer",
+            "artistName": "Bladee",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/66/4b/1d/9a/12a44f439ed73f21afad3422/_500W_500H.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "pandora",
             "platforms": [
-              "bandcamp"
+              "pandora"
             ]
           },
-          "SPOTIFY_ALBUM::0QkPbnl52Cdx2cj8X3BhsH": {
-            "id": "0QkPbnl52Cdx2cj8X3BhsH",
+          "SPOTIFY_ALBUM::0ZegzmzVWw6wVsSeXK3OQE": {
+            "id": "0ZegzmzVWw6wVsSeXK3OQE",
             "type": "album",
-            "title": "Easy EP",
-            "artistName": "Smerz",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273c84bcfc3c1d8bf0374b6edaf",
+            "title": "Sulfur Surfer",
+            "artistName": "Bladee",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273e131019291a654df738d8d46",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "spotify",
@@ -1114,12 +919,12 @@
               "spotify"
             ]
           },
-          "TIDAL_ALBUM::511854023": {
-            "id": "511854023",
+          "TIDAL_ALBUM::526539700": {
+            "id": "526539700",
             "type": "album",
-            "title": "Easy EP",
-            "artistName": "Smerz",
-            "thumbnailUrl": "https://resources.tidal.com/images/16b4c48d/7298/42f4/8da7/5a6e5eb484e9/640x640.jpg",
+            "title": "Sulfur Surfer",
+            "artistName": "Bladee",
+            "thumbnailUrl": "https://resources.tidal.com/images/a13acf0a/5e83/42a2/ab31/dcf096744954/640x640.jpg",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "tidal",
@@ -1127,12 +932,12 @@
               "tidal"
             ]
           },
-          "YANDEX_ALBUM::41415119": {
-            "id": "41415119",
+          "YANDEX_ALBUM::42208211": {
+            "id": "42208211",
             "type": "album",
-            "title": "Easy EP",
-            "artistName": "Smerz",
-            "thumbnailUrl": "https://avatars.yandex.net/get-music-content/17784780/feebd392.a.41415119-2/600x600",
+            "title": "Sulfur Surfer",
+            "artistName": "Bladee",
+            "thumbnailUrl": "https://avatars.yandex.net/get-music-content/17681324/6a78afd6.a.42208211-1/600x600",
             "thumbnailWidth": 600,
             "thumbnailHeight": 600,
             "apiProvider": "yandex",
@@ -1142,10 +947,10 @@
           }
         },
         "platforms": {
-          "spotify": "https://open.spotify.com/album/0QkPbnl52Cdx2cj8X3BhsH",
+          "spotify": "https://open.spotify.com/album/0ZegzmzVWw6wVsSeXK3OQE",
           "appleMusic": null,
           "deezer": null,
-          "tidal": "https://listen.tidal.com/album/511854023",
+          "tidal": "https://listen.tidal.com/album/526539700",
           "youtube": null,
           "youtubeMusic": null,
           "soundcloud": null,
@@ -1155,236 +960,22 @@
       "spotifySearchUrl": null
     },
     {
-      "artist": "Genesis Owusu",
-      "album": "REDSTAR WU & THE WORLDWIDE SCOURGE",
-      "label": "Ourness",
+      "artist": "Max Winter",
+      "album": "Like The Season EP",
+      "label": "Secret Friend",
       "section": "dorasCorner",
-      "spotify": {
-        "id": "0nhxoQOhijxQPzPBv6OK9V",
-        "name": "REDSTAR WU & THE WORLDWIDE SCOURGE",
-        "url": "https://open.spotify.com/album/0nhxoQOhijxQPzPBv6OK9V",
-        "release_date": "2026-05-15",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27370202a53753de37a79b85d4a",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0270202a53753de37a79b85d4a",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485170202a53753de37a79b85d4a",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "1HvH97rzvCH6lfnLlgyfke",
-            "name": "Genesis Owusu"
-          }
-        ]
-      },
-      "songlink": {
-        "pageUrl": "https://album.link/s/0nhxoQOhijxQPzPBv6OK9V",
-        "entitiesByUniqueId": {
-          "BANDCAMP_ALBUM::2758842157": {
-            "id": "2758842157",
-            "type": "album",
-            "title": "REDSTAR WU & THE WORLDWIDE SCOURGE",
-            "artistName": "Genesis Owusu",
-            "thumbnailUrl": "https://f4.bcbits.com/img/a1287044215_5.jpg",
-            "thumbnailWidth": 700,
-            "thumbnailHeight": 700,
-            "apiProvider": "bandcamp",
-            "platforms": [
-              "bandcamp"
-            ]
-          },
-          "BOOMPLAY_ALBUM::128297021": {
-            "id": "128297021",
-            "type": "album",
-            "title": "REDSTAR WU & THE WORLDWIDE SCOURGE",
-            "artistName": "Genesis Owusu",
-            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/03/24/84883296f869438180e77546ddff9e34H1500W1500_464_464.jpg",
-            "thumbnailWidth": 464,
-            "thumbnailHeight": 464,
-            "apiProvider": "boomplay",
-            "platforms": [
-              "boomplay"
-            ]
-          },
-          "PANDORA_ALBUM::AL:63674929": {
-            "id": "AL:63674929",
-            "type": "album",
-            "title": "REDSTAR WU & THE WORLDWIDE SCOURGE",
-            "artistName": "Genesis Owusu",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/6d/40/9f/47/64bf425f8984f6d2f63138f9/_500W_500H.jpg",
-            "thumbnailWidth": 500,
-            "thumbnailHeight": 500,
-            "apiProvider": "pandora",
-            "platforms": [
-              "pandora"
-            ]
-          },
-          "SPOTIFY_ALBUM::0nhxoQOhijxQPzPBv6OK9V": {
-            "id": "0nhxoQOhijxQPzPBv6OK9V",
-            "type": "album",
-            "title": "REDSTAR WU & THE WORLDWIDE SCOURGE",
-            "artistName": "Genesis Owusu",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b27370202a53753de37a79b85d4a",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "spotify",
-            "platforms": [
-              "spotify"
-            ]
-          },
-          "TIDAL_ALBUM::509302164": {
-            "id": "509302164",
-            "type": "album",
-            "title": "REDSTAR WU & THE WORLDWIDE SCOURGE",
-            "artistName": "Genesis Owusu",
-            "thumbnailUrl": "https://resources.tidal.com/images/d2929bec/b6be/46b8/aaf2/b5933680c761/640x640.jpg",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "tidal",
-            "platforms": [
-              "tidal"
-            ]
-          },
-          "YANDEX_ALBUM::41278137": {
-            "id": "41278137",
-            "type": "album",
-            "title": "REDSTAR WU & THE WORLDWIDE SCOURGE",
-            "artistName": "Genesis Owusu",
-            "thumbnailUrl": "https://avatars.yandex.net/get-music-content/17722696/1b8be466.a.41278137-1/600x600",
-            "thumbnailWidth": 600,
-            "thumbnailHeight": 600,
-            "apiProvider": "yandex",
-            "platforms": [
-              "yandex"
-            ]
-          }
-        },
-        "platforms": {
-          "spotify": "https://open.spotify.com/album/0nhxoQOhijxQPzPBv6OK9V",
-          "appleMusic": null,
-          "deezer": null,
-          "tidal": "https://listen.tidal.com/album/509302164",
-          "youtube": null,
-          "youtubeMusic": null,
-          "soundcloud": null,
-          "amazonMusic": null
-        }
-      },
-      "spotifySearchUrl": null
+      "spotify": null,
+      "songlink": null,
+      "spotifySearchUrl": "https://open.spotify.com/search/Max%20Winter%20Like%20The%20Season%20EP"
     },
     {
-      "artist": "Ivy Knight",
-      "album": "Iron Mountain",
-      "label": "Scenic Route",
+      "artist": "Marisa Anderson",
+      "album": "The Anthology of Un-American Folk Music vol.1",
+      "label": "Thrill Jockey",
       "section": "dorasCorner",
-      "spotify": {
-        "id": "7hsyXeWjDTEMxvoWC8qnfH",
-        "name": "Iron Mountain",
-        "url": "https://open.spotify.com/album/7hsyXeWjDTEMxvoWC8qnfH",
-        "release_date": "2026-05-15",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2732e42418f0dc8189f9b7488ad",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e022e42418f0dc8189f9b7488ad",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048512e42418f0dc8189f9b7488ad",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "2k3Q5efL6SiHfAsGqdXk4z",
-            "name": "Ivy Knight"
-          }
-        ]
-      },
-      "songlink": {
-        "pageUrl": "https://album.link/s/7hsyXeWjDTEMxvoWC8qnfH",
-        "entitiesByUniqueId": {
-          "BANDCAMP_ALBUM::1456311311": {
-            "id": "1456311311",
-            "type": "album",
-            "title": "Iron Mountain",
-            "artistName": "Ivy Knight",
-            "thumbnailUrl": "https://f4.bcbits.com/img/a0397725215_5.jpg",
-            "thumbnailWidth": 700,
-            "thumbnailHeight": 700,
-            "apiProvider": "bandcamp",
-            "platforms": [
-              "bandcamp"
-            ]
-          },
-          "PANDORA_ALBUM::AL:60580817": {
-            "id": "AL:60580817",
-            "type": "album",
-            "title": "Iron Mountain",
-            "artistName": "Ivy Knight",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/9f/5a/43/c2/8028407c99994c73b95729ee/_500W_500H.jpg",
-            "thumbnailWidth": 500,
-            "thumbnailHeight": 500,
-            "apiProvider": "pandora",
-            "platforms": [
-              "pandora"
-            ]
-          },
-          "SPOTIFY_ALBUM::7hsyXeWjDTEMxvoWC8qnfH": {
-            "id": "7hsyXeWjDTEMxvoWC8qnfH",
-            "type": "album",
-            "title": "Iron Mountain",
-            "artistName": "Ivy Knight",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2732e42418f0dc8189f9b7488ad",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "spotify",
-            "platforms": [
-              "spotify"
-            ]
-          },
-          "TIDAL_ALBUM::494377715": {
-            "id": "494377715",
-            "type": "album",
-            "title": "Iron Mountain",
-            "artistName": "Ivy Knight",
-            "thumbnailUrl": "https://resources.tidal.com/images/35952864/0c3f/41b5/8f6e/a073403cce7f/640x640.jpg",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "tidal",
-            "platforms": [
-              "tidal"
-            ]
-          }
-        },
-        "platforms": {
-          "spotify": "https://open.spotify.com/album/7hsyXeWjDTEMxvoWC8qnfH",
-          "appleMusic": null,
-          "deezer": null,
-          "tidal": "https://listen.tidal.com/album/494377715",
-          "youtube": null,
-          "youtubeMusic": null,
-          "soundcloud": null,
-          "amazonMusic": null
-        }
-      },
-      "spotifySearchUrl": null
+      "spotify": null,
+      "songlink": null,
+      "spotifySearchUrl": "https://open.spotify.com/search/Marisa%20Anderson%20The%20Anthology%20of%20Un-American%20Folk%20Music%20vol.1"
     }
   ]
 }
