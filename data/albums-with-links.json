@@ -1,53 +1,53 @@
 {
-  "source": "https://www.npr.org/2026/06/05/nx-s1-5830347/new-music-friday-best-albums-june-5-2026",
-  "scrapedAt": "2026-06-05T21:17:07.362Z",
-  "date": "2026-06-05",
-  "title": "New Music Friday: The best albums out June 5",
+  "source": "https://www.npr.org/2026/06/12/nx-s1-5830354/new-music-friday-best-albums-june-12-2026",
+  "scrapedAt": "2026-06-12T21:24:57.957Z",
+  "date": "2026-06-12",
+  "title": "New Music Friday: The best albums out June 12",
   "total": 13,
   "albums": [
     {
-      "artist": "Death Cab For Cutie",
-      "album": "I Built You A Tower",
-      "label": "ANTI-",
+      "artist": "Olivia Rodrigo",
+      "album": "you seem pretty sad for a girl so in love",
+      "label": "Geffen",
       "section": "starting5",
       "spotify": {
-        "id": "4D1zUsXw30DbfOqY1gVsfT",
-        "name": "I Built You A Tower",
-        "url": "https://open.spotify.com/album/4D1zUsXw30DbfOqY1gVsfT",
-        "release_date": "2026-06-05",
+        "id": "3WZZF72ihlKPZBS4zSsNHl",
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl",
+        "release_date": "2026-06-12",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2731356b24d48cbabc44384e753",
+            "url": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e021356b24d48cbabc44384e753",
+            "url": "https://i.scdn.co/image/ab67616d00001e025cf234eeb7a2edf44bf64a46",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048511356b24d48cbabc44384e753",
+            "url": "https://i.scdn.co/image/ab67616d000048515cf234eeb7a2edf44bf64a46",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "0YrtvWJMgSdVrk3SfNjTbx",
-            "name": "Death Cab for Cutie"
+            "id": "1McMsnEElThX1knmY4oliG",
+            "name": "Olivia Rodrigo"
           }
         ]
       },
       "songlink": {
-        "pageUrl": "https://album.link/s/4D1zUsXw30DbfOqY1gVsfT",
+        "pageUrl": "https://album.link/s/3WZZF72ihlKPZBS4zSsNHl",
         "entitiesByUniqueId": {
-          "AMAZON_ALBUM::B0GP2VF17G": {
-            "id": "B0GP2VF17G",
+          "AMAZON_ALBUM::B0GVN6XSJC": {
+            "id": "B0GVN6XSJC",
             "type": "album",
-            "title": "I Built You A Tower",
-            "artistName": "Death Cab For Cutie",
-            "thumbnailUrl": "https://m.media-amazon.com/images/I/41jsxFdXQLL.jpg",
+            "title": "you seem pretty sad for a girl so in love [Explicit]",
+            "artistName": "Olivia Rodrigo",
+            "thumbnailUrl": "https://m.media-amazon.com/images/I/41Lg1DEYHAL._AA500.jpg",
             "thumbnailWidth": 500,
             "thumbnailHeight": 500,
             "apiProvider": "amazon",
@@ -56,25 +56,12 @@
               "amazonStore"
             ]
           },
-          "BANDCAMP_ALBUM::1921456095": {
-            "id": "1921456095",
+          "BOOMPLAY_ALBUM::133413365": {
+            "id": "133413365",
             "type": "album",
-            "title": "I Built You A Tower",
-            "artistName": "Death Cab for Cutie",
-            "thumbnailUrl": "https://f4.bcbits.com/img/a0370958576_5.jpg",
-            "thumbnailWidth": 700,
-            "thumbnailHeight": 700,
-            "apiProvider": "bandcamp",
-            "platforms": [
-              "bandcamp"
-            ]
-          },
-          "BOOMPLAY_ALBUM::132439795": {
-            "id": "132439795",
-            "type": "album",
-            "title": "I Built You A Tower",
-            "artistName": "Death Cab for Cutie",
-            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/06/05/e0511f77d7f24bae9ec74d5806aaca04H1500W1500_464_464.png",
+            "title": "you seem pretty sad for a girl so in love",
+            "artistName": "Olivia Rodrigo",
+            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/06/12/27fa870063454f67ac2d2ef414f84942H1400W1400_464_464.jpg",
             "thumbnailWidth": 464,
             "thumbnailHeight": 464,
             "apiProvider": "boomplay",
@@ -82,12 +69,12 @@
               "boomplay"
             ]
           },
-          "PANDORA_ALBUM::AL:63309121": {
-            "id": "AL:63309121",
+          "PANDORA_ALBUM::AL:67228788": {
+            "id": "AL:67228788",
             "type": "album",
-            "title": "I Built You A Tower",
-            "artistName": "Death Cab For Cutie",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/fd/e7/33/59/a6bb494dbaae35f5fa222f42/_500W_500H.jpg",
+            "title": "you seem pretty sad for a girl so in love",
+            "artistName": "Olivia Rodrigo",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/dd/23/68/6b/c0ee40288d897eaac8f0d723/_500W_500H.jpg",
             "thumbnailWidth": 500,
             "thumbnailHeight": 500,
             "apiProvider": "pandora",
@@ -95,12 +82,12 @@
               "pandora"
             ]
           },
-          "SPOTIFY_ALBUM::4D1zUsXw30DbfOqY1gVsfT": {
-            "id": "4D1zUsXw30DbfOqY1gVsfT",
+          "SPOTIFY_ALBUM::3WZZF72ihlKPZBS4zSsNHl": {
+            "id": "3WZZF72ihlKPZBS4zSsNHl",
             "type": "album",
-            "title": "I Built You A Tower",
-            "artistName": "Death Cab for Cutie",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2731207e4b18fdbd3592a4fbecd",
+            "title": "you seem pretty sad for a girl so in love",
+            "artistName": "Olivia Rodrigo",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273a5d92f6ce4e731229e95120a",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "spotify",
@@ -108,12 +95,12 @@
               "spotify"
             ]
           },
-          "TIDAL_ALBUM::507548788": {
-            "id": "507548788",
+          "TIDAL_ALBUM::532396298": {
+            "id": "532396298",
             "type": "album",
-            "title": "I Built You A Tower",
-            "artistName": "Death Cab For Cutie",
-            "thumbnailUrl": "https://resources.tidal.com/images/eb2bd0af/82d5/498d/b90c/75a0b047f238/640x640.jpg",
+            "title": "you seem pretty sad for a girl so in love",
+            "artistName": "Olivia Rodrigo",
+            "thumbnailUrl": "https://resources.tidal.com/images/c50fd44a/2446/4b77/a65a/6cdf1db95ed0/640x640.jpg",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "tidal",
@@ -123,87 +110,61 @@
           }
         },
         "platforms": {
-          "spotify": "https://open.spotify.com/album/4D1zUsXw30DbfOqY1gVsfT",
+          "spotify": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl",
           "appleMusic": null,
           "deezer": null,
-          "tidal": "https://listen.tidal.com/album/507548788",
+          "tidal": "https://listen.tidal.com/album/532396298",
           "youtube": null,
           "youtubeMusic": null,
           "soundcloud": null,
-          "amazonMusic": "https://music.amazon.com/albums/B0GP2VF17G"
+          "amazonMusic": "https://music.amazon.com/albums/B0GVN6XSJC"
         }
       },
       "spotifySearchUrl": null
     },
     {
-      "artist": "Vince Staples",
-      "album": "Cry Baby",
-      "label": "Loma Vista",
+      "artist": "Pussy Riot",
+      "album": "CYKA",
+      "label": "Stem",
       "section": "starting5",
       "spotify": {
-        "id": "5Asm8hPfn7pAlxpoir4ljs",
-        "name": "Cry Baby",
-        "url": "https://open.spotify.com/album/5Asm8hPfn7pAlxpoir4ljs",
-        "release_date": "2026-06-05",
+        "id": "1euIZzjPzukDjGM63Oal9Q",
+        "name": "CYKA",
+        "url": "https://open.spotify.com/album/1euIZzjPzukDjGM63Oal9Q",
+        "release_date": "2026-06-12",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273dd168c97fdd98891f1f5ca26",
+            "url": "https://i.scdn.co/image/ab67616d0000b2736c2d605a42565e8f7542b10c",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02dd168c97fdd98891f1f5ca26",
+            "url": "https://i.scdn.co/image/ab67616d00001e026c2d605a42565e8f7542b10c",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851dd168c97fdd98891f1f5ca26",
+            "url": "https://i.scdn.co/image/ab67616d000048516c2d605a42565e8f7542b10c",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "68kEuyFKyqrdQQLLsmiatm",
-            "name": "Vince Staples"
+            "id": "2hThsqaVEAWhWPBXnaOfB9",
+            "name": "Pussy Riot"
           }
         ]
       },
       "songlink": {
-        "pageUrl": "https://album.link/s/5Asm8hPfn7pAlxpoir4ljs",
+        "pageUrl": "https://album.link/s/1euIZzjPzukDjGM63Oal9Q",
         "entitiesByUniqueId": {
-          "BANDCAMP_ALBUM::2087408488": {
-            "id": "2087408488",
+          "PANDORA_ALBUM::AL:66487011": {
+            "id": "AL:66487011",
             "type": "album",
-            "title": "Cry Baby",
-            "artistName": "Vince Staples",
-            "thumbnailUrl": "https://f4.bcbits.com/img/a3886585815_5.jpg",
-            "thumbnailWidth": 700,
-            "thumbnailHeight": 700,
-            "apiProvider": "bandcamp",
-            "platforms": [
-              "bandcamp"
-            ]
-          },
-          "BOOMPLAY_ALBUM::132897939": {
-            "id": "132897939",
-            "type": "album",
-            "title": "Cry Baby",
-            "artistName": "Vince Staples",
-            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/06/05/874903b874e94c94b36035e085fa81f5H1400W1400_464_464.jpg",
-            "thumbnailWidth": 464,
-            "thumbnailHeight": 464,
-            "apiProvider": "boomplay",
-            "platforms": [
-              "boomplay"
-            ]
-          },
-          "PANDORA_ALBUM::AL:66897947": {
-            "id": "AL:66897947",
-            "type": "album",
-            "title": "Cry Baby",
-            "artistName": "Vince Staples",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/33/96/50/b2/f2404b47a68c1f55b4e960d2/_500W_500H.jpg",
+            "title": "CYKA",
+            "artistName": "Pussy Riot",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/63/83/e3/3b/9cb94108ae700a57d6d7506a/_500W_500H.jpg",
             "thumbnailWidth": 500,
             "thumbnailHeight": 500,
             "apiProvider": "pandora",
@@ -211,12 +172,12 @@
               "pandora"
             ]
           },
-          "SPOTIFY_ALBUM::5Asm8hPfn7pAlxpoir4ljs": {
-            "id": "5Asm8hPfn7pAlxpoir4ljs",
+          "SPOTIFY_ALBUM::1euIZzjPzukDjGM63Oal9Q": {
+            "id": "1euIZzjPzukDjGM63Oal9Q",
             "type": "album",
-            "title": "Cry Baby",
-            "artistName": "Vince Staples",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2736d509a218e7a7817a522ede1",
+            "title": "CYKA",
+            "artistName": "Pussy Riot",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2736c2d605a42565e8f7542b10c",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "spotify",
@@ -224,12 +185,12 @@
               "spotify"
             ]
           },
-          "TIDAL_ALBUM::528868343": {
-            "id": "528868343",
+          "TIDAL_ALBUM::524733461": {
+            "id": "524733461",
             "type": "album",
-            "title": "Cry Baby",
-            "artistName": "Vince Staples",
-            "thumbnailUrl": "https://resources.tidal.com/images/c4ddd673/7a16/47bc/89ea/26dfc3ab64e4/640x640.jpg",
+            "title": "CYKA",
+            "artistName": "Pussy Riot",
+            "thumbnailUrl": "https://resources.tidal.com/images/2098978b/5feb/44c4/b4b8/12212d747067/640x640.jpg",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "tidal",
@@ -239,10 +200,10 @@
           }
         },
         "platforms": {
-          "spotify": "https://open.spotify.com/album/5Asm8hPfn7pAlxpoir4ljs",
+          "spotify": "https://open.spotify.com/album/1euIZzjPzukDjGM63Oal9Q",
           "appleMusic": null,
           "deezer": null,
-          "tidal": "https://listen.tidal.com/album/528868343",
+          "tidal": "https://listen.tidal.com/album/524733461",
           "youtube": null,
           "youtubeMusic": null,
           "soundcloud": null,
@@ -252,48 +213,48 @@
       "spotifySearchUrl": null
     },
     {
-      "artist": "Jalen Ngonda",
-      "album": "Doctrine of Love",
-      "label": "Daptone",
+      "artist": "YHWH Nailgun",
+      "album": "Magazine",
+      "label": "4AD",
       "section": "starting5",
       "spotify": {
-        "id": "1BrSn9sWO3Gi5trDQdc44a",
-        "name": "Doctrine of Love",
-        "url": "https://open.spotify.com/album/1BrSn9sWO3Gi5trDQdc44a",
-        "release_date": "2026-06-05",
+        "id": "5nT9mBH0yosh5yRuCqpKW3",
+        "name": "Magazine",
+        "url": "https://open.spotify.com/album/5nT9mBH0yosh5yRuCqpKW3",
+        "release_date": "2026-06-11",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2736cc735f0ee718f70c785b79f",
+            "url": "https://i.scdn.co/image/ab67616d0000b27312cfd53ea78f73ebe2d299c7",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e026cc735f0ee718f70c785b79f",
+            "url": "https://i.scdn.co/image/ab67616d00001e0212cfd53ea78f73ebe2d299c7",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048516cc735f0ee718f70c785b79f",
+            "url": "https://i.scdn.co/image/ab67616d0000485112cfd53ea78f73ebe2d299c7",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "2kEDso93O2hDgCbnuiSkkZ",
-            "name": "Jalen Ngonda"
+            "id": "2StXQyMrlYk1wWVX72InuJ",
+            "name": "YHWH Nailgun"
           }
         ]
       },
       "songlink": {
-        "pageUrl": "https://album.link/s/1BrSn9sWO3Gi5trDQdc44a",
+        "pageUrl": "https://album.link/s/5nT9mBH0yosh5yRuCqpKW3",
         "entitiesByUniqueId": {
-          "BANDCAMP_ALBUM::1013483949": {
-            "id": "1013483949",
+          "BANDCAMP_ALBUM::362607724": {
+            "id": "362607724",
             "type": "album",
-            "title": "Doctrine of Love",
-            "artistName": "Jalen Ngonda",
-            "thumbnailUrl": "https://f4.bcbits.com/img/a2080013128_5.jpg",
+            "title": "Magazine",
+            "artistName": "YHWH Nailgun",
+            "thumbnailUrl": "https://f4.bcbits.com/img/a0331326644_5.jpg",
             "thumbnailWidth": 700,
             "thumbnailHeight": 700,
             "apiProvider": "bandcamp",
@@ -301,115 +262,12 @@
               "bandcamp"
             ]
           },
-          "PANDORA_ALBUM::AL:60307268": {
-            "id": "AL:60307268",
+          "BOOMPLAY_ALBUM::132774228": {
+            "id": "132774228",
             "type": "album",
-            "title": "Doctrine of Love",
-            "artistName": "Jalen Ngonda",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/5d/27/4c/66/a5d94c4dbbc6a8e2080f7e2b/_500W_500H.jpg",
-            "thumbnailWidth": 500,
-            "thumbnailHeight": 500,
-            "apiProvider": "pandora",
-            "platforms": [
-              "pandora"
-            ]
-          },
-          "SPOTIFY_ALBUM::1BrSn9sWO3Gi5trDQdc44a": {
-            "id": "1BrSn9sWO3Gi5trDQdc44a",
-            "type": "album",
-            "title": "Doctrine of Love",
-            "artistName": "Jalen Ngonda",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2736cc735f0ee718f70c785b79f",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "spotify",
-            "platforms": [
-              "spotify"
-            ]
-          },
-          "TIDAL_ALBUM::492755347": {
-            "id": "492755347",
-            "type": "album",
-            "title": "Doctrine of Love",
-            "artistName": "Jalen Ngonda",
-            "thumbnailUrl": "https://resources.tidal.com/images/b68259e9/2c7b/40e3/9080/7fe8848aadca/640x640.jpg",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "tidal",
-            "platforms": [
-              "tidal"
-            ]
-          }
-        },
-        "platforms": {
-          "spotify": "https://open.spotify.com/album/1BrSn9sWO3Gi5trDQdc44a",
-          "appleMusic": null,
-          "deezer": null,
-          "tidal": "https://listen.tidal.com/album/492755347",
-          "youtube": null,
-          "youtubeMusic": null,
-          "soundcloud": null,
-          "amazonMusic": null
-        }
-      },
-      "spotifySearchUrl": null
-    },
-    {
-      "artist": "Zoh Amba",
-      "album": "Eyes Full",
-      "label": "Matador",
-      "section": "starting5",
-      "spotify": {
-        "id": "7giRRmqPnaSyebOxk2pY3L",
-        "name": "Eyes Full",
-        "url": "https://open.spotify.com/album/7giRRmqPnaSyebOxk2pY3L",
-        "release_date": "2026-06-05",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27303dc370757cc06ee4eae9641",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0203dc370757cc06ee4eae9641",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485103dc370757cc06ee4eae9641",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "3Xfp6T1hoOKpC4Ywcz93EL",
-            "name": "Zoh Amba"
-          }
-        ]
-      },
-      "songlink": {
-        "pageUrl": "https://album.link/s/7giRRmqPnaSyebOxk2pY3L",
-        "entitiesByUniqueId": {
-          "BANDCAMP_ALBUM::1174999354": {
-            "id": "1174999354",
-            "type": "album",
-            "title": "Eyes Full",
-            "artistName": "Zoh Amba",
-            "thumbnailUrl": "https://f4.bcbits.com/img/a1117895982_5.jpg",
-            "thumbnailWidth": 700,
-            "thumbnailHeight": 700,
-            "apiProvider": "bandcamp",
-            "platforms": [
-              "bandcamp"
-            ]
-          },
-          "BOOMPLAY_ALBUM::132331726": {
-            "id": "132331726",
-            "type": "album",
-            "title": "Eyes Full",
-            "artistName": "Zoh Amba",
-            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/05/28/51f990499a84424a98d383c702b4ca33H1500W1500_464_464.png",
+            "title": "Magazine",
+            "artistName": "YHWH Nailgun",
+            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/06/03/3591e7c8a1dc42a7abec4fa55ca429a0H1500W1500_464_464.png",
             "thumbnailWidth": 464,
             "thumbnailHeight": 464,
             "apiProvider": "boomplay",
@@ -417,12 +275,12 @@
               "boomplay"
             ]
           },
-          "PANDORA_ALBUM::AL:66894930": {
-            "id": "AL:66894930",
+          "PANDORA_ALBUM::AL:67066737": {
+            "id": "AL:67066737",
             "type": "album",
-            "title": "Eyes Full",
-            "artistName": "Zoh Amba",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/1a/db/13/76/26104bce92c7d406954aa92a/_500W_500H.jpg",
+            "title": "Magazine",
+            "artistName": "YHWH Nailgun",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/a6/86/5d/11/1f634644a970db8b6e8af284/_500W_500H.jpg",
             "thumbnailWidth": 500,
             "thumbnailHeight": 500,
             "apiProvider": "pandora",
@@ -430,12 +288,12 @@
               "pandora"
             ]
           },
-          "SPOTIFY_ALBUM::7giRRmqPnaSyebOxk2pY3L": {
-            "id": "7giRRmqPnaSyebOxk2pY3L",
+          "SPOTIFY_ALBUM::5nT9mBH0yosh5yRuCqpKW3": {
+            "id": "5nT9mBH0yosh5yRuCqpKW3",
             "type": "album",
-            "title": "Eyes Full",
-            "artistName": "Zoh Amba",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b27303dc370757cc06ee4eae9641",
+            "title": "Magazine",
+            "artistName": "YHWH Nailgun",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b27312cfd53ea78f73ebe2d299c7",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "spotify",
@@ -443,12 +301,12 @@
               "spotify"
             ]
           },
-          "TIDAL_ALBUM::524563141": {
-            "id": "524563141",
+          "TIDAL_ALBUM::526467398": {
+            "id": "526467398",
             "type": "album",
-            "title": "Eyes Full",
-            "artistName": "Zoh Amba",
-            "thumbnailUrl": "https://resources.tidal.com/images/f949546f/e894/490b/82c9/3b3d13eb1490/640x640.jpg",
+            "title": "Magazine",
+            "artistName": "YHWH Nailgun",
+            "thumbnailUrl": "https://resources.tidal.com/images/ae2ea30b/f388/4582/b012/b72f637fc453/640x640.jpg",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "tidal",
@@ -456,12 +314,12 @@
               "tidal"
             ]
           },
-          "YANDEX_ALBUM::42313832": {
-            "id": "42313832",
+          "YANDEX_ALBUM::42402236": {
+            "id": "42402236",
             "type": "album",
-            "title": "Eyes Full",
-            "artistName": "Zoh Amba",
-            "thumbnailUrl": "https://avatars.yandex.net/get-music-content/19752797/fa8aff2d.a.42313832-1/600x600",
+            "title": "Magazine",
+            "artistName": "YHWH Nailgun",
+            "thumbnailUrl": "https://avatars.yandex.net/get-music-content/17696724/720d1b28.a.42402236-1/600x600",
             "thumbnailWidth": 600,
             "thumbnailHeight": 600,
             "apiProvider": "yandex",
@@ -471,10 +329,10 @@
           }
         },
         "platforms": {
-          "spotify": "https://open.spotify.com/album/7giRRmqPnaSyebOxk2pY3L",
+          "spotify": "https://open.spotify.com/album/5nT9mBH0yosh5yRuCqpKW3",
           "appleMusic": null,
           "deezer": null,
-          "tidal": "https://listen.tidal.com/album/524563141",
+          "tidal": "https://listen.tidal.com/album/526467398",
           "youtube": null,
           "youtubeMusic": null,
           "soundcloud": null,
@@ -484,48 +342,228 @@
       "spotifySearchUrl": null
     },
     {
-      "artist": "Laura Misch",
-      "album": "Lithic",
-      "label": "One Little Independent",
+      "artist": "Hayley Kiyoko",
+      "album": "girls like girls (the album)",
+      "label": "One Riot",
       "section": "starting5",
       "spotify": {
-        "id": "2eFG4wew1DIqnqygr3UeYN",
-        "name": "Lithic",
-        "url": "https://open.spotify.com/album/2eFG4wew1DIqnqygr3UeYN",
-        "release_date": "2026-06-05",
+        "id": "0fFS1pRGFLPXjfHLgugpNi",
+        "name": "girls like girls the album",
+        "url": "https://open.spotify.com/album/0fFS1pRGFLPXjfHLgugpNi",
+        "release_date": "2026-06-12",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273f38fb136aa584d277f35cf2a",
+            "url": "https://i.scdn.co/image/ab67616d0000b2734e3ab7b6477754f2fbfa52be",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02f38fb136aa584d277f35cf2a",
+            "url": "https://i.scdn.co/image/ab67616d00001e024e3ab7b6477754f2fbfa52be",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851f38fb136aa584d277f35cf2a",
+            "url": "https://i.scdn.co/image/ab67616d000048514e3ab7b6477754f2fbfa52be",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "0NrVrf231eji48nhNUJTXe",
-            "name": "Laura Misch"
+            "id": "3LjhVl7GzYsza1biQjTpaN",
+            "name": "Hayley Kiyoko"
           }
         ]
       },
       "songlink": {
-        "pageUrl": "https://album.link/s/2eFG4wew1DIqnqygr3UeYN",
+        "pageUrl": "https://album.link/s/0fFS1pRGFLPXjfHLgugpNi",
         "entitiesByUniqueId": {
-          "BANDCAMP_ALBUM::2404346333": {
-            "id": "2404346333",
+          "PANDORA_ALBUM::AL:65171879": {
+            "id": "AL:65171879",
             "type": "album",
-            "title": "Lithic",
-            "artistName": "Laura Misch",
-            "thumbnailUrl": "https://f4.bcbits.com/img/a0875587776_5.jpg",
+            "title": "girls like girls the album",
+            "artistName": "Hayley Kiyoko & girls like girls (the album)",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/39/86/39/87/54994dd8a78f8a9e5bfc2a51/_500W_500H.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "pandora",
+            "platforms": [
+              "pandora"
+            ]
+          },
+          "SPOTIFY_ALBUM::0fFS1pRGFLPXjfHLgugpNi": {
+            "id": "0fFS1pRGFLPXjfHLgugpNi",
+            "type": "album",
+            "title": "girls like girls the album",
+            "artistName": "Hayley Kiyoko",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2734e3ab7b6477754f2fbfa52be",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "spotify",
+            "platforms": [
+              "spotify"
+            ]
+          },
+          "TIDAL_ALBUM::516179076": {
+            "id": "516179076",
+            "type": "album",
+            "title": "girls like girls the album",
+            "artistName": "Hayley Kiyoko",
+            "thumbnailUrl": "https://resources.tidal.com/images/dea3ac93/b025/48b8/817b/df31314078d6/640x640.jpg",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "tidal",
+            "platforms": [
+              "tidal"
+            ]
+          }
+        },
+        "platforms": {
+          "spotify": "https://open.spotify.com/album/0fFS1pRGFLPXjfHLgugpNi",
+          "appleMusic": null,
+          "deezer": null,
+          "tidal": "https://listen.tidal.com/album/516179076",
+          "youtube": null,
+          "youtubeMusic": null,
+          "soundcloud": null,
+          "amazonMusic": null
+        }
+      },
+      "spotifySearchUrl": null
+    },
+    {
+      "artist": "Six Sex",
+      "album": "ULTRA",
+      "label": "Dale Play",
+      "section": "starting5",
+      "spotify": {
+        "id": "7LDNQYVFZoapHCep1A2dYr",
+        "name": "ULTRA",
+        "url": "https://open.spotify.com/album/7LDNQYVFZoapHCep1A2dYr",
+        "release_date": "2026-06-06",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27312f301fc015e391fac9baefb",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0212f301fc015e391fac9baefb",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485112f301fc015e391fac9baefb",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "29rvPhemBdOLYdLr2xI8dr",
+            "name": "Six Sex"
+          }
+        ]
+      },
+      "songlink": {
+        "pageUrl": "https://album.link/s/7LDNQYVFZoapHCep1A2dYr",
+        "entitiesByUniqueId": {
+          "PANDORA_ALBUM::AL:66520641": {
+            "id": "AL:66520641",
+            "type": "album",
+            "title": "ULTRA",
+            "artistName": "Six Sex",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/3e/c9/2b/6f/d50c4328929661465017ae50/_500W_500H.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "pandora",
+            "platforms": [
+              "pandora"
+            ]
+          },
+          "SPOTIFY_ALBUM::7LDNQYVFZoapHCep1A2dYr": {
+            "id": "7LDNQYVFZoapHCep1A2dYr",
+            "type": "album",
+            "title": "ULTRA",
+            "artistName": "Six Sex",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b27312f301fc015e391fac9baefb",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "spotify",
+            "platforms": [
+              "spotify"
+            ]
+          },
+          "TIDAL_ALBUM::525157375": {
+            "id": "525157375",
+            "type": "album",
+            "title": "ULTRA",
+            "artistName": "Six Sex",
+            "thumbnailUrl": "https://resources.tidal.com/images/3255f739/2a09/496c/b39a/1ce5f0a71791/640x640.jpg",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "tidal",
+            "platforms": [
+              "tidal"
+            ]
+          }
+        },
+        "platforms": {
+          "spotify": "https://open.spotify.com/album/7LDNQYVFZoapHCep1A2dYr",
+          "appleMusic": null,
+          "deezer": null,
+          "tidal": "https://listen.tidal.com/album/525157375",
+          "youtube": null,
+          "youtubeMusic": null,
+          "soundcloud": null,
+          "amazonMusic": null
+        }
+      },
+      "spotifySearchUrl": null
+    },
+    {
+      "artist": "Kelsey Lu",
+      "album": "So Help Me God",
+      "label": "Dirty Hit",
+      "section": "lightningRound",
+      "spotify": {
+        "id": "1NRIhAmDSsF25lFAwv4pDt",
+        "name": "So Help Me God",
+        "url": "https://open.spotify.com/album/1NRIhAmDSsF25lFAwv4pDt",
+        "release_date": "2026-06-12",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273cae4914e4fb885c817fcc39e",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02cae4914e4fb885c817fcc39e",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851cae4914e4fb885c817fcc39e",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "0fEfMW5bypHZ0A8eLnhwj5",
+            "name": "Kelsey Lu"
+          }
+        ]
+      },
+      "songlink": {
+        "pageUrl": "https://album.link/s/1NRIhAmDSsF25lFAwv4pDt",
+        "entitiesByUniqueId": {
+          "BANDCAMP_ALBUM::1119912889": {
+            "id": "1119912889",
+            "type": "album",
+            "title": "So Help Me God",
+            "artistName": "Kelsey Lu",
+            "thumbnailUrl": "https://f4.bcbits.com/img/a1344367201_5.jpg",
             "thumbnailWidth": 700,
             "thumbnailHeight": 700,
             "apiProvider": "bandcamp",
@@ -533,12 +571,25 @@
               "bandcamp"
             ]
           },
-          "PANDORA_ALBUM::AL:60062369": {
-            "id": "AL:60062369",
+          "BOOMPLAY_ALBUM::125574160": {
+            "id": "125574160",
             "type": "album",
-            "title": "Lithic",
-            "artistName": "Laura Misch",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/2e/ee/e1/8b/d69b4af0ac9713d83ad41f30/_500W_500H.jpg",
+            "title": "So Help Me God",
+            "artistName": "Kelsey Lu",
+            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/03/23/30309f21b7c14500abf3fa5d95fecf40H1500W1500_464_464.jpg",
+            "thumbnailWidth": 464,
+            "thumbnailHeight": 464,
+            "apiProvider": "boomplay",
+            "platforms": [
+              "boomplay"
+            ]
+          },
+          "PANDORA_ALBUM::AL:61186351": {
+            "id": "AL:61186351",
+            "type": "album",
+            "title": "So Help Me God",
+            "artistName": "Kelsey Lu",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/ca/a8/b3/6a/3d0743f4aff3f796faa076f5/_500W_500H.jpg",
             "thumbnailWidth": 500,
             "thumbnailHeight": 500,
             "apiProvider": "pandora",
@@ -546,12 +597,12 @@
               "pandora"
             ]
           },
-          "SPOTIFY_ALBUM::2eFG4wew1DIqnqygr3UeYN": {
-            "id": "2eFG4wew1DIqnqygr3UeYN",
+          "SPOTIFY_ALBUM::1NRIhAmDSsF25lFAwv4pDt": {
+            "id": "1NRIhAmDSsF25lFAwv4pDt",
             "type": "album",
-            "title": "Lithic",
-            "artistName": "Laura Misch",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273f38fb136aa584d277f35cf2a",
+            "title": "So Help Me God",
+            "artistName": "Kelsey Lu",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273cae4914e4fb885c817fcc39e",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "spotify",
@@ -559,12 +610,12 @@
               "spotify"
             ]
           },
-          "TIDAL_ALBUM::491567637": {
-            "id": "491567637",
+          "TIDAL_ALBUM::516135691": {
+            "id": "516135691",
             "type": "album",
-            "title": "Lithic",
-            "artistName": "Laura Misch",
-            "thumbnailUrl": "https://resources.tidal.com/images/dc1672ab/a4ab/410b/99cf/bb31c5581fbb/640x640.jpg",
+            "title": "So Help Me God",
+            "artistName": "Kelsey Lu",
+            "thumbnailUrl": "https://resources.tidal.com/images/c2d13149/c734/40f8/9bfa/6adbd7c63a85/640x640.jpg",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "tidal",
@@ -574,10 +625,10 @@
           }
         },
         "platforms": {
-          "spotify": "https://open.spotify.com/album/2eFG4wew1DIqnqygr3UeYN",
+          "spotify": "https://open.spotify.com/album/1NRIhAmDSsF25lFAwv4pDt",
           "appleMusic": null,
           "deezer": null,
-          "tidal": "https://listen.tidal.com/album/491567637",
+          "tidal": "https://listen.tidal.com/album/516135691",
           "youtube": null,
           "youtubeMusic": null,
           "soundcloud": null,
@@ -587,48 +638,78 @@
       "spotifySearchUrl": null
     },
     {
-      "artist": "FIGHTMASTER",
-      "album": "Tolerance",
-      "label": "Many Hats",
+      "artist": "Ambrose Akinmusire & Mary Halvorson",
+      "album": "Slo-Mo Neon Luminate Hoverings",
+      "label": "Nonesuch",
       "section": "lightningRound",
       "spotify": {
-        "id": "79Na7LFXNZbmTKK4azemyb",
-        "name": "Tolerance",
-        "url": "https://open.spotify.com/album/79Na7LFXNZbmTKK4azemyb",
-        "release_date": "2026-06-05",
+        "id": "69Olg2e3XppXDG5aw3Abvt",
+        "name": "Slo-Mo Neon Luminate Hoverings",
+        "url": "https://open.spotify.com/album/69Olg2e3XppXDG5aw3Abvt",
+        "release_date": "2026-06-12",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273d87c431c6fc536222cd998c6",
+            "url": "https://i.scdn.co/image/ab67616d0000b273e353929bb82222415ed68cd4",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02d87c431c6fc536222cd998c6",
+            "url": "https://i.scdn.co/image/ab67616d00001e02e353929bb82222415ed68cd4",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851d87c431c6fc536222cd998c6",
+            "url": "https://i.scdn.co/image/ab67616d00004851e353929bb82222415ed68cd4",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "3ejIpQTvOb6XjUhX96RrMw",
-            "name": "FIGHTMASTER"
+            "id": "4ai53dgSBGhQwcFtGyY1bF",
+            "name": "Ambrose Akinmusire"
+          },
+          {
+            "id": "5tCfZ8dYbzaq6auQeSAsRl",
+            "name": "Mary Halvorson"
           }
         ]
       },
       "songlink": {
-        "pageUrl": "https://album.link/s/79Na7LFXNZbmTKK4azemyb",
+        "pageUrl": "https://album.link/s/69Olg2e3XppXDG5aw3Abvt",
         "entitiesByUniqueId": {
-          "PANDORA_ALBUM::AL:66825878": {
-            "id": "AL:66825878",
+          "BANDCAMP_ALBUM::2434752537": {
+            "id": "2434752537",
             "type": "album",
-            "title": "Tolerance",
-            "artistName": "Fightmaster",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/03/68/b9/0b/32624ebebb65c1c78bc9cf6b/_500W_500H.jpg",
+            "title": "Slo-Mo Neon Luminate Hoverings",
+            "artistName": "Mary Halvorson & Ambrose Akinmusire",
+            "thumbnailUrl": "https://f4.bcbits.com/img/a3814511741_5.jpg",
+            "thumbnailWidth": 700,
+            "thumbnailHeight": 700,
+            "apiProvider": "bandcamp",
+            "platforms": [
+              "bandcamp"
+            ]
+          },
+          "BOOMPLAY_ALBUM::133186960": {
+            "id": "133186960",
+            "type": "album",
+            "title": "Slo-Mo Neon Luminate Hoverings",
+            "artistName": "Ambrose Akinmusire",
+            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/06/09/7ac24c3a1c9a4c9c86667e90b94cc694H1500W1500_464_464.jpg",
+            "thumbnailWidth": 464,
+            "thumbnailHeight": 464,
+            "apiProvider": "boomplay",
+            "platforms": [
+              "boomplay"
+            ]
+          },
+          "PANDORA_ALBUM::AL:66491907": {
+            "id": "AL:66491907",
+            "type": "album",
+            "title": "Slo-Mo Neon Luminate Hoverings",
+            "artistName": "Ambrose Akinmusire & Mary Halvorson",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/2c/e8/6d/c4/da7341b5a9e0f1ef380b88a0/_500W_500H.jpg",
             "thumbnailWidth": 500,
             "thumbnailHeight": 500,
             "apiProvider": "pandora",
@@ -636,12 +717,12 @@
               "pandora"
             ]
           },
-          "SPOTIFY_ALBUM::79Na7LFXNZbmTKK4azemyb": {
-            "id": "79Na7LFXNZbmTKK4azemyb",
+          "SPOTIFY_ALBUM::69Olg2e3XppXDG5aw3Abvt": {
+            "id": "69Olg2e3XppXDG5aw3Abvt",
             "type": "album",
-            "title": "Tolerance",
-            "artistName": "FIGHTMASTER",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273d87c431c6fc536222cd998c6",
+            "title": "Slo-Mo Neon Luminate Hoverings",
+            "artistName": "Ambrose Akinmusire, Mary Halvorson",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273e353929bb82222415ed68cd4",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "spotify",
@@ -649,38 +730,25 @@
               "spotify"
             ]
           },
-          "TIDAL_ALBUM::528672912": {
-            "id": "528672912",
+          "TIDAL_ALBUM::524763902": {
+            "id": "524763902",
             "type": "album",
-            "title": "Tolerance",
-            "artistName": "Fightmaster",
-            "thumbnailUrl": "https://resources.tidal.com/images/37eb5ce0/cd37/47da/9c34/961828493015/640x640.jpg",
+            "title": "Slo-Mo Neon Luminate Hoverings",
+            "artistName": "Ambrose Akinmusire, Mary Halvorson",
+            "thumbnailUrl": "https://resources.tidal.com/images/ca7d39e5/5734/4ee4/b37b/fdc00d1b46f5/640x640.jpg",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "tidal",
             "platforms": [
               "tidal"
             ]
-          },
-          "YANDEX_ALBUM::42289248": {
-            "id": "42289248",
-            "type": "album",
-            "title": "Tolerance",
-            "artistName": "Fightmaster",
-            "thumbnailUrl": "https://avatars.yandex.net/get-music-content/17681324/fec342a9.a.42289248-1/600x600",
-            "thumbnailWidth": 600,
-            "thumbnailHeight": 600,
-            "apiProvider": "yandex",
-            "platforms": [
-              "yandex"
-            ]
           }
         },
         "platforms": {
-          "spotify": "https://open.spotify.com/album/79Na7LFXNZbmTKK4azemyb",
+          "spotify": "https://open.spotify.com/album/69Olg2e3XppXDG5aw3Abvt",
           "appleMusic": null,
           "deezer": null,
-          "tidal": "https://listen.tidal.com/album/528672912",
+          "tidal": "https://listen.tidal.com/album/524763902",
           "youtube": null,
           "youtubeMusic": null,
           "soundcloud": null,
@@ -690,48 +758,151 @@
       "spotifySearchUrl": null
     },
     {
-      "artist": "The Red Clay Strays",
-      "album": "Grateful",
-      "label": "RCA",
+      "artist": "Diles Que No Me Maten",
+      "album": "Escrito en Agua",
+      "label": "Moonlight Activities",
       "section": "lightningRound",
       "spotify": {
-        "id": "5MQn4Cknugw1VplWnBoEI6",
-        "name": "Grateful",
-        "url": "https://open.spotify.com/album/5MQn4Cknugw1VplWnBoEI6",
-        "release_date": "2026-06-05",
+        "id": "6TLRkXnt12XuN7eX3uXL36",
+        "name": "Escrito en agua",
+        "url": "https://open.spotify.com/album/6TLRkXnt12XuN7eX3uXL36",
+        "release_date": "2026-06-12",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2733512c5fc635b907569ef5f0c",
+            "url": "https://i.scdn.co/image/ab67616d0000b2733596a668f5b36ea71248a226",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e023512c5fc635b907569ef5f0c",
+            "url": "https://i.scdn.co/image/ab67616d00001e023596a668f5b36ea71248a226",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048513512c5fc635b907569ef5f0c",
+            "url": "https://i.scdn.co/image/ab67616d000048513596a668f5b36ea71248a226",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "6IKlXZEFOvk9itrP1s0knJ",
-            "name": "The Red Clay Strays"
+            "id": "22Gr8D6d3DlHfUYjbqtIev",
+            "name": "Diles que no me maten"
           }
         ]
       },
       "songlink": {
-        "pageUrl": "https://album.link/s/5MQn4Cknugw1VplWnBoEI6",
+        "pageUrl": "https://album.link/s/6TLRkXnt12XuN7eX3uXL36",
         "entitiesByUniqueId": {
-          "AMAZON_ALBUM::B0GX7FYJTS": {
-            "id": "B0GX7FYJTS",
+          "BOOMPLAY_ALBUM::128343496": {
+            "id": "128343496",
             "type": "album",
-            "title": "Grateful",
-            "artistName": "The Red Clay Strays",
-            "thumbnailUrl": "https://m.media-amazon.com/images/I/41UyOL7TNEL.jpg",
+            "title": "Escrito en agua",
+            "artistName": "Diles que no me maten",
+            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/04/30/917da35bedaa436a9cefa63cbd803e91H1500W1500_464_464.jpg",
+            "thumbnailWidth": 464,
+            "thumbnailHeight": 464,
+            "apiProvider": "boomplay",
+            "platforms": [
+              "boomplay"
+            ]
+          },
+          "PANDORA_ALBUM::AL:63804364": {
+            "id": "AL:63804364",
+            "type": "album",
+            "title": "Escrito en agua",
+            "artistName": "Diles que no me maten",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/e5/69/d1/7b/46144a828c7b21407655137a/_500W_500H.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "pandora",
+            "platforms": [
+              "pandora"
+            ]
+          },
+          "SPOTIFY_ALBUM::6TLRkXnt12XuN7eX3uXL36": {
+            "id": "6TLRkXnt12XuN7eX3uXL36",
+            "type": "album",
+            "title": "Escrito en agua",
+            "artistName": "Diles que no me maten",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2733596a668f5b36ea71248a226",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "spotify",
+            "platforms": [
+              "spotify"
+            ]
+          },
+          "TIDAL_ALBUM::509836162": {
+            "id": "509836162",
+            "type": "album",
+            "title": "Escrito en agua",
+            "artistName": "Diles que no me maten",
+            "thumbnailUrl": "https://resources.tidal.com/images/a8ebf5ed/ec45/4fbd/9962/88ea79dbcb36/640x640.jpg",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "tidal",
+            "platforms": [
+              "tidal"
+            ]
+          }
+        },
+        "platforms": {
+          "spotify": "https://open.spotify.com/album/6TLRkXnt12XuN7eX3uXL36",
+          "appleMusic": null,
+          "deezer": null,
+          "tidal": "https://listen.tidal.com/album/509836162",
+          "youtube": null,
+          "youtubeMusic": null,
+          "soundcloud": null,
+          "amazonMusic": null
+        }
+      },
+      "spotifySearchUrl": null
+    },
+    {
+      "artist": "Horse Lords",
+      "album": "Demand to Be Taken to Heaven Alive!",
+      "label": "RVNG Intl.",
+      "section": "lightningRound",
+      "spotify": {
+        "id": "3q8CQdpq57Xi0zXn5qlauk",
+        "name": "Demand to Be Taken to Heaven Alive!",
+        "url": "https://open.spotify.com/album/3q8CQdpq57Xi0zXn5qlauk",
+        "release_date": "2026-06-12",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27323570e26e0127a674bd6b14a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0223570e26e0127a674bd6b14a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485123570e26e0127a674bd6b14a",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "0Oslq5zLftqRVwKseBJ7MV",
+            "name": "Horse Lords"
+          }
+        ]
+      },
+      "songlink": {
+        "pageUrl": "https://album.link/s/3q8CQdpq57Xi0zXn5qlauk",
+        "entitiesByUniqueId": {
+          "AMAZON_ALBUM::B0GQJL9N9W": {
+            "id": "B0GQJL9N9W",
+            "type": "album",
+            "title": "Demand to Be Taken to Heaven Alive!",
+            "artistName": "Horse Lords",
+            "thumbnailUrl": "https://m.media-amazon.com/images/I/51y8eDvxdTL.jpg",
             "thumbnailWidth": 500,
             "thumbnailHeight": 500,
             "apiProvider": "amazon",
@@ -740,200 +911,12 @@
               "amazonStore"
             ]
           },
-          "PANDORA_ALBUM::AL:67023960": {
-            "id": "AL:67023960",
+          "BANDCAMP_ALBUM::4059784992": {
+            "id": "4059784992",
             "type": "album",
-            "title": "Grateful",
-            "artistName": "The Red Clay Strays",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/00/f9/79/cf/26994aafab89fc9a49bdb223/_500W_500H.jpg",
-            "thumbnailWidth": 500,
-            "thumbnailHeight": 500,
-            "apiProvider": "pandora",
-            "platforms": [
-              "pandora"
-            ]
-          },
-          "SPOTIFY_ALBUM::5MQn4Cknugw1VplWnBoEI6": {
-            "id": "5MQn4Cknugw1VplWnBoEI6",
-            "type": "album",
-            "title": "Grateful",
-            "artistName": "The Red Clay Strays",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2733512c5fc635b907569ef5f0c",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "spotify",
-            "platforms": [
-              "spotify"
-            ]
-          },
-          "TIDAL_ALBUM::529791077": {
-            "id": "529791077",
-            "type": "album",
-            "title": "Grateful",
-            "artistName": "The Red Clay Strays",
-            "thumbnailUrl": "https://resources.tidal.com/images/232fc253/fff0/45b3/869b/273ba8aafd7d/640x640.jpg",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "tidal",
-            "platforms": [
-              "tidal"
-            ]
-          }
-        },
-        "platforms": {
-          "spotify": "https://open.spotify.com/album/5MQn4Cknugw1VplWnBoEI6",
-          "appleMusic": null,
-          "deezer": null,
-          "tidal": "https://listen.tidal.com/album/529791077",
-          "youtube": null,
-          "youtubeMusic": null,
-          "soundcloud": null,
-          "amazonMusic": "https://music.amazon.com/albums/B0GX7FYJTS"
-        }
-      },
-      "spotifySearchUrl": null
-    },
-    {
-      "artist": "Suzanne Ciani",
-      "album": "CIANI/ORKEST",
-      "label": "AKP, Atmospheric & CyKIK",
-      "section": "lightningRound",
-      "spotify": {
-        "id": "4ZLdquECg5Kx7Tc3QByePl",
-        "name": "CIANI/ORKEST",
-        "url": "https://open.spotify.com/album/4ZLdquECg5Kx7Tc3QByePl",
-        "release_date": "2026-06-04",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273bcf98d68a2100dc0ebb6ee2a",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02bcf98d68a2100dc0ebb6ee2a",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851bcf98d68a2100dc0ebb6ee2a",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "6E7hjfR2Qy6392SnUqCnzr",
-            "name": "Suzanne Ciani"
-          },
-          {
-            "id": "7JYdpWAsiqzrmMB3qxkEbI",
-            "name": "Metropole Orkest"
-          },
-          {
-            "id": "4sYhuNqiZ8eTJDvW1OmIiq",
-            "name": "Simon Dobson"
-          }
-        ]
-      },
-      "songlink": {
-        "pageUrl": "https://album.link/s/4ZLdquECg5Kx7Tc3QByePl",
-        "entitiesByUniqueId": {
-          "PANDORA_ALBUM::AL:66117190": {
-            "id": "AL:66117190",
-            "type": "album",
-            "title": "CIANI/ORKEST",
-            "artistName": "Suzanne Ciani, Metropole Orkest & Simon Dobson",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/2f/29/f6/ca/0d114da2b100ad9cedb82fa2/_500W_500H.jpg",
-            "thumbnailWidth": 500,
-            "thumbnailHeight": 500,
-            "apiProvider": "pandora",
-            "platforms": [
-              "pandora"
-            ]
-          },
-          "SPOTIFY_ALBUM::4ZLdquECg5Kx7Tc3QByePl": {
-            "id": "4ZLdquECg5Kx7Tc3QByePl",
-            "type": "album",
-            "title": "CIANI/ORKEST",
-            "artistName": "Suzanne Ciani, Metropole Orkest, Simon Dobson",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273bcf98d68a2100dc0ebb6ee2a",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "spotify",
-            "platforms": [
-              "spotify"
-            ]
-          },
-          "TIDAL_ALBUM::521343708": {
-            "id": "521343708",
-            "type": "album",
-            "title": "CIANI/ORKEST",
-            "artistName": "Suzanne Ciani, Metropole Orkest, Simon Dobson",
-            "thumbnailUrl": "https://resources.tidal.com/images/d63718eb/58de/4b2d/aef5/2d59732f5c5f/640x640.jpg",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "tidal",
-            "platforms": [
-              "tidal"
-            ]
-          }
-        },
-        "platforms": {
-          "spotify": "https://open.spotify.com/album/4ZLdquECg5Kx7Tc3QByePl",
-          "appleMusic": null,
-          "deezer": null,
-          "tidal": "https://listen.tidal.com/album/521343708",
-          "youtube": null,
-          "youtubeMusic": null,
-          "soundcloud": null,
-          "amazonMusic": null
-        }
-      },
-      "spotifySearchUrl": null
-    },
-    {
-      "artist": "Slippers",
-      "album": "Slippers 08",
-      "label": "perennial",
-      "section": "lightningRound",
-      "spotify": {
-        "id": "2rEIyTZL4buxgHzUEZnBjf",
-        "name": "Slippers 08",
-        "url": "https://open.spotify.com/album/2rEIyTZL4buxgHzUEZnBjf",
-        "release_date": "2026-06-05",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2734e62a671684ce8d79adf1ca8",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e024e62a671684ce8d79adf1ca8",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048514e62a671684ce8d79adf1ca8",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "7t68xnqaf930ug2CgHp3BM",
-            "name": "Slippers"
-          }
-        ]
-      },
-      "songlink": {
-        "pageUrl": "https://album.link/s/2rEIyTZL4buxgHzUEZnBjf",
-        "entitiesByUniqueId": {
-          "BANDCAMP_ALBUM::2648300780": {
-            "id": "2648300780",
-            "type": "album",
-            "title": "Slippers 08",
-            "artistName": "Slippers",
-            "thumbnailUrl": "https://f4.bcbits.com/img/a1243030580_5.jpg",
+            "title": "Demand to Be Taken to Heaven Alive!",
+            "artistName": "Horse Lords",
+            "thumbnailUrl": "https://f4.bcbits.com/img/a2749853969_5.jpg",
             "thumbnailWidth": 700,
             "thumbnailHeight": 700,
             "apiProvider": "bandcamp",
@@ -941,12 +924,12 @@
               "bandcamp"
             ]
           },
-          "BOOMPLAY_ALBUM::127184941": {
-            "id": "127184941",
+          "BOOMPLAY_ALBUM::126716092": {
+            "id": "126716092",
             "type": "album",
-            "title": "Slippers 08",
-            "artistName": "Slippers",
-            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/03/06/f576351ab0a04aa89456e193c6bc54f8H1500W1500_464_464.jpg",
+            "title": "Demand to Be Taken to Heaven Alive!",
+            "artistName": "Horse Lords",
+            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/02/27/e9df14a21871472291e44d66da97c0f1H1500W1500_464_464.jpg",
             "thumbnailWidth": 464,
             "thumbnailHeight": 464,
             "apiProvider": "boomplay",
@@ -954,12 +937,12 @@
               "boomplay"
             ]
           },
-          "PANDORA_ALBUM::AL:62708363": {
-            "id": "AL:62708363",
+          "PANDORA_ALBUM::AL:62238828": {
+            "id": "AL:62238828",
             "type": "album",
-            "title": "Slippers 08",
-            "artistName": "Slippers",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/6f/96/c0/2e/ff9944928b2e998b96899632/_500W_500H.jpg",
+            "title": "Demand to Be Taken to Heaven Alive!",
+            "artistName": "Horse Lords",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/4d/f1/13/c4/91644f4e89282ce814664c7e/_500W_500H.jpg",
             "thumbnailWidth": 500,
             "thumbnailHeight": 500,
             "apiProvider": "pandora",
@@ -967,12 +950,12 @@
               "pandora"
             ]
           },
-          "SPOTIFY_ALBUM::2rEIyTZL4buxgHzUEZnBjf": {
-            "id": "2rEIyTZL4buxgHzUEZnBjf",
+          "SPOTIFY_ALBUM::3q8CQdpq57Xi0zXn5qlauk": {
+            "id": "3q8CQdpq57Xi0zXn5qlauk",
             "type": "album",
-            "title": "Slippers 08",
-            "artistName": "Slippers",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2734e62a671684ce8d79adf1ca8",
+            "title": "Demand to Be Taken to Heaven Alive!",
+            "artistName": "Horse Lords",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b27323570e26e0127a674bd6b14a",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "spotify",
@@ -980,12 +963,12 @@
               "spotify"
             ]
           },
-          "TIDAL_ALBUM::504870971": {
-            "id": "504870971",
+          "TIDAL_ALBUM::502905366": {
+            "id": "502905366",
             "type": "album",
-            "title": "Slippers 08",
-            "artistName": "Slippers",
-            "thumbnailUrl": "https://resources.tidal.com/images/416c1b1b/ea6d/4f0f/a71e/9d3a3f4adfcc/640x640.jpg",
+            "title": "Demand to Be Taken to Heaven Alive!",
+            "artistName": "Horse Lords",
+            "thumbnailUrl": "https://resources.tidal.com/images/4b5c1528/91d4/42b2/aec2/2ca09dc3e1c0/640x640.jpg",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "tidal",
@@ -995,88 +978,155 @@
           }
         },
         "platforms": {
-          "spotify": "https://open.spotify.com/album/2rEIyTZL4buxgHzUEZnBjf",
+          "spotify": "https://open.spotify.com/album/3q8CQdpq57Xi0zXn5qlauk",
           "appleMusic": null,
           "deezer": null,
-          "tidal": "https://listen.tidal.com/album/504870971",
+          "tidal": "https://listen.tidal.com/album/502905366",
           "youtube": null,
           "youtubeMusic": null,
           "soundcloud": null,
-          "amazonMusic": null
+          "amazonMusic": "https://music.amazon.com/albums/B0GQJL9N9W"
         }
       },
       "spotifySearchUrl": null
     },
     {
-      "artist": "Tara Clerkin Trio",
-      "album": "Somewhere Good",
-      "label": "World of Echo",
+      "artist": "Mon Laferte",
+      "album": "Femme Fatale Vol. 2",
+      "label": "Sony",
       "section": "lightningRound",
       "spotify": {
-        "id": "4dGGdBotbFZuEYfuTdtFB6",
-        "name": "Somewhere Good",
-        "url": "https://open.spotify.com/album/4dGGdBotbFZuEYfuTdtFB6",
-        "release_date": "2026-06-05",
+        "id": "29L7pXN58eLAlfhaAquyXh",
+        "name": "Femme Fatale Vol. 2",
+        "url": "https://open.spotify.com/album/29L7pXN58eLAlfhaAquyXh",
+        "release_date": "2026-06-12",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273eca1b78d8aa6be72c94ba0a8",
+            "url": "https://i.scdn.co/image/ab67616d0000b273adb5f1c1c6ee3a2cb24c991b",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02eca1b78d8aa6be72c94ba0a8",
+            "url": "https://i.scdn.co/image/ab67616d00001e02adb5f1c1c6ee3a2cb24c991b",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851eca1b78d8aa6be72c94ba0a8",
+            "url": "https://i.scdn.co/image/ab67616d00004851adb5f1c1c6ee3a2cb24c991b",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "0fSThWbCstAGqxZFUftX1F",
-            "name": "Tara Clerkin Trio"
+            "id": "4boI7bJtmB1L3b1cuL75Zr",
+            "name": "Mon Laferte"
           }
         ]
       },
       "songlink": {
-        "pageUrl": "https://album.link/s/4dGGdBotbFZuEYfuTdtFB6",
+        "pageUrl": "https://album.link/s/29L7pXN58eLAlfhaAquyXh",
         "entitiesByUniqueId": {
-          "AMAZON_ALBUM::B0GP9L98YG": {
-            "id": "B0GP9L98YG",
+          "PANDORA_ALBUM::AL:67229380": {
+            "id": "AL:67229380",
             "type": "album",
-            "title": "Somewhere Good",
-            "artistName": "Tara Clerkin Trio",
-            "thumbnailUrl": "https://m.media-amazon.com/images/I/41vRi7ZNaKL._AA500.jpg",
+            "title": "Femme Fatale Vol. 2",
+            "artistName": "Mon Laferte",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/22/39/54/12/59df44219c67a2d5469d1ddd/_500W_500H.jpg",
             "thumbnailWidth": 500,
             "thumbnailHeight": 500,
-            "apiProvider": "amazon",
+            "apiProvider": "pandora",
             "platforms": [
-              "amazonMusic",
-              "amazonStore"
+              "pandora"
             ]
           },
-          "BANDCAMP_ALBUM::736808220": {
-            "id": "736808220",
+          "SPOTIFY_ALBUM::29L7pXN58eLAlfhaAquyXh": {
+            "id": "29L7pXN58eLAlfhaAquyXh",
             "type": "album",
-            "title": "Somewhere Good",
-            "artistName": "Tara Clerkin Trio",
-            "thumbnailUrl": "https://f4.bcbits.com/img/a1530927331_5.jpg",
-            "thumbnailWidth": 700,
-            "thumbnailHeight": 700,
-            "apiProvider": "bandcamp",
+            "title": "Femme Fatale Vol. 2",
+            "artistName": "Mon Laferte",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273adb5f1c1c6ee3a2cb24c991b",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "spotify",
             "platforms": [
-              "bandcamp"
+              "spotify"
             ]
           },
-          "BOOMPLAY_ALBUM::126184932": {
-            "id": "126184932",
+          "TIDAL_ALBUM::532188375": {
+            "id": "532188375",
             "type": "album",
-            "title": "Somewhere Good",
-            "artistName": "Tara Clerkin Trio",
-            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/03/12/a3f905cfde7b4eed92e542edd681c092H1500W1500_464_464.jpg",
+            "title": "Femme Fatale Vol. 2",
+            "artistName": "Mon Laferte",
+            "thumbnailUrl": "https://resources.tidal.com/images/36ec2fe6/d650/40a1/8b55/c546f8ed2ada/640x640.jpg",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "tidal",
+            "platforms": [
+              "tidal"
+            ]
+          }
+        },
+        "platforms": {
+          "spotify": "https://open.spotify.com/album/29L7pXN58eLAlfhaAquyXh",
+          "appleMusic": null,
+          "deezer": null,
+          "tidal": "https://listen.tidal.com/album/532188375",
+          "youtube": null,
+          "youtubeMusic": null,
+          "soundcloud": null,
+          "amazonMusic": null
+        }
+      },
+      "spotifySearchUrl": null
+    },
+    {
+      "artist": "Anysia Kym & Tony Seltzer",
+      "album": "Purity (Flips)",
+      "label": "10K",
+      "section": "dorasCorner",
+      "spotify": {
+        "id": "1LzSeBGmeVNczCt1gWSh02",
+        "name": "Purity (Flips)",
+        "url": "https://open.spotify.com/album/1LzSeBGmeVNczCt1gWSh02",
+        "release_date": "2026-06-12",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27358be377a03159ddac4b48070",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0258be377a03159ddac4b48070",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485158be377a03159ddac4b48070",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "03546gvcoicKs6C10YdXvk",
+            "name": "Anysia Kym"
+          },
+          {
+            "id": "3xLOLsGCDyUCj1L9W5fUpl",
+            "name": "Tony Seltzer"
+          }
+        ]
+      },
+      "songlink": {
+        "pageUrl": "https://album.link/s/1LzSeBGmeVNczCt1gWSh02",
+        "entitiesByUniqueId": {
+          "BOOMPLAY_ALBUM::133157673": {
+            "id": "133157673",
+            "type": "album",
+            "title": "Purity (Flips)",
+            "artistName": "Anysia Kym",
+            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/06/08/192c449d5a7c4fc5b26a1bf7b4012ae7H1400W1400_464_464.png",
             "thumbnailWidth": 464,
             "thumbnailHeight": 464,
             "apiProvider": "boomplay",
@@ -1084,25 +1134,12 @@
               "boomplay"
             ]
           },
-          "PANDORA_ALBUM::AL:61753305": {
-            "id": "AL:61753305",
+          "SPOTIFY_ALBUM::1LzSeBGmeVNczCt1gWSh02": {
+            "id": "1LzSeBGmeVNczCt1gWSh02",
             "type": "album",
-            "title": "Somewhere Good",
-            "artistName": "Tara Clerkin Trio",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/9a/f4/c7/64/a6944af2a4ea7aff49b4c83a/_500W_500H.jpg",
-            "thumbnailWidth": 500,
-            "thumbnailHeight": 500,
-            "apiProvider": "pandora",
-            "platforms": [
-              "pandora"
-            ]
-          },
-          "SPOTIFY_ALBUM::4dGGdBotbFZuEYfuTdtFB6": {
-            "id": "4dGGdBotbFZuEYfuTdtFB6",
-            "type": "album",
-            "title": "Somewhere Good",
-            "artistName": "Tara Clerkin Trio",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273eca1b78d8aa6be72c94ba0a8",
+            "title": "Purity (Flips)",
+            "artistName": "Anysia Kym, Tony Seltzer",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b27358be377a03159ddac4b48070",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "spotify",
@@ -1110,12 +1147,12 @@
               "spotify"
             ]
           },
-          "TIDAL_ALBUM::500553102": {
-            "id": "500553102",
+          "TIDAL_ALBUM::530431201": {
+            "id": "530431201",
             "type": "album",
-            "title": "Somewhere Good",
-            "artistName": "Tara Clerkin Trio",
-            "thumbnailUrl": "https://resources.tidal.com/images/665149d7/b640/4973/8ea9/99df69d25968/640x640.jpg",
+            "title": "Purity (Flips)",
+            "artistName": "Anysia Kym, Tony Seltzer",
+            "thumbnailUrl": "https://resources.tidal.com/images/0bf6b155/cf71/489d/b5fe/8edbdd00f6e0/640x640.jpg",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "tidal",
@@ -1125,100 +1162,10 @@
           }
         },
         "platforms": {
-          "spotify": "https://open.spotify.com/album/4dGGdBotbFZuEYfuTdtFB6",
+          "spotify": "https://open.spotify.com/album/1LzSeBGmeVNczCt1gWSh02",
           "appleMusic": null,
           "deezer": null,
-          "tidal": "https://listen.tidal.com/album/500553102",
-          "youtube": null,
-          "youtubeMusic": null,
-          "soundcloud": null,
-          "amazonMusic": "https://music.amazon.com/albums/B0GP9L98YG"
-        }
-      },
-      "spotifySearchUrl": null
-    },
-    {
-      "artist": "horsegiirL",
-      "album": "NATURE IS HEALING",
-      "label": "horsegiirL/RCA",
-      "section": "dorasCorner",
-      "spotify": {
-        "id": "4U8bgzT32teA0bp2Fo0CXA",
-        "name": "NATURE IS HEALING",
-        "url": "https://open.spotify.com/album/4U8bgzT32teA0bp2Fo0CXA",
-        "release_date": "2026-06-05",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27355bd14b478158e98f1146f20",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0255bd14b478158e98f1146f20",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485155bd14b478158e98f1146f20",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "0auP293abZeTWwMUi3fZw2",
-            "name": "horsegiirL"
-          }
-        ]
-      },
-      "songlink": {
-        "pageUrl": "https://album.link/s/4U8bgzT32teA0bp2Fo0CXA",
-        "entitiesByUniqueId": {
-          "PANDORA_ALBUM::AL:66988911": {
-            "id": "AL:66988911",
-            "type": "album",
-            "title": "NATURE IS HEALING",
-            "artistName": "horsegiirL",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/e8/f6/0d/cc/42af4b2d8c87698667d1b826/_500W_500H.jpg",
-            "thumbnailWidth": 500,
-            "thumbnailHeight": 500,
-            "apiProvider": "pandora",
-            "platforms": [
-              "pandora"
-            ]
-          },
-          "SPOTIFY_ALBUM::4U8bgzT32teA0bp2Fo0CXA": {
-            "id": "4U8bgzT32teA0bp2Fo0CXA",
-            "type": "album",
-            "title": "NATURE IS HEALING",
-            "artistName": "horsegiirL",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b27355bd14b478158e98f1146f20",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "spotify",
-            "platforms": [
-              "spotify"
-            ]
-          },
-          "TIDAL_ALBUM::529778416": {
-            "id": "529778416",
-            "type": "album",
-            "title": "NATURE IS HEALING",
-            "artistName": "horsegiirL",
-            "thumbnailUrl": "https://resources.tidal.com/images/0de94fa3/e29c/4028/a36e/2881f9072425/640x640.jpg",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "tidal",
-            "platforms": [
-              "tidal"
-            ]
-          }
-        },
-        "platforms": {
-          "spotify": "https://open.spotify.com/album/4U8bgzT32teA0bp2Fo0CXA",
-          "appleMusic": null,
-          "deezer": null,
-          "tidal": "https://listen.tidal.com/album/529778416",
+          "tidal": "https://listen.tidal.com/album/530431201",
           "youtube": null,
           "youtubeMusic": null,
           "soundcloud": null,
@@ -1228,61 +1175,48 @@
       "spotifySearchUrl": null
     },
     {
-      "artist": "Bedouine",
-      "album": "Neon Summer Skin",
-      "label": "Thirty Tigers",
+      "artist": "Sports Boyfriend",
+      "album": "Slice of Life",
+      "label": "self-released",
       "section": "dorasCorner",
       "spotify": {
-        "id": "69qtiKSxXjstvXGEUAh8nS",
-        "name": "Neon Summer Skin",
-        "url": "https://open.spotify.com/album/69qtiKSxXjstvXGEUAh8nS",
-        "release_date": "2026-06-05",
+        "id": "6ch5yLvbOlO1uQqKvKO9hf",
+        "name": "Slice of Life",
+        "url": "https://open.spotify.com/album/6ch5yLvbOlO1uQqKvKO9hf",
+        "release_date": "2026-06-09",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2732442886a4098e95a028cc206",
+            "url": "https://i.scdn.co/image/ab67616d0000b273aaa83203b3daff1ee2ce7303",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e022442886a4098e95a028cc206",
+            "url": "https://i.scdn.co/image/ab67616d00001e02aaa83203b3daff1ee2ce7303",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048512442886a4098e95a028cc206",
+            "url": "https://i.scdn.co/image/ab67616d00004851aaa83203b3daff1ee2ce7303",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "6IiZemRMna678qNhiRkYI5",
-            "name": "Bedouine"
+            "id": "2zZDWTAs6gSfK3ehQhe3Yb",
+            "name": "Sports Boyfriend"
           }
         ]
       },
       "songlink": {
-        "pageUrl": "https://album.link/s/69qtiKSxXjstvXGEUAh8nS",
+        "pageUrl": "https://album.link/s/6ch5yLvbOlO1uQqKvKO9hf",
         "entitiesByUniqueId": {
-          "BANDCAMP_ALBUM::3017402914": {
-            "id": "3017402914",
+          "PANDORA_ALBUM::AL:66418659": {
+            "id": "AL:66418659",
             "type": "album",
-            "title": "Neon Summer Skin",
-            "artistName": "Bedouine",
-            "thumbnailUrl": "https://f4.bcbits.com/img/a0755339478_5.jpg",
-            "thumbnailWidth": 700,
-            "thumbnailHeight": 700,
-            "apiProvider": "bandcamp",
-            "platforms": [
-              "bandcamp"
-            ]
-          },
-          "PANDORA_ALBUM::AL:61685275": {
-            "id": "AL:61685275",
-            "type": "album",
-            "title": "Neon Summer Skin",
-            "artistName": "Bedouine",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/4c/7d/54/38/8e8848d0ae981621a7d3c495/_500W_500H.jpg",
+            "title": "Slice of Life",
+            "artistName": "Sports Boyfriend",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/1d/62/9d/c2/cb78478ea18f2a94af75d5e3/_500W_500H.jpg",
             "thumbnailWidth": 500,
             "thumbnailHeight": 500,
             "apiProvider": "pandora",
@@ -1290,12 +1224,12 @@
               "pandora"
             ]
           },
-          "SPOTIFY_ALBUM::69qtiKSxXjstvXGEUAh8nS": {
-            "id": "69qtiKSxXjstvXGEUAh8nS",
+          "SPOTIFY_ALBUM::6ch5yLvbOlO1uQqKvKO9hf": {
+            "id": "6ch5yLvbOlO1uQqKvKO9hf",
             "type": "album",
-            "title": "Neon Summer Skin",
-            "artistName": "Bedouine",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2732442886a4098e95a028cc206",
+            "title": "Slice of Life",
+            "artistName": "Sports Boyfriend",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273aaa83203b3daff1ee2ce7303",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "spotify",
@@ -1303,12 +1237,12 @@
               "spotify"
             ]
           },
-          "TIDAL_ALBUM::500235955": {
-            "id": "500235955",
+          "TIDAL_ALBUM::523984577": {
+            "id": "523984577",
             "type": "album",
-            "title": "Neon Summer Skin",
-            "artistName": "Bedouine",
-            "thumbnailUrl": "https://resources.tidal.com/images/458f0c6f/73a1/4a6f/86d4/0da791e6a886/640x640.jpg",
+            "title": "Slice of Life",
+            "artistName": "Sports Boyfriend",
+            "thumbnailUrl": "https://resources.tidal.com/images/f8d291c6/3239/4419/a6e3/f0c3386ccf3c/640x640.jpg",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "tidal",
@@ -1318,10 +1252,10 @@
           }
         },
         "platforms": {
-          "spotify": "https://open.spotify.com/album/69qtiKSxXjstvXGEUAh8nS",
+          "spotify": "https://open.spotify.com/album/6ch5yLvbOlO1uQqKvKO9hf",
           "appleMusic": null,
           "deezer": null,
-          "tidal": "https://listen.tidal.com/album/500235955",
+          "tidal": "https://listen.tidal.com/album/523984577",
           "youtube": null,
           "youtubeMusic": null,
           "soundcloud": null,
@@ -1331,107 +1265,13 @@
       "spotifySearchUrl": null
     },
     {
-      "artist": "Bella White",
-      "album": "A Sign In The Weather",
-      "label": "Rounder",
+      "artist": "KatzPascale",
+      "album": "ELEGY EP",
+      "label": "SONIC GUCK",
       "section": "dorasCorner",
-      "spotify": {
-        "id": "17nzheejzWjrbPH3DjOcmz",
-        "name": "A Sign In The Weather",
-        "url": "https://open.spotify.com/album/17nzheejzWjrbPH3DjOcmz",
-        "release_date": "2026-06-05",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273f6891cb241c96a2464ac6fda",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02f6891cb241c96a2464ac6fda",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851f6891cb241c96a2464ac6fda",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "7Bk7ojRJfkv48w69JNF66V",
-            "name": "Bella White"
-          }
-        ]
-      },
-      "songlink": {
-        "pageUrl": "https://album.link/s/17nzheejzWjrbPH3DjOcmz",
-        "entitiesByUniqueId": {
-          "BOOMPLAY_ALBUM::132899968": {
-            "id": "132899968",
-            "type": "album",
-            "title": "A Sign In The Weather",
-            "artistName": "Bella White",
-            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/06/05/23a0760c601746399adbd1deee3fe40dH1400W1400_464_464.jpg",
-            "thumbnailWidth": 464,
-            "thumbnailHeight": 464,
-            "apiProvider": "boomplay",
-            "platforms": [
-              "boomplay"
-            ]
-          },
-          "PANDORA_ALBUM::AL:66923415": {
-            "id": "AL:66923415",
-            "type": "album",
-            "title": "A Sign In The Weather",
-            "artistName": "Bella White",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/f5/f2/14/86/932d4c94bf3076ff55ced925/_500W_500H.jpg",
-            "thumbnailWidth": 500,
-            "thumbnailHeight": 500,
-            "apiProvider": "pandora",
-            "platforms": [
-              "pandora"
-            ]
-          },
-          "SPOTIFY_ALBUM::17nzheejzWjrbPH3DjOcmz": {
-            "id": "17nzheejzWjrbPH3DjOcmz",
-            "type": "album",
-            "title": "A Sign In The Weather",
-            "artistName": "Bella White",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273f6891cb241c96a2464ac6fda",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "spotify",
-            "platforms": [
-              "spotify"
-            ]
-          },
-          "TIDAL_ALBUM::528891486": {
-            "id": "528891486",
-            "type": "album",
-            "title": "A Sign In The Weather",
-            "artistName": "Bella White",
-            "thumbnailUrl": "https://resources.tidal.com/images/ecf22ff6/3955/47be/bd85/c3332024c131/640x640.jpg",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "tidal",
-            "platforms": [
-              "tidal"
-            ]
-          }
-        },
-        "platforms": {
-          "spotify": "https://open.spotify.com/album/17nzheejzWjrbPH3DjOcmz",
-          "appleMusic": null,
-          "deezer": null,
-          "tidal": "https://listen.tidal.com/album/528891486",
-          "youtube": null,
-          "youtubeMusic": null,
-          "soundcloud": null,
-          "amazonMusic": null
-        }
-      },
-      "spotifySearchUrl": null
+      "spotify": null,
+      "songlink": null,
+      "spotifySearchUrl": "https://open.spotify.com/search/KatzPascale%20ELEGY%20EP"
     }
   ]
 }
