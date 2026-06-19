@@ -1,551 +1,157 @@
 {
-  "source": "https://www.npr.org/2026/06/12/nx-s1-5830354/new-music-friday-best-albums-june-12-2026",
-  "scrapedAt": "2026-06-12T21:24:57.957Z",
-  "date": "2026-06-12",
-  "title": "New Music Friday: The best albums out June 12",
+  "source": "https://www.npr.org/2026/06/19/nx-s1-5830356/new-music-friday-best-albums-june-19-2026",
+  "scrapedAt": "2026-06-19T21:01:31.770Z",
+  "date": "2026-06-19",
+  "title": "New Music Friday: The best albums out June 19",
   "starting5": [
     {
-      "artist": "Olivia Rodrigo",
-      "album": "you seem pretty sad for a girl so in love",
-      "label": "Geffen"
+      "artist": "Tierra Whack",
+      "album": "WHACK'S MUSEUM",
+      "label": "Interscope"
     },
     {
-      "artist": "Pussy Riot",
-      "album": "CYKA",
-      "label": "Stem"
+      "artist": "The War and Treaty",
+      "album": "The Story of Michael and Tanya",
+      "label": "Atlantic Outpost"
     },
     {
-      "artist": "YHWH Nailgun",
-      "album": "Magazine",
-      "label": "4AD"
+      "artist": "Micah Thomas",
+      "album": "Lucid",
+      "label": "self-released"
     },
     {
-      "artist": "Hayley Kiyoko",
-      "album": "girls like girls (the album)",
-      "label": "One Riot"
+      "artist": "Your Brother's Keeper & Gary Bartz",
+      "album": "Where Rivers Meet",
+      "label": "Brownswood"
     },
     {
-      "artist": "Six Sex",
-      "album": "ULTRA",
-      "label": "Dale Play"
+      "artist": "Sam Barsh, Keyon Harrold, & Mark Guiliana",
+      "album": "Straight08",
+      "label": "La Reserve"
     }
   ],
   "lightningRound": [
     {
-      "artist": "Kelsey Lu",
-      "album": "So Help Me God",
-      "label": "Dirty Hit"
+      "artist": "Tucker Zimmerman",
+      "album": "Dream Me A Dream",
+      "label": "Big Potato"
     },
     {
-      "artist": "Ambrose Akinmusire & Mary Halvorson",
-      "album": "Slo-Mo Neon Luminate Hoverings",
-      "label": "Nonesuch"
+      "artist": "The Phoenix Trio",
+      "album": "Tomorrow is Today",
+      "label": "Giant Step Arts"
     },
     {
-      "artist": "Diles Que No Me Maten",
-      "album": "Escrito en Agua",
-      "label": "Moonlight Activities"
+      "artist": "Wild Up, Julius Eastman",
+      "album": "Vol. 5: Gay Guerrilla",
+      "label": "New Amsterdam"
     },
     {
-      "artist": "Horse Lords",
-      "album": "Demand to Be Taken to Heaven Alive!",
-      "label": "RVNG Intl."
+      "artist": "Janus Rasmussen",
+      "album": "Inert",
+      "label": "Embassy One"
     },
     {
-      "artist": "Mon Laferte",
-      "album": "Femme Fatale Vol. 2",
-      "label": "Sony"
+      "artist": "Daniel Lanois",
+      "album": "Belladonna Nocturne",
+      "label": "Warner"
     }
   ],
   "dorasCorner": [
     {
-      "artist": "Anysia Kym & Tony Seltzer",
-      "album": "Purity (Flips)",
-      "label": "10K"
-    },
-    {
-      "artist": "Sports Boyfriend",
-      "album": "Slice of Life",
+      "artist": "Cold Court",
+      "album": "\\ (^_^) /",
       "label": "self-released"
     },
     {
-      "artist": "KatzPascale",
-      "album": "ELEGY EP",
-      "label": "SONIC GUCK"
+      "artist": "evilgiane",
+      "album": "#HEAVENS GATE VOL. 2",
+      "label": "Surf Gang"
+    },
+    {
+      "artist": "Sha Ray & DJ Haram",
+      "album": "Critical Thot",
+      "label": "Backwoodz Studioz"
     }
   ],
-  "longList": {
-    "Rap/Hip-Hop": [
-      {
-        "artist": "Wiki",
-        "album": "Ancient History",
-        "label": "Wikset Enterprise"
-      },
-      {
-        "artist": "BabyChiefDoit",
-        "album": "R.A.M.B.O (Rising Against My Broken Odds)",
-        "label": "APG"
-      }
-    ],
-    "Classical": [
-      {
-        "artist": "Katia & Marielle Labèque",
-        "album": "55 (box set)",
-        "label": "Deutsche Grammophon"
-      },
-      {
-        "artist": "Dustin O'Halloran",
-        "album": "Lumière (Expanded)",
-        "label": "Splinter"
-      },
-      {
-        "artist": "Vitamin String Quartet",
-        "album": "VSQ Performs SZA",
-        "label": "CMH"
-      }
-    ],
-    "Country/Folk/Americana": [
-      {
-        "artist": "Breakfield",
-        "album": "Breakfield",
-        "label": "Round"
-      },
-      {
-        "artist": "Dawn Landes",
-        "album": "Catch a Little Sun",
-        "label": "self-released"
-      },
-      {
-        "artist": "Duane Betts",
-        "album": "Isle of Hope",
-        "label": "Sun"
-      },
-      {
-        "artist": "Graham Barham",
-        "album": "Club Country",
-        "label": "Sony"
-      },
-      {
-        "artist": "Jesse Welles",
-        "album": "Masks Off",
-        "label": "self-released"
-      },
-      {
-        "artist": "Keith Urban",
-        "album": "flow state",
-        "label": "A Hit Red/MCA"
-      },
-      {
-        "artist": "Koe Wetzel",
-        "album": "The Night Champion",
-        "label": "Columbia"
-      },
-      {
-        "artist": "Midland",
-        "album": "Stages",
-        "label": "Blue Highway"
-      },
-      {
-        "artist": "Alex Amen",
-        "album": "Sun of Amen",
-        "label": "ATO"
-      },
-      {
-        "artist": "Fruit Bats",
-        "album": "The Landfill",
-        "label": "Merge"
-      },
-      {
-        "artist": "Max Knouse",
-        "album": "Goat Pupil",
-        "label": "Ruination"
-      },
-      {
-        "artist": "Ruth Garbus",
-        "album": "Profound",
-        "label": "Orindal"
-      },
-      {
-        "artist": "Sierra Spirit",
-        "album": "Rodeo Clown EP",
-        "label": "Giant Music"
-      },
-      {
-        "artist": "Kyle LaLone",
-        "album": "Make My Own Way",
-        "label": "self-released"
-      },
-      {
-        "artist": "Brad Tursi",
-        "album": "Colorado",
-        "label": "Universal"
-      },
-      {
-        "artist": "Sister Gemini",
-        "album": "Screaming Crying Laughing Sighing",
-        "label": "For the Birds"
-      }
-    ],
-    "Electronic/Out There": [
-      {
-        "artist": "Sepehr",
-        "album": "Fool's Ovation",
-        "label": "Kapsela"
-      },
-      {
-        "artist": "Big Brave",
-        "album": "in grief or in hope",
-        "label": "Thrill Jockey"
-      },
-      {
-        "artist": "Baauer",
-        "album": "U",
-        "label": "LUCKYME"
-      },
-      {
-        "artist": "Shabason & Krgovich",
-        "album": "Four Days In June",
-        "label": "Idée Fixe"
-      },
-      {
-        "artist": "CFCF",
-        "album": "L.U.V.",
-        "label": "BGM Solutions"
-      },
-      {
-        "artist": "Joshua Crumbly",
-        "album": "How I Feel Sometimes",
-        "label": "Congrats"
-      },
-      {
-        "artist": "Rone",
-        "album": "Megaptera",
-        "label": "InFiné"
-      },
-      {
-        "artist": "Surusinghe",
-        "album": "Cutting Thread EP",
-        "label": "dh2"
-      },
-      {
-        "artist": "Andrew Jim Gannon",
-        "album": "Hydrate Those Folds",
-        "label": "self-released"
-      },
-      {
-        "artist": "Genghis Tron",
-        "album": "Signal Fire",
-        "label": "Relapse"
-      },
-      {
-        "artist": "DJ Koze",
-        "album": "Spiralen EP",
-        "label": "Pampa"
-      },
-      {
-        "artist": "Carl Gari",
-        "album": "Carl Gari",
-        "label": "Molten Moods"
-      },
-      {
-        "artist": "Robert Aiki Aubrey Lowe",
-        "album": "Manifestations in the Shadow of an Uncertain Land",
-        "label": "Kou"
-      },
-      {
-        "artist": "Sir E.U & Sami",
-        "album": "Survival",
-        "label": "Rhythm Section"
-      },
-      {
-        "artist": "Marconi Union",
-        "album": "Multiforms: Ambient Transmissions Vol. 3",
-        "label": "Just"
-      }
-    ],
-    "Global": [
-      {
-        "artist": "Bb trickz",
-        "album": "sugarhiii EP",
-        "label": "Columbia"
-      },
-      {
-        "artist": "Maria Isabel",
-        "album": "Miss Me Much?",
-        "label": "Sony"
-      },
-      {
-        "artist": "BOYNEXTDOOR",
-        "album": "HOME",
-        "label": "KOZ"
-      },
-      {
-        "artist": "Danny Towers",
-        "album": "Marina Money",
-        "label": "Empire"
-      }
-    ],
-    "Jazz": [
-      {
-        "artist": "Ize Trio",
-        "album": "Global Prayer",
-        "label": "self-released"
-      },
-      {
-        "artist": "Kalia Vandever",
-        "album": "MANA",
-        "label": "International Anthem"
-      },
-      {
-        "artist": "Olaf Rupp",
-        "album": "Fuzzy Logic",
-        "label": "Palilia"
-      },
-      {
-        "artist": "Ibrahim Maalouf",
-        "album": "Trumpets of Michel-Ange II",
-        "label": "Mister Ibe"
-      }
-    ],
-    "Pop": [
-      {
-        "artist": "Bebe Rexha",
-        "album": "Dirty Blonde",
-        "label": "EMPIRE"
-      },
-      {
-        "artist": "Jessie Reyez",
-        "album": "A Little Vengeance",
-        "label": "Island"
-      },
-      {
-        "artist": "Leenalchi",
-        "album": "Here Comes That Crow",
-        "label": "Luaka Bop"
-      },
-      {
-        "artist": "Sublime",
-        "album": "Until the Sun Explodes",
-        "label": "Atlantic"
-      },
-      {
-        "artist": "Tori Kelly",
-        "album": "God Must Really Love Me",
-        "label": "Epic"
-      },
-      {
-        "artist": "Brenn!",
-        "album": "Amateur At Best",
-        "label": "Darkroom"
-      }
-    ],
-    "R&B/Soul": [
-      {
-        "artist": "BLXST",
-        "album": "Labor of Love",
-        "label": "Empire"
-      },
-      {
-        "artist": "Bendrethegiant",
-        "album": "Swollen Eyes",
-        "label": "Tender Loving Empire"
-      },
-      {
-        "artist": "Infinity Song",
-        "album": "Infinity Song",
-        "label": "Roc Nation"
-      }
-    ],
-    "Rock/Alt/Indie": [
-      {
-        "artist": "Guitar Wolf",
-        "album": "More Jet",
-        "label": "Goner"
-      },
-      {
-        "artist": "Picastro",
-        "album": "Double On Time",
-        "label": "We Are Busy Bodies"
-      },
-      {
-        "artist": "Max Knouse",
-        "album": "Goat Pupil",
-        "label": "Ruination"
-      },
-      {
-        "artist": "Alexis Taylor & Mike Simonetti",
-        "album": "I See A Darkness / Perfect Kiss EP",
-        "label": "Smugglers Way"
-      },
-      {
-        "artist": "You-On",
-        "album": "New Side",
-        "label": "12XU"
-      },
-      {
-        "artist": "YELKA",
-        "album": "Mexico",
-        "label": "Karaoke Kalk"
-      },
-      {
-        "artist": "Goose",
-        "album": "Big Modern",
-        "label": "No Coincidence"
-      },
-      {
-        "artist": "Jo Mango",
-        "album": "The Lightswitch",
-        "label": "Team Love"
-      },
-      {
-        "artist": "La Sécurité",
-        "album": "Bingo!",
-        "label": "Mothland/Bella Union"
-      },
-      {
-        "artist": "Mike Campbell & The Dirty Knobs",
-        "album": "Mission of Mercy",
-        "label": "Soundly"
-      },
-      {
-        "artist": "MONO",
-        "album": "Snowdrop",
-        "label": "Temporary Residence Ltd."
-      },
-      {
-        "artist": "The Bobby Lees",
-        "album": "New Self",
-        "label": "Epitaph"
-      },
-      {
-        "artist": "Vorhex Angel",
-        "album": "Drain",
-        "label": "Soul Selects"
-      },
-      {
-        "artist": "Parent Teacher",
-        "album": "Tricks for Meds",
-        "label": "Wilbur & Moore"
-      },
-      {
-        "artist": "The Army, The Navy",
-        "album": "Fake Brave Life",
-        "label": "New Gold Medal"
-      },
-      {
-        "artist": "Spacey Jane",
-        "album": "Exit Wounds",
-        "label": "Concord"
-      },
-      {
-        "artist": "Joan as Police Woman",
-        "album": "Real Life Evolution",
-        "label": "Reveal"
-      },
-      {
-        "artist": "Sawyer Hill",
-        "album": "Tyin' The Noose",
-        "label": "AWAL"
-      },
-      {
-        "artist": "Sleeping With Sirens",
-        "album": "An Ending In Itself",
-        "label": "Rise Records"
-      },
-      {
-        "artist": "Bob Bert",
-        "album": "Beach Bongo Bloodbath",
-        "label": "Bar/None"
-      },
-      {
-        "artist": "Meltt",
-        "album": "Pathways",
-        "label": "Nettwerk"
-      },
-      {
-        "artist": "Prophetic Justice Ministry",
-        "album": "Key To World Peace",
-        "label": "Night School"
-      }
-    ]
-  },
+  "longList": {},
   "allAlbums": [
     {
-      "artist": "Olivia Rodrigo",
-      "album": "you seem pretty sad for a girl so in love",
-      "label": "Geffen",
+      "artist": "Tierra Whack",
+      "album": "WHACK'S MUSEUM",
+      "label": "Interscope",
       "section": "starting5"
     },
     {
-      "artist": "Pussy Riot",
-      "album": "CYKA",
-      "label": "Stem",
+      "artist": "The War and Treaty",
+      "album": "The Story of Michael and Tanya",
+      "label": "Atlantic Outpost",
       "section": "starting5"
     },
     {
-      "artist": "YHWH Nailgun",
-      "album": "Magazine",
-      "label": "4AD",
+      "artist": "Micah Thomas",
+      "album": "Lucid",
+      "label": "self-released",
       "section": "starting5"
     },
     {
-      "artist": "Hayley Kiyoko",
-      "album": "girls like girls (the album)",
-      "label": "One Riot",
+      "artist": "Your Brother's Keeper & Gary Bartz",
+      "album": "Where Rivers Meet",
+      "label": "Brownswood",
       "section": "starting5"
     },
     {
-      "artist": "Six Sex",
-      "album": "ULTRA",
-      "label": "Dale Play",
+      "artist": "Sam Barsh, Keyon Harrold, & Mark Guiliana",
+      "album": "Straight08",
+      "label": "La Reserve",
       "section": "starting5"
     },
     {
-      "artist": "Kelsey Lu",
-      "album": "So Help Me God",
-      "label": "Dirty Hit",
+      "artist": "Tucker Zimmerman",
+      "album": "Dream Me A Dream",
+      "label": "Big Potato",
       "section": "lightningRound"
     },
     {
-      "artist": "Ambrose Akinmusire & Mary Halvorson",
-      "album": "Slo-Mo Neon Luminate Hoverings",
-      "label": "Nonesuch",
+      "artist": "The Phoenix Trio",
+      "album": "Tomorrow is Today",
+      "label": "Giant Step Arts",
       "section": "lightningRound"
     },
     {
-      "artist": "Diles Que No Me Maten",
-      "album": "Escrito en Agua",
-      "label": "Moonlight Activities",
+      "artist": "Wild Up, Julius Eastman",
+      "album": "Vol. 5: Gay Guerrilla",
+      "label": "New Amsterdam",
       "section": "lightningRound"
     },
     {
-      "artist": "Horse Lords",
-      "album": "Demand to Be Taken to Heaven Alive!",
-      "label": "RVNG Intl.",
+      "artist": "Janus Rasmussen",
+      "album": "Inert",
+      "label": "Embassy One",
       "section": "lightningRound"
     },
     {
-      "artist": "Mon Laferte",
-      "album": "Femme Fatale Vol. 2",
-      "label": "Sony",
+      "artist": "Daniel Lanois",
+      "album": "Belladonna Nocturne",
+      "label": "Warner",
       "section": "lightningRound"
     },
     {
-      "artist": "Anysia Kym & Tony Seltzer",
-      "album": "Purity (Flips)",
-      "label": "10K",
-      "section": "dorasCorner"
-    },
-    {
-      "artist": "Sports Boyfriend",
-      "album": "Slice of Life",
+      "artist": "Cold Court",
+      "album": "\\ (^_^) /",
       "label": "self-released",
       "section": "dorasCorner"
     },
     {
-      "artist": "KatzPascale",
-      "album": "ELEGY EP",
-      "label": "SONIC GUCK",
+      "artist": "evilgiane",
+      "album": "#HEAVENS GATE VOL. 2",
+      "label": "Surf Gang",
+      "section": "dorasCorner"
+    },
+    {
+      "artist": "Sha Ray & DJ Haram",
+      "album": "Critical Thot",
+      "label": "Backwoodz Studioz",
       "section": "dorasCorner"
     }
   ]
