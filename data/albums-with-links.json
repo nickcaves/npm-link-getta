@@ -1,53 +1,53 @@
 {
-  "source": "https://www.npr.org/2026/07/10/nx-s1-5886155/new-music-friday-best-albums-july-10-2026",
-  "scrapedAt": "2026-07-10T20:59:41.432Z",
-  "date": "2026-07-10",
-  "title": "New Music Friday: The best albums out July 10",
-  "total": 14,
+  "source": "https://www.npr.org/2026/07/17/nx-s1-5894856/new-music-friday-best-albums-july-17",
+  "scrapedAt": "2026-07-17T20:43:18.268Z",
+  "date": "2026-07-17",
+  "title": "New Music Friday: The best albums out July 17",
+  "total": 13,
   "albums": [
     {
-      "artist": "Jack White",
-      "album": "Frozen Charlotte",
-      "label": "Third Man",
+      "artist": "Gracie Abrams",
+      "album": "Daughter From Hell",
+      "label": "Interscope",
       "section": "starting5",
       "spotify": {
-        "id": "0VV4lddlDaShTgEzohQ7Jj",
-        "name": "Frozen Charlotte",
-        "url": "https://open.spotify.com/album/0VV4lddlDaShTgEzohQ7Jj",
-        "release_date": "2026-07-10",
+        "id": "4BZydSQMfJNphTFZzyIxh5",
+        "name": "Daughter from Hell",
+        "url": "https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5",
+        "release_date": "2026-07-17",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273eb255ea518424b30f78b3bda",
+            "url": "https://i.scdn.co/image/ab67616d0000b27399bc33b47a0a67fd50783055",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02eb255ea518424b30f78b3bda",
+            "url": "https://i.scdn.co/image/ab67616d00001e0299bc33b47a0a67fd50783055",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851eb255ea518424b30f78b3bda",
+            "url": "https://i.scdn.co/image/ab67616d0000485199bc33b47a0a67fd50783055",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "4FZ3j1oH43e7cukCALsCwf",
-            "name": "Jack White"
+            "id": "4tuJ0bMpJh08umKkEXKUI5",
+            "name": "Gracie Abrams"
           }
         ]
       },
       "songlink": {
-        "pageUrl": "https://album.link/s/0VV4lddlDaShTgEzohQ7Jj",
+        "pageUrl": "https://album.link/s/4BZydSQMfJNphTFZzyIxh5",
         "entitiesByUniqueId": {
-          "BOOMPLAY_ALBUM::135384010": {
-            "id": "135384010",
+          "BOOMPLAY_ALBUM::135918858": {
+            "id": "135918858",
             "type": "album",
-            "title": "Frozen Charlotte",
-            "artistName": "Jack White",
-            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/07/09/62a095b019e74088b85ea35b20f9e2feH1500W1500_464_464.jpg",
+            "title": "Daughter from Hell",
+            "artistName": "Gracie Abrams",
+            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/07/17/f89227bbbddb4c5c91e18281335f24f2H1400W1400_464_464.jpg",
             "thumbnailWidth": 464,
             "thumbnailHeight": 464,
             "apiProvider": "boomplay",
@@ -55,12 +55,12 @@
               "boomplay"
             ]
           },
-          "PANDORA_ALBUM::AL:66150109": {
-            "id": "AL:66150109",
+          "PANDORA_ALBUM::AL:68263791": {
+            "id": "AL:68263791",
             "type": "album",
-            "title": "Frozen Charlotte",
-            "artistName": "Jack White",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/70/88/ce/07/520f430ba43fad15005c5f0e/_500W_500H.jpg",
+            "title": "Daughter from Hell",
+            "artistName": "Gracie Abrams",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/6c/73/1f/fd/d2fa46d0a41c931f9585b44f/_500W_500H.jpg",
             "thumbnailWidth": 500,
             "thumbnailHeight": 500,
             "apiProvider": "pandora",
@@ -68,12 +68,12 @@
               "pandora"
             ]
           },
-          "SPOTIFY_ALBUM::0VV4lddlDaShTgEzohQ7Jj": {
-            "id": "0VV4lddlDaShTgEzohQ7Jj",
+          "SPOTIFY_ALBUM::4BZydSQMfJNphTFZzyIxh5": {
+            "id": "4BZydSQMfJNphTFZzyIxh5",
             "type": "album",
-            "title": "Frozen Charlotte",
-            "artistName": "Jack White",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273eb255ea518424b30f78b3bda",
+            "title": "Daughter from Hell",
+            "artistName": "Gracie Abrams",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2732cdce36d39e75f4ae79117d0",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "spotify",
@@ -81,25 +81,38 @@
               "spotify"
             ]
           },
-          "TIDAL_ALBUM::521508233": {
-            "id": "521508233",
+          "TIDAL_ALBUM::543210873": {
+            "id": "543210873",
             "type": "album",
-            "title": "Frozen Charlotte",
-            "artistName": "Jack White",
-            "thumbnailUrl": "https://resources.tidal.com/images/8baa6bde/567e/490b/92d0/776e1a047ab1/640x640.jpg",
+            "title": "Daughter from Hell",
+            "artistName": "Gracie Abrams",
+            "thumbnailUrl": "https://resources.tidal.com/images/c79fff9e/5597/4902/bfa0/a17e0fe885f5/640x640.jpg",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "tidal",
             "platforms": [
               "tidal"
             ]
+          },
+          "YANDEX_ALBUM::43118009": {
+            "id": "43118009",
+            "type": "album",
+            "title": "Daughter from Hell",
+            "artistName": "Gracie Abrams",
+            "thumbnailUrl": "https://avatars.yandex.net/get-music-content/20113429/f07a574f.a.43118009-1/600x600",
+            "thumbnailWidth": 600,
+            "thumbnailHeight": 600,
+            "apiProvider": "yandex",
+            "platforms": [
+              "yandex"
+            ]
           }
         },
         "platforms": {
-          "spotify": "https://open.spotify.com/album/0VV4lddlDaShTgEzohQ7Jj",
+          "spotify": "https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5",
           "appleMusic": null,
           "deezer": null,
-          "tidal": "https://listen.tidal.com/album/521508233",
+          "tidal": "https://listen.tidal.com/album/543210873",
           "youtube": null,
           "youtubeMusic": null,
           "soundcloud": null,
@@ -109,88 +122,48 @@
       "spotifySearchUrl": null
     },
     {
-      "artist": "Baby Rose",
-      "album": "YEARNALISM",
-      "label": "Secretly Canadian",
+      "artist": "Steve Lacy",
+      "album": "Oh yeah?",
+      "label": "RCA",
       "section": "starting5",
       "spotify": {
-        "id": "3WaxSapHGFrhvipg1wuLta",
-        "name": "YEARNALISM",
-        "url": "https://open.spotify.com/album/3WaxSapHGFrhvipg1wuLta",
-        "release_date": "2026-07-10",
+        "id": "289GZwycrFReuNB706obBx",
+        "name": "Oh yeah?",
+        "url": "https://open.spotify.com/album/289GZwycrFReuNB706obBx",
+        "release_date": "2026-07-17",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2731d1bd14e251142f2f9b06171",
+            "url": "https://i.scdn.co/image/ab67616d0000b2734ea9ba86cd9506a004bab042",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e021d1bd14e251142f2f9b06171",
+            "url": "https://i.scdn.co/image/ab67616d00001e024ea9ba86cd9506a004bab042",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048511d1bd14e251142f2f9b06171",
+            "url": "https://i.scdn.co/image/ab67616d000048514ea9ba86cd9506a004bab042",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "6Z4JcgqrqgysyHIPRtDIHo",
-            "name": "Baby Rose"
+            "id": "57vWImR43h4CaDao012Ofp",
+            "name": "Steve Lacy"
           }
         ]
       },
       "songlink": {
-        "pageUrl": "https://album.link/s/3WaxSapHGFrhvipg1wuLta",
+        "pageUrl": "https://album.link/s/289GZwycrFReuNB706obBx",
         "entitiesByUniqueId": {
-          "AMAZON_ALBUM::B0GY5XDG3F": {
-            "id": "B0GY5XDG3F",
+          "PANDORA_ALBUM::AL:68219387": {
+            "id": "AL:68219387",
             "type": "album",
-            "title": "YEARNALISM",
-            "artistName": "Baby Rose",
-            "thumbnailUrl": "https://m.media-amazon.com/images/I/41I+OC8UTuL.jpg",
-            "thumbnailWidth": 500,
-            "thumbnailHeight": 500,
-            "apiProvider": "amazon",
-            "platforms": [
-              "amazonMusic",
-              "amazonStore"
-            ]
-          },
-          "BANDCAMP_ALBUM::2580871532": {
-            "id": "2580871532",
-            "type": "album",
-            "title": "YEARNALISM",
-            "artistName": "Baby Rose",
-            "thumbnailUrl": "https://f4.bcbits.com/img/a1951786219_5.jpg",
-            "thumbnailWidth": 700,
-            "thumbnailHeight": 700,
-            "apiProvider": "bandcamp",
-            "platforms": [
-              "bandcamp"
-            ]
-          },
-          "BOOMPLAY_ALBUM::129876366": {
-            "id": "129876366",
-            "type": "album",
-            "title": "YEARNALISM",
-            "artistName": "Baby Rose",
-            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/04/22/9554fccce3d942489cd4d05cb229f4f6H1500W1500_464_464.jpg",
-            "thumbnailWidth": 464,
-            "thumbnailHeight": 464,
-            "apiProvider": "boomplay",
-            "platforms": [
-              "boomplay"
-            ]
-          },
-          "PANDORA_ALBUM::AL:65591721": {
-            "id": "AL:65591721",
-            "type": "album",
-            "title": "YEARNALISM",
-            "artistName": "Baby Rose",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/63/da/d4/3b/c8f946b8aabffa207477dda5/_500W_500H.jpg",
+            "title": "Oh yeah?",
+            "artistName": "Steve Lacy",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/94/87/63/c8/e6e842c593fd770ead27ed84/_500W_500H.jpg",
             "thumbnailWidth": 500,
             "thumbnailHeight": 500,
             "apiProvider": "pandora",
@@ -198,12 +171,12 @@
               "pandora"
             ]
           },
-          "SPOTIFY_ALBUM::3WaxSapHGFrhvipg1wuLta": {
-            "id": "3WaxSapHGFrhvipg1wuLta",
+          "SPOTIFY_ALBUM::289GZwycrFReuNB706obBx": {
+            "id": "289GZwycrFReuNB706obBx",
             "type": "album",
-            "title": "YEARNALISM",
-            "artistName": "Baby Rose",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2731d1bd14e251142f2f9b06171",
+            "title": "Oh yeah?",
+            "artistName": "Steve Lacy",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2734ea9ba86cd9506a004bab042",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "spotify",
@@ -211,89 +184,76 @@
               "spotify"
             ]
           },
-          "TIDAL_ALBUM::518344898": {
-            "id": "518344898",
+          "YANDEX_ALBUM::43128699": {
+            "id": "43128699",
             "type": "album",
-            "title": "YEARNALISM",
-            "artistName": "Baby Rose",
-            "thumbnailUrl": "https://resources.tidal.com/images/f60b7d85/a679/4722/beef/ee1883b6fed8/640x640.jpg",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "tidal",
+            "title": "Oh yeah?",
+            "artistName": "Steve Lacy",
+            "thumbnailUrl": "https://avatars.yandex.net/get-music-content/19999910/193da4c4.a.43128699-1/600x600",
+            "thumbnailWidth": 600,
+            "thumbnailHeight": 600,
+            "apiProvider": "yandex",
             "platforms": [
-              "tidal"
+              "yandex"
             ]
           }
         },
         "platforms": {
-          "spotify": "https://open.spotify.com/album/3WaxSapHGFrhvipg1wuLta",
+          "spotify": "https://open.spotify.com/album/289GZwycrFReuNB706obBx",
           "appleMusic": null,
           "deezer": null,
-          "tidal": "https://listen.tidal.com/album/518344898",
+          "tidal": null,
           "youtube": null,
           "youtubeMusic": null,
           "soundcloud": null,
-          "amazonMusic": "https://music.amazon.com/albums/B0GY5XDG3F"
+          "amazonMusic": null
         }
       },
       "spotifySearchUrl": null
     },
     {
-      "artist": "Suki Waterhouse",
-      "album": "Loveland",
+      "artist": "Nia Archives",
+      "album": "Emotional Junglist",
       "label": "Island",
       "section": "starting5",
       "spotify": {
-        "id": "3fnrOzZsn9MnYR5NMVyYv1",
-        "name": "Loveland",
-        "url": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1",
-        "release_date": "2026-07-10",
+        "id": "0Q7HPYmrJWTXUnf3QqRx3W",
+        "name": "Emotional Junglist",
+        "url": "https://open.spotify.com/album/0Q7HPYmrJWTXUnf3QqRx3W",
+        "release_date": "2026-07-17",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273f911f80f84ea5bc9bb95b71a",
+            "url": "https://i.scdn.co/image/ab67616d0000b273d55eb538f5704a397edeb589",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02f911f80f84ea5bc9bb95b71a",
+            "url": "https://i.scdn.co/image/ab67616d00001e02d55eb538f5704a397edeb589",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851f911f80f84ea5bc9bb95b71a",
+            "url": "https://i.scdn.co/image/ab67616d00004851d55eb538f5704a397edeb589",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "5GGJosGMs08YEmKTZJe1fL",
-            "name": "Suki Waterhouse"
+            "id": "7BMR0fwtEvzGtK4rNGdoiQ",
+            "name": "Nia Archives"
           }
         ]
       },
       "songlink": {
-        "pageUrl": "https://album.link/s/3fnrOzZsn9MnYR5NMVyYv1",
+        "pageUrl": "https://album.link/s/0Q7HPYmrJWTXUnf3QqRx3W",
         "entitiesByUniqueId": {
-          "BOOMPLAY_ALBUM::135433639": {
-            "id": "135433639",
+          "PANDORA_ALBUM::AL:68124799": {
+            "id": "AL:68124799",
             "type": "album",
-            "title": "Loveland",
-            "artistName": "Suki Waterhouse",
-            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/07/10/494691a8c3354520b513add08d0c2743H1400W1400_464_464.jpg",
-            "thumbnailWidth": 464,
-            "thumbnailHeight": 464,
-            "apiProvider": "boomplay",
-            "platforms": [
-              "boomplay"
-            ]
-          },
-          "PANDORA_ALBUM::AL:67907202": {
-            "id": "AL:67907202",
-            "type": "album",
-            "title": "Loveland",
-            "artistName": "Suki Waterhouse",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/9d/c6/ba/ad/8d9c46059e5369c6c236cf7f/_500W_500H.jpg",
+            "title": "Emotional Junglist",
+            "artistName": "Nia Archives",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/ea/4f/12/fd/e4a744e78473d9f7a36cfed1/_500W_500H.jpg",
             "thumbnailWidth": 500,
             "thumbnailHeight": 500,
             "apiProvider": "pandora",
@@ -301,12 +261,12 @@
               "pandora"
             ]
           },
-          "SPOTIFY_ALBUM::3fnrOzZsn9MnYR5NMVyYv1": {
-            "id": "3fnrOzZsn9MnYR5NMVyYv1",
+          "SPOTIFY_ALBUM::0Q7HPYmrJWTXUnf3QqRx3W": {
+            "id": "0Q7HPYmrJWTXUnf3QqRx3W",
             "type": "album",
-            "title": "Loveland",
-            "artistName": "Suki Waterhouse",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273f911f80f84ea5bc9bb95b71a",
+            "title": "Emotional Junglist",
+            "artistName": "Nia Archives",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273d55eb538f5704a397edeb589",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "spotify",
@@ -314,12 +274,12 @@
               "spotify"
             ]
           },
-          "TIDAL_ALBUM::539668657": {
-            "id": "539668657",
+          "TIDAL_ALBUM::541782743": {
+            "id": "541782743",
             "type": "album",
-            "title": "Loveland",
-            "artistName": "Suki Waterhouse",
-            "thumbnailUrl": "https://resources.tidal.com/images/21f6c0b2/3593/4307/97d3/6fa79d01c2b4/640x640.jpg",
+            "title": "Emotional Junglist",
+            "artistName": "Nia Archives",
+            "thumbnailUrl": "https://resources.tidal.com/images/ad007865/2799/4788/ba84/b306365d2113/640x640.jpg",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "tidal",
@@ -329,10 +289,10 @@
           }
         },
         "platforms": {
-          "spotify": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1",
+          "spotify": "https://open.spotify.com/album/0Q7HPYmrJWTXUnf3QqRx3W",
           "appleMusic": null,
           "deezer": null,
-          "tidal": "https://listen.tidal.com/album/539668657",
+          "tidal": "https://listen.tidal.com/album/541782743",
           "youtube": null,
           "youtubeMusic": null,
           "soundcloud": null,
@@ -342,48 +302,48 @@
       "spotifySearchUrl": null
     },
     {
-      "artist": "Allison Russell",
-      "album": "In the Hour of Chaos",
-      "label": "Fantasy",
+      "artist": "Lido Pimienta",
+      "album": "Caribenya",
+      "label": "ANTI-",
       "section": "starting5",
       "spotify": {
-        "id": "3kscpGV3VPWFFX7lPf0DuL",
-        "name": "In the Hour of Chaos",
-        "url": "https://open.spotify.com/album/3kscpGV3VPWFFX7lPf0DuL",
-        "release_date": "2026-07-10",
+        "id": "18zt6aSGqSAMfJTQuJL3Sl",
+        "name": "Caribenya",
+        "url": "https://open.spotify.com/album/18zt6aSGqSAMfJTQuJL3Sl",
+        "release_date": "2026-07-17",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273484006dc742a9b43b1cab3d1",
+            "url": "https://i.scdn.co/image/ab67616d0000b273e41d589b756dc4f82bfd4fa3",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02484006dc742a9b43b1cab3d1",
+            "url": "https://i.scdn.co/image/ab67616d00001e02e41d589b756dc4f82bfd4fa3",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851484006dc742a9b43b1cab3d1",
+            "url": "https://i.scdn.co/image/ab67616d00004851e41d589b756dc4f82bfd4fa3",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "3JBmecDGXTll46ygrnGTM6",
-            "name": "Allison Russell"
+            "id": "1IdkKQ9CM1i0wygfxYV4Z3",
+            "name": "Lido Pimienta"
           }
         ]
       },
       "songlink": {
-        "pageUrl": "https://album.link/s/3kscpGV3VPWFFX7lPf0DuL",
+        "pageUrl": "https://album.link/s/18zt6aSGqSAMfJTQuJL3Sl",
         "entitiesByUniqueId": {
-          "BANDCAMP_ALBUM::1133379967": {
-            "id": "1133379967",
+          "BANDCAMP_ALBUM::973846756": {
+            "id": "973846756",
             "type": "album",
-            "title": "In the Hour of Chaos",
-            "artistName": "Allison Russell",
-            "thumbnailUrl": "https://f4.bcbits.com/img/a0180851720_5.jpg",
+            "title": "Caribenya",
+            "artistName": "Lido Pimienta",
+            "thumbnailUrl": "https://f4.bcbits.com/img/a2305396879_5.jpg",
             "thumbnailWidth": 700,
             "thumbnailHeight": 700,
             "apiProvider": "bandcamp",
@@ -391,12 +351,12 @@
               "bandcamp"
             ]
           },
-          "BOOMPLAY_ALBUM::135433860": {
-            "id": "135433860",
+          "BOOMPLAY_ALBUM::132279304": {
+            "id": "132279304",
             "type": "album",
-            "title": "In the Hour of Chaos",
-            "artistName": "Allison Russell",
-            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/07/10/a8073d127932488489d81b9a11205da8H1400W1400_464_464.jpg",
+            "title": "Caribenya",
+            "artistName": "Lido Pimienta",
+            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/07/17/a3ad6e89a068467aa00195ba9afc9bb6H1500W1500_464_464.png",
             "thumbnailWidth": 464,
             "thumbnailHeight": 464,
             "apiProvider": "boomplay",
@@ -404,12 +364,12 @@
               "boomplay"
             ]
           },
-          "PANDORA_ALBUM::AL:67908166": {
-            "id": "AL:67908166",
+          "PANDORA_ALBUM::AL:65526932": {
+            "id": "AL:65526932",
             "type": "album",
-            "title": "In the Hour of Chaos",
-            "artistName": "Allison Russell",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/e0/5a/48/5c/7d3747a89cb78d8b3b15efaf/_500W_500H.jpg",
+            "title": "Caribenya",
+            "artistName": "Lido Pimienta",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/46/61/dd/23/479e49cda3ce46aa058a80b2/_500W_500H.jpg",
             "thumbnailWidth": 500,
             "thumbnailHeight": 500,
             "apiProvider": "pandora",
@@ -417,12 +377,12 @@
               "pandora"
             ]
           },
-          "SPOTIFY_ALBUM::3kscpGV3VPWFFX7lPf0DuL": {
-            "id": "3kscpGV3VPWFFX7lPf0DuL",
+          "SPOTIFY_ALBUM::18zt6aSGqSAMfJTQuJL3Sl": {
+            "id": "18zt6aSGqSAMfJTQuJL3Sl",
             "type": "album",
-            "title": "In the Hour of Chaos",
-            "artistName": "Allison Russell",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273484006dc742a9b43b1cab3d1",
+            "title": "Caribenya",
+            "artistName": "Lido Pimienta",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273e41d589b756dc4f82bfd4fa3",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "spotify",
@@ -430,12 +390,12 @@
               "spotify"
             ]
           },
-          "TIDAL_ALBUM::539666529": {
-            "id": "539666529",
+          "TIDAL_ALBUM::518032201": {
+            "id": "518032201",
             "type": "album",
-            "title": "In the Hour of Chaos",
-            "artistName": "Allison Russell",
-            "thumbnailUrl": "https://resources.tidal.com/images/c850ac5f/0eed/44c0/a055/6a98517a1158/640x640.jpg",
+            "title": "Caribenya",
+            "artistName": "Lido Pimienta",
+            "thumbnailUrl": "https://resources.tidal.com/images/2ef41874/3b45/4d03/b0aa/ab6bb943e935/640x640.jpg",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "tidal",
@@ -445,10 +405,10 @@
           }
         },
         "platforms": {
-          "spotify": "https://open.spotify.com/album/3kscpGV3VPWFFX7lPf0DuL",
+          "spotify": "https://open.spotify.com/album/18zt6aSGqSAMfJTQuJL3Sl",
           "appleMusic": null,
           "deezer": null,
-          "tidal": "https://listen.tidal.com/album/539666529",
+          "tidal": "https://listen.tidal.com/album/518032201",
           "youtube": null,
           "youtubeMusic": null,
           "soundcloud": null,
@@ -458,380 +418,48 @@
       "spotifySearchUrl": null
     },
     {
-      "artist": "Houndmouth",
-      "album": "Lordy",
-      "label": "Dualtone",
+      "artist": "Swapmeet",
+      "album": "Mount Zero",
+      "label": "Winspear",
       "section": "starting5",
       "spotify": {
-        "id": "2QF10yAKT8ra06lmdKLjNX",
-        "name": "Lordy",
-        "url": "https://open.spotify.com/album/2QF10yAKT8ra06lmdKLjNX",
-        "release_date": "2026-07-10",
+        "id": "6MkGAjdvZDLijPcPBVQQFQ",
+        "name": "Mount Zero",
+        "url": "https://open.spotify.com/album/6MkGAjdvZDLijPcPBVQQFQ",
+        "release_date": "2026-07-17",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27395eb8cc873c6ff127e44647d",
+            "url": "https://i.scdn.co/image/ab67616d0000b273bd093a776b0ddf5d8bd8083e",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0295eb8cc873c6ff127e44647d",
+            "url": "https://i.scdn.co/image/ab67616d00001e02bd093a776b0ddf5d8bd8083e",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485195eb8cc873c6ff127e44647d",
+            "url": "https://i.scdn.co/image/ab67616d00004851bd093a776b0ddf5d8bd8083e",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "7EGwUS3c5dXduO4sMyLWC5",
-            "name": "Houndmouth"
+            "id": "02ngaZWfkvv0Fzmh7FhJqj",
+            "name": "Swapmeet"
           }
         ]
       },
       "songlink": {
-        "pageUrl": "https://album.link/s/2QF10yAKT8ra06lmdKLjNX",
+        "pageUrl": "https://album.link/s/6MkGAjdvZDLijPcPBVQQFQ",
         "entitiesByUniqueId": {
-          "BOOMPLAY_ALBUM::128026747": {
-            "id": "128026747",
+          "BANDCAMP_ALBUM::3211810453": {
+            "id": "3211810453",
             "type": "album",
-            "title": "Lordy",
-            "artistName": "Houndmouth",
-            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/03/19/2eefc6279a224ae4ac6d5727416444e0H1500W1500_464_464.jpg",
-            "thumbnailWidth": 464,
-            "thumbnailHeight": 464,
-            "apiProvider": "boomplay",
-            "platforms": [
-              "boomplay"
-            ]
-          },
-          "PANDORA_ALBUM::AL:63516195": {
-            "id": "AL:63516195",
-            "type": "album",
-            "title": "Lordy",
-            "artistName": "Houndmouth",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/40/d1/17/b7/363c43acbd0a7ec813e2f134/_500W_500H.jpg",
-            "thumbnailWidth": 500,
-            "thumbnailHeight": 500,
-            "apiProvider": "pandora",
-            "platforms": [
-              "pandora"
-            ]
-          },
-          "SPOTIFY_ALBUM::2QF10yAKT8ra06lmdKLjNX": {
-            "id": "2QF10yAKT8ra06lmdKLjNX",
-            "type": "album",
-            "title": "Lordy",
-            "artistName": "Houndmouth",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b27395eb8cc873c6ff127e44647d",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "spotify",
-            "platforms": [
-              "spotify"
-            ]
-          },
-          "TIDAL_ALBUM::508459144": {
-            "id": "508459144",
-            "type": "album",
-            "title": "Lordy",
-            "artistName": "Houndmouth",
-            "thumbnailUrl": "https://resources.tidal.com/images/a69ec7ce/e87f/4cc7/b407/53eca1dd2e8b/640x640.jpg",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "tidal",
-            "platforms": [
-              "tidal"
-            ]
-          }
-        },
-        "platforms": {
-          "spotify": "https://open.spotify.com/album/2QF10yAKT8ra06lmdKLjNX",
-          "appleMusic": null,
-          "deezer": null,
-          "tidal": "https://listen.tidal.com/album/508459144",
-          "youtube": null,
-          "youtubeMusic": null,
-          "soundcloud": null,
-          "amazonMusic": null
-        }
-      },
-      "spotifySearchUrl": null
-    },
-    {
-      "artist": "Bella Kay",
-      "album": "My Reckless Abandon",
-      "label": "Atlantic",
-      "section": "lightningRound",
-      "spotify": null,
-      "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Bella%20Kay%20My%20Reckless%20Abandon"
-    },
-    {
-      "artist": "The Temper Trap",
-      "album": "Sungazer",
-      "label": "Mushroom",
-      "section": "lightningRound",
-      "spotify": {
-        "id": "2N4iGvv8PwZdJQL3rNQlrh",
-        "name": "Sungazer",
-        "url": "https://open.spotify.com/album/2N4iGvv8PwZdJQL3rNQlrh",
-        "release_date": "2026-07-10",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273526236373fe4a5d9782bed0d",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02526236373fe4a5d9782bed0d",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851526236373fe4a5d9782bed0d",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "4W48hZAnAHVOC2c8WH8pcq",
-            "name": "The Temper Trap"
-          }
-        ]
-      },
-      "songlink": {
-        "pageUrl": "https://album.link/s/2N4iGvv8PwZdJQL3rNQlrh",
-        "entitiesByUniqueId": {
-          "BOOMPLAY_ALBUM::127573390": {
-            "id": "127573390",
-            "type": "album",
-            "title": "Sungazer",
-            "artistName": "The Temper Trap",
-            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/03/19/5faadbed856b4b408218261003dd927cH1500W1500_464_464.jpg",
-            "thumbnailWidth": 464,
-            "thumbnailHeight": 464,
-            "apiProvider": "boomplay",
-            "platforms": [
-              "boomplay"
-            ]
-          },
-          "PANDORA_ALBUM::AL:63071240": {
-            "id": "AL:63071240",
-            "type": "album",
-            "title": "Sungazer",
-            "artistName": "The Temper Trap",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/af/bf/dc/96/74074102ba23ce1ad3da71b5/_500W_500H.jpg",
-            "thumbnailWidth": 500,
-            "thumbnailHeight": 500,
-            "apiProvider": "pandora",
-            "platforms": [
-              "pandora"
-            ]
-          },
-          "SPOTIFY_ALBUM::2N4iGvv8PwZdJQL3rNQlrh": {
-            "id": "2N4iGvv8PwZdJQL3rNQlrh",
-            "type": "album",
-            "title": "Sungazer",
-            "artistName": "The Temper Trap",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273526236373fe4a5d9782bed0d",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "spotify",
-            "platforms": [
-              "spotify"
-            ]
-          },
-          "TIDAL_ALBUM::534639994": {
-            "id": "534639994",
-            "type": "album",
-            "title": "Sungazer",
-            "artistName": "The Temper Trap",
-            "thumbnailUrl": "https://resources.tidal.com/images/696be7f6/aba3/48da/847e/cc9e03788f6e/640x640.jpg",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "tidal",
-            "platforms": [
-              "tidal"
-            ]
-          }
-        },
-        "platforms": {
-          "spotify": "https://open.spotify.com/album/2N4iGvv8PwZdJQL3rNQlrh",
-          "appleMusic": null,
-          "deezer": null,
-          "tidal": "https://listen.tidal.com/album/534639994",
-          "youtube": null,
-          "youtubeMusic": null,
-          "soundcloud": null,
-          "amazonMusic": null
-        }
-      },
-      "spotifySearchUrl": null
-    },
-    {
-      "artist": "Kelela",
-      "album": "new avatar",
-      "label": "Warp",
-      "section": "lightningRound",
-      "spotify": {
-        "id": "0t1I0Ic8IzTND3sesj9tDE",
-        "name": "new avatar",
-        "url": "https://open.spotify.com/album/0t1I0Ic8IzTND3sesj9tDE",
-        "release_date": "2026-07-10",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27315c00fa655da7d2b186a470c",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0215c00fa655da7d2b186a470c",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485115c00fa655da7d2b186a470c",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "1U0sIzpRtDkvu1hXXzxh60",
-            "name": "Kelela"
-          }
-        ]
-      },
-      "songlink": {
-        "pageUrl": "https://album.link/s/0t1I0Ic8IzTND3sesj9tDE",
-        "entitiesByUniqueId": {
-          "AMAZON_ALBUM::B0GV52YSHN": {
-            "id": "B0GV52YSHN",
-            "type": "album",
-            "title": "new avatar",
-            "artistName": "Kelela",
-            "thumbnailUrl": "https://m.media-amazon.com/images/I/51zpdkm6+VL.jpg",
-            "thumbnailWidth": 500,
-            "thumbnailHeight": 500,
-            "apiProvider": "amazon",
-            "platforms": [
-              "amazonMusic",
-              "amazonStore"
-            ]
-          },
-          "BOOMPLAY_ALBUM::135186826": {
-            "id": "135186826",
-            "type": "album",
-            "title": "new avatar",
-            "artistName": "Kelela",
-            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/07/06/15f45e172994438b8973d61f9599f506H1500W1500_464_464.png",
-            "thumbnailWidth": 464,
-            "thumbnailHeight": 464,
-            "apiProvider": "boomplay",
-            "platforms": [
-              "boomplay"
-            ]
-          },
-          "PANDORA_ALBUM::AL:63992889": {
-            "id": "AL:63992889",
-            "type": "album",
-            "title": "new avatar",
-            "artistName": "Kelela",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/b4/aa/25/e5/b3bb4bc2b412ffc28a8edb38/_500W_500H.jpg",
-            "thumbnailWidth": 500,
-            "thumbnailHeight": 500,
-            "apiProvider": "pandora",
-            "platforms": [
-              "pandora"
-            ]
-          },
-          "SPOTIFY_ALBUM::0t1I0Ic8IzTND3sesj9tDE": {
-            "id": "0t1I0Ic8IzTND3sesj9tDE",
-            "type": "album",
-            "title": "new avatar",
-            "artistName": "Kelela",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b27315c00fa655da7d2b186a470c",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "spotify",
-            "platforms": [
-              "spotify"
-            ]
-          },
-          "TIDAL_ALBUM::510745873": {
-            "id": "510745873",
-            "type": "album",
-            "title": "new avatar",
-            "artistName": "Kelela",
-            "thumbnailUrl": "https://resources.tidal.com/images/6a6397c6/b608/4048/acb5/291fe7371be7/640x640.jpg",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "tidal",
-            "platforms": [
-              "tidal"
-            ]
-          }
-        },
-        "platforms": {
-          "spotify": "https://open.spotify.com/album/0t1I0Ic8IzTND3sesj9tDE",
-          "appleMusic": null,
-          "deezer": null,
-          "tidal": "https://listen.tidal.com/album/510745873",
-          "youtube": null,
-          "youtubeMusic": null,
-          "soundcloud": null,
-          "amazonMusic": "https://music.amazon.com/albums/B0GV52YSHN"
-        }
-      },
-      "spotifySearchUrl": null
-    },
-    {
-      "artist": "Tracey Nelson",
-      "album": "Hercules",
-      "label": "K/perennial",
-      "section": "lightningRound",
-      "spotify": {
-        "id": "5QWEWV25nYifxXjOYPkxjA",
-        "name": "Hercules",
-        "url": "https://open.spotify.com/album/5QWEWV25nYifxXjOYPkxjA",
-        "release_date": "2026-07-10",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273522e18685c29d964131a8804",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02522e18685c29d964131a8804",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851522e18685c29d964131a8804",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "7Ak3CpBzopE7eewhyodH7J",
-            "name": "Tracey Nelson"
-          }
-        ]
-      },
-      "songlink": {
-        "pageUrl": "https://album.link/s/5QWEWV25nYifxXjOYPkxjA",
-        "entitiesByUniqueId": {
-          "BANDCAMP_ALBUM::3071824384": {
-            "id": "3071824384",
-            "type": "album",
-            "title": "Hercules",
-            "artistName": "Tracey Nelson",
-            "thumbnailUrl": "https://f4.bcbits.com/img/a0685611040_5.jpg",
+            "title": "Mount Zero",
+            "artistName": "Swapmeet",
+            "thumbnailUrl": "https://f4.bcbits.com/img/a1320432679_5.jpg",
             "thumbnailWidth": 700,
             "thumbnailHeight": 700,
             "apiProvider": "bandcamp",
@@ -839,12 +467,12 @@
               "bandcamp"
             ]
           },
-          "BOOMPLAY_ALBUM::127887899": {
-            "id": "127887899",
+          "BOOMPLAY_ALBUM::126565330": {
+            "id": "126565330",
             "type": "album",
-            "title": "Hercules",
-            "artistName": "Tracey Nelson",
-            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/03/17/7501546f383247908e6a6a63daff0546H1500W1500_464_464.jpg",
+            "title": "Mount Zero",
+            "artistName": "Swapmeet",
+            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/03/17/4e45ebc995e6419b8df738037f503d43H1500W1500_464_464.jpg",
             "thumbnailWidth": 464,
             "thumbnailHeight": 464,
             "apiProvider": "boomplay",
@@ -852,12 +480,12 @@
               "boomplay"
             ]
           },
-          "PANDORA_ALBUM::AL:63367932": {
-            "id": "AL:63367932",
+          "PANDORA_ALBUM::AL:62092641": {
+            "id": "AL:62092641",
             "type": "album",
-            "title": "Hercules",
-            "artistName": "Tracey Nelson",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/a3/a3/58/72/07294642a787fd624910d882/_500W_500H.jpg",
+            "title": "Mount Zero",
+            "artistName": "Swapmeet",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/f1/69/4f/ed/efa048bba81eb059236556be/_500W_500H.jpg",
             "thumbnailWidth": 500,
             "thumbnailHeight": 500,
             "apiProvider": "pandora",
@@ -865,12 +493,12 @@
               "pandora"
             ]
           },
-          "SPOTIFY_ALBUM::5QWEWV25nYifxXjOYPkxjA": {
-            "id": "5QWEWV25nYifxXjOYPkxjA",
+          "SPOTIFY_ALBUM::6MkGAjdvZDLijPcPBVQQFQ": {
+            "id": "6MkGAjdvZDLijPcPBVQQFQ",
             "type": "album",
-            "title": "Hercules",
-            "artistName": "Tracey Nelson",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273522e18685c29d964131a8804",
+            "title": "Mount Zero",
+            "artistName": "Swapmeet",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273bd093a776b0ddf5d8bd8083e",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "spotify",
@@ -878,12 +506,12 @@
               "spotify"
             ]
           },
-          "TIDAL_ALBUM::507807450": {
-            "id": "507807450",
+          "TIDAL_ALBUM::502234492": {
+            "id": "502234492",
             "type": "album",
-            "title": "Hercules",
-            "artistName": "Tracey Nelson",
-            "thumbnailUrl": "https://resources.tidal.com/images/3b0350ef/4adb/49e3/815f/0675801c8d22/640x640.jpg",
+            "title": "Mount Zero",
+            "artistName": "Swapmeet",
+            "thumbnailUrl": "https://resources.tidal.com/images/c386b95f/7c26/4152/9ed9/c3f5fd5f2f21/640x640.jpg",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "tidal",
@@ -893,10 +521,10 @@
           }
         },
         "platforms": {
-          "spotify": "https://open.spotify.com/album/5QWEWV25nYifxXjOYPkxjA",
+          "spotify": "https://open.spotify.com/album/6MkGAjdvZDLijPcPBVQQFQ",
           "appleMusic": null,
           "deezer": null,
-          "tidal": "https://listen.tidal.com/album/507807450",
+          "tidal": "https://listen.tidal.com/album/502234492",
           "youtube": null,
           "youtubeMusic": null,
           "soundcloud": null,
@@ -906,57 +534,48 @@
       "spotifySearchUrl": null
     },
     {
-      "artist": "Ultra Lights",
-      "album": "Pleasure's All Yours",
-      "label": "Chunklet",
-      "section": "lightningRound",
-      "spotify": null,
-      "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Ultra%20Lights%20Pleasure's%20All%20Yours"
-    },
-    {
-      "artist": "Luluc",
-      "album": "Sweet Thief",
-      "label": "Community",
+      "artist": "Catherine Moan",
+      "album": "CM Ultra",
+      "label": "Born Losers",
       "section": "lightningRound",
       "spotify": {
-        "id": "6GbmTCqvdEbaKmsCIvdXYz",
-        "name": "Sweet Thief",
-        "url": "https://open.spotify.com/album/6GbmTCqvdEbaKmsCIvdXYz",
-        "release_date": "2026-07-10",
+        "id": "6fBKWpcwyQpy1isSUxuQQi",
+        "name": "CM Ultra",
+        "url": "https://open.spotify.com/album/6fBKWpcwyQpy1isSUxuQQi",
+        "release_date": "2026-07-17",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2732c66aec11021288cfaccbf22",
+            "url": "https://i.scdn.co/image/ab67616d0000b273840c373c3504e283dd374d1f",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e022c66aec11021288cfaccbf22",
+            "url": "https://i.scdn.co/image/ab67616d00001e02840c373c3504e283dd374d1f",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048512c66aec11021288cfaccbf22",
+            "url": "https://i.scdn.co/image/ab67616d00004851840c373c3504e283dd374d1f",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "2Jtfa8vjvzAAGxDfgIkU72",
-            "name": "Luluc"
+            "id": "1j3eSDACLPhrEDYDkHYF9I",
+            "name": "Catherine Moan"
           }
         ]
       },
       "songlink": {
-        "pageUrl": "https://album.link/s/6GbmTCqvdEbaKmsCIvdXYz",
+        "pageUrl": "https://album.link/s/6fBKWpcwyQpy1isSUxuQQi",
         "entitiesByUniqueId": {
-          "BANDCAMP_ALBUM::2565993747": {
-            "id": "2565993747",
+          "BANDCAMP_ALBUM::633424730": {
+            "id": "633424730",
             "type": "album",
-            "title": "Sweet Thief",
-            "artistName": "Luluc",
-            "thumbnailUrl": "https://f4.bcbits.com/img/a2292462859_5.jpg",
+            "title": "CM Ultra",
+            "artistName": "Catherine Moan",
+            "thumbnailUrl": "https://f4.bcbits.com/img/a0356402503_5.jpg",
             "thumbnailWidth": 700,
             "thumbnailHeight": 700,
             "apiProvider": "bandcamp",
@@ -964,12 +583,12 @@
               "bandcamp"
             ]
           },
-          "PANDORA_ALBUM::AL:63295322": {
-            "id": "AL:63295322",
+          "PANDORA_ALBUM::AL:63270186": {
+            "id": "AL:63270186",
             "type": "album",
-            "title": "Sweet Thief",
-            "artistName": "Luluc",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/82/69/74/62/31e8432eb01491f8c55aab50/_500W_500H.jpg",
+            "title": "CM Ultra",
+            "artistName": "Catherine Moan",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/36/3c/41/e5/5b1042259df2321bde00cfc2/_500W_500H.jpg",
             "thumbnailWidth": 500,
             "thumbnailHeight": 500,
             "apiProvider": "pandora",
@@ -977,12 +596,12 @@
               "pandora"
             ]
           },
-          "SPOTIFY_ALBUM::6GbmTCqvdEbaKmsCIvdXYz": {
-            "id": "6GbmTCqvdEbaKmsCIvdXYz",
+          "SPOTIFY_ALBUM::6fBKWpcwyQpy1isSUxuQQi": {
+            "id": "6fBKWpcwyQpy1isSUxuQQi",
             "type": "album",
-            "title": "Sweet Thief",
-            "artistName": "Luluc",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2732c66aec11021288cfaccbf22",
+            "title": "CM Ultra",
+            "artistName": "Catherine Moan",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273840c373c3504e283dd374d1f",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "spotify",
@@ -990,12 +609,12 @@
               "spotify"
             ]
           },
-          "TIDAL_ALBUM::507489229": {
-            "id": "507489229",
+          "TIDAL_ALBUM::507391553": {
+            "id": "507391553",
             "type": "album",
-            "title": "Sweet Thief",
-            "artistName": "Luluc",
-            "thumbnailUrl": "https://resources.tidal.com/images/bd074838/2d8f/4668/9129/69ec74777434/640x640.jpg",
+            "title": "CM Ultra",
+            "artistName": "Catherine Moan",
+            "thumbnailUrl": "https://resources.tidal.com/images/cc3b910d/e3d0/4be2/84c9/b4fec8c7f958/640x640.jpg",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "tidal",
@@ -1005,10 +624,10 @@
           }
         },
         "platforms": {
-          "spotify": "https://open.spotify.com/album/6GbmTCqvdEbaKmsCIvdXYz",
+          "spotify": "https://open.spotify.com/album/6fBKWpcwyQpy1isSUxuQQi",
           "appleMusic": null,
           "deezer": null,
-          "tidal": "https://listen.tidal.com/album/507489229",
+          "tidal": "https://listen.tidal.com/album/507391553",
           "youtube": null,
           "youtubeMusic": null,
           "soundcloud": null,
@@ -1018,92 +637,57 @@
       "spotifySearchUrl": null
     },
     {
-      "artist": "Xiu Xiu",
-      "album": "Eraserhead Xiu Xiu",
-      "label": "Polyvinyl",
-      "section": "dorasCorner",
+      "artist": "Helado Tropical",
+      "album": "Helado Tropical",
+      "label": "Psychic Hotline",
+      "section": "lightningRound",
       "spotify": null,
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Xiu%20Xiu%20Eraserhead%20Xiu%20Xiu"
+      "spotifySearchUrl": "https://open.spotify.com/search/Helado%20Tropical%20Helado%20Tropical"
     },
     {
-      "artist": "Frost Children",
-      "album": "Tweaker Poem EP",
-      "label": "RCA",
-      "section": "dorasCorner",
-      "spotify": null,
-      "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Frost%20Children%20Tweaker%20Poem%20EP"
-    },
-    {
-      "artist": "Show Me the Body",
-      "album": "Alone Together",
-      "label": "Loma Vista",
-      "section": "dorasCorner",
+      "artist": "Orquesta Akokán",
+      "album": "AMÉRICA!",
+      "label": "Daptone",
+      "section": "lightningRound",
       "spotify": {
-        "id": "2itfvUrApVCygurzgNzXJg",
-        "name": "Alone Together",
-        "url": "https://open.spotify.com/album/2itfvUrApVCygurzgNzXJg",
-        "release_date": "2026-07-10",
+        "id": "0chPyqe4UGP3ty0e7jt1bE",
+        "name": "América!",
+        "url": "https://open.spotify.com/album/0chPyqe4UGP3ty0e7jt1bE",
+        "release_date": "2026-07-17",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2734e8d786feba656a20e2fd5e4",
+            "url": "https://i.scdn.co/image/ab67616d0000b273515e239648537ec6810e8a7e",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e024e8d786feba656a20e2fd5e4",
+            "url": "https://i.scdn.co/image/ab67616d00001e02515e239648537ec6810e8a7e",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048514e8d786feba656a20e2fd5e4",
+            "url": "https://i.scdn.co/image/ab67616d00004851515e239648537ec6810e8a7e",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "5jh7sgXW2njALiIh0aPXjB",
-            "name": "Show Me the Body"
+            "id": "0ntVDLb8Ro6BLGVBVOBFVS",
+            "name": "Orquesta Akokán"
           }
         ]
       },
       "songlink": {
-        "pageUrl": "https://album.link/s/2itfvUrApVCygurzgNzXJg",
+        "pageUrl": "https://album.link/s/0chPyqe4UGP3ty0e7jt1bE",
         "entitiesByUniqueId": {
-          "BANDCAMP_ALBUM::3807500916": {
-            "id": "3807500916",
+          "PANDORA_ALBUM::AL:65831081": {
+            "id": "AL:65831081",
             "type": "album",
-            "title": "Alone Together",
-            "artistName": "Show Me The Body",
-            "thumbnailUrl": "https://f4.bcbits.com/img/a2463831167_5.jpg",
-            "thumbnailWidth": 700,
-            "thumbnailHeight": 700,
-            "apiProvider": "bandcamp",
-            "platforms": [
-              "bandcamp"
-            ]
-          },
-          "BOOMPLAY_ALBUM::135430863": {
-            "id": "135430863",
-            "type": "album",
-            "title": "Alone Together",
-            "artistName": "Show Me The Body",
-            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/07/10/5b1717103b66421e93628a26eb677915H1400W1400_464_464.jpg",
-            "thumbnailWidth": 464,
-            "thumbnailHeight": 464,
-            "apiProvider": "boomplay",
-            "platforms": [
-              "boomplay"
-            ]
-          },
-          "PANDORA_ALBUM::AL:67913001": {
-            "id": "AL:67913001",
-            "type": "album",
-            "title": "Alone Together",
-            "artistName": "Show Me The Body",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/7b/86/f9/18/507e4ef18334410c579573b7/_500W_500H.jpg",
+            "title": "América!",
+            "artistName": "Orquesta Akokán",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/7f/65/60/ab/fe8242bdbacf4aa6192e2aa9/_500W_500H.jpg",
             "thumbnailWidth": 500,
             "thumbnailHeight": 500,
             "apiProvider": "pandora",
@@ -1111,12 +695,12 @@
               "pandora"
             ]
           },
-          "SPOTIFY_ALBUM::2itfvUrApVCygurzgNzXJg": {
-            "id": "2itfvUrApVCygurzgNzXJg",
+          "SPOTIFY_ALBUM::0chPyqe4UGP3ty0e7jt1bE": {
+            "id": "0chPyqe4UGP3ty0e7jt1bE",
             "type": "album",
-            "title": "Alone Together",
-            "artistName": "Show Me the Body",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2734e8d786feba656a20e2fd5e4",
+            "title": "América!",
+            "artistName": "Orquesta Akokán",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273515e239648537ec6810e8a7e",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "spotify",
@@ -1124,12 +708,12 @@
               "spotify"
             ]
           },
-          "TIDAL_ALBUM::539666628": {
-            "id": "539666628",
+          "TIDAL_ALBUM::519689903": {
+            "id": "519689903",
             "type": "album",
-            "title": "Alone Together",
-            "artistName": "Show Me The Body",
-            "thumbnailUrl": "https://resources.tidal.com/images/27cfb8fc/9022/4c8c/8209/5d7980b4ab51/640x640.jpg",
+            "title": "América!",
+            "artistName": "Orquesta Akokán",
+            "thumbnailUrl": "https://resources.tidal.com/images/dd883869/b8e8/4c6e/81b4/9f9e776c98d9/640x640.jpg",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "tidal",
@@ -1139,10 +723,512 @@
           }
         },
         "platforms": {
-          "spotify": "https://open.spotify.com/album/2itfvUrApVCygurzgNzXJg",
+          "spotify": "https://open.spotify.com/album/0chPyqe4UGP3ty0e7jt1bE",
           "appleMusic": null,
           "deezer": null,
-          "tidal": "https://listen.tidal.com/album/539666628",
+          "tidal": "https://listen.tidal.com/album/519689903",
+          "youtube": null,
+          "youtubeMusic": null,
+          "soundcloud": null,
+          "amazonMusic": null
+        }
+      },
+      "spotifySearchUrl": null
+    },
+    {
+      "artist": "Nao Yoshioka",
+      "album": "self",
+      "label": "SWEET SOUL",
+      "section": "lightningRound",
+      "spotify": {
+        "id": "3AJthU146FARgbMxnafzxm",
+        "name": "self",
+        "url": "https://open.spotify.com/album/3AJthU146FARgbMxnafzxm",
+        "release_date": "2026-07-17",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2730c44fcb3206cb3c8ea13a495",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e020c44fcb3206cb3c8ea13a495",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048510c44fcb3206cb3c8ea13a495",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "4YPiq62lEVjRdzhSlNto08",
+            "name": "Nao Yoshioka"
+          }
+        ]
+      },
+      "songlink": {
+        "pageUrl": "https://album.link/s/3AJthU146FARgbMxnafzxm",
+        "entitiesByUniqueId": {
+          "BANDCAMP_ALBUM::2103774438": {
+            "id": "2103774438",
+            "type": "album",
+            "title": "self",
+            "artistName": "Nao Yoshioka",
+            "thumbnailUrl": "https://f4.bcbits.com/img/a2714945302_5.jpg",
+            "thumbnailWidth": 700,
+            "thumbnailHeight": 700,
+            "apiProvider": "bandcamp",
+            "platforms": [
+              "bandcamp"
+            ]
+          },
+          "PANDORA_ALBUM::AL:66582722": {
+            "id": "AL:66582722",
+            "type": "album",
+            "title": "self",
+            "artistName": "Nao Yoshioka",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/98/3c/d8/81/2fc74b4fb22d085c6f81380e/_500W_500H.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "pandora",
+            "platforms": [
+              "pandora"
+            ]
+          },
+          "SPOTIFY_ALBUM::3AJthU146FARgbMxnafzxm": {
+            "id": "3AJthU146FARgbMxnafzxm",
+            "type": "album",
+            "title": "self",
+            "artistName": "Nao Yoshioka",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2730c44fcb3206cb3c8ea13a495",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "spotify",
+            "platforms": [
+              "spotify"
+            ]
+          },
+          "TIDAL_ALBUM::526089003": {
+            "id": "526089003",
+            "type": "album",
+            "title": "self",
+            "artistName": "Nao Yoshioka",
+            "thumbnailUrl": "https://resources.tidal.com/images/d8da09f3/71d6/443a/870c/568ec78e5072/640x640.jpg",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "tidal",
+            "platforms": [
+              "tidal"
+            ]
+          }
+        },
+        "platforms": {
+          "spotify": "https://open.spotify.com/album/3AJthU146FARgbMxnafzxm",
+          "appleMusic": null,
+          "deezer": null,
+          "tidal": "https://listen.tidal.com/album/526089003",
+          "youtube": null,
+          "youtubeMusic": null,
+          "soundcloud": null,
+          "amazonMusic": null
+        }
+      },
+      "spotifySearchUrl": null
+    },
+    {
+      "artist": "Quicksand",
+      "album": "Bring On The Psychics",
+      "label": "Equal Vision",
+      "section": "lightningRound",
+      "spotify": {
+        "id": "12S97Ot3KogCZ3cZZoiCa0",
+        "name": "Bring On The Psychics",
+        "url": "https://open.spotify.com/album/12S97Ot3KogCZ3cZZoiCa0",
+        "release_date": "2026-07-17",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273e1830506f3afa4d1ac52ae58",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e1830506f3afa4d1ac52ae58",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e1830506f3afa4d1ac52ae58",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "1GDjwZ2zwNZizuNJPmH3mE",
+            "name": "Quicksand"
+          }
+        ]
+      },
+      "songlink": {
+        "pageUrl": "https://album.link/s/12S97Ot3KogCZ3cZZoiCa0",
+        "entitiesByUniqueId": {
+          "BANDCAMP_ALBUM::30376140": {
+            "id": "30376140",
+            "type": "album",
+            "title": "Bring On The Psychics",
+            "artistName": "Quicksand",
+            "thumbnailUrl": "https://f4.bcbits.com/img/a2209190616_5.jpg",
+            "thumbnailWidth": 700,
+            "thumbnailHeight": 700,
+            "apiProvider": "bandcamp",
+            "platforms": [
+              "bandcamp"
+            ]
+          },
+          "PANDORA_ALBUM::AL:64145796": {
+            "id": "AL:64145796",
+            "type": "album",
+            "title": "Bring On The Psychics",
+            "artistName": "Quicksand",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/88/a6/cb/b6/88dc46d898d639bfbdc8feb1/_500W_500H.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "pandora",
+            "platforms": [
+              "pandora"
+            ]
+          },
+          "SPOTIFY_ALBUM::12S97Ot3KogCZ3cZZoiCa0": {
+            "id": "12S97Ot3KogCZ3cZZoiCa0",
+            "type": "album",
+            "title": "Bring On The Psychics",
+            "artistName": "Quicksand",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273e1830506f3afa4d1ac52ae58",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "spotify",
+            "platforms": [
+              "spotify"
+            ]
+          },
+          "TIDAL_ALBUM::511361497": {
+            "id": "511361497",
+            "type": "album",
+            "title": "Bring On The Psychics",
+            "artistName": "Quicksand",
+            "thumbnailUrl": "https://resources.tidal.com/images/23fee309/7a6f/4153/acbd/b665e2384c18/640x640.jpg",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "tidal",
+            "platforms": [
+              "tidal"
+            ]
+          }
+        },
+        "platforms": {
+          "spotify": "https://open.spotify.com/album/12S97Ot3KogCZ3cZZoiCa0",
+          "appleMusic": null,
+          "deezer": null,
+          "tidal": "https://listen.tidal.com/album/511361497",
+          "youtube": null,
+          "youtubeMusic": null,
+          "soundcloud": null,
+          "amazonMusic": null
+        }
+      },
+      "spotifySearchUrl": null
+    },
+    {
+      "artist": "The Healing Power of Horses",
+      "album": "Summer Indoors (or outside wearing black)",
+      "label": "section1",
+      "section": "dorasCorner",
+      "spotify": {
+        "id": "4PxXgJZbvR3CseOCU9so27",
+        "name": "Summer Indoors (or outside wearing black)",
+        "url": "https://open.spotify.com/album/4PxXgJZbvR3CseOCU9so27",
+        "release_date": "2026-07-17",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273b91e0bd64653bb35619bf693",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02b91e0bd64653bb35619bf693",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851b91e0bd64653bb35619bf693",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "4ps9FIxIQatbBhudrWSK3J",
+            "name": "The Healing Power of Horses"
+          }
+        ]
+      },
+      "songlink": {
+        "pageUrl": "https://album.link/s/4PxXgJZbvR3CseOCU9so27",
+        "entitiesByUniqueId": {
+          "PANDORA_ALBUM::AL:66480349": {
+            "id": "AL:66480349",
+            "type": "album",
+            "title": "Summer Indoors (or outside wearing black)",
+            "artistName": "the healing power of horses",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/1c/89/dd/08/dc0e46c1b0024bd5e3fd48a2/_500W_500H.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "pandora",
+            "platforms": [
+              "pandora"
+            ]
+          },
+          "SPOTIFY_ALBUM::4PxXgJZbvR3CseOCU9so27": {
+            "id": "4PxXgJZbvR3CseOCU9so27",
+            "type": "album",
+            "title": "Summer Indoors (or outside wearing black)",
+            "artistName": "The Healing Power of Horses",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273b91e0bd64653bb35619bf693",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "spotify",
+            "platforms": [
+              "spotify"
+            ]
+          },
+          "TIDAL_ALBUM::524631563": {
+            "id": "524631563",
+            "type": "album",
+            "title": "Summer Indoors (or outside wearing black)",
+            "artistName": "the healing power of horses",
+            "thumbnailUrl": "https://resources.tidal.com/images/42dcbcc0/5742/4e60/ae55/7bb20ae3c331/640x640.jpg",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "tidal",
+            "platforms": [
+              "tidal"
+            ]
+          }
+        },
+        "platforms": {
+          "spotify": "https://open.spotify.com/album/4PxXgJZbvR3CseOCU9so27",
+          "appleMusic": null,
+          "deezer": null,
+          "tidal": "https://listen.tidal.com/album/524631563",
+          "youtube": null,
+          "youtubeMusic": null,
+          "soundcloud": null,
+          "amazonMusic": null
+        }
+      },
+      "spotifySearchUrl": null
+    },
+    {
+      "artist": "Eartheater",
+      "album": "Heavenly Body: If I'm The Bottle You're The Message",
+      "label": "Chemical X",
+      "section": "dorasCorner",
+      "spotify": {
+        "id": "6NjXeIwjKdVEkJHvom1m3x",
+        "name": "Heavenly Body: If I'm The Bottle You’re The Message",
+        "url": "https://open.spotify.com/album/6NjXeIwjKdVEkJHvom1m3x",
+        "release_date": "2026-07-14",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273b08416ae39812896e94b8ae8",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02b08416ae39812896e94b8ae8",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851b08416ae39812896e94b8ae8",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "18ca9d5EU5R1AhVKPR1cm0",
+            "name": "Eartheater"
+          }
+        ]
+      },
+      "songlink": {
+        "pageUrl": "https://album.link/s/6NjXeIwjKdVEkJHvom1m3x",
+        "entitiesByUniqueId": {
+          "BOOMPLAY_ALBUM::135644747": {
+            "id": "135644747",
+            "type": "album",
+            "title": "Heavenly Body: If I'm The Bottle You're The Message",
+            "artistName": "Eartheater",
+            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/07/13/0c30f689160e47ac81fa85e54537348cH1500W1500_464_464.jpg",
+            "thumbnailWidth": 464,
+            "thumbnailHeight": 464,
+            "apiProvider": "boomplay",
+            "platforms": [
+              "boomplay"
+            ]
+          },
+          "PANDORA_ALBUM::AL:65907401": {
+            "id": "AL:65907401",
+            "type": "album",
+            "title": "Heavenly Body: If I'm The Bottle You’re The Message",
+            "artistName": "Eartheater",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/21/31/86/f7/b426440b982e5a108a15dabc/_500W_500H.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "pandora",
+            "platforms": [
+              "pandora"
+            ]
+          },
+          "SPOTIFY_ALBUM::6NjXeIwjKdVEkJHvom1m3x": {
+            "id": "6NjXeIwjKdVEkJHvom1m3x",
+            "type": "album",
+            "title": "Heavenly Body: If I'm The Bottle You’re The Message",
+            "artistName": "Eartheater",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273b08416ae39812896e94b8ae8",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "spotify",
+            "platforms": [
+              "spotify"
+            ]
+          },
+          "TIDAL_ALBUM::520157571": {
+            "id": "520157571",
+            "type": "album",
+            "title": "Heavenly Body: If I'm The Bottle You’re The Message",
+            "artistName": "Eartheater",
+            "thumbnailUrl": "https://resources.tidal.com/images/76b4fa59/7330/4b40/8d7e/a97046a768b9/640x640.jpg",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "tidal",
+            "platforms": [
+              "tidal"
+            ]
+          },
+          "YANDEX_ALBUM::42843721": {
+            "id": "42843721",
+            "type": "album",
+            "title": "Heavenly Body: If I'm The Bottle You're The Message",
+            "artistName": "Eartheater",
+            "thumbnailUrl": "https://avatars.yandex.net/get-music-content/20322863/9f6ac9a7.a.42843721-1/600x600",
+            "thumbnailWidth": 600,
+            "thumbnailHeight": 600,
+            "apiProvider": "yandex",
+            "platforms": [
+              "yandex"
+            ]
+          }
+        },
+        "platforms": {
+          "spotify": "https://open.spotify.com/album/6NjXeIwjKdVEkJHvom1m3x",
+          "appleMusic": null,
+          "deezer": null,
+          "tidal": "https://listen.tidal.com/album/520157571",
+          "youtube": null,
+          "youtubeMusic": null,
+          "soundcloud": null,
+          "amazonMusic": null
+        }
+      },
+      "spotifySearchUrl": null
+    },
+    {
+      "artist": "Cry",
+      "album": "AD 140",
+      "label": "self-released",
+      "section": "dorasCorner",
+      "spotify": {
+        "id": "6lt2bfvAnSiNNxrs9gVdhC",
+        "name": "AD 140",
+        "url": "https://open.spotify.com/album/6lt2bfvAnSiNNxrs9gVdhC",
+        "release_date": "2026-07-17",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27377f8c96db59415d95a4588db",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0277f8c96db59415d95a4588db",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485177f8c96db59415d95a4588db",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "05wxYZkfx0YfyfYKHWJuji",
+            "name": "Cry"
+          }
+        ]
+      },
+      "songlink": {
+        "pageUrl": "https://album.link/s/6lt2bfvAnSiNNxrs9gVdhC",
+        "entitiesByUniqueId": {
+          "SPOTIFY_ALBUM::6lt2bfvAnSiNNxrs9gVdhC": {
+            "id": "6lt2bfvAnSiNNxrs9gVdhC",
+            "type": "album",
+            "title": "AD 140",
+            "artistName": "Cry",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b27377f8c96db59415d95a4588db",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "spotify",
+            "platforms": [
+              "spotify"
+            ]
+          },
+          "TIDAL_ALBUM::529999128": {
+            "id": "529999128",
+            "type": "album",
+            "title": "AD 140",
+            "artistName": "Cry",
+            "thumbnailUrl": "https://resources.tidal.com/images/c97d619d/3387/4d97/a242/99a718790551/640x640.jpg",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "tidal",
+            "platforms": [
+              "tidal"
+            ]
+          },
+          "YANDEX_ALBUM::42385014": {
+            "id": "42385014",
+            "type": "album",
+            "title": "AD 140",
+            "artistName": "Cry",
+            "thumbnailUrl": "https://avatars.yandex.net/get-music-content/17674835/4e840ef6.a.42385014-1/600x600",
+            "thumbnailWidth": 600,
+            "thumbnailHeight": 600,
+            "apiProvider": "yandex",
+            "platforms": [
+              "yandex"
+            ]
+          }
+        },
+        "platforms": {
+          "spotify": "https://open.spotify.com/album/6lt2bfvAnSiNNxrs9gVdhC",
+          "appleMusic": null,
+          "deezer": null,
+          "tidal": "https://listen.tidal.com/album/529999128",
           "youtube": null,
           "youtubeMusic": null,
           "soundcloud": null,
