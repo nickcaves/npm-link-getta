@@ -1,534 +1,423 @@
 {
-  "source": "https://www.npr.org/2026/07/31/nx-s1-5913359/new-music-friday-best-albums-july-31-2026",
-  "scrapedAt": "2026-07-31T20:53:49.514Z",
-  "date": "2026-07-31",
-  "title": "New Music Friday: The best albums out July 31",
-  "starting5": [
-    {
-      "artist": "The Durutti Column",
-      "album": "Renascent",
-      "label": "London"
-    },
-    {
-      "artist": "Arca",
-      "album": "XXXXX",
-      "label": "XL"
-    },
-    {
-      "artist": "DOMi & JD Beck",
-      "album": "WHO ASKED?",
-      "label": "Blue Note"
-    },
-    {
-      "artist": "Shearwater",
-      "album": "The New World",
-      "label": "Polyborus"
-    },
-    {
-      "artist": "MOLIY",
-      "album": "BADDIES ❤️ MOLIY",
-      "label": "Gamma"
-    }
-  ],
+  "source": "https://www.npr.org/2026/08/07/nx-s1-5922419/new-music-friday-best-albums-august-7-2026",
+  "scrapedAt": "2026-08-07T20:31:17.087Z",
+  "date": "2026-08-07",
+  "title": "New Music Friday: The best albums out Aug. 7",
+  "starting5": [],
   "lightningRound": [
     {
-      "artist": "Shaboozey",
-      "album": "The Outlaw Cherie Lee & Other Western Tales",
-      "label": "Empire"
+      "artist": "The Mountain Goats",
+      "album": "Days",
+      "label": "Cadmean Dawn"
     },
     {
-      "artist": "Perfect Person",
-      "album": "Some Kind of Life EP",
-      "label": "Nice"
+      "artist": "CEREMONY",
+      "album": "Tell Me Your Dream",
+      "label": "Relapse"
     },
     {
-      "artist": "Family Stereo",
-      "album": "The Thread",
-      "label": "Bella Union"
+      "artist": "Cletus Strap",
+      "album": "rappers suck.",
+      "label": "Tan Cressida"
     },
     {
-      "artist": "Wyatt Flores",
-      "album": "Scared of Heights",
-      "label": "Island"
+      "artist": "V/A",
+      "album": "Sittin' with Blaze",
+      "label": "Lost Art"
     },
     {
-      "artist": "Ed Askew",
-      "album": "The Final Painting",
-      "label": "Drag City"
+      "artist": "Roy Montgomery & Martha Skye Murphy",
+      "album": "Nebular",
+      "label": "AD 93"
     }
   ],
   "dorasCorner": [
     {
-      "artist": "sachi's mirror",
-      "album": "Talking in a Different Way",
-      "label": "Constellation Tatsu"
+      "artist": "god of war",
+      "album": "molly picture",
+      "label": "Julia's War"
     },
     {
-      "artist": "leo",
-      "album": "Cicaida Burnt",
-      "label": "Peak Oil"
+      "artist": "Roy Montgomery & Martha Skye",
+      "album": "Murphy Nebular",
+      "label": "AD 93"
     },
     {
-      "artist": "Dawuna",
-      "album": "African Family Laptop Musick",
-      "label": "True Panther"
+      "artist": "Ela Minus & Nick León",
+      "album": "qué les pasó a mis amigos? EP",
+      "label": "Smugglers Way"
     }
   ],
   "longList": {
-    "Rock/Alt/Indie": [
+    "Electronic/Out There": [
       {
-        "artist": "Shannon Lay",
-        "album": "Past The Veil",
-        "label": "All The Best"
+        "artist": "Hana Stretton",
+        "album": "tiarn",
+        "label": "Lima Limo"
       },
       {
-        "artist": "The Cleaners from Venus",
-        "album": "Beryl & Ruff Go Shopping",
-        "label": "The Cat Collects"
+        "artist": "John Carpenter",
+        "album": "Cathedral",
+        "label": "Sacred Bones"
       },
       {
-        "artist": "The Trashcan Sinatras",
-        "album": "Ever The Optimist",
-        "label": "TCS"
-      },
-      {
-        "artist": "Spike",
-        "album": "\"Spike\"",
-        "label": "Gob Nation"
-      },
-      {
-        "artist": "CD",
-        "album": "Ghost When The Rain Stops",
-        "label": "Born Losers"
-      },
-      {
-        "artist": "Cheekface",
-        "album": "Podium",
+        "artist": "Asian Glow",
+        "album": "Arin Cot",
         "label": "self-released"
       },
       {
-        "artist": "Crush Fund",
-        "album": "GO",
-        "label": "Lonely Ghost"
+        "artist": "imy3 & towhead",
+        "album": "imy3 & towhead",
+        "label": "Cherub Dream"
       },
       {
-        "artist": "Dead Meadow",
-        "album": "Foundlings",
-        "label": "Heavy Psych Sounds"
+        "artist": "abracadabra",
+        "album": "peel away EP",
+        "label": "Melodic"
       },
       {
-        "artist": "Evening Elephants, Wholeheartedly",
-        "album": "Terribly Sweet",
-        "label": "UMG"
+        "artist": "Beacon",
+        "album": "How drie a Cinder",
+        "label": "Apparent Movement"
       },
       {
-        "artist": "Michael Beach",
-        "album": "Live at Phoenix Central Park",
-        "label": "Poison City"
-      },
-      {
-        "artist": "Society",
-        "album": "Reign of Flies",
-        "label": "Under the Gun"
-      },
-      {
-        "artist": "Ulrika Spacek, EXPO",
-        "album": "REMIXED",
-        "label": "Full Time Hobby"
-      },
-      {
-        "artist": "Mopar Stars",
-        "album": "Official Researchers Of The NJ Devil",
-        "label": "K/perennial"
-      },
-      {
-        "artist": "Absolute Lilt",
-        "album": "Criostal EP",
-        "label": "PIAS"
-      },
-      {
-        "artist": "Bondo",
-        "album": "Bondo",
-        "label": "Solid Brass"
-      },
-      {
-        "artist": "Lucia & The Best Boys",
-        "album": "Picking Petals",
-        "label": "Communion"
-      },
-      {
-        "artist": "Michigander",
-        "album": "Over Before You Know It",
-        "label": "Thirty Tigers"
-      },
-      {
-        "artist": "Off Contact",
-        "album": "Can You?",
+        "artist": "Din of Celestial Birds",
+        "album": "Takeoffs & Landings",
         "label": "self-released"
       },
       {
-        "artist": "Opus Kink",
-        "album": "The Sweet Goodbye",
-        "label": "So"
+        "artist": "Lawrence English",
+        "album": "The Rest Is My Ghost",
+        "label": "Room40"
       },
       {
-        "artist": "The Darling Buds",
-        "album": "Same Sun / Same Sky",
-        "label": "Cherry Red"
+        "artist": "Megasound",
+        "album": "Megasound",
+        "label": "Don Giovanni"
       },
       {
-        "artist": "Ween",
-        "album": "12 Golden Country Greats (Deluxe Edition)",
-        "label": "Rhino"
+        "artist": "Nikki Nair",
+        "album": "The Sick Dimension EP",
+        "label": "dh2"
       },
       {
-        "artist": "Neo Boys",
-        "album": "Neo Boys",
-        "label": "Mississippi"
-      },
-      {
-        "artist": "Green Day",
-        "album": "NIMRODS (OST)",
-        "label": "Reprise"
-      },
-      {
-        "artist": "Rx Bandits",
-        "album": "...And The Battle Begun (20th Anniversary Re-Issue)",
-        "label": "Sargent"
-      },
-      {
-        "artist": "DICE",
-        "album": "I Thought The Altitude Would Make It Worth The View",
-        "label": "Tone City"
-      },
-      {
-        "artist": "Mallory Hawk",
-        "album": "Chinook",
+        "artist": "Reger",
+        "album": "FM-E",
         "label": "self-released"
       },
       {
-        "artist": "code blue",
-        "album": "code blue + Recharged!",
-        "label": "Nickel & Dime / Triple X"
+        "artist": "Sproton Layer",
+        "album": "Emit Time",
+        "label": "12XU"
       },
       {
-        "artist": "Prison",
-        "album": "Big Rigs on the BQE",
-        "label": "Drag City"
+        "artist": "Team Work",
+        "album": "Somebody's Gotta Do It",
+        "label": "Feel It"
       },
       {
-        "artist": "HINA",
-        "album": "Descending Dreams",
-        "label": "self-released"
-      },
-      {
-        "artist": "Nora Stanley",
-        "album": "Glass",
-        "label": "Worm"
-      },
-      {
-        "artist": "Joyeria",
-        "album": "Decay Decay Decay",
-        "label": "Dead Cactus"
+        "artist": "V/A",
+        "album": "Fully Nowhere: a World Resources archive",
+        "label": "World of Echo"
       }
     ],
     "Country/Folk/Americana": [
       {
-        "artist": "RYMAN",
-        "album": "Growing Pains",
-        "label": "Mom+Pop"
+        "artist": "Charlie Worsham",
+        "album": "Once Upon a Second Time Around",
+        "label": "Warner"
       },
       {
-        "artist": "Buffalo Trafic Jam",
-        "album": "Pictures of You",
-        "label": "Arista"
+        "artist": "Cimarron 615",
+        "album": "Same Sky",
+        "label": "Élan"
       },
       {
-        "artist": "J.P. Reali",
-        "album": "Grateful Blues",
-        "label": "Reali"
-      },
-      {
-        "artist": "Tucker Wetmore",
-        "album": "Sunburn Mixtape",
-        "label": "Back Blocks Music/MCA/Mercury"
-      },
-      {
-        "artist": "GA-20 with Charlie Musselwhite",
-        "album": "BLUES NOW",
+        "artist": "Corb Lund",
+        "album": "Dark Horses",
         "label": "New West"
-      }
-    ],
-    "Electronic/Out There": [
-      {
-        "artist": "Rose Keeler-Schaffeler",
-        "album": "Universal Language",
-        "label": "Magic Hollow"
       },
       {
-        "artist": "Grandma Love",
-        "album": "Grandma Love",
-        "label": "Constellation Tatsu"
+        "artist": "Rowena Wise",
+        "album": "Bad Things Feel Good*",
+        "label": "Beloved"
       },
       {
-        "artist": "Kade Young",
-        "album": "Gravity EP",
-        "label": "Local Action"
-      },
-      {
-        "artist": "Stones",
-        "album": "Taro Odoriko EP",
-        "label": "Rhythm Section International"
-      },
-      {
-        "artist": "Be3e",
-        "album": "Nightlight",
-        "label": "self-released"
-      },
-      {
-        "artist": "Byron The Aquarius",
-        "album": "ORGASMANIA",
-        "label": "Skylax"
-      },
-      {
-        "artist": "daisy* (fka BABii)",
-        "album": "daisy*",
-        "label": "self-released"
-      },
-      {
-        "artist": "James Bangura",
-        "album": "Jack Sermon EP",
-        "label": "Shall Not Fade"
-      },
-      {
-        "artist": "Sun City Girls",
-        "album": "Cloaven Theatre / That Old Western",
-        "label": "Three Lobed"
-      },
-      {
-        "artist": "Sir Richard Bishop",
-        "album": "Hillbilly Erotica",
-        "label": "Drag City"
-      },
-      {
-        "artist": "H. Takahashi",
-        "album": "Body Trip (Remixed & Remastered)",
-        "label": "Constellation Tatsu"
-      },
-      {
-        "artist": "Jesse Draxler",
-        "album": "Tongue of Angels",
-        "label": "Federal Prisoner"
-      },
-      {
-        "artist": "Patrick Belaga",
-        "album": "Solar Calf",
-        "label": "PAN"
-      },
-      {
-        "artist": "Steve Rachmad",
-        "album": "Light and Time",
-        "label": "Dekmantel"
-      },
-      {
-        "artist": "Eleh",
-        "album": "Floating Frequencies/Intuitive Synthesis 1",
-        "label": "Important"
-      },
-      {
-        "artist": "Shadow Child",
-        "album": "DNA EP",
-        "label": "London"
-      },
-      {
-        "artist": "Megafang",
-        "album": "FOG ABS.",
-        "label": "self-released"
-      },
-      {
-        "artist": "Arrumar",
-        "album": "Xa Humba",
-        "label": "QEONE"
+        "artist": "Red Shahan",
+        "album": "Hard Land",
+        "label": "Make Wake/Lemon Pepper"
       }
     ],
     "Global": [
       {
-        "artist": "Amanar De Kidal",
-        "album": "Kel Tamasheq",
-        "label": "Sahel Sounds"
+        "artist": "Picheolin",
+        "album": "吉BOARD(Gilboard)",
+        "label": "PLEDIS"
       },
       {
-        "artist": "Kabza De Small",
-        "album": "Tutu",
-        "label": "Sony Africa"
+        "artist": "Alfonso Soliano",
+        "album": "Tiga Trombone",
+        "label": "Audible Beauty 001"
       },
       {
-        "artist": "Davido",
-        "album": "Oriadé",
-        "label": "Sony"
+        "artist": "Johari Salleh",
+        "album": "Jazz Dari Angkasapuri",
+        "label": "Audible Beauty"
       },
       {
-        "artist": "Francisca Valenzuela",
-        "album": "MALDITA",
-        "label": "Frantastic"
+        "artist": "Karol G",
+        "album": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "label": "Interscope"
       }
     ],
     "Jazz": [
       {
-        "artist": "Isaiah Collier",
-        "album": "JOY EP",
+        "artist": "Adrian Younge, Joyce Moreno, Tutty Moreno",
+        "album": "Joyce e Tutty Moreno JID027",
+        "label": "Jazz Is Dead"
+      },
+      {
+        "artist": "Dinner Party",
+        "album": "Whatchu Bringing?",
+        "label": "EMPIRE"
+      },
+      {
+        "artist": "Edena Gardens",
+        "album": "Quintessence",
+        "label": "El Paraiso"
+      },
+      {
+        "artist": "Kokoroko",
+        "album": "Tempos Difíceis Sempre Passam EP",
         "label": "Brownswood"
       },
       {
-        "artist": "Terri Lyne Carrington & Social Science",
-        "album": "Trip the Night Fantastic",
-        "label": "Candid"
+        "artist": "Somi",
+        "album": "What Does It Take to Bloom?",
+        "label": "Salon Africana"
+      },
+      {
+        "artist": "V/A",
+        "album": "The Zarabanda Variations",
+        "label": "Carrier"
+      },
+      {
+        "artist": "Vince Guaraldi, It's the Great Pumpkin",
+        "album": "Charlie Brown (60th Anniversary Reissue)",
+        "label": "Craft"
       }
     ],
     "Pop": [
       {
-        "artist": "Ariana Grande",
-        "album": "petal",
-        "label": "Republic"
+        "artist": "FLO",
+        "album": "Therapy at the Club",
+        "label": "EMI"
       },
       {
-        "artist": "HAYLA",
-        "album": "DARK",
-        "label": "Believe"
+        "artist": "María Isabel",
+        "album": "Miss Me Much?",
+        "label": "Nuevo Rico / Sony Latin"
       },
       {
-        "artist": "Hayley Law",
-        "album": "Last Summer",
-        "label": "Goodkid"
+        "artist": "Role Model",
+        "album": "Chuck Timely & The Hourglass",
+        "label": "Interscope"
+      },
+      {
+        "artist": "Stray Kids",
+        "album": "This & That",
+        "label": "Universal"
+      },
+      {
+        "artist": "The Pussycat Dolls",
+        "album": "PCD (Extended Tracklist Edition)",
+        "label": "Many Hats"
       }
     ],
     "R&B/Soul": [
       {
-        "artist": "Patchwork Inc.",
-        "album": "More Patchwork EP",
-        "label": "EMPIRE"
+        "artist": "Dionne Warwick",
+        "album": "DWuets",
+        "label": "Elliott"
       },
       {
-        "artist": "Cautious Clay",
-        "album": "The Hours: High Noon",
-        "label": "Concord"
+        "artist": "Fana Hues",
+        "album": "Catch n' Release EP",
+        "label": "self-released"
       },
       {
-        "artist": "Jacquees",
-        "album": "Mood 2",
-        "label": "Cash Money"
-      },
-      {
-        "artist": "Orgone",
-        "album": "New You (Reissue)",
-        "label": "Colemine"
-      },
-      {
-        "artist": "Isaiah Falls",
-        "album": "LVRS Paradise: SIDE B",
-        "label": "LVRS ONLY"
+        "artist": "Q",
+        "album": "DO YOU SEE ME?",
+        "label": "Columbia/Boy Meets Euphoria"
       }
     ],
     "Rap/Hip-Hop": [
       {
-        "artist": "Homeboy Sandman & Jack Splash",
-        "album": "Resonance Frequency",
-        "label": "Soulspazm"
+        "artist": "Jon Keith",
+        "album": "AND FLY",
+        "label": "Alienz Alive"
       },
       {
-        "artist": "NoCap",
-        "album": "Heaven on Mars",
-        "label": "Atlantic"
+        "artist": "Nino Paid",
+        "album": "Somewhere Over The Rainbow",
+        "label": "Signal/Columbia"
       },
       {
-        "artist": "BBYKOBE",
-        "album": "P**** PINK",
-        "label": "Warner"
+        "artist": "Lil Uzi Vert",
+        "album": "Almost Forever",
+        "label": "Roc Nation"
       },
       {
-        "artist": "J.Stone",
-        "album": "Minor Setbacc Major Comebacc",
-        "label": "25/8 No Breaks"
+        "artist": "Inspectah Deck",
+        "album": "Dragon's Breath Urban",
+        "label": "Icon/DNA"
+      }
+    ],
+    "Rock/Alt/Indie": [
+      {
+        "artist": "Absolute Grey",
+        "album": "CBGB's 1985",
+        "label": "Heyday Again"
+      },
+      {
+        "artist": "Alex G & Paul Buchanan",
+        "album": "Teenage Sex and Death at Camp Miasma",
+        "label": "Original Motion Picture Score"
+      },
+      {
+        "artist": "Andy Crofts",
+        "album": "Melody Boy",
+        "label": "Colorama"
+      },
+      {
+        "artist": "Art Feynman",
+        "album": "Orphans",
+        "label": "Western Vinyl"
+      },
+      {
+        "artist": "Blums",
+        "album": "Sunk Cost Fantasy",
+        "label": "Take Care"
+      },
+      {
+        "artist": "Citizen",
+        "album": "Halcyon Blues",
+        "label": "Run For Cover"
+      },
+      {
+        "artist": "DMA'S",
+        "album": "DMA'S",
+        "label": "Wonderlick"
+      },
+      {
+        "artist": "Jane Weaver",
+        "album": "Like An Aspen Leaf / Seven Day Smile / Cherlokalate (Reissues)",
+        "label": "Fire"
+      },
+      {
+        "artist": "Keyside",
+        "album": "Keyside",
+        "label": "Modern Sky"
+      },
+      {
+        "artist": "Lee Bains",
+        "album": "Free South 2025",
+        "label": "Don Giovanni"
+      },
+      {
+        "artist": "maya ongaku",
+        "album": "Nothing Space Music",
+        "label": "Guruguru Brain"
+      },
+      {
+        "artist": "mclusky",
+        "album": "My Pain and Sadness Is More Sad and Painful Than Yours (Reissue)",
+        "label": "Too Pure"
+      },
+      {
+        "artist": "Slow Fiction",
+        "album": "dollhouse",
+        "label": "Tight Knit"
+      },
+      {
+        "artist": "Sunken Cages",
+        "album": "Neram Pularumbol (As The Dawn Breaks)",
+        "label": "Mahorka"
+      },
+      {
+        "artist": "The Anchoress",
+        "album": "As We Once Were",
+        "label": "Last Night From Glasgow"
+      },
+      {
+        "artist": "Uh Huh Her",
+        "album": "Nocturnes: Redux",
+        "label": "Kill Rock Stars"
+      },
+      {
+        "artist": "wave to earth",
+        "album": "bad pieces",
+        "label": "WAVY"
+      },
+      {
+        "artist": "Why Bother?",
+        "album": "Beyond Step One",
+        "label": "Feel It"
+      },
+      {
+        "artist": "Xandria",
+        "album": "Eclipse (Deluxe Edition)",
+        "label": "Napalm"
       }
     ]
   },
   "allAlbums": [
     {
-      "artist": "The Durutti Column",
-      "album": "Renascent",
-      "label": "London",
-      "section": "starting5"
-    },
-    {
-      "artist": "Arca",
-      "album": "XXXXX",
-      "label": "XL",
-      "section": "starting5"
-    },
-    {
-      "artist": "DOMi & JD Beck",
-      "album": "WHO ASKED?",
-      "label": "Blue Note",
-      "section": "starting5"
-    },
-    {
-      "artist": "Shearwater",
-      "album": "The New World",
-      "label": "Polyborus",
-      "section": "starting5"
-    },
-    {
-      "artist": "MOLIY",
-      "album": "BADDIES ❤️ MOLIY",
-      "label": "Gamma",
-      "section": "starting5"
-    },
-    {
-      "artist": "Shaboozey",
-      "album": "The Outlaw Cherie Lee & Other Western Tales",
-      "label": "Empire",
+      "artist": "The Mountain Goats",
+      "album": "Days",
+      "label": "Cadmean Dawn",
       "section": "lightningRound"
     },
     {
-      "artist": "Perfect Person",
-      "album": "Some Kind of Life EP",
-      "label": "Nice",
+      "artist": "CEREMONY",
+      "album": "Tell Me Your Dream",
+      "label": "Relapse",
       "section": "lightningRound"
     },
     {
-      "artist": "Family Stereo",
-      "album": "The Thread",
-      "label": "Bella Union",
+      "artist": "Cletus Strap",
+      "album": "rappers suck.",
+      "label": "Tan Cressida",
       "section": "lightningRound"
     },
     {
-      "artist": "Wyatt Flores",
-      "album": "Scared of Heights",
-      "label": "Island",
+      "artist": "V/A",
+      "album": "Sittin' with Blaze",
+      "label": "Lost Art",
       "section": "lightningRound"
     },
     {
-      "artist": "Ed Askew",
-      "album": "The Final Painting",
-      "label": "Drag City",
+      "artist": "Roy Montgomery & Martha Skye Murphy",
+      "album": "Nebular",
+      "label": "AD 93",
       "section": "lightningRound"
     },
     {
-      "artist": "sachi's mirror",
-      "album": "Talking in a Different Way",
-      "label": "Constellation Tatsu",
+      "artist": "god of war",
+      "album": "molly picture",
+      "label": "Julia's War",
       "section": "dorasCorner"
     },
     {
-      "artist": "leo",
-      "album": "Cicaida Burnt",
-      "label": "Peak Oil",
+      "artist": "Roy Montgomery & Martha Skye",
+      "album": "Murphy Nebular",
+      "label": "AD 93",
       "section": "dorasCorner"
     },
     {
-      "artist": "Dawuna",
-      "album": "African Family Laptop Musick",
-      "label": "True Panther",
+      "artist": "Ela Minus & Nick León",
+      "album": "qué les pasó a mis amigos? EP",
+      "label": "Smugglers Way",
       "section": "dorasCorner"
     }
   ]

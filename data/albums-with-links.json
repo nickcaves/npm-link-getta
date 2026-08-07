@@ -1,53 +1,53 @@
 {
-  "source": "https://www.npr.org/2026/07/31/nx-s1-5913359/new-music-friday-best-albums-july-31-2026",
-  "scrapedAt": "2026-07-31T20:53:49.514Z",
-  "date": "2026-07-31",
-  "title": "New Music Friday: The best albums out July 31",
-  "total": 13,
+  "source": "https://www.npr.org/2026/08/07/nx-s1-5922419/new-music-friday-best-albums-august-7-2026",
+  "scrapedAt": "2026-08-07T20:31:17.087Z",
+  "date": "2026-08-07",
+  "title": "New Music Friday: The best albums out Aug. 7",
+  "total": 8,
   "albums": [
     {
-      "artist": "The Durutti Column",
-      "album": "Renascent",
-      "label": "London",
-      "section": "starting5",
+      "artist": "The Mountain Goats",
+      "album": "Days",
+      "label": "Cadmean Dawn",
+      "section": "lightningRound",
       "spotify": {
-        "id": "5YocvK2G7GuMDS1YHX51YV",
-        "name": "Renascent",
-        "url": "https://open.spotify.com/album/5YocvK2G7GuMDS1YHX51YV",
-        "release_date": "2026-07-31",
+        "id": "4ZQoBXedhDE2cpJE7MGslJ",
+        "name": "Days",
+        "url": "https://open.spotify.com/album/4ZQoBXedhDE2cpJE7MGslJ",
+        "release_date": "2026-08-07",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27306863efd26b96b3d1b7e43eb",
+            "url": "https://i.scdn.co/image/ab67616d0000b273b19e9ef5657be6ba9af870cd",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0206863efd26b96b3d1b7e43eb",
+            "url": "https://i.scdn.co/image/ab67616d00001e02b19e9ef5657be6ba9af870cd",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485106863efd26b96b3d1b7e43eb",
+            "url": "https://i.scdn.co/image/ab67616d00004851b19e9ef5657be6ba9af870cd",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "7fh7bwX9qV60tLxxsp9bTe",
-            "name": "The Durutti Column"
+            "id": "3hyGGjxu73JuzBa757H6R5",
+            "name": "The Mountain Goats"
           }
         ]
       },
       "songlink": {
-        "pageUrl": "https://album.link/s/5YocvK2G7GuMDS1YHX51YV",
+        "pageUrl": "https://album.link/s/4ZQoBXedhDE2cpJE7MGslJ",
         "entitiesByUniqueId": {
-          "BANDCAMP_ALBUM::2011814777": {
-            "id": "2011814777",
+          "BANDCAMP_ALBUM::478677296": {
+            "id": "478677296",
             "type": "album",
-            "title": "Renascent",
-            "artistName": "The Durutti Column",
-            "thumbnailUrl": "https://f4.bcbits.com/img/a1936769431_5.jpg",
+            "title": "Days",
+            "artistName": "the Mountain Goats",
+            "thumbnailUrl": "https://f4.bcbits.com/img/a1160899523_5.jpg",
             "thumbnailWidth": 700,
             "thumbnailHeight": 700,
             "apiProvider": "bandcamp",
@@ -55,25 +55,12 @@
               "bandcamp"
             ]
           },
-          "BOOMPLAY_ALBUM::136721379": {
-            "id": "136721379",
+          "PANDORA_ALBUM::AL:64886600": {
+            "id": "AL:64886600",
             "type": "album",
-            "title": "Renascent",
-            "artistName": "The Durutti Column",
-            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/07/28/3a6a311780f547aa9a9a9579e88ff7fdH1500W1500_464_464.jpg",
-            "thumbnailWidth": 464,
-            "thumbnailHeight": 464,
-            "apiProvider": "boomplay",
-            "platforms": [
-              "boomplay"
-            ]
-          },
-          "PANDORA_ALBUM::AL:65351766": {
-            "id": "AL:65351766",
-            "type": "album",
-            "title": "Renascent",
-            "artistName": "The Durutti Column",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/20/9b/60/5f/0f9a413985d70e2148782021/_500W_500H.jpg",
+            "title": "Days",
+            "artistName": "The Mountain Goats",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/df/3b/9e/fd/31ff46ada4237f19ec2bbd18/_500W_500H.jpg",
             "thumbnailWidth": 500,
             "thumbnailHeight": 500,
             "apiProvider": "pandora",
@@ -81,12 +68,12 @@
               "pandora"
             ]
           },
-          "SPOTIFY_ALBUM::5YocvK2G7GuMDS1YHX51YV": {
-            "id": "5YocvK2G7GuMDS1YHX51YV",
+          "SPOTIFY_ALBUM::4ZQoBXedhDE2cpJE7MGslJ": {
+            "id": "4ZQoBXedhDE2cpJE7MGslJ",
             "type": "album",
-            "title": "Renascent",
-            "artistName": "The Durutti Column",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b27306863efd26b96b3d1b7e43eb",
+            "title": "Days",
+            "artistName": "The Mountain Goats",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273b19e9ef5657be6ba9af870cd",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "spotify",
@@ -94,12 +81,12 @@
               "spotify"
             ]
           },
-          "TIDAL_ALBUM::517089791": {
-            "id": "517089791",
+          "TIDAL_ALBUM::514983945": {
+            "id": "514983945",
             "type": "album",
-            "title": "Renascent",
-            "artistName": "The Durutti Column",
-            "thumbnailUrl": "https://resources.tidal.com/images/5ac605ed/efff/4f8c/84c5/c2afa97e976e/640x640.jpg",
+            "title": "Days",
+            "artistName": "The Mountain Goats",
+            "thumbnailUrl": "https://resources.tidal.com/images/48c28fdb/13d3/4c15/909a/d33ef0cb6853/640x640.jpg",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "tidal",
@@ -109,10 +96,10 @@
           }
         },
         "platforms": {
-          "spotify": "https://open.spotify.com/album/5YocvK2G7GuMDS1YHX51YV",
+          "spotify": "https://open.spotify.com/album/4ZQoBXedhDE2cpJE7MGslJ",
           "appleMusic": null,
           "deezer": null,
-          "tidal": "https://listen.tidal.com/album/517089791",
+          "tidal": "https://listen.tidal.com/album/514983945",
           "youtube": null,
           "youtubeMusic": null,
           "soundcloud": null,
@@ -122,61 +109,48 @@
       "spotifySearchUrl": null
     },
     {
-      "artist": "Arca",
-      "album": "XXXXX",
-      "label": "XL",
-      "section": "starting5",
+      "artist": "CEREMONY",
+      "album": "Tell Me Your Dream",
+      "label": "Relapse",
+      "section": "lightningRound",
       "spotify": {
-        "id": "5L4HUwPtyxAoW27leVlZql",
-        "name": "XXXXX",
-        "url": "https://open.spotify.com/album/5L4HUwPtyxAoW27leVlZql",
-        "release_date": "2026-07-31",
+        "id": "1kTGPhQpZfXDaqKMorgpn7",
+        "name": "Tell Me Your Dream",
+        "url": "https://open.spotify.com/album/1kTGPhQpZfXDaqKMorgpn7",
+        "release_date": "2026-08-07",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273eb871f7f6c95f4dcb7f2f995",
+            "url": "https://i.scdn.co/image/ab67616d0000b273eca1b38e2a86aa3215e3bcdb",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02eb871f7f6c95f4dcb7f2f995",
+            "url": "https://i.scdn.co/image/ab67616d00001e02eca1b38e2a86aa3215e3bcdb",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851eb871f7f6c95f4dcb7f2f995",
+            "url": "https://i.scdn.co/image/ab67616d00004851eca1b38e2a86aa3215e3bcdb",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "4SQdUpG4f7UbkJG3cJ2Iyj",
-            "name": "Arca"
+            "id": "5n3811iYeaFM01gSJMQuRH",
+            "name": "Ceremony"
           }
         ]
       },
       "songlink": {
-        "pageUrl": "https://album.link/s/5L4HUwPtyxAoW27leVlZql",
+        "pageUrl": "https://album.link/s/1kTGPhQpZfXDaqKMorgpn7",
         "entitiesByUniqueId": {
-          "BOOMPLAY_ALBUM::136351316": {
-            "id": "136351316",
+          "PANDORA_ALBUM::AL:66422519": {
+            "id": "AL:66422519",
             "type": "album",
-            "title": "XXXXX",
-            "artistName": "Arca",
-            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/07/23/22a0793609c54ca09223ba1ace505d17H1500W1500_464_464.png",
-            "thumbnailWidth": 464,
-            "thumbnailHeight": 464,
-            "apiProvider": "boomplay",
-            "platforms": [
-              "boomplay"
-            ]
-          },
-          "PANDORA_ALBUM::AL:68471369": {
-            "id": "AL:68471369",
-            "type": "album",
-            "title": "XXXXX",
-            "artistName": "Arca",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/16/ec/fd/d6/2b32496c9ed50d12492729f8/_500W_500H.jpg",
+            "title": "Tell Me Your Dream",
+            "artistName": "Ceremony",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/21/78/33/58/b70849d587b43af0afc829f6/_500W_500H.jpg",
             "thumbnailWidth": 500,
             "thumbnailHeight": 500,
             "apiProvider": "pandora",
@@ -184,12 +158,12 @@
               "pandora"
             ]
           },
-          "SPOTIFY_ALBUM::5L4HUwPtyxAoW27leVlZql": {
-            "id": "5L4HUwPtyxAoW27leVlZql",
+          "SPOTIFY_ALBUM::1kTGPhQpZfXDaqKMorgpn7": {
+            "id": "1kTGPhQpZfXDaqKMorgpn7",
             "type": "album",
-            "title": "XXXXX",
-            "artistName": "Arca",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273eb871f7f6c95f4dcb7f2f995",
+            "title": "Tell Me Your Dream",
+            "artistName": "Ceremony",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273eca1b38e2a86aa3215e3bcdb",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "spotify",
@@ -197,12 +171,325 @@
               "spotify"
             ]
           },
-          "TIDAL_ALBUM::530604926": {
-            "id": "530604926",
+          "TIDAL_ALBUM::523996325": {
+            "id": "523996325",
             "type": "album",
-            "title": "XXXXX",
-            "artistName": "Arca",
-            "thumbnailUrl": "https://resources.tidal.com/images/00a7be3d/766b/4f64/8e3f/b88df2889bba/640x640.jpg",
+            "title": "Tell Me Your Dream",
+            "artistName": "Ceremony",
+            "thumbnailUrl": "https://resources.tidal.com/images/e3a319b5/516d/4207/b332/13d6699e23f4/640x640.jpg",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "tidal",
+            "platforms": [
+              "tidal"
+            ]
+          }
+        },
+        "platforms": {
+          "spotify": "https://open.spotify.com/album/1kTGPhQpZfXDaqKMorgpn7",
+          "appleMusic": null,
+          "deezer": null,
+          "tidal": "https://listen.tidal.com/album/523996325",
+          "youtube": null,
+          "youtubeMusic": null,
+          "soundcloud": null,
+          "amazonMusic": null
+        }
+      },
+      "spotifySearchUrl": null
+    },
+    {
+      "artist": "Cletus Strap",
+      "album": "rappers suck.",
+      "label": "Tan Cressida",
+      "section": "lightningRound",
+      "spotify": {
+        "id": "1KHqbsSe89bLcJ85l27w5r",
+        "name": "rappers suck.",
+        "url": "https://open.spotify.com/album/1KHqbsSe89bLcJ85l27w5r",
+        "release_date": "2026-08-07",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2739c44338491a0f90d95465778",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e029c44338491a0f90d95465778",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048519c44338491a0f90d95465778",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "00vh4ZUVEvrbagTVh7gf15",
+            "name": "Cletus Strap"
+          }
+        ]
+      },
+      "songlink": {
+        "pageUrl": "https://album.link/s/1KHqbsSe89bLcJ85l27w5r",
+        "entitiesByUniqueId": {
+          "BOOMPLAY_ALBUM::137216884": {
+            "id": "137216884",
+            "type": "album",
+            "title": "rappers suck.",
+            "artistName": "Cletus Strap",
+            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/08/03/e006d658754d4342ae893982006a27ccH1500W1500_464_464.png",
+            "thumbnailWidth": 464,
+            "thumbnailHeight": 464,
+            "apiProvider": "boomplay",
+            "platforms": [
+              "boomplay"
+            ]
+          },
+          "PANDORA_ALBUM::AL:67377187": {
+            "id": "AL:67377187",
+            "type": "album",
+            "title": "rappers suck.",
+            "artistName": "Cletus Strap",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/ef/31/65/f2/02884965981af267a582b1f5/_500W_500H.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "pandora",
+            "platforms": [
+              "pandora"
+            ]
+          },
+          "SPOTIFY_ALBUM::1KHqbsSe89bLcJ85l27w5r": {
+            "id": "1KHqbsSe89bLcJ85l27w5r",
+            "type": "album",
+            "title": "rappers suck.",
+            "artistName": "Cletus Strap",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2739c44338491a0f90d95465778",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "spotify",
+            "platforms": [
+              "spotify"
+            ]
+          },
+          "TIDAL_ALBUM::533600019": {
+            "id": "533600019",
+            "type": "album",
+            "title": "rappers suck.",
+            "artistName": "Cletus Strap",
+            "thumbnailUrl": "https://resources.tidal.com/images/580f87a7/aac7/4fd1/af56/e3b9227a0ec9/640x640.jpg",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "tidal",
+            "platforms": [
+              "tidal"
+            ]
+          }
+        },
+        "platforms": {
+          "spotify": "https://open.spotify.com/album/1KHqbsSe89bLcJ85l27w5r",
+          "appleMusic": null,
+          "deezer": null,
+          "tidal": "https://listen.tidal.com/album/533600019",
+          "youtube": null,
+          "youtubeMusic": null,
+          "soundcloud": null,
+          "amazonMusic": null
+        }
+      },
+      "spotifySearchUrl": null
+    },
+    {
+      "artist": "V/A",
+      "album": "Sittin' with Blaze",
+      "label": "Lost Art",
+      "section": "lightningRound",
+      "spotify": {
+        "id": "2AMnPQ4ybyQPi88xZjek9A",
+        "name": "Sittin' With Blaze, A Tribute to Blaze Foley",
+        "url": "https://open.spotify.com/album/2AMnPQ4ybyQPi88xZjek9A",
+        "release_date": "2026-08-07",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273010770884e49883f852376e5",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02010770884e49883f852376e5",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851010770884e49883f852376e5",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists"
+          }
+        ]
+      },
+      "songlink": {
+        "pageUrl": "https://album.link/s/2AMnPQ4ybyQPi88xZjek9A",
+        "entitiesByUniqueId": {
+          "BOOMPLAY_ALBUM::132622900": {
+            "id": "132622900",
+            "type": "album",
+            "title": "Sittin' With Blaze, A Tribute to Blaze Foley",
+            "artistName": "Various Artists",
+            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/07/27/0658656f59b744369ffce489908fb833H1400W1400_464_464.jpg",
+            "thumbnailWidth": 464,
+            "thumbnailHeight": 464,
+            "apiProvider": "boomplay",
+            "platforms": [
+              "boomplay"
+            ]
+          },
+          "PANDORA_ALBUM::AL:67007888": {
+            "id": "AL:67007888",
+            "type": "album",
+            "title": "Sittin' With Blaze, A Tribute to Blaze Foley",
+            "artistName": "Various Artists",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/b6/a6/1a/55/341e4b64a8f40e426e1b1dba/_500W_500H.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "pandora",
+            "platforms": [
+              "pandora"
+            ]
+          },
+          "SPOTIFY_ALBUM::2AMnPQ4ybyQPi88xZjek9A": {
+            "id": "2AMnPQ4ybyQPi88xZjek9A",
+            "type": "album",
+            "title": "Sittin' With Blaze, A Tribute to Blaze Foley",
+            "artistName": "Various Artists",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273010770884e49883f852376e5",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "spotify",
+            "platforms": [
+              "spotify"
+            ]
+          },
+          "TIDAL_ALBUM::529729392": {
+            "id": "529729392",
+            "type": "album",
+            "title": "Sittin' With Blaze, A Tribute to Blaze Foley",
+            "artistName": "Various Artists",
+            "thumbnailUrl": "https://resources.tidal.com/images/ba062b96/cf16/4997/8ffb/aad1a742874d/640x640.jpg",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "tidal",
+            "platforms": [
+              "tidal"
+            ]
+          }
+        },
+        "platforms": {
+          "spotify": "https://open.spotify.com/album/2AMnPQ4ybyQPi88xZjek9A",
+          "appleMusic": null,
+          "deezer": null,
+          "tidal": "https://listen.tidal.com/album/529729392",
+          "youtube": null,
+          "youtubeMusic": null,
+          "soundcloud": null,
+          "amazonMusic": null
+        }
+      },
+      "spotifySearchUrl": null
+    },
+    {
+      "artist": "Roy Montgomery & Martha Skye Murphy",
+      "album": "Nebular",
+      "label": "AD 93",
+      "section": "lightningRound",
+      "spotify": {
+        "id": "1dv09O3lu7XgJ5Y6rUFfLp",
+        "name": "Nebular",
+        "url": "https://open.spotify.com/album/1dv09O3lu7XgJ5Y6rUFfLp",
+        "release_date": "2026-08-07",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273344773a3393e05da3634b908",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02344773a3393e05da3634b908",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851344773a3393e05da3634b908",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "0g15pJOpHp0RMVScdAXzLH",
+            "name": "Roy Montgomery"
+          },
+          {
+            "id": "4riGlB4lkpPDgJscJid8FA",
+            "name": "Martha Skye Murphy"
+          }
+        ]
+      },
+      "songlink": {
+        "pageUrl": "https://album.link/s/1dv09O3lu7XgJ5Y6rUFfLp",
+        "entitiesByUniqueId": {
+          "BOOMPLAY_ALBUM::136887633": {
+            "id": "136887633",
+            "type": "album",
+            "title": "Nebular",
+            "artistName": "Roy Montgomery",
+            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/07/30/17c6da4bfdab45e2ad4ea6d6a65cbad1H1500W1500_464_464.png",
+            "thumbnailWidth": 464,
+            "thumbnailHeight": 464,
+            "apiProvider": "boomplay",
+            "platforms": [
+              "boomplay"
+            ]
+          },
+          "PANDORA_ALBUM::AL:68633498": {
+            "id": "AL:68633498",
+            "type": "album",
+            "title": "Nebular",
+            "artistName": "Roy Montgomery & Martha Skye Murphy",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/7b/db/0a/1c/fa6a4b629c0fe2b7e461d05d/_500W_500H.jpg",
+            "thumbnailWidth": 500,
+            "thumbnailHeight": 500,
+            "apiProvider": "pandora",
+            "platforms": [
+              "pandora"
+            ]
+          },
+          "SPOTIFY_ALBUM::1dv09O3lu7XgJ5Y6rUFfLp": {
+            "id": "1dv09O3lu7XgJ5Y6rUFfLp",
+            "type": "album",
+            "title": "Nebular",
+            "artistName": "Roy Montgomery, Martha Skye Murphy",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273344773a3393e05da3634b908",
+            "thumbnailWidth": 640,
+            "thumbnailHeight": 640,
+            "apiProvider": "spotify",
+            "platforms": [
+              "spotify"
+            ]
+          },
+          "TIDAL_ALBUM::543596630": {
+            "id": "543596630",
+            "type": "album",
+            "title": "Nebular",
+            "artistName": "Roy Montgomery, Martha Skye Murphy",
+            "thumbnailUrl": "https://resources.tidal.com/images/d0dfec0e/b86d/4e0e/b596/8af161ba8d3f/640x640.jpg",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "tidal",
@@ -210,12 +497,12 @@
               "tidal"
             ]
           },
-          "YANDEX_ALBUM::43213580": {
-            "id": "43213580",
+          "YANDEX_ALBUM::43321540": {
+            "id": "43321540",
             "type": "album",
-            "title": "XXXXX",
-            "artistName": "Arca",
-            "thumbnailUrl": "https://avatars.yandex.net/get-music-content/20712233/b334c10e.a.43213580-1/600x600",
+            "title": "Nebular",
+            "artistName": "Roy Montgomery, Martha Skye Murphy",
+            "thumbnailUrl": "https://avatars.yandex.net/get-music-content/17740720/11c7f511.a.43321540-1/600x600",
             "thumbnailWidth": 600,
             "thumbnailHeight": 600,
             "apiProvider": "yandex",
@@ -225,10 +512,10 @@
           }
         },
         "platforms": {
-          "spotify": "https://open.spotify.com/album/5L4HUwPtyxAoW27leVlZql",
+          "spotify": "https://open.spotify.com/album/1dv09O3lu7XgJ5Y6rUFfLp",
           "appleMusic": null,
           "deezer": null,
-          "tidal": "https://listen.tidal.com/album/530604926",
+          "tidal": "https://listen.tidal.com/album/543596630",
           "youtube": null,
           "youtubeMusic": null,
           "soundcloud": null,
@@ -238,831 +525,56 @@
       "spotifySearchUrl": null
     },
     {
-      "artist": "DOMi & JD Beck",
-      "album": "WHO ASKED?",
-      "label": "Blue Note",
-      "section": "starting5",
-      "spotify": {
-        "id": "3nehlgwYexH9ovS9fohKs1",
-        "name": "WHO ASKED?",
-        "url": "https://open.spotify.com/album/3nehlgwYexH9ovS9fohKs1",
-        "release_date": "2026-07-31",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2735d27391b4a07d4e845145c15",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e025d27391b4a07d4e845145c15",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048515d27391b4a07d4e845145c15",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "4UpA1KitN1RgIZVyWDbZ0U",
-            "name": "DOMi & JD BECK"
-          }
-        ]
-      },
-      "songlink": {
-        "pageUrl": "https://album.link/s/3nehlgwYexH9ovS9fohKs1",
-        "entitiesByUniqueId": {
-          "BOOMPLAY_ALBUM::136946381": {
-            "id": "136946381",
-            "type": "album",
-            "title": "WHO ASKED?",
-            "artistName": "DOMi & JD BECK",
-            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/07/31/a803326c2f284d8e9aa7c677789a4800H1400W1400_464_464.jpg",
-            "thumbnailWidth": 464,
-            "thumbnailHeight": 464,
-            "apiProvider": "boomplay",
-            "platforms": [
-              "boomplay"
-            ]
-          },
-          "PANDORA_ALBUM::AL:68487234": {
-            "id": "AL:68487234",
-            "type": "album",
-            "title": "WHO ASKED?",
-            "artistName": "DOMi & JD BECK",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/35/56/35/66/4fb84cb1b53a9af7905cb8dd/_500W_500H.jpg",
-            "thumbnailWidth": 500,
-            "thumbnailHeight": 500,
-            "apiProvider": "pandora",
-            "platforms": [
-              "pandora"
-            ]
-          },
-          "SPOTIFY_ALBUM::3nehlgwYexH9ovS9fohKs1": {
-            "id": "3nehlgwYexH9ovS9fohKs1",
-            "type": "album",
-            "title": "WHO ASKED?",
-            "artistName": "DOMi & JD BECK",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2735d27391b4a07d4e845145c15",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "spotify",
-            "platforms": [
-              "spotify"
-            ]
-          },
-          "TIDAL_ALBUM::545897180": {
-            "id": "545897180",
-            "type": "album",
-            "title": "WHO ASKED?",
-            "artistName": "DOMi & JD BECK",
-            "thumbnailUrl": "https://resources.tidal.com/images/61c2d3b3/eaa6/4c4d/81f7/a6581b2de247/640x640.jpg",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "tidal",
-            "platforms": [
-              "tidal"
-            ]
-          },
-          "YANDEX_ALBUM::43316856": {
-            "id": "43316856",
-            "type": "album",
-            "title": "WHO ASKED?",
-            "artistName": "DOMi & JD BECK",
-            "thumbnailUrl": "https://",
-            "thumbnailWidth": 600,
-            "thumbnailHeight": 600,
-            "apiProvider": "yandex",
-            "platforms": [
-              "yandex"
-            ]
-          }
-        },
-        "platforms": {
-          "spotify": "https://open.spotify.com/album/3nehlgwYexH9ovS9fohKs1",
-          "appleMusic": null,
-          "deezer": null,
-          "tidal": "https://listen.tidal.com/album/545897180",
-          "youtube": null,
-          "youtubeMusic": null,
-          "soundcloud": null,
-          "amazonMusic": null
-        }
-      },
-      "spotifySearchUrl": null
-    },
-    {
-      "artist": "Shearwater",
-      "album": "The New World",
-      "label": "Polyborus",
-      "section": "starting5",
-      "spotify": {
-        "id": "3iclJkPCwRcI0DlTMB23Wz",
-        "name": "The New World",
-        "url": "https://open.spotify.com/album/3iclJkPCwRcI0DlTMB23Wz",
-        "release_date": "2026-07-31",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2733329aaf3098be832ee7fef71",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e023329aaf3098be832ee7fef71",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048513329aaf3098be832ee7fef71",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "0CoiIc6ZLBvF9Cjmb1Cj49",
-            "name": "Shearwater"
-          }
-        ]
-      },
-      "songlink": {
-        "pageUrl": "https://album.link/s/3iclJkPCwRcI0DlTMB23Wz",
-        "entitiesByUniqueId": {
-          "BANDCAMP_ALBUM::3951925364": {
-            "id": "3951925364",
-            "type": "album",
-            "title": "The New World (2026)",
-            "artistName": "Shearwater",
-            "thumbnailUrl": "https://f4.bcbits.com/img/a3164930904_5.jpg",
-            "thumbnailWidth": 700,
-            "thumbnailHeight": 700,
-            "apiProvider": "bandcamp",
-            "platforms": [
-              "bandcamp"
-            ]
-          },
-          "BOOMPLAY_ALBUM::128451516": {
-            "id": "128451516",
-            "type": "album",
-            "title": "The New World",
-            "artistName": "Shearwater",
-            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/03/26/c0b613a4ad6943c0aa9ea126a4ba5f3aH1500W1500_464_464.jpg",
-            "thumbnailWidth": 464,
-            "thumbnailHeight": 464,
-            "apiProvider": "boomplay",
-            "platforms": [
-              "boomplay"
-            ]
-          },
-          "PANDORA_ALBUM::AL:63912417": {
-            "id": "AL:63912417",
-            "type": "album",
-            "title": "The New World",
-            "artistName": "Shearwater",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/26/80/04/fa/3dc741c2b5f2a981ffce5642/_500W_500H.jpg",
-            "thumbnailWidth": 500,
-            "thumbnailHeight": 500,
-            "apiProvider": "pandora",
-            "platforms": [
-              "pandora"
-            ]
-          },
-          "SPOTIFY_ALBUM::3iclJkPCwRcI0DlTMB23Wz": {
-            "id": "3iclJkPCwRcI0DlTMB23Wz",
-            "type": "album",
-            "title": "The New World",
-            "artistName": "Shearwater",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2733329aaf3098be832ee7fef71",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "spotify",
-            "platforms": [
-              "spotify"
-            ]
-          },
-          "TIDAL_ALBUM::510347486": {
-            "id": "510347486",
-            "type": "album",
-            "title": "The New World",
-            "artistName": "Shearwater",
-            "thumbnailUrl": "https://resources.tidal.com/images/3c21bfc8/3666/4f7f/883b/ca92a257a3fb/640x640.jpg",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "tidal",
-            "platforms": [
-              "tidal"
-            ]
-          }
-        },
-        "platforms": {
-          "spotify": "https://open.spotify.com/album/3iclJkPCwRcI0DlTMB23Wz",
-          "appleMusic": null,
-          "deezer": null,
-          "tidal": "https://listen.tidal.com/album/510347486",
-          "youtube": null,
-          "youtubeMusic": null,
-          "soundcloud": null,
-          "amazonMusic": null
-        }
-      },
-      "spotifySearchUrl": null
-    },
-    {
-      "artist": "MOLIY",
-      "album": "BADDIES ❤️ MOLIY",
-      "label": "Gamma",
-      "section": "starting5",
-      "spotify": {
-        "id": "0WIupJhXxVtHKJBDll1d0l",
-        "name": "BADDIES <3 MOLIY",
-        "url": "https://open.spotify.com/album/0WIupJhXxVtHKJBDll1d0l",
-        "release_date": "2026-07-31",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273178fce867e3d0c4849d026c3",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02178fce867e3d0c4849d026c3",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851178fce867e3d0c4849d026c3",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "2hVWBpjLW4Q7fboYz2pVYK",
-            "name": "MOLIY"
-          }
-        ]
-      },
-      "songlink": {
-        "pageUrl": "https://album.link/s/0WIupJhXxVtHKJBDll1d0l",
-        "entitiesByUniqueId": {
-          "BOOMPLAY_ALBUM::136323350": {
-            "id": "136323350",
-            "type": "album",
-            "title": "BADDIES <3 MOLIY",
-            "artistName": "MOLIY",
-            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/07/29/d6b7d90533ff41ec9fcd17b4eb50db97H1500W1500_464_464.jpg",
-            "thumbnailWidth": 464,
-            "thumbnailHeight": 464,
-            "apiProvider": "boomplay",
-            "platforms": [
-              "boomplay"
-            ]
-          },
-          "PANDORA_ALBUM::AL:68458423": {
-            "id": "AL:68458423",
-            "type": "album",
-            "title": "BADDIES <3 MOLIY",
-            "artistName": "MOLIY",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/f1/b9/4d/93/44844e14986e8f984bc94e16/_500W_500H.jpg",
-            "thumbnailWidth": 500,
-            "thumbnailHeight": 500,
-            "apiProvider": "pandora",
-            "platforms": [
-              "pandora"
-            ]
-          },
-          "SPOTIFY_ALBUM::0WIupJhXxVtHKJBDll1d0l": {
-            "id": "0WIupJhXxVtHKJBDll1d0l",
-            "type": "album",
-            "title": "BADDIES <3 MOLIY",
-            "artistName": "MOLIY",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273178fce867e3d0c4849d026c3",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "spotify",
-            "platforms": [
-              "spotify"
-            ]
-          },
-          "TIDAL_ALBUM::545540006": {
-            "id": "545540006",
-            "type": "album",
-            "title": "BADDIES <3 MOLIY",
-            "artistName": "MOLIY",
-            "thumbnailUrl": "https://resources.tidal.com/images/bcbd13d8/4294/45e3/a807/40f53521b713/640x640.jpg",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "tidal",
-            "platforms": [
-              "tidal"
-            ]
-          }
-        },
-        "platforms": {
-          "spotify": "https://open.spotify.com/album/0WIupJhXxVtHKJBDll1d0l",
-          "appleMusic": null,
-          "deezer": null,
-          "tidal": "https://listen.tidal.com/album/545540006",
-          "youtube": null,
-          "youtubeMusic": null,
-          "soundcloud": null,
-          "amazonMusic": null
-        }
-      },
-      "spotifySearchUrl": null
-    },
-    {
-      "artist": "Shaboozey",
-      "album": "The Outlaw Cherie Lee & Other Western Tales",
-      "label": "Empire",
-      "section": "lightningRound",
-      "spotify": {
-        "id": "6t5UZQ2C2Rt6PtBA7GPbE2",
-        "name": "The Outlaw Cherie Lee & Other Western Tales",
-        "url": "https://open.spotify.com/album/6t5UZQ2C2Rt6PtBA7GPbE2",
-        "release_date": "2026-07-31",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273b36d630ae6524bd0d4163c1b",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02b36d630ae6524bd0d4163c1b",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851b36d630ae6524bd0d4163c1b",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "3y2cIKLjiOlp1Np37WiUdH",
-            "name": "Shaboozey"
-          }
-        ]
-      },
-      "songlink": {
-        "pageUrl": "https://album.link/s/6t5UZQ2C2Rt6PtBA7GPbE2",
-        "entitiesByUniqueId": {
-          "AMAZON_ALBUM::B0GXX11JRR": {
-            "id": "B0GXX11JRR",
-            "type": "album",
-            "title": "The Outlaw Cherie Lee & Other Western Tales",
-            "artistName": "Shaboozey",
-            "thumbnailUrl": "https://m.media-amazon.com/images/I/51+swxG0oyL.jpg",
-            "thumbnailWidth": 500,
-            "thumbnailHeight": 500,
-            "apiProvider": "amazon",
-            "platforms": [
-              "amazonMusic",
-              "amazonStore"
-            ]
-          },
-          "BOOMPLAY_ALBUM::136775802": {
-            "id": "136775802",
-            "type": "album",
-            "title": "The Outlaw Cherie Lee & Other Western Tales",
-            "artistName": "Shaboozey",
-            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/07/29/3db7c6aa8d1349d1a9d2187e4719877dH1500W1500_464_464.jpg",
-            "thumbnailWidth": 464,
-            "thumbnailHeight": 464,
-            "apiProvider": "boomplay",
-            "platforms": [
-              "boomplay"
-            ]
-          },
-          "PANDORA_ALBUM::AL:68592504": {
-            "id": "AL:68592504",
-            "type": "album",
-            "title": "The Outlaw Cherie Lee & Other Western Tales",
-            "artistName": "Shaboozey",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/c0/9f/c0/c9/805a4f56b33ffddf06379ecd/_500W_500H.jpg",
-            "thumbnailWidth": 500,
-            "thumbnailHeight": 500,
-            "apiProvider": "pandora",
-            "platforms": [
-              "pandora"
-            ]
-          },
-          "SPOTIFY_ALBUM::6t5UZQ2C2Rt6PtBA7GPbE2": {
-            "id": "6t5UZQ2C2Rt6PtBA7GPbE2",
-            "type": "album",
-            "title": "The Outlaw Cherie Lee & Other Western Tales",
-            "artistName": "Shaboozey",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273b36d630ae6524bd0d4163c1b",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "spotify",
-            "platforms": [
-              "spotify"
-            ]
-          },
-          "YANDEX_ALBUM::43315786": {
-            "id": "43315786",
-            "type": "album",
-            "title": "The Outlaw Cherie Lee & Other Western Tales",
-            "artistName": "Shaboozey",
-            "thumbnailUrl": "https://avatars.yandex.net/get-music-content/20164422/4a154dc5.a.43315786-1/600x600",
-            "thumbnailWidth": 600,
-            "thumbnailHeight": 600,
-            "apiProvider": "yandex",
-            "platforms": [
-              "yandex"
-            ]
-          }
-        },
-        "platforms": {
-          "spotify": "https://open.spotify.com/album/6t5UZQ2C2Rt6PtBA7GPbE2",
-          "appleMusic": null,
-          "deezer": null,
-          "tidal": null,
-          "youtube": null,
-          "youtubeMusic": null,
-          "soundcloud": null,
-          "amazonMusic": "https://music.amazon.com/albums/B0GXX11JRR"
-        }
-      },
-      "spotifySearchUrl": null
-    },
-    {
-      "artist": "Perfect Person",
-      "album": "Some Kind of Life EP",
-      "label": "Nice",
-      "section": "lightningRound",
-      "spotify": null,
-      "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Perfect%20Person%20Some%20Kind%20of%20Life%20EP"
-    },
-    {
-      "artist": "Family Stereo",
-      "album": "The Thread",
-      "label": "Bella Union",
-      "section": "lightningRound",
-      "spotify": {
-        "id": "2yDs0bKdbaac5JHKZZuKC9",
-        "name": "The Thread",
-        "url": "https://open.spotify.com/album/2yDs0bKdbaac5JHKZZuKC9",
-        "release_date": "2026-07-31",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273d97ab5cb17ecdc7ccf54470c",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02d97ab5cb17ecdc7ccf54470c",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851d97ab5cb17ecdc7ccf54470c",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "4HUyWDdAowsbbtJQQEn5RT",
-            "name": "Family Stereo"
-          }
-        ]
-      },
-      "songlink": {
-        "pageUrl": "https://album.link/s/2yDs0bKdbaac5JHKZZuKC9",
-        "entitiesByUniqueId": {
-          "BOOMPLAY_ALBUM::126494656": {
-            "id": "126494656",
-            "type": "album",
-            "title": "The Thread",
-            "artistName": "Family Stereo",
-            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/02/24/33eba791e9d54433acd95fb9b9c6708fH1500W1500_464_464.jpg",
-            "thumbnailWidth": 464,
-            "thumbnailHeight": 464,
-            "apiProvider": "boomplay",
-            "platforms": [
-              "boomplay"
-            ]
-          },
-          "PANDORA_ALBUM::AL:61989944": {
-            "id": "AL:61989944",
-            "type": "album",
-            "title": "The Thread",
-            "artistName": "Family Stereo",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/e0/58/4d/a7/83084e67a94fbe8a960e4116/_500W_500H.jpg",
-            "thumbnailWidth": 500,
-            "thumbnailHeight": 500,
-            "apiProvider": "pandora",
-            "platforms": [
-              "pandora"
-            ]
-          },
-          "SPOTIFY_ALBUM::2yDs0bKdbaac5JHKZZuKC9": {
-            "id": "2yDs0bKdbaac5JHKZZuKC9",
-            "type": "album",
-            "title": "The Thread",
-            "artistName": "Family Stereo",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273d97ab5cb17ecdc7ccf54470c",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "spotify",
-            "platforms": [
-              "spotify"
-            ]
-          },
-          "TIDAL_ALBUM::501955832": {
-            "id": "501955832",
-            "type": "album",
-            "title": "The Thread",
-            "artistName": "Family Stereo",
-            "thumbnailUrl": "https://resources.tidal.com/images/e596c097/6590/4c8c/b803/a087d6b8cbdc/640x640.jpg",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "tidal",
-            "platforms": [
-              "tidal"
-            ]
-          },
-          "YANDEX_ALBUM::40839230": {
-            "id": "40839230",
-            "type": "album",
-            "title": "The Thread",
-            "artistName": "Family Stereo",
-            "thumbnailUrl": "https://avatars.yandex.net/get-music-content/17659240/413a00fd.a.40839230-1/600x600",
-            "thumbnailWidth": 600,
-            "thumbnailHeight": 600,
-            "apiProvider": "yandex",
-            "platforms": [
-              "yandex"
-            ]
-          }
-        },
-        "platforms": {
-          "spotify": "https://open.spotify.com/album/2yDs0bKdbaac5JHKZZuKC9",
-          "appleMusic": null,
-          "deezer": null,
-          "tidal": "https://listen.tidal.com/album/501955832",
-          "youtube": null,
-          "youtubeMusic": null,
-          "soundcloud": null,
-          "amazonMusic": null
-        }
-      },
-      "spotifySearchUrl": null
-    },
-    {
-      "artist": "Wyatt Flores",
-      "album": "Scared of Heights",
-      "label": "Island",
-      "section": "lightningRound",
-      "spotify": {
-        "id": "61CFqeJifhs79fAlKuNNm5",
-        "name": "Scared of Heights",
-        "url": "https://open.spotify.com/album/61CFqeJifhs79fAlKuNNm5",
-        "release_date": "2026-07-31",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273df0008a5b7dad2eae3ba7732",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02df0008a5b7dad2eae3ba7732",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851df0008a5b7dad2eae3ba7732",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "46lEQmDJLJeyltECJYJv1Y",
-            "name": "Wyatt Flores"
-          }
-        ]
-      },
-      "songlink": {
-        "pageUrl": "https://album.link/s/61CFqeJifhs79fAlKuNNm5",
-        "entitiesByUniqueId": {
-          "BOOMPLAY_ALBUM::136946386": {
-            "id": "136946386",
-            "type": "album",
-            "title": "Scared of Heights",
-            "artistName": "Wyatt Flores",
-            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/07/31/c5563dd714b541bca88075426435f982H1400W1400_464_464.jpg",
-            "thumbnailWidth": 464,
-            "thumbnailHeight": 464,
-            "apiProvider": "boomplay",
-            "platforms": [
-              "boomplay"
-            ]
-          },
-          "PANDORA_ALBUM::AL:68497252": {
-            "id": "AL:68497252",
-            "type": "album",
-            "title": "Scared of Heights",
-            "artistName": "Wyatt Flores",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/23/92/93/85/9c724fb2995657cf1ffea595/_500W_500H.jpg",
-            "thumbnailWidth": 500,
-            "thumbnailHeight": 500,
-            "apiProvider": "pandora",
-            "platforms": [
-              "pandora"
-            ]
-          },
-          "SPOTIFY_ALBUM::61CFqeJifhs79fAlKuNNm5": {
-            "id": "61CFqeJifhs79fAlKuNNm5",
-            "type": "album",
-            "title": "Scared of Heights",
-            "artistName": "Wyatt Flores",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273fb58c3ed00a584b2e1e0dcae",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "spotify",
-            "platforms": [
-              "spotify"
-            ]
-          }
-        },
-        "platforms": {
-          "spotify": "https://open.spotify.com/album/61CFqeJifhs79fAlKuNNm5",
-          "appleMusic": null,
-          "deezer": null,
-          "tidal": null,
-          "youtube": null,
-          "youtubeMusic": null,
-          "soundcloud": null,
-          "amazonMusic": null
-        }
-      },
-      "spotifySearchUrl": null
-    },
-    {
-      "artist": "Ed Askew",
-      "album": "The Final Painting",
-      "label": "Drag City",
-      "section": "lightningRound",
-      "spotify": {
-        "id": "1Tui0qkeJc6IVYGJaAjuMl",
-        "name": "The Final Painting",
-        "url": "https://open.spotify.com/album/1Tui0qkeJc6IVYGJaAjuMl",
-        "release_date": "2026-07-31",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273e059fd1131a474ab2558057e",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02e059fd1131a474ab2558057e",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851e059fd1131a474ab2558057e",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "6dkNBFTQ8DdQpfYxmi3kIB",
-            "name": "Ed Askew"
-          }
-        ]
-      },
-      "songlink": {
-        "pageUrl": "https://album.link/s/1Tui0qkeJc6IVYGJaAjuMl",
-        "entitiesByUniqueId": {
-          "BANDCAMP_ALBUM::3269046767": {
-            "id": "3269046767",
-            "type": "album",
-            "title": "The Final Painting",
-            "artistName": "Ed Askew",
-            "thumbnailUrl": "https://f4.bcbits.com/img/a4042559368_5.jpg",
-            "thumbnailWidth": 700,
-            "thumbnailHeight": 700,
-            "apiProvider": "bandcamp",
-            "platforms": [
-              "bandcamp"
-            ]
-          },
-          "PANDORA_ALBUM::AL:65325816": {
-            "id": "AL:65325816",
-            "type": "album",
-            "title": "The Final Painting",
-            "artistName": "Ed Askew",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/11/64/5d/3b/de3541f598aee8e31ca03457/_500W_500H.jpg",
-            "thumbnailWidth": 500,
-            "thumbnailHeight": 500,
-            "apiProvider": "pandora",
-            "platforms": [
-              "pandora"
-            ]
-          },
-          "SPOTIFY_ALBUM::1Tui0qkeJc6IVYGJaAjuMl": {
-            "id": "1Tui0qkeJc6IVYGJaAjuMl",
-            "type": "album",
-            "title": "The Final Painting",
-            "artistName": "Ed Askew",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273e059fd1131a474ab2558057e",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "spotify",
-            "platforms": [
-              "spotify"
-            ]
-          },
-          "TIDAL_ALBUM::516956219": {
-            "id": "516956219",
-            "type": "album",
-            "title": "The Final Painting",
-            "artistName": "Ed Askew",
-            "thumbnailUrl": "https://resources.tidal.com/images/890af49b/f402/44e7/a66c/8f28468d6f5f/640x640.jpg",
-            "thumbnailWidth": 640,
-            "thumbnailHeight": 640,
-            "apiProvider": "tidal",
-            "platforms": [
-              "tidal"
-            ]
-          }
-        },
-        "platforms": {
-          "spotify": "https://open.spotify.com/album/1Tui0qkeJc6IVYGJaAjuMl",
-          "appleMusic": null,
-          "deezer": null,
-          "tidal": "https://listen.tidal.com/album/516956219",
-          "youtube": null,
-          "youtubeMusic": null,
-          "soundcloud": null,
-          "amazonMusic": null
-        }
-      },
-      "spotifySearchUrl": null
-    },
-    {
-      "artist": "sachi's mirror",
-      "album": "Talking in a Different Way",
-      "label": "Constellation Tatsu",
+      "artist": "god of war",
+      "album": "molly picture",
+      "label": "Julia's War",
       "section": "dorasCorner",
       "spotify": {
-        "id": "0hjA05v7dthapHoTCFsKm7",
-        "name": "Talking in a Different Way",
-        "url": "https://open.spotify.com/album/0hjA05v7dthapHoTCFsKm7",
-        "release_date": "2026-07-28",
+        "id": "5FBhw9VmY1xqmSXEW7sbzs",
+        "name": "molly picture",
+        "url": "https://open.spotify.com/album/5FBhw9VmY1xqmSXEW7sbzs",
+        "release_date": "2026-08-07",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273833e3c513c27589d493f16c2",
+            "url": "https://i.scdn.co/image/ab67616d0000b2731e0b63b8e3b609b5c1114bc8",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02833e3c513c27589d493f16c2",
+            "url": "https://i.scdn.co/image/ab67616d00001e021e0b63b8e3b609b5c1114bc8",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851833e3c513c27589d493f16c2",
+            "url": "https://i.scdn.co/image/ab67616d000048511e0b63b8e3b609b5c1114bc8",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "1IMkuXsIX04J0pESgnFX66",
-            "name": "sachi's mirror"
+            "id": "7o3wJo5yKVGHHkTojIZ7Xp",
+            "name": "god of war"
+          },
+          {
+            "id": "2VhTBaV2Io9AJe661MUTEj",
+            "name": "They Are Gutting a Body of Water"
+          },
+          {
+            "id": "17eGQ5SRFwIv2c8FsrQf8f",
+            "name": "Hooky"
           }
         ]
       },
       "songlink": {
-        "pageUrl": "https://album.link/s/0hjA05v7dthapHoTCFsKm7",
+        "pageUrl": "https://album.link/s/5FBhw9VmY1xqmSXEW7sbzs",
         "entitiesByUniqueId": {
-          "BOOMPLAY_ALBUM::134282295": {
-            "id": "134282295",
+          "PANDORA_ALBUM::AL:67581996": {
+            "id": "AL:67581996",
             "type": "album",
-            "title": "Talking in a Different Way",
-            "artistName": "sachi's mirror",
-            "thumbnailUrl": "https://source.boomplaymusic.com/group10/M00/06/24/fa0527b614a14b4981d4fb91a9391f67H1500W1500_464_464.jpg",
-            "thumbnailWidth": 464,
-            "thumbnailHeight": 464,
-            "apiProvider": "boomplay",
-            "platforms": [
-              "boomplay"
-            ]
-          },
-          "PANDORA_ALBUM::AL:67641143": {
-            "id": "AL:67641143",
-            "type": "album",
-            "title": "Talking in a Different Way",
-            "artistName": "sachi's mirror",
-            "thumbnailUrl": "https://content-images.p-cdn.com/images/51/b1/0c/59/76ae4382967c7d406849ee53/_500W_500H.jpg",
+            "title": "molly picture",
+            "artistName": "god of war, They Are Gutting a Body of Water & Hooky",
+            "thumbnailUrl": "https://content-images.p-cdn.com/images/a2/bb/e4/20/4cbd452c86c55f602994ad1f/_500W_500H.jpg",
             "thumbnailWidth": 500,
             "thumbnailHeight": 500,
             "apiProvider": "pandora",
@@ -1070,12 +582,12 @@
               "pandora"
             ]
           },
-          "SPOTIFY_ALBUM::0hjA05v7dthapHoTCFsKm7": {
-            "id": "0hjA05v7dthapHoTCFsKm7",
+          "SPOTIFY_ALBUM::5FBhw9VmY1xqmSXEW7sbzs": {
+            "id": "5FBhw9VmY1xqmSXEW7sbzs",
             "type": "album",
-            "title": "Talking in a Different Way",
-            "artistName": "sachi's mirror",
-            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b273833e3c513c27589d493f16c2",
+            "title": "molly picture",
+            "artistName": "god of war, They Are Gutting a Body of Water, Hooky",
+            "thumbnailUrl": "https://i.scdn.co/image/ab67616d0000b2731e0b63b8e3b609b5c1114bc8",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "spotify",
@@ -1083,12 +595,12 @@
               "spotify"
             ]
           },
-          "TIDAL_ALBUM::536239259": {
-            "id": "536239259",
+          "TIDAL_ALBUM::535611953": {
+            "id": "535611953",
             "type": "album",
-            "title": "Talking in a Different Way",
-            "artistName": "sachi's mirror",
-            "thumbnailUrl": "https://resources.tidal.com/images/930d99f2/21b1/4722/9870/325af1b597be/640x640.jpg",
+            "title": "molly picture",
+            "artistName": "god of war, They Are Gutting a Body of Water, Hooky",
+            "thumbnailUrl": "https://resources.tidal.com/images/3f5eab6b/da73/47e2/a083/526ad8ba864e/640x640.jpg",
             "thumbnailWidth": 640,
             "thumbnailHeight": 640,
             "apiProvider": "tidal",
@@ -1098,10 +610,10 @@
           }
         },
         "platforms": {
-          "spotify": "https://open.spotify.com/album/0hjA05v7dthapHoTCFsKm7",
+          "spotify": "https://open.spotify.com/album/5FBhw9VmY1xqmSXEW7sbzs",
           "appleMusic": null,
           "deezer": null,
-          "tidal": "https://listen.tidal.com/album/536239259",
+          "tidal": "https://listen.tidal.com/album/535611953",
           "youtube": null,
           "youtubeMusic": null,
           "soundcloud": null,
@@ -1111,22 +623,22 @@
       "spotifySearchUrl": null
     },
     {
-      "artist": "leo",
-      "album": "Cicaida Burnt",
-      "label": "Peak Oil",
+      "artist": "Roy Montgomery & Martha Skye",
+      "album": "Murphy Nebular",
+      "label": "AD 93",
       "section": "dorasCorner",
       "spotify": null,
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/leo%20Cicaida%20Burnt"
+      "spotifySearchUrl": "https://open.spotify.com/search/Roy%20Montgomery%20%26%20Martha%20Skye%20Murphy%20Nebular"
     },
     {
-      "artist": "Dawuna",
-      "album": "African Family Laptop Musick",
-      "label": "True Panther",
+      "artist": "Ela Minus & Nick León",
+      "album": "qué les pasó a mis amigos? EP",
+      "label": "Smugglers Way",
       "section": "dorasCorner",
       "spotify": null,
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Dawuna%20African%20Family%20Laptop%20Musick"
+      "spotifySearchUrl": "https://open.spotify.com/search/Ela%20Minus%20%26%20Nick%20Le%C3%B3n%20qu%C3%A9%20les%20pas%C3%B3%20a%20mis%20amigos%3F%20EP"
     }
   ]
 }
