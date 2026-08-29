@@ -1,277 +1,305 @@
 {
-  "source": "https://www.npr.org/2026/08/21/nx-s1-5939890/new-music-friday-best-albums-aug-21-2026",
-  "scrapedAt": "2026-08-21T20:14:52.438Z",
-  "date": "2026-08-21",
-  "title": "New Music Friday: The best albums out Aug. 21",
+  "source": "https://www.npr.org/2026/08/28/nx-s1-5946388/new-music-friday-the-best-albums-out-aug-28",
+  "scrapedAt": "2026-08-29T02:37:05.763Z",
+  "date": "2026-08-28",
+  "title": "New Music Friday: The best albums out Aug. 28",
   "total": 8,
   "albums": [
     {
-      "artist": "Rapsody",
-      "album": "God Gotta Afro & Gold Hoops",
-      "label": "Roc Nation",
+      "artist": "Billy Strings",
+      "album": "So Much For Goodbyes",
+      "label": "Reprise",
       "section": "lightningRound",
       "spotify": {
-        "id": "45rjczFntwfZ6Z4yPcqA36",
-        "name": "God Gotta Afro & Gold Hoops",
-        "url": "https://open.spotify.com/album/45rjczFntwfZ6Z4yPcqA36",
-        "release_date": "2026-08-21",
+        "id": "6tcLBCFSo3nmGDiYq6opGu",
+        "name": "So Much For Goodbyes",
+        "url": "https://open.spotify.com/album/6tcLBCFSo3nmGDiYq6opGu",
+        "release_date": "2026-08-28",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273e4e8533b346bb922cef0a283",
+            "url": "https://i.scdn.co/image/ab67616d0000b273dd3c67be3db87d7945f41c9d",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02e4e8533b346bb922cef0a283",
+            "url": "https://i.scdn.co/image/ab67616d00001e02dd3c67be3db87d7945f41c9d",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851e4e8533b346bb922cef0a283",
+            "url": "https://i.scdn.co/image/ab67616d00004851dd3c67be3db87d7945f41c9d",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "6NL31G53xThQXkFs7lDpL5",
-            "name": "Rapsody"
+            "id": "1ZN1c1qWEGZNX1pGeKCPpf",
+            "name": "Billy Strings"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Rapsody%20God%20Gotta%20Afro%20%26%20Gold%20Hoops"
+      "spotifySearchUrl": "https://open.spotify.com/search/Billy%20Strings%20So%20Much%20For%20Goodbyes"
     },
     {
-      "artist": "OK Cowgirl",
-      "album": "Rhinestone Cowgirl",
-      "label": "Easy Does It",
-      "section": "lightningRound",
-      "spotify": null,
-      "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/OK%20Cowgirl%20Rhinestone%20Cowgirl"
-    },
-    {
-      "artist": "Elanor Moss, The Knife",
-      "album": "The Needle",
-      "label": "Merge",
+      "artist": "Elephant Stone",
+      "album": "ASHA",
+      "label": "Little Cloud",
       "section": "lightningRound",
       "spotify": {
-        "id": "1AdsKirDq40xEEPn9LIN9P",
-        "name": "The Knife, The Needle",
-        "url": "https://open.spotify.com/album/1AdsKirDq40xEEPn9LIN9P",
-        "release_date": "2026-08-21",
+        "id": "2wtYOWfgcqWXOm9LFssf1V",
+        "name": "ASHA",
+        "url": "https://open.spotify.com/album/2wtYOWfgcqWXOm9LFssf1V",
+        "release_date": "2026-08-28",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273d76339289f137c23fd7bb2c8",
+            "url": "https://i.scdn.co/image/ab67616d0000b2735604ef24b532e8a830c7287c",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02d76339289f137c23fd7bb2c8",
+            "url": "https://i.scdn.co/image/ab67616d00001e025604ef24b532e8a830c7287c",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851d76339289f137c23fd7bb2c8",
+            "url": "https://i.scdn.co/image/ab67616d000048515604ef24b532e8a830c7287c",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "0zyFWHrZsZXBupeqrDkLtz",
-            "name": "Elanor Moss"
+            "id": "47bokO26f4LIt4zaAlCQwo",
+            "name": "Elephant Stone"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Elanor%20Moss%2C%20The%20Knife%20The%20Needle"
+      "spotifySearchUrl": "https://open.spotify.com/search/Elephant%20Stone%20ASHA"
     },
     {
-      "artist": "Julia Holter",
-      "album": "Materia",
-      "label": "Domino",
+      "artist": "Saul Williams",
+      "album": "Leap Life",
+      "label": "Big Dada",
       "section": "lightningRound",
       "spotify": {
-        "id": "4N18onGeiRu5uj3H7bSOl3",
-        "name": "Materia",
-        "url": "https://open.spotify.com/album/4N18onGeiRu5uj3H7bSOl3",
-        "release_date": "2026-08-21",
+        "id": "0P0KIq1skyp9fTuNXSZAoO",
+        "name": "Leap Life",
+        "url": "https://open.spotify.com/album/0P0KIq1skyp9fTuNXSZAoO",
+        "release_date": "2026-08-28",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27392ecc684b66e024ce255d58c",
+            "url": "https://i.scdn.co/image/ab67616d0000b273422cf3767b06041a7c279164",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0292ecc684b66e024ce255d58c",
+            "url": "https://i.scdn.co/image/ab67616d00001e02422cf3767b06041a7c279164",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485192ecc684b66e024ce255d58c",
+            "url": "https://i.scdn.co/image/ab67616d00004851422cf3767b06041a7c279164",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "0bsV0sUjnCuCTYOnNHQl3E",
-            "name": "Julia Holter"
+            "id": "11K0HIZKfdB6ez0VhIgxPm",
+            "name": "Saul Williams"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Julia%20Holter%20Materia"
+      "spotifySearchUrl": "https://open.spotify.com/search/Saul%20Williams%20Leap%20Life"
     },
     {
-      "artist": "The Cramps",
-      "album": "Gravest Gravy",
-      "label": "Vengeance",
+      "artist": "Tiny Habits",
+      "album": "Keepers",
+      "label": "Mom+Pop",
       "section": "lightningRound",
       "spotify": {
-        "id": "39Fpo660NxlPbsHri75C4R",
-        "name": "Gravest Gravy",
-        "url": "https://open.spotify.com/album/39Fpo660NxlPbsHri75C4R",
-        "release_date": "2026-08-21",
+        "id": "6NyCqxi70nSuUbEk8qu3ki",
+        "name": "Keepers",
+        "url": "https://open.spotify.com/album/6NyCqxi70nSuUbEk8qu3ki",
+        "release_date": "2026-08-28",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273291f9f8c43043e5f0fd402cd",
+            "url": "https://i.scdn.co/image/ab67616d0000b2737b60c4cec393962c6303395a",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02291f9f8c43043e5f0fd402cd",
+            "url": "https://i.scdn.co/image/ab67616d00001e027b60c4cec393962c6303395a",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851291f9f8c43043e5f0fd402cd",
+            "url": "https://i.scdn.co/image/ab67616d000048517b60c4cec393962c6303395a",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "4lYtGx5NZQJHsMyhHc5iz3",
-            "name": "The Cramps"
+            "id": "2QYdqWGgRorVkA8cJMMdrn",
+            "name": "Tiny Habits"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/The%20Cramps%20Gravest%20Gravy"
+      "spotifySearchUrl": "https://open.spotify.com/search/Tiny%20Habits%20Keepers"
     },
     {
-      "artist": "GB",
-      "album": "Herzsprung",
-      "label": "AD93",
+      "artist": "Liim",
+      "album": "A Sunflower Garden In Harlem Is Hard To Find",
+      "label": "three times LOUDER",
+      "section": "lightningRound",
+      "spotify": {
+        "id": "4D6P7yqmAavmi8MYG13jRe",
+        "name": "A Sunflower Garden In Harlem Is Hard To Find",
+        "url": "https://open.spotify.com/album/4D6P7yqmAavmi8MYG13jRe",
+        "release_date": "2026-08-28",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2730b580a983bb5a53fbf95e5f6",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e020b580a983bb5a53fbf95e5f6",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048510b580a983bb5a53fbf95e5f6",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "4WBs3HlXxMAqo8Yi6m1PCM",
+            "name": "Liim"
+          }
+        ]
+      },
+      "songlink": null,
+      "spotifySearchUrl": "https://open.spotify.com/search/Liim%20A%20Sunflower%20Garden%20In%20Harlem%20Is%20Hard%20To%20Find"
+    },
+    {
+      "artist": "Lex Walton",
+      "album": "ULTIMATE LOVE FOREVER",
+      "label": "Sub Pop",
       "section": "dorasCorner",
       "spotify": {
-        "id": "0bOMbuBlJbKyajSoFMJxf1",
-        "name": "Herzsprung",
-        "url": "https://open.spotify.com/album/0bOMbuBlJbKyajSoFMJxf1",
-        "release_date": "2026-08-21",
+        "id": "1HAX0TGlTlX3OPC3itekn7",
+        "name": "ULTIMATE LOVE FOREVER",
+        "url": "https://open.spotify.com/album/1HAX0TGlTlX3OPC3itekn7",
+        "release_date": "2026-08-26",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273355fe9cfb136e988e9700650",
+            "url": "https://i.scdn.co/image/ab67616d0000b273ebca125e12390615f8a725ac",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02355fe9cfb136e988e9700650",
+            "url": "https://i.scdn.co/image/ab67616d00001e02ebca125e12390615f8a725ac",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851355fe9cfb136e988e9700650",
+            "url": "https://i.scdn.co/image/ab67616d00004851ebca125e12390615f8a725ac",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "4YMJGenzGCHYz30PRdTJP8",
-            "name": "GB"
+            "id": "67pLmA3GVpK4P0bq11rQqa",
+            "name": "Lex Walton"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/GB%20Herzsprung"
+      "spotifySearchUrl": "https://open.spotify.com/search/Lex%20Walton%20ULTIMATE%20LOVE%20FOREVER"
     },
     {
-      "artist": "Tyondai Braxton",
-      "album": "Splayed Werks",
-      "label": "Erased Tapes",
+      "artist": "Cities Aviv",
+      "album": "Even Colder Spring",
+      "label": "Black Truffle",
       "section": "dorasCorner",
       "spotify": {
-        "id": "3gralcjkI8QCnIgCmlJ6RP",
-        "name": "Splayed Werks",
-        "url": "https://open.spotify.com/album/3gralcjkI8QCnIgCmlJ6RP",
-        "release_date": "2026-08-21",
+        "id": "4zqz0CmtPzxWriY0bTdvxg",
+        "name": "EVEN COLDER SPRING",
+        "url": "https://open.spotify.com/album/4zqz0CmtPzxWriY0bTdvxg",
+        "release_date": "2026-03-11",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2734636e0e93d9897bea8868c2c",
+            "url": "https://i.scdn.co/image/ab67616d0000b2738b4bbb83b851988fc930cc3a",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e024636e0e93d9897bea8868c2c",
+            "url": "https://i.scdn.co/image/ab67616d00001e028b4bbb83b851988fc930cc3a",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048514636e0e93d9897bea8868c2c",
+            "url": "https://i.scdn.co/image/ab67616d000048518b4bbb83b851988fc930cc3a",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "3LxogQGFWIVPpDWNOVlSzK",
-            "name": "Tyondai Braxton"
+            "id": "4m0HRALRlPxbZp5SwvktFX",
+            "name": "Cities Aviv"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Tyondai%20Braxton%20Splayed%20Werks"
+      "spotifySearchUrl": "https://open.spotify.com/search/Cities%20Aviv%20Even%20Colder%20Spring"
     },
     {
-      "artist": "James Ivy",
-      "album": "The Seams",
-      "label": "The Fader",
+      "artist": "Maripool",
+      "album": "Rotten Luck",
+      "label": "Smoking Room / Lost Wisdom",
       "section": "dorasCorner",
       "spotify": {
-        "id": "5i1STWes0AzzRgtk4K0Ydt",
-        "name": "The Seams",
-        "url": "https://open.spotify.com/album/5i1STWes0AzzRgtk4K0Ydt",
-        "release_date": "2026-08-21",
+        "id": "3cV5A0mjkxzYqxFyNzQQIN",
+        "name": "Rotten Luck",
+        "url": "https://open.spotify.com/album/3cV5A0mjkxzYqxFyNzQQIN",
+        "release_date": "2026-08-28",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27345e2eb0e4155837dc8a2751c",
+            "url": "https://i.scdn.co/image/ab67616d0000b273402d64cd9aba0f60c417d8fd",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0245e2eb0e4155837dc8a2751c",
+            "url": "https://i.scdn.co/image/ab67616d00001e02402d64cd9aba0f60c417d8fd",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485145e2eb0e4155837dc8a2751c",
+            "url": "https://i.scdn.co/image/ab67616d00004851402d64cd9aba0f60c417d8fd",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "7t8sK02zmZ9f6e6eJA9oSJ",
-            "name": "James Ivy"
+            "id": "2Lmop7bq7RxW1Ue2GQsgSf",
+            "name": "Maripool"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/James%20Ivy%20The%20Seams"
+      "spotifySearchUrl": "https://open.spotify.com/search/Maripool%20Rotten%20Luck"
     }
   ]
 }
