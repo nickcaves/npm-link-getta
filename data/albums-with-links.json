@@ -1,305 +1,461 @@
 {
-  "source": "https://www.npr.org/2026/08/28/nx-s1-5946388/new-music-friday-the-best-albums-out-aug-28",
-  "scrapedAt": "2026-08-29T02:37:05.763Z",
-  "date": "2026-08-28",
-  "title": "New Music Friday: The best albums out Aug. 28",
-  "total": 8,
+  "source": "https://www.npr.org/2026/09/04/nx-s1-5955477/new-music-friday-the-best-albums-out-sept-4",
+  "scrapedAt": "2026-09-04T21:57:16.675Z",
+  "date": "2026-09-04",
+  "title": "New Music Friday: The best albums out Sept. 4",
+  "total": 12,
   "albums": [
     {
-      "artist": "Billy Strings",
-      "album": "So Much For Goodbyes",
-      "label": "Reprise",
-      "section": "lightningRound",
+      "artist": "Rebecca Black",
+      "album": "Age of the Exhibitionist",
+      "label": "self-released",
+      "section": "starting5",
       "spotify": {
-        "id": "6tcLBCFSo3nmGDiYq6opGu",
-        "name": "So Much For Goodbyes",
-        "url": "https://open.spotify.com/album/6tcLBCFSo3nmGDiYq6opGu",
-        "release_date": "2026-08-28",
+        "id": "3x8qThM7qP41LYoEhVerfm",
+        "name": "Age of the Exhibitionist",
+        "url": "https://open.spotify.com/album/3x8qThM7qP41LYoEhVerfm",
+        "release_date": "2026-09-04",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273dd3c67be3db87d7945f41c9d",
+            "url": "https://i.scdn.co/image/ab67616d0000b2730de2fb7fcc6d57fb60f58b9a",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02dd3c67be3db87d7945f41c9d",
+            "url": "https://i.scdn.co/image/ab67616d00001e020de2fb7fcc6d57fb60f58b9a",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851dd3c67be3db87d7945f41c9d",
+            "url": "https://i.scdn.co/image/ab67616d000048510de2fb7fcc6d57fb60f58b9a",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "1ZN1c1qWEGZNX1pGeKCPpf",
-            "name": "Billy Strings"
+            "id": "3Vl9fyKMIdLMswk8ai3mm9",
+            "name": "Rebecca Black"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Billy%20Strings%20So%20Much%20For%20Goodbyes"
+      "spotifySearchUrl": "https://open.spotify.com/search/Rebecca%20Black%20Age%20of%20the%20Exhibitionist"
     },
     {
-      "artist": "Elephant Stone",
-      "album": "ASHA",
-      "label": "Little Cloud",
-      "section": "lightningRound",
+      "artist": "Paris Paloma",
+      "album": "The Fatal Flaw",
+      "label": "Nettwerk",
+      "section": "starting5",
       "spotify": {
-        "id": "2wtYOWfgcqWXOm9LFssf1V",
-        "name": "ASHA",
-        "url": "https://open.spotify.com/album/2wtYOWfgcqWXOm9LFssf1V",
-        "release_date": "2026-08-28",
+        "id": "4e7FifiO1GkpqGefuXS2JD",
+        "name": "The Fatal Flaw",
+        "url": "https://open.spotify.com/album/4e7FifiO1GkpqGefuXS2JD",
+        "release_date": "2026-09-04",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2735604ef24b532e8a830c7287c",
+            "url": "https://i.scdn.co/image/ab67616d0000b27314ab0693a5e5d8a1fc422a2c",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e025604ef24b532e8a830c7287c",
+            "url": "https://i.scdn.co/image/ab67616d00001e0214ab0693a5e5d8a1fc422a2c",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048515604ef24b532e8a830c7287c",
+            "url": "https://i.scdn.co/image/ab67616d0000485114ab0693a5e5d8a1fc422a2c",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "47bokO26f4LIt4zaAlCQwo",
-            "name": "Elephant Stone"
+            "id": "2EXpthNgSeTDeX8nGwxppp",
+            "name": "Paris Paloma"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Elephant%20Stone%20ASHA"
+      "spotifySearchUrl": "https://open.spotify.com/search/Paris%20Paloma%20The%20Fatal%20Flaw"
     },
     {
-      "artist": "Saul Williams",
-      "album": "Leap Life",
-      "label": "Big Dada",
-      "section": "lightningRound",
+      "artist": "Sharp Pins",
+      "album": "Mod Mayday 23",
+      "label": "K Records",
+      "section": "starting5",
       "spotify": {
-        "id": "0P0KIq1skyp9fTuNXSZAoO",
-        "name": "Leap Life",
-        "url": "https://open.spotify.com/album/0P0KIq1skyp9fTuNXSZAoO",
-        "release_date": "2026-08-28",
+        "id": "010FIvBmUYfM9rrGfPXEKa",
+        "name": "Mod Mayday 23",
+        "url": "https://open.spotify.com/album/010FIvBmUYfM9rrGfPXEKa",
+        "release_date": "2026-09-04",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273422cf3767b06041a7c279164",
+            "url": "https://i.scdn.co/image/ab67616d0000b273f8b94d45a520aabe29d71205",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02422cf3767b06041a7c279164",
+            "url": "https://i.scdn.co/image/ab67616d00001e02f8b94d45a520aabe29d71205",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851422cf3767b06041a7c279164",
+            "url": "https://i.scdn.co/image/ab67616d00004851f8b94d45a520aabe29d71205",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "11K0HIZKfdB6ez0VhIgxPm",
-            "name": "Saul Williams"
+            "id": "0eTeMvSkCzEnLH4EgHhrzN",
+            "name": "Sharp Pins"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Saul%20Williams%20Leap%20Life"
+      "spotifySearchUrl": "https://open.spotify.com/search/Sharp%20Pins%20Mod%20Mayday%2023"
     },
     {
-      "artist": "Tiny Habits",
-      "album": "Keepers",
-      "label": "Mom+Pop",
-      "section": "lightningRound",
+      "artist": "1-800-MIKEY",
+      "album": "IN YUN",
+      "label": "Goner",
+      "section": "starting5",
       "spotify": {
-        "id": "6NyCqxi70nSuUbEk8qu3ki",
-        "name": "Keepers",
-        "url": "https://open.spotify.com/album/6NyCqxi70nSuUbEk8qu3ki",
-        "release_date": "2026-08-28",
+        "id": "15qaCrgUKuENh8Wt8dQoCD",
+        "name": "In Yun",
+        "url": "https://open.spotify.com/album/15qaCrgUKuENh8Wt8dQoCD",
+        "release_date": "2026-09-04",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2737b60c4cec393962c6303395a",
+            "url": "https://i.scdn.co/image/ab67616d0000b273f120f18186772858bf2dd3af",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e027b60c4cec393962c6303395a",
+            "url": "https://i.scdn.co/image/ab67616d00001e02f120f18186772858bf2dd3af",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048517b60c4cec393962c6303395a",
+            "url": "https://i.scdn.co/image/ab67616d00004851f120f18186772858bf2dd3af",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "2QYdqWGgRorVkA8cJMMdrn",
-            "name": "Tiny Habits"
+            "id": "4FsaaJrgOdlftovTmc6fKN",
+            "name": "1-800-Mikey"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Tiny%20Habits%20Keepers"
+      "spotifySearchUrl": "https://open.spotify.com/search/1-800-MIKEY%20IN%20YUN"
     },
     {
-      "artist": "Liim",
-      "album": "A Sunflower Garden In Harlem Is Hard To Find",
-      "label": "three times LOUDER",
-      "section": "lightningRound",
+      "artist": "Button Masher",
+      "album": "Super Button Masher",
+      "label": "Brainfeeder",
+      "section": "starting5",
       "spotify": {
-        "id": "4D6P7yqmAavmi8MYG13jRe",
-        "name": "A Sunflower Garden In Harlem Is Hard To Find",
-        "url": "https://open.spotify.com/album/4D6P7yqmAavmi8MYG13jRe",
-        "release_date": "2026-08-28",
+        "id": "20tvOKrQvGzIJoZUVYeCw1",
+        "name": "Super Button Masher",
+        "url": "https://open.spotify.com/album/20tvOKrQvGzIJoZUVYeCw1",
+        "release_date": "2026-09-04",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2730b580a983bb5a53fbf95e5f6",
+            "url": "https://i.scdn.co/image/ab67616d0000b273337d9c44f207d82ec5419a91",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e020b580a983bb5a53fbf95e5f6",
+            "url": "https://i.scdn.co/image/ab67616d00001e02337d9c44f207d82ec5419a91",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048510b580a983bb5a53fbf95e5f6",
+            "url": "https://i.scdn.co/image/ab67616d00004851337d9c44f207d82ec5419a91",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "4WBs3HlXxMAqo8Yi6m1PCM",
-            "name": "Liim"
+            "id": "3p0OtpbgE6a46IBMirYCe3",
+            "name": "Button Masher"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Liim%20A%20Sunflower%20Garden%20In%20Harlem%20Is%20Hard%20To%20Find"
+      "spotifySearchUrl": "https://open.spotify.com/search/Button%20Masher%20Super%20Button%20Masher"
     },
     {
-      "artist": "Lex Walton",
-      "album": "ULTIMATE LOVE FOREVER",
-      "label": "Sub Pop",
+      "artist": "Senri Oe",
+      "album": "Homework",
+      "label": "P.N.D.",
+      "section": "lightningRound",
+      "spotify": {
+        "id": "4rk1cJ8d6aoAWme424DAfS",
+        "name": "HOMEWORK",
+        "url": "https://open.spotify.com/album/4rk1cJ8d6aoAWme424DAfS",
+        "release_date": "2026-09-04",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273ccef34203ff73e1d81e52252",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02ccef34203ff73e1d81e52252",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851ccef34203ff73e1d81e52252",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "41DTvjqwAz1jgZCAZ6KTJG",
+            "name": "Senri Oe"
+          }
+        ]
+      },
+      "songlink": null,
+      "spotifySearchUrl": "https://open.spotify.com/search/Senri%20Oe%20Homework"
+    },
+    {
+      "artist": "Madi Diaz",
+      "album": "Fatal Optimist (UN-unplugged)",
+      "label": "ANTI-",
+      "section": "lightningRound",
+      "spotify": {
+        "id": "0q9IYqERRBRoQFluD6wKSO",
+        "name": "Fatal Optimist (UN-unplugged)",
+        "url": "https://open.spotify.com/album/0q9IYqERRBRoQFluD6wKSO",
+        "release_date": "2026-09-04",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273b3b91abb4811e9630f6ade0f",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02b3b91abb4811e9630f6ade0f",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851b3b91abb4811e9630f6ade0f",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "7E1o9IcnpiFQDlAUk2H7Az",
+            "name": "Madi Diaz"
+          }
+        ]
+      },
+      "songlink": null,
+      "spotifySearchUrl": "https://open.spotify.com/search/Madi%20Diaz%20Fatal%20Optimist%20(UN-unplugged)"
+    },
+    {
+      "artist": "Medium Build",
+      "album": "King of Having Fun",
+      "label": "Island",
+      "section": "lightningRound",
+      "spotify": {
+        "id": "6qvLeDfqPRk1w73Vh885S3",
+        "name": "King of Having Fun",
+        "url": "https://open.spotify.com/album/6qvLeDfqPRk1w73Vh885S3",
+        "release_date": "2026-09-04",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2732aad1958afce9b0a29b9cc99",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e022aad1958afce9b0a29b9cc99",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048512aad1958afce9b0a29b9cc99",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "3C6wmSgnZuqxVQyBWujBsn",
+            "name": "Medium Build"
+          }
+        ]
+      },
+      "songlink": null,
+      "spotifySearchUrl": "https://open.spotify.com/search/Medium%20Build%20King%20of%20Having%20Fun"
+    },
+    {
+      "artist": "Chat Pile",
+      "album": "Who Loves The Sun",
+      "label": "The Flenser",
+      "section": "lightningRound",
+      "spotify": {
+        "id": "2ITnf8HOokOJxjv483Dszk",
+        "name": "Who Loves The Sun",
+        "url": "https://open.spotify.com/album/2ITnf8HOokOJxjv483Dszk",
+        "release_date": "2026-09-04",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273ab1229a45362b56b4d06a405",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02ab1229a45362b56b4d06a405",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851ab1229a45362b56b4d06a405",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "4yRSUmhuSJ3KcIMljdh4fH",
+            "name": "Chat Pile"
+          }
+        ]
+      },
+      "songlink": null,
+      "spotifySearchUrl": "https://open.spotify.com/search/Chat%20Pile%20Who%20Loves%20The%20Sun"
+    },
+    {
+      "artist": "Steven R. Smith",
+      "album": "Half Light Unfolding",
+      "label": "Eiderdown",
+      "section": "lightningRound",
+      "spotify": {
+        "id": "3Odp98YjAyhLeQS46CDhF2",
+        "name": "Half-Light Unfolding",
+        "url": "https://open.spotify.com/album/3Odp98YjAyhLeQS46CDhF2",
+        "release_date": "2026-09-04",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273d5cae3acd4e0edcf6e0a3196",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02d5cae3acd4e0edcf6e0a3196",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851d5cae3acd4e0edcf6e0a3196",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "1W47VmRKAeKOW0ustIqUlk",
+            "name": "Steven R. Smith"
+          }
+        ]
+      },
+      "songlink": null,
+      "spotifySearchUrl": "https://open.spotify.com/search/Steven%20R.%20Smith%20Half%20Light%20Unfolding"
+    },
+    {
+      "artist": "Lily Seabird",
+      "album": "Lightspheres on Their Way",
+      "label": "Lame-O",
       "section": "dorasCorner",
       "spotify": {
-        "id": "1HAX0TGlTlX3OPC3itekn7",
-        "name": "ULTIMATE LOVE FOREVER",
-        "url": "https://open.spotify.com/album/1HAX0TGlTlX3OPC3itekn7",
-        "release_date": "2026-08-26",
+        "id": "517htyitDg4onlgJwpf4uB",
+        "name": "Lightspheres on Their Way",
+        "url": "https://open.spotify.com/album/517htyitDg4onlgJwpf4uB",
+        "release_date": "2026-09-01",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273ebca125e12390615f8a725ac",
+            "url": "https://i.scdn.co/image/ab67616d0000b27363c365313b3fc354cad58616",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02ebca125e12390615f8a725ac",
+            "url": "https://i.scdn.co/image/ab67616d00001e0263c365313b3fc354cad58616",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851ebca125e12390615f8a725ac",
+            "url": "https://i.scdn.co/image/ab67616d0000485163c365313b3fc354cad58616",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "67pLmA3GVpK4P0bq11rQqa",
-            "name": "Lex Walton"
+            "id": "1ZIjaMq0dyU2CZaI6GFxBd",
+            "name": "Lily Seabird"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Lex%20Walton%20ULTIMATE%20LOVE%20FOREVER"
+      "spotifySearchUrl": "https://open.spotify.com/search/Lily%20Seabird%20Lightspheres%20on%20Their%20Way"
     },
     {
-      "artist": "Cities Aviv",
-      "album": "Even Colder Spring",
-      "label": "Black Truffle",
+      "artist": "Cyst",
+      "album": "ᲘᲘ",
+      "label": "LuckyMe",
       "section": "dorasCorner",
       "spotify": {
-        "id": "4zqz0CmtPzxWriY0bTdvxg",
-        "name": "EVEN COLDER SPRING",
-        "url": "https://open.spotify.com/album/4zqz0CmtPzxWriY0bTdvxg",
-        "release_date": "2026-03-11",
+        "id": "3VssYONv9JggXulFIcQlds",
+        "name": "ᲘᲘ",
+        "url": "https://open.spotify.com/album/3VssYONv9JggXulFIcQlds",
+        "release_date": "2026-09-04",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2738b4bbb83b851988fc930cc3a",
+            "url": "https://i.scdn.co/image/ab67616d0000b2738baf437c8b976d1205e0401e",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e028b4bbb83b851988fc930cc3a",
+            "url": "https://i.scdn.co/image/ab67616d00001e028baf437c8b976d1205e0401e",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048518b4bbb83b851988fc930cc3a",
+            "url": "https://i.scdn.co/image/ab67616d000048518baf437c8b976d1205e0401e",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "4m0HRALRlPxbZp5SwvktFX",
-            "name": "Cities Aviv"
+            "id": "6rykAKGU8NhN8Sbpe2MZkT",
+            "name": "Cyst"
+          },
+          {
+            "id": "7LCDnUQYE07fnKbo46SVLB",
+            "name": "Iglooghost"
+          },
+          {
+            "id": "799y9UGBODaDBZ8XSbEr1A",
+            "name": "daisy*"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Cities%20Aviv%20Even%20Colder%20Spring"
-    },
-    {
-      "artist": "Maripool",
-      "album": "Rotten Luck",
-      "label": "Smoking Room / Lost Wisdom",
-      "section": "dorasCorner",
-      "spotify": {
-        "id": "3cV5A0mjkxzYqxFyNzQQIN",
-        "name": "Rotten Luck",
-        "url": "https://open.spotify.com/album/3cV5A0mjkxzYqxFyNzQQIN",
-        "release_date": "2026-08-28",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273402d64cd9aba0f60c417d8fd",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02402d64cd9aba0f60c417d8fd",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851402d64cd9aba0f60c417d8fd",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "2Lmop7bq7RxW1Ue2GQsgSf",
-            "name": "Maripool"
-          }
-        ]
-      },
-      "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Maripool%20Rotten%20Luck"
+      "spotifySearchUrl": "https://open.spotify.com/search/Cyst%20%E1%B2%98%E1%B2%98"
     }
   ]
 }
