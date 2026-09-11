@@ -1,461 +1,327 @@
 {
-  "source": "https://www.npr.org/2026/09/04/nx-s1-5955477/new-music-friday-the-best-albums-out-sept-4",
-  "scrapedAt": "2026-09-04T21:57:16.675Z",
-  "date": "2026-09-04",
-  "title": "New Music Friday: The best albums out Sept. 4",
-  "total": 12,
+  "source": "https://www.npr.org/2026/09/11/nx-s1-5963873/new-music-friday-the-best-albums-out-sept-11-2026",
+  "scrapedAt": "2026-09-11T22:06:20.235Z",
+  "date": "2026-09-11",
+  "title": "New Music Friday: The best albums out Sept. 11",
+  "total": 10,
   "albums": [
     {
-      "artist": "Rebecca Black",
-      "album": "Age of the Exhibitionist",
-      "label": "self-released",
+      "artist": "Sylvan Esso",
+      "album": "Ow ∞",
+      "label": "Psychic Hotline",
+      "section": "starting5",
+      "spotify": null,
+      "songlink": null,
+      "spotifySearchUrl": "https://open.spotify.com/search/Sylvan%20Esso%20Ow%20%E2%88%9E"
+    },
+    {
+      "artist": "The Tubs",
+      "album": "Hard Life",
+      "label": "Merge",
       "section": "starting5",
       "spotify": {
-        "id": "3x8qThM7qP41LYoEhVerfm",
-        "name": "Age of the Exhibitionist",
-        "url": "https://open.spotify.com/album/3x8qThM7qP41LYoEhVerfm",
-        "release_date": "2026-09-04",
+        "id": "4cFFdzzZUjj7pmx8VegJbM",
+        "name": "Hard Life",
+        "url": "https://open.spotify.com/album/4cFFdzzZUjj7pmx8VegJbM",
+        "release_date": "2026-09-11",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2730de2fb7fcc6d57fb60f58b9a",
+            "url": "https://i.scdn.co/image/ab67616d0000b27333ab6667f81024d9bfe75d12",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e020de2fb7fcc6d57fb60f58b9a",
+            "url": "https://i.scdn.co/image/ab67616d00001e0233ab6667f81024d9bfe75d12",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048510de2fb7fcc6d57fb60f58b9a",
+            "url": "https://i.scdn.co/image/ab67616d0000485133ab6667f81024d9bfe75d12",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "3Vl9fyKMIdLMswk8ai3mm9",
-            "name": "Rebecca Black"
+            "id": "6kdAf6E0EouXKBpBZN1Sx9",
+            "name": "The Tubs"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Rebecca%20Black%20Age%20of%20the%20Exhibitionist"
+      "spotifySearchUrl": "https://open.spotify.com/search/The%20Tubs%20Hard%20Life"
     },
     {
-      "artist": "Paris Paloma",
-      "album": "The Fatal Flaw",
-      "label": "Nettwerk",
+      "artist": "This Is Lorelei",
+      "album": "The Singer in My Band",
+      "label": "Matador",
       "section": "starting5",
       "spotify": {
-        "id": "4e7FifiO1GkpqGefuXS2JD",
-        "name": "The Fatal Flaw",
-        "url": "https://open.spotify.com/album/4e7FifiO1GkpqGefuXS2JD",
-        "release_date": "2026-09-04",
+        "id": "24cxezS5U9YTFapgKpYG16",
+        "name": "The Singer in My Band",
+        "url": "https://open.spotify.com/album/24cxezS5U9YTFapgKpYG16",
+        "release_date": "2026-09-11",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27314ab0693a5e5d8a1fc422a2c",
+            "url": "https://i.scdn.co/image/ab67616d0000b273c456875e0df6d8195f4b5545",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0214ab0693a5e5d8a1fc422a2c",
+            "url": "https://i.scdn.co/image/ab67616d00001e02c456875e0df6d8195f4b5545",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485114ab0693a5e5d8a1fc422a2c",
+            "url": "https://i.scdn.co/image/ab67616d00004851c456875e0df6d8195f4b5545",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "2EXpthNgSeTDeX8nGwxppp",
-            "name": "Paris Paloma"
+            "id": "0GmYGGZZIU8vHbI0bAXZun",
+            "name": "This Is Lorelei"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Paris%20Paloma%20The%20Fatal%20Flaw"
+      "spotifySearchUrl": "https://open.spotify.com/search/This%20Is%20Lorelei%20The%20Singer%20in%20My%20Band"
     },
     {
-      "artist": "Sharp Pins",
-      "album": "Mod Mayday 23",
-      "label": "K Records",
+      "artist": "Ezra Collective",
+      "album": "Here Because of Hope",
+      "label": "Partisan",
       "section": "starting5",
       "spotify": {
-        "id": "010FIvBmUYfM9rrGfPXEKa",
-        "name": "Mod Mayday 23",
-        "url": "https://open.spotify.com/album/010FIvBmUYfM9rrGfPXEKa",
-        "release_date": "2026-09-04",
+        "id": "4BKNpqrUgWxpA1d8u5e95j",
+        "name": "Here Because of Hope",
+        "url": "https://open.spotify.com/album/4BKNpqrUgWxpA1d8u5e95j",
+        "release_date": "2026-09-11",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273f8b94d45a520aabe29d71205",
+            "url": "https://i.scdn.co/image/ab67616d0000b2736d02e8be17bfe4eb4afb2141",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02f8b94d45a520aabe29d71205",
+            "url": "https://i.scdn.co/image/ab67616d00001e026d02e8be17bfe4eb4afb2141",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851f8b94d45a520aabe29d71205",
+            "url": "https://i.scdn.co/image/ab67616d000048516d02e8be17bfe4eb4afb2141",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "0eTeMvSkCzEnLH4EgHhrzN",
-            "name": "Sharp Pins"
+            "id": "5BRAUN0yN8557PLRZIr02W",
+            "name": "Ezra Collective"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Sharp%20Pins%20Mod%20Mayday%2023"
+      "spotifySearchUrl": "https://open.spotify.com/search/Ezra%20Collective%20Here%20Because%20of%20Hope"
     },
     {
-      "artist": "1-800-MIKEY",
-      "album": "IN YUN",
-      "label": "Goner",
+      "artist": "Haruomi Hosono",
+      "album": "Yours Sincerely",
+      "label": "Ghostly International",
       "section": "starting5",
       "spotify": {
-        "id": "15qaCrgUKuENh8Wt8dQoCD",
-        "name": "In Yun",
-        "url": "https://open.spotify.com/album/15qaCrgUKuENh8Wt8dQoCD",
-        "release_date": "2026-09-04",
+        "id": "2DtAm3khT9GqoYOJCM9vas",
+        "name": "Yours Sincerely",
+        "url": "https://open.spotify.com/album/2DtAm3khT9GqoYOJCM9vas",
+        "release_date": "2026-09-11",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273f120f18186772858bf2dd3af",
+            "url": "https://i.scdn.co/image/ab67616d0000b2733af48613b19da7eb6758d587",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02f120f18186772858bf2dd3af",
+            "url": "https://i.scdn.co/image/ab67616d00001e023af48613b19da7eb6758d587",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851f120f18186772858bf2dd3af",
+            "url": "https://i.scdn.co/image/ab67616d000048513af48613b19da7eb6758d587",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "4FsaaJrgOdlftovTmc6fKN",
-            "name": "1-800-Mikey"
+            "id": "370nbSkMB9kDWyTypwWYak",
+            "name": "Haruomi Hosono"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/1-800-MIKEY%20IN%20YUN"
+      "spotifySearchUrl": "https://open.spotify.com/search/Haruomi%20Hosono%20Yours%20Sincerely"
     },
     {
-      "artist": "Button Masher",
-      "album": "Super Button Masher",
-      "label": "Brainfeeder",
-      "section": "starting5",
-      "spotify": {
-        "id": "20tvOKrQvGzIJoZUVYeCw1",
-        "name": "Super Button Masher",
-        "url": "https://open.spotify.com/album/20tvOKrQvGzIJoZUVYeCw1",
-        "release_date": "2026-09-04",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273337d9c44f207d82ec5419a91",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02337d9c44f207d82ec5419a91",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851337d9c44f207d82ec5419a91",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "3p0OtpbgE6a46IBMirYCe3",
-            "name": "Button Masher"
-          }
-        ]
-      },
-      "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Button%20Masher%20Super%20Button%20Masher"
-    },
-    {
-      "artist": "Senri Oe",
-      "album": "Homework",
-      "label": "P.N.D.",
+      "artist": "Funkadelic",
+      "album": "Maggot Brain",
+      "label": "Org / Westbound",
       "section": "lightningRound",
       "spotify": {
-        "id": "4rk1cJ8d6aoAWme424DAfS",
-        "name": "HOMEWORK",
-        "url": "https://open.spotify.com/album/4rk1cJ8d6aoAWme424DAfS",
-        "release_date": "2026-09-04",
+        "id": "3ywVzrwMQ3Kq43N9zBdBQm",
+        "name": "Maggot Brain",
+        "url": "https://open.spotify.com/album/3ywVzrwMQ3Kq43N9zBdBQm",
+        "release_date": "1971-07-12",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273ccef34203ff73e1d81e52252",
+            "url": "https://i.scdn.co/image/ab67616d0000b27352573463beeda67fe242cab5",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02ccef34203ff73e1d81e52252",
+            "url": "https://i.scdn.co/image/ab67616d00001e0252573463beeda67fe242cab5",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851ccef34203ff73e1d81e52252",
+            "url": "https://i.scdn.co/image/ab67616d0000485152573463beeda67fe242cab5",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "41DTvjqwAz1jgZCAZ6KTJG",
-            "name": "Senri Oe"
+            "id": "450o9jw6AtiQlQkHCdH6Ru",
+            "name": "Funkadelic"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Senri%20Oe%20Homework"
+      "spotifySearchUrl": "https://open.spotify.com/search/Funkadelic%20Maggot%20Brain"
     },
     {
-      "artist": "Madi Diaz",
-      "album": "Fatal Optimist (UN-unplugged)",
-      "label": "ANTI-",
+      "artist": "Locust",
+      "album": "Spectral+",
+      "label": "TODO",
       "section": "lightningRound",
       "spotify": {
-        "id": "0q9IYqERRBRoQFluD6wKSO",
-        "name": "Fatal Optimist (UN-unplugged)",
-        "url": "https://open.spotify.com/album/0q9IYqERRBRoQFluD6wKSO",
-        "release_date": "2026-09-04",
+        "id": "0lYhCTH3TK0vcnjrtuInc6",
+        "name": "Spectral+",
+        "url": "https://open.spotify.com/album/0lYhCTH3TK0vcnjrtuInc6",
+        "release_date": "2026-09-11",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273b3b91abb4811e9630f6ade0f",
+            "url": "https://i.scdn.co/image/ab67616d0000b273f71cc94488a7fe194feec07a",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02b3b91abb4811e9630f6ade0f",
+            "url": "https://i.scdn.co/image/ab67616d00001e02f71cc94488a7fe194feec07a",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851b3b91abb4811e9630f6ade0f",
+            "url": "https://i.scdn.co/image/ab67616d00004851f71cc94488a7fe194feec07a",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "7E1o9IcnpiFQDlAUk2H7Az",
-            "name": "Madi Diaz"
+            "id": "5kytvmQqoeunOLa2LtIt1N",
+            "name": "Locust"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Madi%20Diaz%20Fatal%20Optimist%20(UN-unplugged)"
+      "spotifySearchUrl": "https://open.spotify.com/search/Locust%20Spectral%2B"
     },
     {
-      "artist": "Medium Build",
-      "album": "King of Having Fun",
-      "label": "Island",
+      "artist": "Angela Autumn",
+      "album": "Believer",
+      "label": "Gar Hole",
       "section": "lightningRound",
       "spotify": {
-        "id": "6qvLeDfqPRk1w73Vh885S3",
-        "name": "King of Having Fun",
-        "url": "https://open.spotify.com/album/6qvLeDfqPRk1w73Vh885S3",
-        "release_date": "2026-09-04",
+        "id": "19VsLR7idZdpFkpmwBG0aC",
+        "name": "Believer",
+        "url": "https://open.spotify.com/album/19VsLR7idZdpFkpmwBG0aC",
+        "release_date": "2026-09-11",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2732aad1958afce9b0a29b9cc99",
+            "url": "https://i.scdn.co/image/ab67616d0000b2739b85760c1bed1bea6c5fc6d4",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e022aad1958afce9b0a29b9cc99",
+            "url": "https://i.scdn.co/image/ab67616d00001e029b85760c1bed1bea6c5fc6d4",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048512aad1958afce9b0a29b9cc99",
+            "url": "https://i.scdn.co/image/ab67616d000048519b85760c1bed1bea6c5fc6d4",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "3C6wmSgnZuqxVQyBWujBsn",
-            "name": "Medium Build"
+            "id": "2gyodrfLfK8xF0sSaxBZXQ",
+            "name": "Angela Autumn"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Medium%20Build%20King%20of%20Having%20Fun"
+      "spotifySearchUrl": "https://open.spotify.com/search/Angela%20Autumn%20Believer"
     },
     {
-      "artist": "Chat Pile",
-      "album": "Who Loves The Sun",
-      "label": "The Flenser",
+      "artist": "Standing on the Corner",
+      "album": "SOTC II",
+      "label": "XL",
+      "section": "lightningRound",
+      "spotify": null,
+      "songlink": null,
+      "spotifySearchUrl": "https://open.spotify.com/search/Standing%20on%20the%20Corner%20SOTC%20II"
+    },
+    {
+      "artist": "Colin Stetson, Brìghde Chaimbeul",
+      "album": "All the Light in the world",
+      "label": "Envision",
       "section": "lightningRound",
       "spotify": {
-        "id": "2ITnf8HOokOJxjv483Dszk",
-        "name": "Who Loves The Sun",
-        "url": "https://open.spotify.com/album/2ITnf8HOokOJxjv483Dszk",
-        "release_date": "2026-09-04",
+        "id": "311O4B2qhreCB5nUp49SFP",
+        "name": "All the light in the world",
+        "url": "https://open.spotify.com/album/311O4B2qhreCB5nUp49SFP",
+        "release_date": "2026-09-11",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273ab1229a45362b56b4d06a405",
+            "url": "https://i.scdn.co/image/ab67616d0000b2736e538546ca0d3c91dbfe3e9e",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02ab1229a45362b56b4d06a405",
+            "url": "https://i.scdn.co/image/ab67616d00001e026e538546ca0d3c91dbfe3e9e",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851ab1229a45362b56b4d06a405",
+            "url": "https://i.scdn.co/image/ab67616d000048516e538546ca0d3c91dbfe3e9e",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "4yRSUmhuSJ3KcIMljdh4fH",
-            "name": "Chat Pile"
+            "id": "4G6HhUUQ1LgyYnA2WJppf8",
+            "name": "Colin Stetson"
+          },
+          {
+            "id": "7AzZeX7Q9ziRE6mILhQZ8W",
+            "name": "Brìghde Chaimbeul"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Chat%20Pile%20Who%20Loves%20The%20Sun"
-    },
-    {
-      "artist": "Steven R. Smith",
-      "album": "Half Light Unfolding",
-      "label": "Eiderdown",
-      "section": "lightningRound",
-      "spotify": {
-        "id": "3Odp98YjAyhLeQS46CDhF2",
-        "name": "Half-Light Unfolding",
-        "url": "https://open.spotify.com/album/3Odp98YjAyhLeQS46CDhF2",
-        "release_date": "2026-09-04",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273d5cae3acd4e0edcf6e0a3196",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02d5cae3acd4e0edcf6e0a3196",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851d5cae3acd4e0edcf6e0a3196",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "1W47VmRKAeKOW0ustIqUlk",
-            "name": "Steven R. Smith"
-          }
-        ]
-      },
-      "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Steven%20R.%20Smith%20Half%20Light%20Unfolding"
-    },
-    {
-      "artist": "Lily Seabird",
-      "album": "Lightspheres on Their Way",
-      "label": "Lame-O",
-      "section": "dorasCorner",
-      "spotify": {
-        "id": "517htyitDg4onlgJwpf4uB",
-        "name": "Lightspheres on Their Way",
-        "url": "https://open.spotify.com/album/517htyitDg4onlgJwpf4uB",
-        "release_date": "2026-09-01",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27363c365313b3fc354cad58616",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0263c365313b3fc354cad58616",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485163c365313b3fc354cad58616",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "1ZIjaMq0dyU2CZaI6GFxBd",
-            "name": "Lily Seabird"
-          }
-        ]
-      },
-      "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Lily%20Seabird%20Lightspheres%20on%20Their%20Way"
-    },
-    {
-      "artist": "Cyst",
-      "album": "ᲘᲘ",
-      "label": "LuckyMe",
-      "section": "dorasCorner",
-      "spotify": {
-        "id": "3VssYONv9JggXulFIcQlds",
-        "name": "ᲘᲘ",
-        "url": "https://open.spotify.com/album/3VssYONv9JggXulFIcQlds",
-        "release_date": "2026-09-04",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2738baf437c8b976d1205e0401e",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e028baf437c8b976d1205e0401e",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048518baf437c8b976d1205e0401e",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "6rykAKGU8NhN8Sbpe2MZkT",
-            "name": "Cyst"
-          },
-          {
-            "id": "7LCDnUQYE07fnKbo46SVLB",
-            "name": "Iglooghost"
-          },
-          {
-            "id": "799y9UGBODaDBZ8XSbEr1A",
-            "name": "daisy*"
-          }
-        ]
-      },
-      "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Cyst%20%E1%B2%98%E1%B2%98"
+      "spotifySearchUrl": "https://open.spotify.com/search/Colin%20Stetson%2C%20Br%C3%ACghde%20Chaimbeul%20All%20the%20Light%20in%20the%20world"
     }
   ]
 }
