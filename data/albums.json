@@ -1,124 +1,68 @@
 {
-  "source": "https://www.npr.org/2026/09/11/nx-s1-5963873/new-music-friday-the-best-albums-out-sept-11-2026",
-  "scrapedAt": "2026-09-11T22:06:20.235Z",
-  "date": "2026-09-11",
-  "title": "New Music Friday: The best albums out Sept. 11",
+  "source": "https://www.npr.org/2026/09/18/nx-s1-5971823/new-music-friday-the-best-albums-out-sept-18-2026",
+  "scrapedAt": "2026-09-18T22:04:38.802Z",
+  "date": "2026-09-18",
+  "title": "New Music Friday: The best albums out Sept. 18",
   "starting5": [
     {
-      "artist": "Sylvan Esso",
-      "album": "Ow ∞",
-      "label": "Psychic Hotline"
+      "artist": "Beck",
+      "album": "Ride Lonesome",
+      "label": "Capitol"
     },
     {
-      "artist": "The Tubs",
-      "album": "Hard Life",
-      "label": "Merge"
+      "artist": "Beabadoobee",
+      "album": "Pylon",
+      "label": "Dirty Hit / Interscope"
     },
     {
-      "artist": "This Is Lorelei",
-      "album": "The Singer in My Band",
-      "label": "Matador"
+      "artist": "Carly Rae Jepsen",
+      "album": "Day and Night",
+      "label": "Interscope"
     },
     {
-      "artist": "Ezra Collective",
-      "album": "Here Because of Hope",
-      "label": "Partisan"
+      "artist": "Rhiannon Giddens",
+      "album": "Hope Is the Thing with Feathers",
+      "label": "Nonesuch"
     },
     {
-      "artist": "Haruomi Hosono",
-      "album": "Yours Sincerely",
-      "label": "Ghostly International"
+      "artist": "Tove Lo",
+      "album": "Estrus",
+      "label": "Pretty Swede"
     }
   ],
-  "lightningRound": [
-    {
-      "artist": "Funkadelic",
-      "album": "Maggot Brain",
-      "label": "Org / Westbound"
-    },
-    {
-      "artist": "Locust",
-      "album": "Spectral+",
-      "label": "TODO"
-    },
-    {
-      "artist": "Angela Autumn",
-      "album": "Believer",
-      "label": "Gar Hole"
-    },
-    {
-      "artist": "Standing on the Corner",
-      "album": "SOTC II",
-      "label": "XL"
-    },
-    {
-      "artist": "Colin Stetson, Brìghde Chaimbeul",
-      "album": "All the Light in the world",
-      "label": "Envision"
-    }
-  ],
+  "lightningRound": [],
   "dorasCorner": [],
   "longList": {},
   "allAlbums": [
     {
-      "artist": "Sylvan Esso",
-      "album": "Ow ∞",
-      "label": "Psychic Hotline",
+      "artist": "Beck",
+      "album": "Ride Lonesome",
+      "label": "Capitol",
       "section": "starting5"
     },
     {
-      "artist": "The Tubs",
-      "album": "Hard Life",
-      "label": "Merge",
+      "artist": "Beabadoobee",
+      "album": "Pylon",
+      "label": "Dirty Hit / Interscope",
       "section": "starting5"
     },
     {
-      "artist": "This Is Lorelei",
-      "album": "The Singer in My Band",
-      "label": "Matador",
+      "artist": "Carly Rae Jepsen",
+      "album": "Day and Night",
+      "label": "Interscope",
       "section": "starting5"
     },
     {
-      "artist": "Ezra Collective",
-      "album": "Here Because of Hope",
-      "label": "Partisan",
+      "artist": "Rhiannon Giddens",
+      "album": "Hope Is the Thing with Feathers",
+      "label": "Nonesuch",
       "section": "starting5"
     },
     {
-      "artist": "Haruomi Hosono",
-      "album": "Yours Sincerely",
-      "label": "Ghostly International",
+      "artist": "Tove Lo",
+      "album": "Estrus",
+      "label": "Pretty Swede",
       "section": "starting5"
-    },
-    {
-      "artist": "Funkadelic",
-      "album": "Maggot Brain",
-      "label": "Org / Westbound",
-      "section": "lightningRound"
-    },
-    {
-      "artist": "Locust",
-      "album": "Spectral+",
-      "label": "TODO",
-      "section": "lightningRound"
-    },
-    {
-      "artist": "Angela Autumn",
-      "album": "Believer",
-      "label": "Gar Hole",
-      "section": "lightningRound"
-    },
-    {
-      "artist": "Standing on the Corner",
-      "album": "SOTC II",
-      "label": "XL",
-      "section": "lightningRound"
-    },
-    {
-      "artist": "Colin Stetson, Brìghde Chaimbeul",
-      "album": "All the Light in the world",
-      "label": "Envision",
-      "section": "lightningRound"
     }
   ]
 }
