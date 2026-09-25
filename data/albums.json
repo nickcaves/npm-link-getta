@@ -1,68 +1,124 @@
 {
-  "source": "https://www.npr.org/2026/09/18/nx-s1-5971823/new-music-friday-the-best-albums-out-sept-18-2026",
-  "scrapedAt": "2026-09-18T22:04:38.802Z",
-  "date": "2026-09-18",
-  "title": "New Music Friday: The best albums out Sept. 18",
+  "source": "https://www.npr.org/2026/09/25/nx-s1-5978958/new-music-friday-the-best-albums-out-sept-25-2026",
+  "scrapedAt": "2026-09-25T22:58:08.182Z",
+  "date": "2026-09-25",
+  "title": "New Music Friday: The best albums out Sept. 25",
   "starting5": [
     {
-      "artist": "Beck",
-      "album": "Ride Lonesome",
-      "label": "Capitol"
+      "artist": "Blondshell",
+      "album": "Violins",
+      "label": "Partisan"
     },
     {
-      "artist": "Beabadoobee",
-      "album": "Pylon",
-      "label": "Dirty Hit / Interscope"
+      "artist": "Julia Jacklin",
+      "album": "The Gem",
+      "label": "4AD"
     },
     {
-      "artist": "Carly Rae Jepsen",
-      "album": "Day and Night",
-      "label": "Interscope"
+      "artist": "Leon Bridges",
+      "album": "Happiness Anytime",
+      "label": "Columbia"
     },
     {
-      "artist": "Rhiannon Giddens",
-      "album": "Hope Is the Thing with Feathers",
-      "label": "Nonesuch"
+      "artist": "Joy Oladokun",
+      "album": "Hope Is A Heavy Thing",
+      "label": "Concord"
     },
     {
-      "artist": "Tove Lo",
-      "album": "Estrus",
-      "label": "Pretty Swede"
+      "artist": "Protomartyr",
+      "album": "Hotel Usona",
+      "label": "Domino"
     }
   ],
-  "lightningRound": [],
+  "lightningRound": [
+    {
+      "artist": "Space Afrika",
+      "album": "Quiet Storm",
+      "label": "Dais"
+    },
+    {
+      "artist": "claire rousey & Martyna Basta",
+      "album": "hotel room",
+      "label": "Unsound"
+    },
+    {
+      "artist": "Tinashe",
+      "album": "Popstar",
+      "label": "Atlantic / Nice Life"
+    },
+    {
+      "artist": "Mary Gauthier",
+      "album": "Reckoning",
+      "label": "Thirty Tigers"
+    },
+    {
+      "artist": "Axel Boman & Superpitcher",
+      "album": "Tell It To The Mountain",
+      "label": "Blurry"
+    }
+  ],
   "dorasCorner": [],
   "longList": {},
   "allAlbums": [
     {
-      "artist": "Beck",
-      "album": "Ride Lonesome",
-      "label": "Capitol",
+      "artist": "Blondshell",
+      "album": "Violins",
+      "label": "Partisan",
       "section": "starting5"
     },
     {
-      "artist": "Beabadoobee",
-      "album": "Pylon",
-      "label": "Dirty Hit / Interscope",
+      "artist": "Julia Jacklin",
+      "album": "The Gem",
+      "label": "4AD",
       "section": "starting5"
     },
     {
-      "artist": "Carly Rae Jepsen",
-      "album": "Day and Night",
-      "label": "Interscope",
+      "artist": "Leon Bridges",
+      "album": "Happiness Anytime",
+      "label": "Columbia",
       "section": "starting5"
     },
     {
-      "artist": "Rhiannon Giddens",
-      "album": "Hope Is the Thing with Feathers",
-      "label": "Nonesuch",
+      "artist": "Joy Oladokun",
+      "album": "Hope Is A Heavy Thing",
+      "label": "Concord",
       "section": "starting5"
     },
     {
-      "artist": "Tove Lo",
-      "album": "Estrus",
-      "label": "Pretty Swede",
+      "artist": "Protomartyr",
+      "album": "Hotel Usona",
+      "label": "Domino",
       "section": "starting5"
+    },
+    {
+      "artist": "Space Afrika",
+      "album": "Quiet Storm",
+      "label": "Dais",
+      "section": "lightningRound"
+    },
+    {
+      "artist": "claire rousey & Martyna Basta",
+      "album": "hotel room",
+      "label": "Unsound",
+      "section": "lightningRound"
+    },
+    {
+      "artist": "Tinashe",
+      "album": "Popstar",
+      "label": "Atlantic / Nice Life",
+      "section": "lightningRound"
+    },
+    {
+      "artist": "Mary Gauthier",
+      "album": "Reckoning",
+      "label": "Thirty Tigers",
+      "section": "lightningRound"
+    },
+    {
+      "artist": "Axel Boman & Superpitcher",
+      "album": "Tell It To The Mountain",
+      "label": "Blurry",
+      "section": "lightningRound"
     }
   ]
 }
