@@ -1,355 +1,331 @@
 {
-  "source": "https://www.npr.org/2026/09/25/nx-s1-5978958/new-music-friday-the-best-albums-out-sept-25-2026",
-  "scrapedAt": "2026-09-25T22:58:08.182Z",
-  "date": "2026-09-25",
-  "title": "New Music Friday: The best albums out Sept. 25",
+  "source": "https://www.npr.org/2026/10/02/nx-s1-5983688/new-music-friday-best-albums-oct-2-2026",
+  "scrapedAt": "2026-10-02T23:25:31.557Z",
+  "date": "2026-10-02",
+  "title": "New Music Friday: The best albums out Oct. 2",
   "total": 10,
   "albums": [
     {
-      "artist": "Blondshell",
-      "album": "Violins",
-      "label": "Partisan",
+      "artist": "Victoria Monét",
+      "album": "Frequency of Love",
+      "label": "RCA",
       "section": "starting5",
       "spotify": {
-        "id": "6ahtjSXlZpJsOxSOucSuRg",
-        "name": "Violins",
-        "url": "https://open.spotify.com/album/6ahtjSXlZpJsOxSOucSuRg",
-        "release_date": "2026-09-25",
+        "id": "6uKjWjH2r2fsgfKaIsaYWw",
+        "name": "Frequency Of Love",
+        "url": "https://open.spotify.com/album/6uKjWjH2r2fsgfKaIsaYWw",
+        "release_date": "2026-10-02",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273e992eda3bc64b59979db7ca4",
+            "url": "https://i.scdn.co/image/ab67616d0000b27396c1d798f17bede9a5457507",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02e992eda3bc64b59979db7ca4",
+            "url": "https://i.scdn.co/image/ab67616d00001e0296c1d798f17bede9a5457507",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851e992eda3bc64b59979db7ca4",
+            "url": "https://i.scdn.co/image/ab67616d0000485196c1d798f17bede9a5457507",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "7qrEXiLLnWkkYHhadZ1Oij",
-            "name": "Blondshell"
+            "id": "63XBtGSEZINSyXylZxEUbv",
+            "name": "Victoria Monét"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Blondshell%20Violins"
+      "spotifySearchUrl": "https://open.spotify.com/search/Victoria%20Mon%C3%A9t%20Frequency%20of%20Love"
     },
     {
-      "artist": "Julia Jacklin",
-      "album": "The Gem",
-      "label": "4AD",
+      "artist": "Meshell Ndegeocello",
+      "album": "Synonym",
+      "label": "Blue Note",
       "section": "starting5",
       "spotify": {
-        "id": "1nkNzpjmKmAOypmfp7a8Ic",
-        "name": "The Gem",
-        "url": "https://open.spotify.com/album/1nkNzpjmKmAOypmfp7a8Ic",
-        "release_date": "2026-09-25",
+        "id": "6ssRIhqoOblT5x1xdJDkJQ",
+        "name": "Synonym",
+        "url": "https://open.spotify.com/album/6ssRIhqoOblT5x1xdJDkJQ",
+        "release_date": "2026-10-02",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273b69eeace0fbd0ccf24b4fb21",
+            "url": "https://i.scdn.co/image/ab67616d0000b2736cd4a28c470b59f3d07cba39",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02b69eeace0fbd0ccf24b4fb21",
+            "url": "https://i.scdn.co/image/ab67616d00001e026cd4a28c470b59f3d07cba39",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851b69eeace0fbd0ccf24b4fb21",
+            "url": "https://i.scdn.co/image/ab67616d000048516cd4a28c470b59f3d07cba39",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "12fRkVfO2fUsz1QHgDAG3g",
-            "name": "Julia Jacklin"
+            "id": "0uZRjholJ0fVC2J9EvnYnj",
+            "name": "Meshell Ndegeocello"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Julia%20Jacklin%20The%20Gem"
+      "spotifySearchUrl": "https://open.spotify.com/search/Meshell%20Ndegeocello%20Synonym"
     },
     {
-      "artist": "Leon Bridges",
-      "album": "Happiness Anytime",
-      "label": "Columbia",
+      "artist": "Wishy",
+      "album": "Nature's Pill",
+      "label": "Winspear",
       "section": "starting5",
-      "spotify": {
-        "id": "7dn6XRgEhJV7DRnupARxs9",
-        "name": "Happiness Anytime: Part 2",
-        "url": "https://open.spotify.com/album/7dn6XRgEhJV7DRnupARxs9",
-        "release_date": "2026-08-21",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27366797612d4ee85ebf1602804",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0266797612d4ee85ebf1602804",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485166797612d4ee85ebf1602804",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "3qnGvpP8Yth1AqSBMqON5x",
-            "name": "Leon Bridges"
-          }
-        ]
-      },
-      "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Leon%20Bridges%20Happiness%20Anytime"
-    },
-    {
-      "artist": "Joy Oladokun",
-      "album": "Hope Is A Heavy Thing",
-      "label": "Concord",
-      "section": "starting5",
-      "spotify": {
-        "id": "4q8V0cVboa6VtjCYoPHTm9",
-        "name": "Hope Is A Heavy Thing",
-        "url": "https://open.spotify.com/album/4q8V0cVboa6VtjCYoPHTm9",
-        "release_date": "2026-09-25",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27372288f52c7cdc055aaba5357",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0272288f52c7cdc055aaba5357",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485172288f52c7cdc055aaba5357",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "7rrTqtOUOwva4sgTx9C9F9",
-            "name": "Joy Oladokun"
-          }
-        ]
-      },
-      "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Joy%20Oladokun%20Hope%20Is%20A%20Heavy%20Thing"
-    },
-    {
-      "artist": "Protomartyr",
-      "album": "Hotel Usona",
-      "label": "Domino",
-      "section": "starting5",
-      "spotify": {
-        "id": "1VFSC60Y9e1DxIvSvZdane",
-        "name": "Hotel Usona",
-        "url": "https://open.spotify.com/album/1VFSC60Y9e1DxIvSvZdane",
-        "release_date": "2026-09-25",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273ea6e230375039568a2c13000",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02ea6e230375039568a2c13000",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851ea6e230375039568a2c13000",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "2YFBqMMiIIL4XyiEwqySUQ",
-            "name": "Protomartyr"
-          }
-        ]
-      },
-      "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Protomartyr%20Hotel%20Usona"
-    },
-    {
-      "artist": "Space Afrika",
-      "album": "Quiet Storm",
-      "label": "Dais",
-      "section": "lightningRound",
-      "spotify": {
-        "id": "0Mo9RknPGyKOfXR6zUNMYB",
-        "name": "Quiet Storm",
-        "url": "https://open.spotify.com/album/0Mo9RknPGyKOfXR6zUNMYB",
-        "release_date": "2026-09-25",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273743f273dc40c1b7a5fcd30f8",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02743f273dc40c1b7a5fcd30f8",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851743f273dc40c1b7a5fcd30f8",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "6cU1HCzqStKzT3NUuaaCO5",
-            "name": "Space Afrika"
-          }
-        ]
-      },
-      "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Space%20Afrika%20Quiet%20Storm"
-    },
-    {
-      "artist": "claire rousey & Martyna Basta",
-      "album": "hotel room",
-      "label": "Unsound",
-      "section": "lightningRound",
       "spotify": null,
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/claire%20rousey%20%26%20Martyna%20Basta%20hotel%20room"
+      "spotifySearchUrl": "https://open.spotify.com/search/Wishy%20Nature's%20Pill"
     },
     {
-      "artist": "Tinashe",
-      "album": "Popstar",
-      "label": "Atlantic / Nice Life",
-      "section": "lightningRound",
+      "artist": "Helen (feat. Liz Harris of Grouper)",
+      "album": "Linda's Head",
+      "label": "kranky",
+      "section": "starting5",
+      "spotify": null,
+      "songlink": null,
+      "spotifySearchUrl": "https://open.spotify.com/search/Helen%20(feat.%20Liz%20Harris%20of%20Grouper)%20Linda's%20Head"
+    },
+    {
+      "artist": "Sons Of Sevilla",
+      "album": "It Could Be Today",
+      "label": "Ubiquity",
+      "section": "starting5",
       "spotify": {
-        "id": "06CjF89lLSSiVWXujVVtQs",
-        "name": "Popstar",
-        "url": "https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs",
-        "release_date": "2026-09-25",
+        "id": "1GrXQiE8yoK7yy6kAzy1eT",
+        "name": "It Could Be Today",
+        "url": "https://open.spotify.com/album/1GrXQiE8yoK7yy6kAzy1eT",
+        "release_date": "2026-10-02",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273f8dc54881b35310061266cdf",
+            "url": "https://i.scdn.co/image/ab67616d0000b273bbbad2b4d06e3443fec7d807",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02f8dc54881b35310061266cdf",
+            "url": "https://i.scdn.co/image/ab67616d00001e02bbbad2b4d06e3443fec7d807",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851f8dc54881b35310061266cdf",
+            "url": "https://i.scdn.co/image/ab67616d00004851bbbad2b4d06e3443fec7d807",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "0NIIxcxNHmOoyBx03SfTCD",
-            "name": "Tinashe"
+            "id": "72k9crX5FObRHGF7p9e67D",
+            "name": "Sons of Sevilla"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Tinashe%20Popstar"
+      "spotifySearchUrl": "https://open.spotify.com/search/Sons%20Of%20Sevilla%20It%20Could%20Be%20Today"
     },
     {
-      "artist": "Mary Gauthier",
-      "album": "Reckoning",
-      "label": "Thirty Tigers",
+      "artist": "Greg Freeman",
+      "album": "All Set the Bone",
+      "label": "Transgressive",
       "section": "lightningRound",
       "spotify": {
-        "id": "2fwzpGgUamzs0JvTNQtA9u",
-        "name": "Reckoning",
-        "url": "https://open.spotify.com/album/2fwzpGgUamzs0JvTNQtA9u",
-        "release_date": "2026-09-25",
+        "id": "2uTMERh6Ta40fBW2aKTjtQ",
+        "name": "All Set The Bone",
+        "url": "https://open.spotify.com/album/2uTMERh6Ta40fBW2aKTjtQ",
+        "release_date": "2026-10-02",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273cbbbba7922d1f04b74e6610a",
+            "url": "https://i.scdn.co/image/ab67616d0000b2733c5aefb7b624d86b8bf0cd4f",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02cbbbba7922d1f04b74e6610a",
+            "url": "https://i.scdn.co/image/ab67616d00001e023c5aefb7b624d86b8bf0cd4f",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851cbbbba7922d1f04b74e6610a",
+            "url": "https://i.scdn.co/image/ab67616d000048513c5aefb7b624d86b8bf0cd4f",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "4SK1IgkcWWc5HC1TOBq1VS",
-            "name": "Mary Gauthier"
+            "id": "7naOvlP3zuvwVn7hiSeGwJ",
+            "name": "Greg Freeman"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Mary%20Gauthier%20Reckoning"
+      "spotifySearchUrl": "https://open.spotify.com/search/Greg%20Freeman%20All%20Set%20the%20Bone"
     },
     {
-      "artist": "Axel Boman & Superpitcher",
-      "album": "Tell It To The Mountain",
-      "label": "Blurry",
+      "artist": "Miranda Lambert",
+      "album": "Crisco",
+      "label": "MCA Nashville",
       "section": "lightningRound",
       "spotify": {
-        "id": "4J1sFFT07m0KtK5UP6AAqv",
-        "name": "Tell It To The Mountain",
-        "url": "https://open.spotify.com/album/4J1sFFT07m0KtK5UP6AAqv",
-        "release_date": "2026-09-25",
+        "id": "70GWxgdMF8ybDcY4JX9SEE",
+        "name": "Crisco",
+        "url": "https://open.spotify.com/album/70GWxgdMF8ybDcY4JX9SEE",
+        "release_date": "2026-05-15",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273c43d2417c2528800505e7f55",
+            "url": "https://i.scdn.co/image/ab67616d0000b273223ebd248ab3aad2882a1409",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02c43d2417c2528800505e7f55",
+            "url": "https://i.scdn.co/image/ab67616d00001e02223ebd248ab3aad2882a1409",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851c43d2417c2528800505e7f55",
+            "url": "https://i.scdn.co/image/ab67616d00004851223ebd248ab3aad2882a1409",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "59qo8jHDlC1i30HVjQQW3O",
-            "name": "Axel Boman"
-          },
-          {
-            "id": "55BdmUTmTmoUNOFQxm54k5",
-            "name": "Superpitcher"
+            "id": "66lH4jAE7pqPlOlzUKbwA0",
+            "name": "Miranda Lambert"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Axel%20Boman%20%26%20Superpitcher%20Tell%20It%20To%20The%20Mountain"
+      "spotifySearchUrl": "https://open.spotify.com/search/Miranda%20Lambert%20Crisco"
+    },
+    {
+      "artist": "Beth Taylor",
+      "album": "The Deeps Have Music",
+      "label": "Linn",
+      "section": "lightningRound",
+      "spotify": {
+        "id": "7cxC5fEDtiwP7VRbj6qLVo",
+        "name": "The Deeps Have Music",
+        "url": "https://open.spotify.com/album/7cxC5fEDtiwP7VRbj6qLVo",
+        "release_date": "2026-10-02",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273c6fd8f26e6910207c5ee68be",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02c6fd8f26e6910207c5ee68be",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851c6fd8f26e6910207c5ee68be",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "5p951cyMXb29cznhNxH8Bs",
+            "name": "Beth Taylor"
+          },
+          {
+            "id": "0EhqYLfT5TfSBLEhxaL9iS",
+            "name": "Hamish Brown"
+          }
+        ]
+      },
+      "songlink": null,
+      "spotifySearchUrl": "https://open.spotify.com/search/Beth%20Taylor%20The%20Deeps%20Have%20Music"
+    },
+    {
+      "artist": "Allison de Groot & Rich Ruth",
+      "album": "Allison de Groot & Rich Ruth",
+      "label": "Western Vinyl",
+      "section": "lightningRound",
+      "spotify": {
+        "id": "78GCLznGXkzJVxtllgeNFw",
+        "name": "Allison de Groot & Rich Ruth",
+        "url": "https://open.spotify.com/album/78GCLznGXkzJVxtllgeNFw",
+        "release_date": "2026-10-02",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2731eb0c9068659226f8e9e0fec",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e021eb0c9068659226f8e9e0fec",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048511eb0c9068659226f8e9e0fec",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "0LVLU0MXmJ1GfWczl4i2MY",
+            "name": "Allison De Groot"
+          },
+          {
+            "id": "3fzSa1ee522CjcS8Fdo7dl",
+            "name": "Rich Ruth"
+          }
+        ]
+      },
+      "songlink": null,
+      "spotifySearchUrl": "https://open.spotify.com/search/Allison%20de%20Groot%20%26%20Rich%20Ruth%20Allison%20de%20Groot%20%26%20Rich%20Ruth"
+    },
+    {
+      "artist": "Lalah Hathaway",
+      "album": "Made In Chicago",
+      "label": "Virgin",
+      "section": "lightningRound",
+      "spotify": {
+        "id": "3vbq0insUQLxjiFWTcAuce",
+        "name": "Made In Chicago",
+        "url": "https://open.spotify.com/album/3vbq0insUQLxjiFWTcAuce",
+        "release_date": "2026-10-01",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27365a345317324ceb05dbf2e6a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0265a345317324ceb05dbf2e6a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485165a345317324ceb05dbf2e6a",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "0uNEy4544VZq2KOl7BsLuo",
+            "name": "Lalah Hathaway"
+          }
+        ]
+      },
+      "songlink": null,
+      "spotifySearchUrl": "https://open.spotify.com/search/Lalah%20Hathaway%20Made%20In%20Chicago"
     }
   ]
 }

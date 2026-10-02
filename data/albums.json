@@ -1,123 +1,123 @@
 {
-  "source": "https://www.npr.org/2026/09/25/nx-s1-5978958/new-music-friday-the-best-albums-out-sept-25-2026",
-  "scrapedAt": "2026-09-25T22:58:08.182Z",
-  "date": "2026-09-25",
-  "title": "New Music Friday: The best albums out Sept. 25",
+  "source": "https://www.npr.org/2026/10/02/nx-s1-5983688/new-music-friday-best-albums-oct-2-2026",
+  "scrapedAt": "2026-10-02T23:25:31.557Z",
+  "date": "2026-10-02",
+  "title": "New Music Friday: The best albums out Oct. 2",
   "starting5": [
     {
-      "artist": "Blondshell",
-      "album": "Violins",
-      "label": "Partisan"
+      "artist": "Victoria Monét",
+      "album": "Frequency of Love",
+      "label": "RCA"
     },
     {
-      "artist": "Julia Jacklin",
-      "album": "The Gem",
-      "label": "4AD"
+      "artist": "Meshell Ndegeocello",
+      "album": "Synonym",
+      "label": "Blue Note"
     },
     {
-      "artist": "Leon Bridges",
-      "album": "Happiness Anytime",
-      "label": "Columbia"
+      "artist": "Wishy",
+      "album": "Nature's Pill",
+      "label": "Winspear"
     },
     {
-      "artist": "Joy Oladokun",
-      "album": "Hope Is A Heavy Thing",
-      "label": "Concord"
+      "artist": "Helen (feat. Liz Harris of Grouper)",
+      "album": "Linda's Head",
+      "label": "kranky"
     },
     {
-      "artist": "Protomartyr",
-      "album": "Hotel Usona",
-      "label": "Domino"
+      "artist": "Sons Of Sevilla",
+      "album": "It Could Be Today",
+      "label": "Ubiquity"
     }
   ],
   "lightningRound": [
     {
-      "artist": "Space Afrika",
-      "album": "Quiet Storm",
-      "label": "Dais"
+      "artist": "Greg Freeman",
+      "album": "All Set the Bone",
+      "label": "Transgressive"
     },
     {
-      "artist": "claire rousey & Martyna Basta",
-      "album": "hotel room",
-      "label": "Unsound"
+      "artist": "Miranda Lambert",
+      "album": "Crisco",
+      "label": "MCA Nashville"
     },
     {
-      "artist": "Tinashe",
-      "album": "Popstar",
-      "label": "Atlantic / Nice Life"
+      "artist": "Beth Taylor",
+      "album": "The Deeps Have Music",
+      "label": "Linn"
     },
     {
-      "artist": "Mary Gauthier",
-      "album": "Reckoning",
-      "label": "Thirty Tigers"
+      "artist": "Allison de Groot & Rich Ruth",
+      "album": "Allison de Groot & Rich Ruth",
+      "label": "Western Vinyl"
     },
     {
-      "artist": "Axel Boman & Superpitcher",
-      "album": "Tell It To The Mountain",
-      "label": "Blurry"
+      "artist": "Lalah Hathaway",
+      "album": "Made In Chicago",
+      "label": "Virgin"
     }
   ],
   "dorasCorner": [],
   "longList": {},
   "allAlbums": [
     {
-      "artist": "Blondshell",
-      "album": "Violins",
-      "label": "Partisan",
+      "artist": "Victoria Monét",
+      "album": "Frequency of Love",
+      "label": "RCA",
       "section": "starting5"
     },
     {
-      "artist": "Julia Jacklin",
-      "album": "The Gem",
-      "label": "4AD",
+      "artist": "Meshell Ndegeocello",
+      "album": "Synonym",
+      "label": "Blue Note",
       "section": "starting5"
     },
     {
-      "artist": "Leon Bridges",
-      "album": "Happiness Anytime",
-      "label": "Columbia",
+      "artist": "Wishy",
+      "album": "Nature's Pill",
+      "label": "Winspear",
       "section": "starting5"
     },
     {
-      "artist": "Joy Oladokun",
-      "album": "Hope Is A Heavy Thing",
-      "label": "Concord",
+      "artist": "Helen (feat. Liz Harris of Grouper)",
+      "album": "Linda's Head",
+      "label": "kranky",
       "section": "starting5"
     },
     {
-      "artist": "Protomartyr",
-      "album": "Hotel Usona",
-      "label": "Domino",
+      "artist": "Sons Of Sevilla",
+      "album": "It Could Be Today",
+      "label": "Ubiquity",
       "section": "starting5"
     },
     {
-      "artist": "Space Afrika",
-      "album": "Quiet Storm",
-      "label": "Dais",
+      "artist": "Greg Freeman",
+      "album": "All Set the Bone",
+      "label": "Transgressive",
       "section": "lightningRound"
     },
     {
-      "artist": "claire rousey & Martyna Basta",
-      "album": "hotel room",
-      "label": "Unsound",
+      "artist": "Miranda Lambert",
+      "album": "Crisco",
+      "label": "MCA Nashville",
       "section": "lightningRound"
     },
     {
-      "artist": "Tinashe",
-      "album": "Popstar",
-      "label": "Atlantic / Nice Life",
+      "artist": "Beth Taylor",
+      "album": "The Deeps Have Music",
+      "label": "Linn",
       "section": "lightningRound"
     },
     {
-      "artist": "Mary Gauthier",
-      "album": "Reckoning",
-      "label": "Thirty Tigers",
+      "artist": "Allison de Groot & Rich Ruth",
+      "album": "Allison de Groot & Rich Ruth",
+      "label": "Western Vinyl",
       "section": "lightningRound"
     },
     {
-      "artist": "Axel Boman & Superpitcher",
-      "album": "Tell It To The Mountain",
-      "label": "Blurry",
+      "artist": "Lalah Hathaway",
+      "album": "Made In Chicago",
+      "label": "Virgin",
       "section": "lightningRound"
     }
   ]
