@@ -1,123 +1,123 @@
 {
-  "source": "https://www.npr.org/2026/10/02/nx-s1-5983688/new-music-friday-best-albums-oct-2-2026",
-  "scrapedAt": "2026-10-02T23:25:31.557Z",
-  "date": "2026-10-02",
-  "title": "New Music Friday: The best albums out Oct. 2",
+  "source": "https://www.npr.org/2026/10/09/nx-s1-5983689/new-music-friday-best-albums-oct-9-2026",
+  "scrapedAt": "2026-10-09T23:42:58.197Z",
+  "date": "2026-10-09",
+  "title": "New Music Friday: The best albums out Oct. 9",
   "starting5": [
     {
-      "artist": "Victoria Monét",
-      "album": "Frequency of Love",
-      "label": "RCA"
+      "artist": "Cameron Winter",
+      "album": "Live at Carnegie Hall",
+      "label": "Partisan"
     },
     {
-      "artist": "Meshell Ndegeocello",
-      "album": "Synonym",
-      "label": "Blue Note"
+      "artist": "Troye Sivan",
+      "album": "She's The Best",
+      "label": "Interscope"
     },
     {
-      "artist": "Wishy",
-      "album": "Nature's Pill",
-      "label": "Winspear"
+      "artist": "Remi Wolf",
+      "album": "Mud",
+      "label": "Island"
     },
     {
-      "artist": "Helen (feat. Liz Harris of Grouper)",
-      "album": "Linda's Head",
-      "label": "kranky"
+      "artist": "Jess Williamson",
+      "album": "A Mile South of Heaven",
+      "label": "New West"
     },
     {
-      "artist": "Sons Of Sevilla",
-      "album": "It Could Be Today",
-      "label": "Ubiquity"
+      "artist": "Danielle Ponder",
+      "album": "Everything Has Changed",
+      "label": "Dead Oceans"
     }
   ],
   "lightningRound": [
     {
-      "artist": "Greg Freeman",
-      "album": "All Set the Bone",
-      "label": "Transgressive"
+      "artist": "Dawn Richard",
+      "album": "creole culture",
+      "label": "Merge"
     },
     {
-      "artist": "Miranda Lambert",
-      "album": "Crisco",
-      "label": "MCA Nashville"
+      "artist": "Margo Cilker",
+      "album": "Little White Cross",
+      "label": "Fossil"
     },
     {
-      "artist": "Beth Taylor",
-      "album": "The Deeps Have Music",
-      "label": "Linn"
+      "artist": "Imperial Teen",
+      "album": "All Over You",
+      "label": "Merge"
     },
     {
-      "artist": "Allison de Groot & Rich Ruth",
-      "album": "Allison de Groot & Rich Ruth",
-      "label": "Western Vinyl"
+      "artist": "heavensouls",
+      "album": "cantu of the sower",
+      "label": "NTS"
     },
     {
-      "artist": "Lalah Hathaway",
-      "album": "Made In Chicago",
-      "label": "Virgin"
+      "artist": "Joyce Wrice",
+      "album": "MACHIKO",
+      "label": "BMG"
     }
   ],
   "dorasCorner": [],
   "longList": {},
   "allAlbums": [
     {
-      "artist": "Victoria Monét",
-      "album": "Frequency of Love",
-      "label": "RCA",
+      "artist": "Cameron Winter",
+      "album": "Live at Carnegie Hall",
+      "label": "Partisan",
       "section": "starting5"
     },
     {
-      "artist": "Meshell Ndegeocello",
-      "album": "Synonym",
-      "label": "Blue Note",
+      "artist": "Troye Sivan",
+      "album": "She's The Best",
+      "label": "Interscope",
       "section": "starting5"
     },
     {
-      "artist": "Wishy",
-      "album": "Nature's Pill",
-      "label": "Winspear",
+      "artist": "Remi Wolf",
+      "album": "Mud",
+      "label": "Island",
       "section": "starting5"
     },
     {
-      "artist": "Helen (feat. Liz Harris of Grouper)",
-      "album": "Linda's Head",
-      "label": "kranky",
+      "artist": "Jess Williamson",
+      "album": "A Mile South of Heaven",
+      "label": "New West",
       "section": "starting5"
     },
     {
-      "artist": "Sons Of Sevilla",
-      "album": "It Could Be Today",
-      "label": "Ubiquity",
+      "artist": "Danielle Ponder",
+      "album": "Everything Has Changed",
+      "label": "Dead Oceans",
       "section": "starting5"
     },
     {
-      "artist": "Greg Freeman",
-      "album": "All Set the Bone",
-      "label": "Transgressive",
+      "artist": "Dawn Richard",
+      "album": "creole culture",
+      "label": "Merge",
       "section": "lightningRound"
     },
     {
-      "artist": "Miranda Lambert",
-      "album": "Crisco",
-      "label": "MCA Nashville",
+      "artist": "Margo Cilker",
+      "album": "Little White Cross",
+      "label": "Fossil",
       "section": "lightningRound"
     },
     {
-      "artist": "Beth Taylor",
-      "album": "The Deeps Have Music",
-      "label": "Linn",
+      "artist": "Imperial Teen",
+      "album": "All Over You",
+      "label": "Merge",
       "section": "lightningRound"
     },
     {
-      "artist": "Allison de Groot & Rich Ruth",
-      "album": "Allison de Groot & Rich Ruth",
-      "label": "Western Vinyl",
+      "artist": "heavensouls",
+      "album": "cantu of the sower",
+      "label": "NTS",
       "section": "lightningRound"
     },
     {
-      "artist": "Lalah Hathaway",
-      "album": "Made In Chicago",
-      "label": "Virgin",
+      "artist": "Joyce Wrice",
+      "album": "MACHIKO",
+      "label": "BMG",
       "section": "lightningRound"
     }
   ]
