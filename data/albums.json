@@ -1,123 +1,123 @@
 {
-  "source": "https://www.npr.org/2026/10/09/nx-s1-5983689/new-music-friday-best-albums-oct-9-2026",
-  "scrapedAt": "2026-10-09T23:42:58.197Z",
-  "date": "2026-10-09",
-  "title": "New Music Friday: The best albums out Oct. 9",
+  "source": "https://www.npr.org/2026/10/16/nx-s1-5983692/new-music-friday-best-albums-oct-16-2026",
+  "scrapedAt": "2026-10-16T22:19:56.737Z",
+  "date": "2026-10-16",
+  "title": "New Music Friday: The best albums out Oct. 16",
   "starting5": [
     {
-      "artist": "Cameron Winter",
-      "album": "Live at Carnegie Hall",
-      "label": "Partisan"
+      "artist": "Fontaines D.C.",
+      "album": "Dopamine Chamber",
+      "label": "XL Recordings"
     },
     {
-      "artist": "Troye Sivan",
-      "album": "She's The Best",
-      "label": "Interscope"
+      "artist": "@",
+      "album": "Autosmile",
+      "label": "4AD"
     },
     {
-      "artist": "Remi Wolf",
-      "album": "Mud",
-      "label": "Island"
+      "artist": "Sophia Stel",
+      "album": "The Greatest Album of All Time",
+      "label": "A24 Music"
     },
     {
-      "artist": "Jess Williamson",
-      "album": "A Mile South of Heaven",
-      "label": "New West"
+      "artist": "June McDoom",
+      "album": "Follow the Light",
+      "label": "Jagjaguwar"
     },
     {
-      "artist": "Danielle Ponder",
-      "album": "Everything Has Changed",
-      "label": "Dead Oceans"
+      "artist": "The Avalanches",
+      "album": "No Bad Memories",
+      "label": "Modular"
     }
   ],
   "lightningRound": [
     {
-      "artist": "Dawn Richard",
-      "album": "creole culture",
-      "label": "Merge"
+      "artist": "N8NOFACE",
+      "album": "Tomorrow's World",
+      "label": "Stones Throw"
     },
     {
-      "artist": "Margo Cilker",
-      "album": "Little White Cross",
-      "label": "Fossil"
+      "artist": "Richard Thompson Hippies",
+      "album": "Thugs and Heroes",
+      "label": "New West"
     },
     {
-      "artist": "Imperial Teen",
-      "album": "All Over You",
-      "label": "Merge"
+      "artist": "Flora Hibberd",
+      "album": "Mammoth",
+      "label": "22Twenty"
     },
     {
-      "artist": "heavensouls",
-      "album": "cantu of the sower",
-      "label": "NTS"
+      "artist": "Chuwi",
+      "album": "Libertad",
+      "label": "self-released"
     },
     {
-      "artist": "Joyce Wrice",
-      "album": "MACHIKO",
-      "label": "BMG"
+      "artist": "Max Richter",
+      "album": "While The Flood Rages",
+      "label": "Decca"
     }
   ],
   "dorasCorner": [],
   "longList": {},
   "allAlbums": [
     {
-      "artist": "Cameron Winter",
-      "album": "Live at Carnegie Hall",
-      "label": "Partisan",
+      "artist": "Fontaines D.C.",
+      "album": "Dopamine Chamber",
+      "label": "XL Recordings",
       "section": "starting5"
     },
     {
-      "artist": "Troye Sivan",
-      "album": "She's The Best",
-      "label": "Interscope",
+      "artist": "@",
+      "album": "Autosmile",
+      "label": "4AD",
       "section": "starting5"
     },
     {
-      "artist": "Remi Wolf",
-      "album": "Mud",
-      "label": "Island",
+      "artist": "Sophia Stel",
+      "album": "The Greatest Album of All Time",
+      "label": "A24 Music",
       "section": "starting5"
     },
     {
-      "artist": "Jess Williamson",
-      "album": "A Mile South of Heaven",
+      "artist": "June McDoom",
+      "album": "Follow the Light",
+      "label": "Jagjaguwar",
+      "section": "starting5"
+    },
+    {
+      "artist": "The Avalanches",
+      "album": "No Bad Memories",
+      "label": "Modular",
+      "section": "starting5"
+    },
+    {
+      "artist": "N8NOFACE",
+      "album": "Tomorrow's World",
+      "label": "Stones Throw",
+      "section": "lightningRound"
+    },
+    {
+      "artist": "Richard Thompson Hippies",
+      "album": "Thugs and Heroes",
       "label": "New West",
-      "section": "starting5"
-    },
-    {
-      "artist": "Danielle Ponder",
-      "album": "Everything Has Changed",
-      "label": "Dead Oceans",
-      "section": "starting5"
-    },
-    {
-      "artist": "Dawn Richard",
-      "album": "creole culture",
-      "label": "Merge",
       "section": "lightningRound"
     },
     {
-      "artist": "Margo Cilker",
-      "album": "Little White Cross",
-      "label": "Fossil",
+      "artist": "Flora Hibberd",
+      "album": "Mammoth",
+      "label": "22Twenty",
       "section": "lightningRound"
     },
     {
-      "artist": "Imperial Teen",
-      "album": "All Over You",
-      "label": "Merge",
+      "artist": "Chuwi",
+      "album": "Libertad",
+      "label": "self-released",
       "section": "lightningRound"
     },
     {
-      "artist": "heavensouls",
-      "album": "cantu of the sower",
-      "label": "NTS",
-      "section": "lightningRound"
-    },
-    {
-      "artist": "Joyce Wrice",
-      "album": "MACHIKO",
-      "label": "BMG",
+      "artist": "Max Richter",
+      "album": "While The Flood Rages",
+      "label": "Decca",
       "section": "lightningRound"
     }
   ]
