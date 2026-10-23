@@ -1,351 +1,322 @@
 {
-  "source": "https://www.npr.org/2026/10/16/nx-s1-5983692/new-music-friday-best-albums-oct-16-2026",
-  "scrapedAt": "2026-10-16T22:19:56.737Z",
-  "date": "2026-10-16",
-  "title": "New Music Friday: The best albums out Oct. 16",
-  "total": 10,
+  "source": "https://www.npr.org/2026/10/23/nx-s1-6012325/new-music-friday-the-best-albums-out-oct-23",
+  "scrapedAt": "2026-10-23T22:45:06.497Z",
+  "date": "2026-10-23",
+  "title": "New Music Friday: The best albums out Oct. 23",
+  "total": 9,
   "albums": [
     {
-      "artist": "Fontaines D.C.",
-      "album": "Dopamine Chamber",
-      "label": "XL Recordings",
+      "artist": "Anderson .Paak and Cordae",
+      "album": "Heavy Is the Crown",
+      "label": "Apes***/Mass Appeal/Empire",
       "section": "starting5",
       "spotify": {
-        "id": "0JICUfSKOdGqzE9FJSrNci",
-        "name": "Dopamine Chamber",
-        "url": "https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci",
-        "release_date": "2026-10-16",
+        "id": "1pbMoqpMgCyjPefcJ9PKdq",
+        "name": "Heavy Is The Crown",
+        "url": "https://open.spotify.com/album/1pbMoqpMgCyjPefcJ9PKdq",
+        "release_date": "2026-10-23",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273a01e49054c2135f979e06de0",
+            "url": "https://i.scdn.co/image/ab67616d0000b273e9c1b191c7e4b2f85e6431e8",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02a01e49054c2135f979e06de0",
+            "url": "https://i.scdn.co/image/ab67616d00001e02e9c1b191c7e4b2f85e6431e8",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851a01e49054c2135f979e06de0",
+            "url": "https://i.scdn.co/image/ab67616d00004851e9c1b191c7e4b2f85e6431e8",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "3SXwqSqAoBz9WCI9PDQzY6",
-            "name": "Fontaines D.C."
+            "id": "3jK9MiCrA42lLAdMGUZpwa",
+            "name": "Anderson .Paak"
+          },
+          {
+            "id": "0huGjMyP507tBCARyzSkrv",
+            "name": "Cordae"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Fontaines%20D.C.%20Dopamine%20Chamber"
+      "spotifySearchUrl": "https://open.spotify.com/search/Anderson%20.Paak%20and%20Cordae%20Heavy%20Is%20the%20Crown"
     },
     {
-      "artist": "@",
-      "album": "Autosmile",
-      "label": "4AD",
+      "artist": "Fenne Lily",
+      "album": "Win Win",
+      "label": "Nettwerk",
       "section": "starting5",
       "spotify": {
-        "id": "0TkVOCI5fcQPt6mbFT2jil",
-        "name": "Autosmile",
-        "url": "https://open.spotify.com/album/0TkVOCI5fcQPt6mbFT2jil",
-        "release_date": "2026-06-24",
+        "id": "1m7TJkQQIOxx7gfkvaKt6f",
+        "name": "Win Win",
+        "url": "https://open.spotify.com/album/1m7TJkQQIOxx7gfkvaKt6f",
+        "release_date": "2026-10-23",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2735c335fecfeabea2449b8e64a",
+            "url": "https://i.scdn.co/image/ab67616d0000b27325e05bc6661ce24e015b9e38",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e025c335fecfeabea2449b8e64a",
+            "url": "https://i.scdn.co/image/ab67616d00001e0225e05bc6661ce24e015b9e38",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048515c335fecfeabea2449b8e64a",
+            "url": "https://i.scdn.co/image/ab67616d0000485125e05bc6661ce24e015b9e38",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "5HMQ8Ndq4fhuLwhealQFO3",
-            "name": "@"
+            "id": "7iPH2BRBF9wKa6ljxvdext",
+            "name": "Fenne Lily"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/%40%20Autosmile"
+      "spotifySearchUrl": "https://open.spotify.com/search/Fenne%20Lily%20Win%20Win"
     },
     {
-      "artist": "Sophia Stel",
-      "album": "The Greatest Album of All Time",
-      "label": "A24 Music",
+      "artist": "Fine",
+      "album": "Jazz Dreams",
+      "label": "Escho",
       "section": "starting5",
       "spotify": {
-        "id": "604KxCjle0KCw0VXdoMNgj",
-        "name": "the greatest album of all time",
-        "url": "https://open.spotify.com/album/604KxCjle0KCw0VXdoMNgj",
-        "release_date": "2026-10-16",
+        "id": "04vD00822fgNjeKsJTldbT",
+        "name": "Jazz dreams",
+        "url": "https://open.spotify.com/album/04vD00822fgNjeKsJTldbT",
+        "release_date": "2026-10-23",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2738d778398be51399568ec7528",
+            "url": "https://i.scdn.co/image/ab67616d0000b273b9726801e71a6899eb01bfac",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e028d778398be51399568ec7528",
+            "url": "https://i.scdn.co/image/ab67616d00001e02b9726801e71a6899eb01bfac",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048518d778398be51399568ec7528",
+            "url": "https://i.scdn.co/image/ab67616d00004851b9726801e71a6899eb01bfac",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "18w9tq3c2x11niEFNYqeex",
-            "name": "Sophia Stel"
+            "id": "2356dfnXmbn9pH0xE2sYQ5",
+            "name": "Fine"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Sophia%20Stel%20The%20Greatest%20Album%20of%20All%20Time"
+      "spotifySearchUrl": "https://open.spotify.com/search/Fine%20Jazz%20Dreams"
     },
     {
-      "artist": "June McDoom",
-      "album": "Follow the Light",
-      "label": "Jagjaguwar",
+      "artist": "Surprise Chef",
+      "album": "Frogs In A Pond",
+      "label": "Concord Jazz",
       "section": "starting5",
       "spotify": {
-        "id": "5VHfVW8PISNYyVG9Hb4G2Y",
-        "name": "Follow The Light",
-        "url": "https://open.spotify.com/album/5VHfVW8PISNYyVG9Hb4G2Y",
-        "release_date": "2026-10-16",
+        "id": "2eRC4iLJJHPgq7y5QdcV5E",
+        "name": "Frogs In A Pond",
+        "url": "https://open.spotify.com/album/2eRC4iLJJHPgq7y5QdcV5E",
+        "release_date": "2026-10-23",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27343538c044ebafd7c0640993e",
+            "url": "https://i.scdn.co/image/ab67616d0000b273ec8c02e178bbcadbdbb2d7da",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0243538c044ebafd7c0640993e",
+            "url": "https://i.scdn.co/image/ab67616d00001e02ec8c02e178bbcadbdbb2d7da",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485143538c044ebafd7c0640993e",
+            "url": "https://i.scdn.co/image/ab67616d00004851ec8c02e178bbcadbdbb2d7da",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "01dkMVgxs4d9pNMIOgyXVV",
-            "name": "June McDoom"
+            "id": "2Ks1Z1scmEDZfaYaCS7Osj",
+            "name": "Surprise Chef"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/June%20McDoom%20Follow%20the%20Light"
+      "spotifySearchUrl": "https://open.spotify.com/search/Surprise%20Chef%20Frogs%20In%20A%20Pond"
     },
     {
-      "artist": "The Avalanches",
-      "album": "No Bad Memories",
-      "label": "Modular",
-      "section": "starting5",
+      "artist": "Shabazz Palaces",
+      "album": "It's a Style Sport",
+      "label": "Sub Pop",
+      "section": "lightningRound",
       "spotify": {
-        "id": "3De7Ues320SIjGCaz5b6fX",
-        "name": "No Bad Memories",
-        "url": "https://open.spotify.com/album/3De7Ues320SIjGCaz5b6fX",
-        "release_date": "2026-10-16",
+        "id": "24MyPYK5qT4OloO3ta5Noj",
+        "name": "It's a Style Sport",
+        "url": "https://open.spotify.com/album/24MyPYK5qT4OloO3ta5Noj",
+        "release_date": "2026-10-23",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2734d100df0be7285a2f1176c7a",
+            "url": "https://i.scdn.co/image/ab67616d0000b2731eeeeb22c9e71adc45bc6bd9",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e024d100df0be7285a2f1176c7a",
+            "url": "https://i.scdn.co/image/ab67616d00001e021eeeeb22c9e71adc45bc6bd9",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048514d100df0be7285a2f1176c7a",
+            "url": "https://i.scdn.co/image/ab67616d000048511eeeeb22c9e71adc45bc6bd9",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "3C8RpaI3Go0yFF9whvKoED",
-            "name": "The Avalanches"
+            "id": "6C403AR4y6PjN0xNNGh42m",
+            "name": "Shabazz Palaces"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/The%20Avalanches%20No%20Bad%20Memories"
+      "spotifySearchUrl": "https://open.spotify.com/search/Shabazz%20Palaces%20It's%20a%20Style%20Sport"
     },
     {
-      "artist": "N8NOFACE",
-      "album": "Tomorrow's World",
-      "label": "Stones Throw",
+      "artist": "Claud",
+      "album": "Me and the Music",
+      "label": "Dead Oceans",
+      "section": "lightningRound",
+      "spotify": {
+        "id": "4z815sIdN6BdCRbF5kWTKW",
+        "name": "Me and the Music",
+        "url": "https://open.spotify.com/album/4z815sIdN6BdCRbF5kWTKW",
+        "release_date": "2026-10-23",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273f1a484729ed00e047bbb534e",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02f1a484729ed00e047bbb534e",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851f1a484729ed00e047bbb534e",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "5MaQlvNGOaTj39apHsXVq1",
+            "name": "Claud"
+          }
+        ]
+      },
+      "songlink": null,
+      "spotifySearchUrl": "https://open.spotify.com/search/Claud%20Me%20and%20the%20Music"
+    },
+    {
+      "artist": "Josh Johnson",
+      "album": "Animative",
+      "label": "International Anthem/Nonesuch",
       "section": "lightningRound",
       "spotify": null,
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/N8NOFACE%20Tomorrow's%20World"
+      "spotifySearchUrl": "https://open.spotify.com/search/Josh%20Johnson%20Animative"
     },
     {
-      "artist": "Richard Thompson Hippies",
-      "album": "Thugs and Heroes",
-      "label": "New West",
+      "artist": "The Olivia Tremor Control",
+      "album": "The Same Place",
+      "label": "Elephant 6",
       "section": "lightningRound",
       "spotify": {
-        "id": "4fourLlwRgWXLg9qpirYw9",
-        "name": "Hippies, Thugs and Heroes",
-        "url": "https://open.spotify.com/album/4fourLlwRgWXLg9qpirYw9",
-        "release_date": "2026-10-16",
+        "id": "22Qa4J7PkfP23xfqx4QBat",
+        "name": "The Same Place",
+        "url": "https://open.spotify.com/album/22Qa4J7PkfP23xfqx4QBat",
+        "release_date": "2026-10-23",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273a4d507b75e9e2bd01ac1341a",
+            "url": "https://i.scdn.co/image/ab67616d0000b2739d90986196d15b366f05a844",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02a4d507b75e9e2bd01ac1341a",
+            "url": "https://i.scdn.co/image/ab67616d00001e029d90986196d15b366f05a844",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851a4d507b75e9e2bd01ac1341a",
+            "url": "https://i.scdn.co/image/ab67616d000048519d90986196d15b366f05a844",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "5w75MoT8FfcGOMgjgrj1cz",
-            "name": "Richard Thompson"
+            "id": "4a2nAPF15Gv8V65Ba3IJSB",
+            "name": "The Olivia Tremor Control"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Richard%20Thompson%20Hippies%20Thugs%20and%20Heroes"
+      "spotifySearchUrl": "https://open.spotify.com/search/The%20Olivia%20Tremor%20Control%20The%20Same%20Place"
     },
     {
-      "artist": "Flora Hibberd",
-      "album": "Mammoth",
-      "label": "22Twenty",
+      "artist": "Third Coast Percussion & Jlin",
+      "album": "Vernacular",
+      "label": "Rockwell",
       "section": "lightningRound",
       "spotify": {
-        "id": "784HBwoMCDRkUGt43BCeeV",
-        "name": "Mammoth",
-        "url": "https://open.spotify.com/album/784HBwoMCDRkUGt43BCeeV",
-        "release_date": "2026-10-16",
+        "id": "0baf5ab40M7yJL1FZtKBI7",
+        "name": "Vernacular: Jlin, David Longstreth, Philip Glass",
+        "url": "https://open.spotify.com/album/0baf5ab40M7yJL1FZtKBI7",
+        "release_date": "2026-10-23",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273750eaccb1b554cedb02310fa",
+            "url": "https://i.scdn.co/image/ab67616d0000b273671a2d638d76c50ea94f5cf6",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02750eaccb1b554cedb02310fa",
+            "url": "https://i.scdn.co/image/ab67616d00001e02671a2d638d76c50ea94f5cf6",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851750eaccb1b554cedb02310fa",
+            "url": "https://i.scdn.co/image/ab67616d00004851671a2d638d76c50ea94f5cf6",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "5EFG7rqfVfdyaXiRZbRkpS",
-            "name": "Flora Hibberd"
+            "id": "7aQZO27ByZmD9uWUgA1lJA",
+            "name": "Third Coast Percussion"
+          },
+          {
+            "id": "23QKqAkKwti9zBiac6RFBA",
+            "name": "Jlin"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Flora%20Hibberd%20Mammoth"
-    },
-    {
-      "artist": "Chuwi",
-      "album": "Libertad",
-      "label": "self-released",
-      "section": "lightningRound",
-      "spotify": {
-        "id": "7qRyDwksNIsLiPYmn0THvJ",
-        "name": "Libertad",
-        "url": "https://open.spotify.com/album/7qRyDwksNIsLiPYmn0THvJ",
-        "release_date": "2026-10-14",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2737b19f5617af654e02b86392d",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e027b19f5617af654e02b86392d",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048517b19f5617af654e02b86392d",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "6wF1Cz760dpdbX9RJIDpQW",
-            "name": "Chuwi"
-          }
-        ]
-      },
-      "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Chuwi%20Libertad"
-    },
-    {
-      "artist": "Max Richter",
-      "album": "While The Flood Rages",
-      "label": "Decca",
-      "section": "lightningRound",
-      "spotify": {
-        "id": "5sZ0QkaVO3XjE41k8EuPc0",
-        "name": "While The Flood Rages",
-        "url": "https://open.spotify.com/album/5sZ0QkaVO3XjE41k8EuPc0",
-        "release_date": "2026-10-16",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27301993011e01faa10e6a3446f",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0201993011e01faa10e6a3446f",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485101993011e01faa10e6a3446f",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "2VZNmg4vCnew4Pavo8zDdW",
-            "name": "Max Richter"
-          }
-        ]
-      },
-      "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Max%20Richter%20While%20The%20Flood%20Rages"
+      "spotifySearchUrl": "https://open.spotify.com/search/Third%20Coast%20Percussion%20%26%20Jlin%20Vernacular"
     }
   ]
 }

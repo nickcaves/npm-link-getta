@@ -1,123 +1,112 @@
 {
-  "source": "https://www.npr.org/2026/10/16/nx-s1-5983692/new-music-friday-best-albums-oct-16-2026",
-  "scrapedAt": "2026-10-16T22:19:56.737Z",
-  "date": "2026-10-16",
-  "title": "New Music Friday: The best albums out Oct. 16",
+  "source": "https://www.npr.org/2026/10/23/nx-s1-6012325/new-music-friday-the-best-albums-out-oct-23",
+  "scrapedAt": "2026-10-23T22:45:06.497Z",
+  "date": "2026-10-23",
+  "title": "New Music Friday: The best albums out Oct. 23",
   "starting5": [
     {
-      "artist": "Fontaines D.C.",
-      "album": "Dopamine Chamber",
-      "label": "XL Recordings"
+      "artist": "Anderson .Paak and Cordae",
+      "album": "Heavy Is the Crown",
+      "label": "Apes***/Mass Appeal/Empire"
     },
     {
-      "artist": "@",
-      "album": "Autosmile",
-      "label": "4AD"
+      "artist": "Fenne Lily",
+      "album": "Win Win",
+      "label": "Nettwerk"
     },
     {
-      "artist": "Sophia Stel",
-      "album": "The Greatest Album of All Time",
-      "label": "A24 Music"
+      "artist": "Fine",
+      "album": "Jazz Dreams",
+      "label": "Escho"
     },
     {
-      "artist": "June McDoom",
-      "album": "Follow the Light",
-      "label": "Jagjaguwar"
-    },
-    {
-      "artist": "The Avalanches",
-      "album": "No Bad Memories",
-      "label": "Modular"
+      "artist": "Surprise Chef",
+      "album": "Frogs In A Pond",
+      "label": "Concord Jazz"
     }
   ],
   "lightningRound": [
     {
-      "artist": "N8NOFACE",
-      "album": "Tomorrow's World",
-      "label": "Stones Throw"
+      "artist": "Shabazz Palaces",
+      "album": "It's a Style Sport",
+      "label": "Sub Pop"
     },
     {
-      "artist": "Richard Thompson Hippies",
-      "album": "Thugs and Heroes",
-      "label": "New West"
+      "artist": "Claud",
+      "album": "Me and the Music",
+      "label": "Dead Oceans"
     },
     {
-      "artist": "Flora Hibberd",
-      "album": "Mammoth",
-      "label": "22Twenty"
+      "artist": "Josh Johnson",
+      "album": "Animative",
+      "label": "International Anthem/Nonesuch"
     },
     {
-      "artist": "Chuwi",
-      "album": "Libertad",
-      "label": "self-released"
+      "artist": "The Olivia Tremor Control",
+      "album": "The Same Place",
+      "label": "Elephant 6"
     },
     {
-      "artist": "Max Richter",
-      "album": "While The Flood Rages",
-      "label": "Decca"
+      "artist": "Third Coast Percussion & Jlin",
+      "album": "Vernacular",
+      "label": "Rockwell"
     }
   ],
   "dorasCorner": [],
   "longList": {},
   "allAlbums": [
     {
-      "artist": "Fontaines D.C.",
-      "album": "Dopamine Chamber",
-      "label": "XL Recordings",
+      "artist": "Anderson .Paak and Cordae",
+      "album": "Heavy Is the Crown",
+      "label": "Apes***/Mass Appeal/Empire",
       "section": "starting5"
     },
     {
-      "artist": "@",
-      "album": "Autosmile",
-      "label": "4AD",
+      "artist": "Fenne Lily",
+      "album": "Win Win",
+      "label": "Nettwerk",
       "section": "starting5"
     },
     {
-      "artist": "Sophia Stel",
-      "album": "The Greatest Album of All Time",
-      "label": "A24 Music",
+      "artist": "Fine",
+      "album": "Jazz Dreams",
+      "label": "Escho",
       "section": "starting5"
     },
     {
-      "artist": "June McDoom",
-      "album": "Follow the Light",
-      "label": "Jagjaguwar",
+      "artist": "Surprise Chef",
+      "album": "Frogs In A Pond",
+      "label": "Concord Jazz",
       "section": "starting5"
     },
     {
-      "artist": "The Avalanches",
-      "album": "No Bad Memories",
-      "label": "Modular",
-      "section": "starting5"
-    },
-    {
-      "artist": "N8NOFACE",
-      "album": "Tomorrow's World",
-      "label": "Stones Throw",
+      "artist": "Shabazz Palaces",
+      "album": "It's a Style Sport",
+      "label": "Sub Pop",
       "section": "lightningRound"
     },
     {
-      "artist": "Richard Thompson Hippies",
-      "album": "Thugs and Heroes",
-      "label": "New West",
+      "artist": "Claud",
+      "album": "Me and the Music",
+      "label": "Dead Oceans",
       "section": "lightningRound"
     },
     {
-      "artist": "Flora Hibberd",
-      "album": "Mammoth",
-      "label": "22Twenty",
+      "artist": "Josh Johnson",
+      "album": "Animative",
+      "label": "International Anthem/Nonesuch",
       "section": "lightningRound"
     },
     {
-      "artist": "Chuwi",
-      "album": "Libertad",
-      "label": "self-released",
+      "artist": "The Olivia Tremor Control",
+      "album": "The Same Place",
+      "label": "Elephant 6",
       "section": "lightningRound"
     },
     {
-      "artist": "Max Richter",
-      "album": "While The Flood Rages",
-      "label": "Decca",
+      "artist": "Third Coast Percussion & Jlin",
+      "album": "Vernacular",
+      "label": "Rockwell",
       "section": "lightningRound"
     }
   ]
