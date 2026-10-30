@@ -1,322 +1,351 @@
 {
-  "source": "https://www.npr.org/2026/10/23/nx-s1-6012325/new-music-friday-the-best-albums-out-oct-23",
-  "scrapedAt": "2026-10-23T22:45:06.497Z",
-  "date": "2026-10-23",
-  "title": "New Music Friday: The best albums out Oct. 23",
-  "total": 9,
+  "source": "https://www.npr.org/2026/10/30/nx-s1-6022242/new-music-friday-the-best-albums-out-oct-30",
+  "scrapedAt": "2026-10-30T23:22:31.889Z",
+  "date": "2026-10-30",
+  "title": "New Music Friday: The best albums out Oct. 30",
+  "total": 10,
   "albums": [
     {
-      "artist": "Anderson .Paak and Cordae",
-      "album": "Heavy Is the Crown",
-      "label": "Apes***/Mass Appeal/Empire",
+      "artist": "Kaitlin Butts, Hello",
+      "album": "Honky Tonk",
+      "label": "Republic",
       "section": "starting5",
       "spotify": {
-        "id": "1pbMoqpMgCyjPefcJ9PKdq",
-        "name": "Heavy Is The Crown",
-        "url": "https://open.spotify.com/album/1pbMoqpMgCyjPefcJ9PKdq",
-        "release_date": "2026-10-23",
+        "id": "6Kmm7Es8e3dARm6LvrosQz",
+        "name": "Hello, Honky Tonk",
+        "url": "https://open.spotify.com/album/6Kmm7Es8e3dARm6LvrosQz",
+        "release_date": "2026-10-30",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273e9c1b191c7e4b2f85e6431e8",
+            "url": "https://i.scdn.co/image/ab67616d0000b273f498129accb9a715ee711199",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02e9c1b191c7e4b2f85e6431e8",
+            "url": "https://i.scdn.co/image/ab67616d00001e02f498129accb9a715ee711199",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851e9c1b191c7e4b2f85e6431e8",
+            "url": "https://i.scdn.co/image/ab67616d00004851f498129accb9a715ee711199",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "3jK9MiCrA42lLAdMGUZpwa",
-            "name": "Anderson .Paak"
-          },
-          {
-            "id": "0huGjMyP507tBCARyzSkrv",
-            "name": "Cordae"
+            "id": "6QmSTo72BYMATkQVOV1axD",
+            "name": "Kaitlin Butts"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Anderson%20.Paak%20and%20Cordae%20Heavy%20Is%20the%20Crown"
+      "spotifySearchUrl": "https://open.spotify.com/search/Kaitlin%20Butts%2C%20Hello%20Honky%20Tonk"
     },
     {
-      "artist": "Fenne Lily",
-      "album": "Win Win",
-      "label": "Nettwerk",
+      "artist": "Sampa the Great",
+      "album": "Nu Zamrock",
+      "label": "Loma Vista",
       "section": "starting5",
       "spotify": {
-        "id": "1m7TJkQQIOxx7gfkvaKt6f",
-        "name": "Win Win",
-        "url": "https://open.spotify.com/album/1m7TJkQQIOxx7gfkvaKt6f",
-        "release_date": "2026-10-23",
+        "id": "3XRKBEcQMSiMzGcGQJ2qDz",
+        "name": "Nu Zamrock",
+        "url": "https://open.spotify.com/album/3XRKBEcQMSiMzGcGQJ2qDz",
+        "release_date": "2026-10-30",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27325e05bc6661ce24e015b9e38",
+            "url": "https://i.scdn.co/image/ab67616d0000b27319c8cdb7769bbfd66587f26f",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0225e05bc6661ce24e015b9e38",
+            "url": "https://i.scdn.co/image/ab67616d00001e0219c8cdb7769bbfd66587f26f",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485125e05bc6661ce24e015b9e38",
+            "url": "https://i.scdn.co/image/ab67616d0000485119c8cdb7769bbfd66587f26f",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "7iPH2BRBF9wKa6ljxvdext",
-            "name": "Fenne Lily"
+            "id": "7fw0E8WHdG3r9SuPBcGmWk",
+            "name": "Sampa the Great"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Fenne%20Lily%20Win%20Win"
+      "spotifySearchUrl": "https://open.spotify.com/search/Sampa%20the%20Great%20Nu%20Zamrock"
     },
     {
-      "artist": "Fine",
-      "album": "Jazz Dreams",
-      "label": "Escho",
+      "artist": "Kali Malone",
+      "album": "Burning Song",
+      "label": "Ideologic Organ",
       "section": "starting5",
       "spotify": {
-        "id": "04vD00822fgNjeKsJTldbT",
-        "name": "Jazz dreams",
-        "url": "https://open.spotify.com/album/04vD00822fgNjeKsJTldbT",
-        "release_date": "2026-10-23",
+        "id": "6rkiieHSmjekjpj5OZ05wQ",
+        "name": "Burning Song",
+        "url": "https://open.spotify.com/album/6rkiieHSmjekjpj5OZ05wQ",
+        "release_date": "2026-10-30",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273b9726801e71a6899eb01bfac",
+            "url": "https://i.scdn.co/image/ab67616d0000b2736153a93ea0494f7ef19650ab",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02b9726801e71a6899eb01bfac",
+            "url": "https://i.scdn.co/image/ab67616d00001e026153a93ea0494f7ef19650ab",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851b9726801e71a6899eb01bfac",
+            "url": "https://i.scdn.co/image/ab67616d000048516153a93ea0494f7ef19650ab",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "2356dfnXmbn9pH0xE2sYQ5",
-            "name": "Fine"
+            "id": "1I0rODlh5K9pW3JhEla2H9",
+            "name": "Kali Malone"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Fine%20Jazz%20Dreams"
+      "spotifySearchUrl": "https://open.spotify.com/search/Kali%20Malone%20Burning%20Song"
     },
     {
-      "artist": "Surprise Chef",
-      "album": "Frogs In A Pond",
-      "label": "Concord Jazz",
+      "artist": "Moses Boyd",
+      "album": "Songs For Sinners",
+      "label": "Beggars",
       "section": "starting5",
       "spotify": {
-        "id": "2eRC4iLJJHPgq7y5QdcV5E",
-        "name": "Frogs In A Pond",
-        "url": "https://open.spotify.com/album/2eRC4iLJJHPgq7y5QdcV5E",
-        "release_date": "2026-10-23",
+        "id": "6lwvh4m0R124kNxrjjVFem",
+        "name": "Songs For Sinners",
+        "url": "https://open.spotify.com/album/6lwvh4m0R124kNxrjjVFem",
+        "release_date": "2026-10-30",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273ec8c02e178bbcadbdbb2d7da",
+            "url": "https://i.scdn.co/image/ab67616d0000b273ccf84ad106cda6ea1bc2f3cc",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02ec8c02e178bbcadbdbb2d7da",
+            "url": "https://i.scdn.co/image/ab67616d00001e02ccf84ad106cda6ea1bc2f3cc",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851ec8c02e178bbcadbdbb2d7da",
+            "url": "https://i.scdn.co/image/ab67616d00004851ccf84ad106cda6ea1bc2f3cc",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "2Ks1Z1scmEDZfaYaCS7Osj",
-            "name": "Surprise Chef"
+            "id": "1otDUlTEBjcyDQg6CkHRaV",
+            "name": "Moses Boyd"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Surprise%20Chef%20Frogs%20In%20A%20Pond"
+      "spotifySearchUrl": "https://open.spotify.com/search/Moses%20Boyd%20Songs%20For%20Sinners"
     },
     {
-      "artist": "Shabazz Palaces",
-      "album": "It's a Style Sport",
+      "artist": "P***",
+      "album": "you made me / skin on linen",
       "label": "Sub Pop",
-      "section": "lightningRound",
+      "section": "starting5",
       "spotify": {
-        "id": "24MyPYK5qT4OloO3ta5Noj",
-        "name": "It's a Style Sport",
-        "url": "https://open.spotify.com/album/24MyPYK5qT4OloO3ta5Noj",
-        "release_date": "2026-10-23",
+        "id": "4L3aQdOW11hKFGRbpkw3wN",
+        "name": "you made me / skin on linen",
+        "url": "https://open.spotify.com/album/4L3aQdOW11hKFGRbpkw3wN",
+        "release_date": "2026-10-30",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2731eeeeb22c9e71adc45bc6bd9",
+            "url": "https://i.scdn.co/image/ab67616d0000b27364dd93c7a3c89fa6dac3f7f6",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e021eeeeb22c9e71adc45bc6bd9",
+            "url": "https://i.scdn.co/image/ab67616d00001e0264dd93c7a3c89fa6dac3f7f6",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048511eeeeb22c9e71adc45bc6bd9",
+            "url": "https://i.scdn.co/image/ab67616d0000485164dd93c7a3c89fa6dac3f7f6",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "6C403AR4y6PjN0xNNGh42m",
-            "name": "Shabazz Palaces"
+            "id": "1nGBerMI4y0SI6fZk97uYf",
+            "name": "PISS"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Shabazz%20Palaces%20It's%20a%20Style%20Sport"
+      "spotifySearchUrl": "https://open.spotify.com/search/P***%20you%20made%20me%20%2F%20skin%20on%20linen"
     },
     {
-      "artist": "Claud",
-      "album": "Me and the Music",
-      "label": "Dead Oceans",
-      "section": "lightningRound",
-      "spotify": {
-        "id": "4z815sIdN6BdCRbF5kWTKW",
-        "name": "Me and the Music",
-        "url": "https://open.spotify.com/album/4z815sIdN6BdCRbF5kWTKW",
-        "release_date": "2026-10-23",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273f1a484729ed00e047bbb534e",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02f1a484729ed00e047bbb534e",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851f1a484729ed00e047bbb534e",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "5MaQlvNGOaTj39apHsXVq1",
-            "name": "Claud"
-          }
-        ]
-      },
-      "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Claud%20Me%20and%20the%20Music"
-    },
-    {
-      "artist": "Josh Johnson",
-      "album": "Animative",
-      "label": "International Anthem/Nonesuch",
+      "artist": "2nd Grade",
+      "album": "Girls & Boys",
+      "label": "Lame-O",
       "section": "lightningRound",
       "spotify": null,
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Josh%20Johnson%20Animative"
+      "spotifySearchUrl": "https://open.spotify.com/search/2nd%20Grade%20Girls%20%26%20Boys"
     },
     {
-      "artist": "The Olivia Tremor Control",
-      "album": "The Same Place",
-      "label": "Elephant 6",
+      "artist": "NØ MAN",
+      "album": "Between the Sword and the Neck",
+      "label": "Iodine",
       "section": "lightningRound",
       "spotify": {
-        "id": "22Qa4J7PkfP23xfqx4QBat",
-        "name": "The Same Place",
-        "url": "https://open.spotify.com/album/22Qa4J7PkfP23xfqx4QBat",
-        "release_date": "2026-10-23",
+        "id": "0PqzFjVtWawwgP4DM3rNUV",
+        "name": "Between the Sword and the Neck",
+        "url": "https://open.spotify.com/album/0PqzFjVtWawwgP4DM3rNUV",
+        "release_date": "2026-10-30",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2739d90986196d15b366f05a844",
+            "url": "https://i.scdn.co/image/ab67616d0000b27340645fce0ab92017427494de",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e029d90986196d15b366f05a844",
+            "url": "https://i.scdn.co/image/ab67616d00001e0240645fce0ab92017427494de",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048519d90986196d15b366f05a844",
+            "url": "https://i.scdn.co/image/ab67616d0000485140645fce0ab92017427494de",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "4a2nAPF15Gv8V65Ba3IJSB",
-            "name": "The Olivia Tremor Control"
+            "id": "3YVOPyK3WSherrqK2E34CZ",
+            "name": "NØ MAN"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/The%20Olivia%20Tremor%20Control%20The%20Same%20Place"
+      "spotifySearchUrl": "https://open.spotify.com/search/N%C3%98%20MAN%20Between%20the%20Sword%20and%20the%20Neck"
     },
     {
-      "artist": "Third Coast Percussion & Jlin",
-      "album": "Vernacular",
-      "label": "Rockwell",
+      "artist": "Takuya Nakamura",
+      "album": "Shape The Future",
+      "label": "fabric",
       "section": "lightningRound",
       "spotify": {
-        "id": "0baf5ab40M7yJL1FZtKBI7",
-        "name": "Vernacular: Jlin, David Longstreth, Philip Glass",
-        "url": "https://open.spotify.com/album/0baf5ab40M7yJL1FZtKBI7",
-        "release_date": "2026-10-23",
+        "id": "3cSlCGp4sXQbNyHZt5Jhui",
+        "name": "Shape The Future",
+        "url": "https://open.spotify.com/album/3cSlCGp4sXQbNyHZt5Jhui",
+        "release_date": "2026-10-07",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273671a2d638d76c50ea94f5cf6",
+            "url": "https://i.scdn.co/image/ab67616d0000b2739432339ec975f7b077e81d14",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02671a2d638d76c50ea94f5cf6",
+            "url": "https://i.scdn.co/image/ab67616d00001e029432339ec975f7b077e81d14",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851671a2d638d76c50ea94f5cf6",
+            "url": "https://i.scdn.co/image/ab67616d000048519432339ec975f7b077e81d14",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "7aQZO27ByZmD9uWUgA1lJA",
-            "name": "Third Coast Percussion"
-          },
-          {
-            "id": "23QKqAkKwti9zBiac6RFBA",
-            "name": "Jlin"
+            "id": "2dsG3u5vUZSGpQGEsq1unH",
+            "name": "Takuya Nakamura"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Third%20Coast%20Percussion%20%26%20Jlin%20Vernacular"
+      "spotifySearchUrl": "https://open.spotify.com/search/Takuya%20Nakamura%20Shape%20The%20Future"
+    },
+    {
+      "artist": "DIIV",
+      "album": "ZIRP!",
+      "label": "Fantasy",
+      "section": "lightningRound",
+      "spotify": {
+        "id": "3HaXEC1Zfo0zM6OCqdpofT",
+        "name": "ZIRP!",
+        "url": "https://open.spotify.com/album/3HaXEC1Zfo0zM6OCqdpofT",
+        "release_date": "2026-10-30",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273dc59cc903e7cb5f74cd60302",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02dc59cc903e7cb5f74cd60302",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851dc59cc903e7cb5f74cd60302",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "4OrizGCKhOrW6iDDJHN9xd",
+            "name": "DIIV"
+          }
+        ]
+      },
+      "songlink": null,
+      "spotifySearchUrl": "https://open.spotify.com/search/DIIV%20ZIRP!"
+    },
+    {
+      "artist": "Joyce Moreno",
+      "album": "Never Too Soon",
+      "label": "Far Out",
+      "section": "lightningRound",
+      "spotify": {
+        "id": "7M2ejpwYLTDP204rVnMFp1",
+        "name": "Never Too Soon",
+        "url": "https://open.spotify.com/album/7M2ejpwYLTDP204rVnMFp1",
+        "release_date": "2026-10-30",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273d72a0f58da7849a2060bedd5",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02d72a0f58da7849a2060bedd5",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851d72a0f58da7849a2060bedd5",
+            "width": 64
+          }
+        ],
+        "artists": [
+          {
+            "id": "5644bJMU3NkJN0edhyHV3v",
+            "name": "Joyce Moreno"
+          }
+        ]
+      },
+      "songlink": null,
+      "spotifySearchUrl": "https://open.spotify.com/search/Joyce%20Moreno%20Never%20Too%20Soon"
     }
   ]
 }

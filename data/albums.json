@@ -1,112 +1,123 @@
 {
-  "source": "https://www.npr.org/2026/10/23/nx-s1-6012325/new-music-friday-the-best-albums-out-oct-23",
-  "scrapedAt": "2026-10-23T22:45:06.497Z",
-  "date": "2026-10-23",
-  "title": "New Music Friday: The best albums out Oct. 23",
+  "source": "https://www.npr.org/2026/10/30/nx-s1-6022242/new-music-friday-the-best-albums-out-oct-30",
+  "scrapedAt": "2026-10-30T23:22:31.889Z",
+  "date": "2026-10-30",
+  "title": "New Music Friday: The best albums out Oct. 30",
   "starting5": [
     {
-      "artist": "Anderson .Paak and Cordae",
-      "album": "Heavy Is the Crown",
-      "label": "Apes***/Mass Appeal/Empire"
+      "artist": "Kaitlin Butts, Hello",
+      "album": "Honky Tonk",
+      "label": "Republic"
     },
     {
-      "artist": "Fenne Lily",
-      "album": "Win Win",
-      "label": "Nettwerk"
+      "artist": "Sampa the Great",
+      "album": "Nu Zamrock",
+      "label": "Loma Vista"
     },
     {
-      "artist": "Fine",
-      "album": "Jazz Dreams",
-      "label": "Escho"
+      "artist": "Kali Malone",
+      "album": "Burning Song",
+      "label": "Ideologic Organ"
     },
     {
-      "artist": "Surprise Chef",
-      "album": "Frogs In A Pond",
-      "label": "Concord Jazz"
+      "artist": "Moses Boyd",
+      "album": "Songs For Sinners",
+      "label": "Beggars"
+    },
+    {
+      "artist": "P***",
+      "album": "you made me / skin on linen",
+      "label": "Sub Pop"
     }
   ],
   "lightningRound": [
     {
-      "artist": "Shabazz Palaces",
-      "album": "It's a Style Sport",
-      "label": "Sub Pop"
+      "artist": "2nd Grade",
+      "album": "Girls & Boys",
+      "label": "Lame-O"
     },
     {
-      "artist": "Claud",
-      "album": "Me and the Music",
-      "label": "Dead Oceans"
+      "artist": "NØ MAN",
+      "album": "Between the Sword and the Neck",
+      "label": "Iodine"
     },
     {
-      "artist": "Josh Johnson",
-      "album": "Animative",
-      "label": "International Anthem/Nonesuch"
+      "artist": "Takuya Nakamura",
+      "album": "Shape The Future",
+      "label": "fabric"
     },
     {
-      "artist": "The Olivia Tremor Control",
-      "album": "The Same Place",
-      "label": "Elephant 6"
+      "artist": "DIIV",
+      "album": "ZIRP!",
+      "label": "Fantasy"
     },
     {
-      "artist": "Third Coast Percussion & Jlin",
-      "album": "Vernacular",
-      "label": "Rockwell"
+      "artist": "Joyce Moreno",
+      "album": "Never Too Soon",
+      "label": "Far Out"
     }
   ],
   "dorasCorner": [],
   "longList": {},
   "allAlbums": [
     {
-      "artist": "Anderson .Paak and Cordae",
-      "album": "Heavy Is the Crown",
-      "label": "Apes***/Mass Appeal/Empire",
+      "artist": "Kaitlin Butts, Hello",
+      "album": "Honky Tonk",
+      "label": "Republic",
       "section": "starting5"
     },
     {
-      "artist": "Fenne Lily",
-      "album": "Win Win",
-      "label": "Nettwerk",
+      "artist": "Sampa the Great",
+      "album": "Nu Zamrock",
+      "label": "Loma Vista",
       "section": "starting5"
     },
     {
-      "artist": "Fine",
-      "album": "Jazz Dreams",
-      "label": "Escho",
+      "artist": "Kali Malone",
+      "album": "Burning Song",
+      "label": "Ideologic Organ",
       "section": "starting5"
     },
     {
-      "artist": "Surprise Chef",
-      "album": "Frogs In A Pond",
-      "label": "Concord Jazz",
+      "artist": "Moses Boyd",
+      "album": "Songs For Sinners",
+      "label": "Beggars",
       "section": "starting5"
     },
     {
-      "artist": "Shabazz Palaces",
-      "album": "It's a Style Sport",
+      "artist": "P***",
+      "album": "you made me / skin on linen",
       "label": "Sub Pop",
+      "section": "starting5"
+    },
+    {
+      "artist": "2nd Grade",
+      "album": "Girls & Boys",
+      "label": "Lame-O",
       "section": "lightningRound"
     },
     {
-      "artist": "Claud",
-      "album": "Me and the Music",
-      "label": "Dead Oceans",
+      "artist": "NØ MAN",
+      "album": "Between the Sword and the Neck",
+      "label": "Iodine",
       "section": "lightningRound"
     },
     {
-      "artist": "Josh Johnson",
-      "album": "Animative",
-      "label": "International Anthem/Nonesuch",
+      "artist": "Takuya Nakamura",
+      "album": "Shape The Future",
+      "label": "fabric",
       "section": "lightningRound"
     },
     {
-      "artist": "The Olivia Tremor Control",
-      "album": "The Same Place",
-      "label": "Elephant 6",
+      "artist": "DIIV",
+      "album": "ZIRP!",
+      "label": "Fantasy",
       "section": "lightningRound"
     },
     {
-      "artist": "Third Coast Percussion & Jlin",
-      "album": "Vernacular",
-      "label": "Rockwell",
+      "artist": "Joyce Moreno",
+      "album": "Never Too Soon",
+      "label": "Far Out",
       "section": "lightningRound"
     }
   ]
