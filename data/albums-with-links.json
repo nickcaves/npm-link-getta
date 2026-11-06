@@ -1,351 +1,295 @@
 {
-  "source": "https://www.npr.org/2026/10/30/nx-s1-6022242/new-music-friday-the-best-albums-out-oct-30",
-  "scrapedAt": "2026-10-30T23:22:31.889Z",
-  "date": "2026-10-30",
-  "title": "New Music Friday: The best albums out Oct. 30",
+  "source": "https://www.npr.org/2026/11/06/nx-s1-6030904/new-music-friday-the-best-albums-out-nov-6",
+  "scrapedAt": "2026-11-06T23:52:39.520Z",
+  "date": "2026-11-06",
+  "title": "New Music Friday: The best albums out Nov. 6",
   "total": 10,
   "albums": [
     {
-      "artist": "Kaitlin Butts, Hello",
-      "album": "Honky Tonk",
-      "label": "Republic",
+      "artist": "Willi Carlisle",
+      "album": "The Universal Bubba",
+      "label": "Signature Sounds",
       "section": "starting5",
       "spotify": {
-        "id": "6Kmm7Es8e3dARm6LvrosQz",
-        "name": "Hello, Honky Tonk",
-        "url": "https://open.spotify.com/album/6Kmm7Es8e3dARm6LvrosQz",
-        "release_date": "2026-10-30",
+        "id": "12nyB0HBhKLnGGzSkckxL1",
+        "name": "The Universal Bubba",
+        "url": "https://open.spotify.com/album/12nyB0HBhKLnGGzSkckxL1",
+        "release_date": "2026-11-06",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273f498129accb9a715ee711199",
+            "url": "https://i.scdn.co/image/ab67616d0000b2731a569c3dd62869885de5fffb",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02f498129accb9a715ee711199",
+            "url": "https://i.scdn.co/image/ab67616d00001e021a569c3dd62869885de5fffb",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851f498129accb9a715ee711199",
+            "url": "https://i.scdn.co/image/ab67616d000048511a569c3dd62869885de5fffb",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "6QmSTo72BYMATkQVOV1axD",
-            "name": "Kaitlin Butts"
+            "id": "3JXh5RaaZipkV08RQK9L3L",
+            "name": "Willi Carlisle"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Kaitlin%20Butts%2C%20Hello%20Honky%20Tonk"
+      "spotifySearchUrl": "https://open.spotify.com/search/Willi%20Carlisle%20The%20Universal%20Bubba"
     },
     {
-      "artist": "Sampa the Great",
-      "album": "Nu Zamrock",
-      "label": "Loma Vista",
+      "artist": "Katie Gregson-MacLeod",
+      "album": "Albatross",
+      "label": "Last Recordings on Earth",
       "section": "starting5",
       "spotify": {
-        "id": "3XRKBEcQMSiMzGcGQJ2qDz",
-        "name": "Nu Zamrock",
-        "url": "https://open.spotify.com/album/3XRKBEcQMSiMzGcGQJ2qDz",
-        "release_date": "2026-10-30",
+        "id": "12SfDOkQd1tzCneyV5MgqX",
+        "name": "Albatross",
+        "url": "https://open.spotify.com/album/12SfDOkQd1tzCneyV5MgqX",
+        "release_date": "2026-11-06",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27319c8cdb7769bbfd66587f26f",
+            "url": "https://i.scdn.co/image/ab67616d0000b273d6f84a9c23e9939e601c4535",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0219c8cdb7769bbfd66587f26f",
+            "url": "https://i.scdn.co/image/ab67616d00001e02d6f84a9c23e9939e601c4535",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485119c8cdb7769bbfd66587f26f",
+            "url": "https://i.scdn.co/image/ab67616d00004851d6f84a9c23e9939e601c4535",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "7fw0E8WHdG3r9SuPBcGmWk",
-            "name": "Sampa the Great"
+            "id": "2xCYQunn7ZXK6qOwXWPvcF",
+            "name": "Katie Gregson-MacLeod"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Sampa%20the%20Great%20Nu%20Zamrock"
+      "spotifySearchUrl": "https://open.spotify.com/search/Katie%20Gregson-MacLeod%20Albatross"
     },
     {
-      "artist": "Kali Malone",
-      "album": "Burning Song",
-      "label": "Ideologic Organ",
+      "artist": "Dawuna",
+      "album": "Love's Arp",
+      "label": "True Panther",
+      "section": "starting5",
+      "spotify": null,
+      "songlink": null,
+      "spotifySearchUrl": "https://open.spotify.com/search/Dawuna%20Love's%20Arp"
+    },
+    {
+      "artist": "Bricknasty",
+      "album": "forever EP",
+      "label": "FAMM",
+      "section": "starting5",
+      "spotify": null,
+      "songlink": null,
+      "spotifySearchUrl": "https://open.spotify.com/search/Bricknasty%20forever%20EP"
+    },
+    {
+      "artist": "Catherine Elicson",
+      "album": "River Of Fat",
+      "label": "Community Music",
       "section": "starting5",
       "spotify": {
-        "id": "6rkiieHSmjekjpj5OZ05wQ",
-        "name": "Burning Song",
-        "url": "https://open.spotify.com/album/6rkiieHSmjekjpj5OZ05wQ",
-        "release_date": "2026-10-30",
+        "id": "6MIBK8sl6VLtZtyfHOlA3J",
+        "name": "River Of Fat",
+        "url": "https://open.spotify.com/album/6MIBK8sl6VLtZtyfHOlA3J",
+        "release_date": "2026-11-06",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2736153a93ea0494f7ef19650ab",
+            "url": "https://i.scdn.co/image/ab67616d0000b273b3f3c6599c135d98d76c56d4",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e026153a93ea0494f7ef19650ab",
+            "url": "https://i.scdn.co/image/ab67616d00001e02b3f3c6599c135d98d76c56d4",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048516153a93ea0494f7ef19650ab",
+            "url": "https://i.scdn.co/image/ab67616d00004851b3f3c6599c135d98d76c56d4",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "1I0rODlh5K9pW3JhEla2H9",
-            "name": "Kali Malone"
+            "id": "2MWNbT7pbFbC887Tsf3O1W",
+            "name": "Catherine Elicson"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Kali%20Malone%20Burning%20Song"
+      "spotifySearchUrl": "https://open.spotify.com/search/Catherine%20Elicson%20River%20Of%20Fat"
     },
     {
-      "artist": "Moses Boyd",
-      "album": "Songs For Sinners",
-      "label": "Beggars",
-      "section": "starting5",
+      "artist": "Straw Man Army",
+      "album": "True North",
+      "label": "La Vida Es Un Mus",
+      "section": "lightningRound",
       "spotify": {
-        "id": "6lwvh4m0R124kNxrjjVFem",
-        "name": "Songs For Sinners",
-        "url": "https://open.spotify.com/album/6lwvh4m0R124kNxrjjVFem",
-        "release_date": "2026-10-30",
+        "id": "3ROISt9m0vw0JaZCPVlxI0",
+        "name": "True North",
+        "url": "https://open.spotify.com/album/3ROISt9m0vw0JaZCPVlxI0",
+        "release_date": "2026-11-06",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273ccf84ad106cda6ea1bc2f3cc",
+            "url": "https://i.scdn.co/image/ab67616d0000b27325b8534279193731cb82caba",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02ccf84ad106cda6ea1bc2f3cc",
+            "url": "https://i.scdn.co/image/ab67616d00001e0225b8534279193731cb82caba",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851ccf84ad106cda6ea1bc2f3cc",
+            "url": "https://i.scdn.co/image/ab67616d0000485125b8534279193731cb82caba",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "1otDUlTEBjcyDQg6CkHRaV",
-            "name": "Moses Boyd"
+            "id": "6rFhssJkbBIptBACb7mfSB",
+            "name": "Straw Man Army"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Moses%20Boyd%20Songs%20For%20Sinners"
+      "spotifySearchUrl": "https://open.spotify.com/search/Straw%20Man%20Army%20True%20North"
     },
     {
-      "artist": "P***",
-      "album": "you made me / skin on linen",
-      "label": "Sub Pop",
-      "section": "starting5",
+      "artist": "Odette",
+      "album": "Blink",
+      "label": "Beloved",
+      "section": "lightningRound",
       "spotify": {
-        "id": "4L3aQdOW11hKFGRbpkw3wN",
-        "name": "you made me / skin on linen",
-        "url": "https://open.spotify.com/album/4L3aQdOW11hKFGRbpkw3wN",
-        "release_date": "2026-10-30",
+        "id": "0ovuh6BHpHdEwW1NRQCJ0E",
+        "name": "Blink",
+        "url": "https://open.spotify.com/album/0ovuh6BHpHdEwW1NRQCJ0E",
+        "release_date": "2026-11-05",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27364dd93c7a3c89fa6dac3f7f6",
+            "url": "https://i.scdn.co/image/ab67616d0000b273cdb4fd5bc8705f052b9f90c2",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0264dd93c7a3c89fa6dac3f7f6",
+            "url": "https://i.scdn.co/image/ab67616d00001e02cdb4fd5bc8705f052b9f90c2",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485164dd93c7a3c89fa6dac3f7f6",
+            "url": "https://i.scdn.co/image/ab67616d00004851cdb4fd5bc8705f052b9f90c2",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "1nGBerMI4y0SI6fZk97uYf",
-            "name": "PISS"
+            "id": "1iQVsRr2JalWIOLQa4T7O6",
+            "name": "Odette"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/P***%20you%20made%20me%20%2F%20skin%20on%20linen"
+      "spotifySearchUrl": "https://open.spotify.com/search/Odette%20Blink"
     },
     {
-      "artist": "2nd Grade",
-      "album": "Girls & Boys",
-      "label": "Lame-O",
+      "artist": "Skepta",
+      "album": "Swallow!",
+      "label": "Because",
       "section": "lightningRound",
       "spotify": null,
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/2nd%20Grade%20Girls%20%26%20Boys"
+      "spotifySearchUrl": "https://open.spotify.com/search/Skepta%20Swallow!"
     },
     {
-      "artist": "NØ MAN",
-      "album": "Between the Sword and the Neck",
-      "label": "Iodine",
+      "artist": "Bad Brains",
+      "album": "Are You Ready: The First Studio Recording",
+      "label": "Trust",
       "section": "lightningRound",
       "spotify": {
-        "id": "0PqzFjVtWawwgP4DM3rNUV",
-        "name": "Between the Sword and the Neck",
-        "url": "https://open.spotify.com/album/0PqzFjVtWawwgP4DM3rNUV",
-        "release_date": "2026-10-30",
+        "id": "7qcpklmKEmd7Fv6hqJGJLp",
+        "name": "Are You Ready: The First Studio Recording (Inner Ear - March 1979)",
+        "url": "https://open.spotify.com/album/7qcpklmKEmd7Fv6hqJGJLp",
+        "release_date": "2026-11-06",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27340645fce0ab92017427494de",
+            "url": "https://i.scdn.co/image/ab67616d0000b273c902b244d949717e1dbc35f9",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0240645fce0ab92017427494de",
+            "url": "https://i.scdn.co/image/ab67616d00001e02c902b244d949717e1dbc35f9",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485140645fce0ab92017427494de",
+            "url": "https://i.scdn.co/image/ab67616d00004851c902b244d949717e1dbc35f9",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "3YVOPyK3WSherrqK2E34CZ",
-            "name": "NØ MAN"
+            "id": "1oVj9JmPUPg4SQ2uerV2xc",
+            "name": "Bad Brains"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/N%C3%98%20MAN%20Between%20the%20Sword%20and%20the%20Neck"
+      "spotifySearchUrl": "https://open.spotify.com/search/Bad%20Brains%20Are%20You%20Ready%3A%20The%20First%20Studio%20Recording"
     },
     {
-      "artist": "Takuya Nakamura",
-      "album": "Shape The Future",
-      "label": "fabric",
+      "artist": "Bassvictim",
+      "album": "Peace + War",
+      "label": "VOTB",
       "section": "lightningRound",
       "spotify": {
-        "id": "3cSlCGp4sXQbNyHZt5Jhui",
-        "name": "Shape The Future",
-        "url": "https://open.spotify.com/album/3cSlCGp4sXQbNyHZt5Jhui",
-        "release_date": "2026-10-07",
+        "id": "4Lbs1ZVwXGJ9tgFBxrpyPA",
+        "name": "PEACE + WAR",
+        "url": "https://open.spotify.com/album/4Lbs1ZVwXGJ9tgFBxrpyPA",
+        "release_date": "2026-11-06",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2739432339ec975f7b077e81d14",
+            "url": "https://i.scdn.co/image/ab67616d0000b273c91bc486bdb46053c345c170",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e029432339ec975f7b077e81d14",
+            "url": "https://i.scdn.co/image/ab67616d00001e02c91bc486bdb46053c345c170",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048519432339ec975f7b077e81d14",
+            "url": "https://i.scdn.co/image/ab67616d00004851c91bc486bdb46053c345c170",
             "width": 64
           }
         ],
         "artists": [
           {
-            "id": "2dsG3u5vUZSGpQGEsq1unH",
-            "name": "Takuya Nakamura"
+            "id": "7f8ydynRRnrJBqWxevKLcM",
+            "name": "Bassvictim"
           }
         ]
       },
       "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Takuya%20Nakamura%20Shape%20The%20Future"
-    },
-    {
-      "artist": "DIIV",
-      "album": "ZIRP!",
-      "label": "Fantasy",
-      "section": "lightningRound",
-      "spotify": {
-        "id": "3HaXEC1Zfo0zM6OCqdpofT",
-        "name": "ZIRP!",
-        "url": "https://open.spotify.com/album/3HaXEC1Zfo0zM6OCqdpofT",
-        "release_date": "2026-10-30",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273dc59cc903e7cb5f74cd60302",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02dc59cc903e7cb5f74cd60302",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851dc59cc903e7cb5f74cd60302",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "4OrizGCKhOrW6iDDJHN9xd",
-            "name": "DIIV"
-          }
-        ]
-      },
-      "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/DIIV%20ZIRP!"
-    },
-    {
-      "artist": "Joyce Moreno",
-      "album": "Never Too Soon",
-      "label": "Far Out",
-      "section": "lightningRound",
-      "spotify": {
-        "id": "7M2ejpwYLTDP204rVnMFp1",
-        "name": "Never Too Soon",
-        "url": "https://open.spotify.com/album/7M2ejpwYLTDP204rVnMFp1",
-        "release_date": "2026-10-30",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273d72a0f58da7849a2060bedd5",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02d72a0f58da7849a2060bedd5",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851d72a0f58da7849a2060bedd5",
-            "width": 64
-          }
-        ],
-        "artists": [
-          {
-            "id": "5644bJMU3NkJN0edhyHV3v",
-            "name": "Joyce Moreno"
-          }
-        ]
-      },
-      "songlink": null,
-      "spotifySearchUrl": "https://open.spotify.com/search/Joyce%20Moreno%20Never%20Too%20Soon"
+      "spotifySearchUrl": "https://open.spotify.com/search/Bassvictim%20Peace%20%2B%20War"
     }
   ]
 }

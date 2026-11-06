@@ -1,123 +1,123 @@
 {
-  "source": "https://www.npr.org/2026/10/30/nx-s1-6022242/new-music-friday-the-best-albums-out-oct-30",
-  "scrapedAt": "2026-10-30T23:22:31.889Z",
-  "date": "2026-10-30",
-  "title": "New Music Friday: The best albums out Oct. 30",
+  "source": "https://www.npr.org/2026/11/06/nx-s1-6030904/new-music-friday-the-best-albums-out-nov-6",
+  "scrapedAt": "2026-11-06T23:52:39.520Z",
+  "date": "2026-11-06",
+  "title": "New Music Friday: The best albums out Nov. 6",
   "starting5": [
     {
-      "artist": "Kaitlin Butts, Hello",
-      "album": "Honky Tonk",
-      "label": "Republic"
+      "artist": "Willi Carlisle",
+      "album": "The Universal Bubba",
+      "label": "Signature Sounds"
     },
     {
-      "artist": "Sampa the Great",
-      "album": "Nu Zamrock",
-      "label": "Loma Vista"
+      "artist": "Katie Gregson-MacLeod",
+      "album": "Albatross",
+      "label": "Last Recordings on Earth"
     },
     {
-      "artist": "Kali Malone",
-      "album": "Burning Song",
-      "label": "Ideologic Organ"
+      "artist": "Dawuna",
+      "album": "Love's Arp",
+      "label": "True Panther"
     },
     {
-      "artist": "Moses Boyd",
-      "album": "Songs For Sinners",
-      "label": "Beggars"
+      "artist": "Bricknasty",
+      "album": "forever EP",
+      "label": "FAMM"
     },
     {
-      "artist": "P***",
-      "album": "you made me / skin on linen",
-      "label": "Sub Pop"
+      "artist": "Catherine Elicson",
+      "album": "River Of Fat",
+      "label": "Community Music"
     }
   ],
   "lightningRound": [
     {
-      "artist": "2nd Grade",
-      "album": "Girls & Boys",
-      "label": "Lame-O"
+      "artist": "Straw Man Army",
+      "album": "True North",
+      "label": "La Vida Es Un Mus"
     },
     {
-      "artist": "NØ MAN",
-      "album": "Between the Sword and the Neck",
-      "label": "Iodine"
+      "artist": "Odette",
+      "album": "Blink",
+      "label": "Beloved"
     },
     {
-      "artist": "Takuya Nakamura",
-      "album": "Shape The Future",
-      "label": "fabric"
+      "artist": "Skepta",
+      "album": "Swallow!",
+      "label": "Because"
     },
     {
-      "artist": "DIIV",
-      "album": "ZIRP!",
-      "label": "Fantasy"
+      "artist": "Bad Brains",
+      "album": "Are You Ready: The First Studio Recording",
+      "label": "Trust"
     },
     {
-      "artist": "Joyce Moreno",
-      "album": "Never Too Soon",
-      "label": "Far Out"
+      "artist": "Bassvictim",
+      "album": "Peace + War",
+      "label": "VOTB"
     }
   ],
   "dorasCorner": [],
   "longList": {},
   "allAlbums": [
     {
-      "artist": "Kaitlin Butts, Hello",
-      "album": "Honky Tonk",
-      "label": "Republic",
+      "artist": "Willi Carlisle",
+      "album": "The Universal Bubba",
+      "label": "Signature Sounds",
       "section": "starting5"
     },
     {
-      "artist": "Sampa the Great",
-      "album": "Nu Zamrock",
-      "label": "Loma Vista",
+      "artist": "Katie Gregson-MacLeod",
+      "album": "Albatross",
+      "label": "Last Recordings on Earth",
       "section": "starting5"
     },
     {
-      "artist": "Kali Malone",
-      "album": "Burning Song",
-      "label": "Ideologic Organ",
+      "artist": "Dawuna",
+      "album": "Love's Arp",
+      "label": "True Panther",
       "section": "starting5"
     },
     {
-      "artist": "Moses Boyd",
-      "album": "Songs For Sinners",
-      "label": "Beggars",
+      "artist": "Bricknasty",
+      "album": "forever EP",
+      "label": "FAMM",
       "section": "starting5"
     },
     {
-      "artist": "P***",
-      "album": "you made me / skin on linen",
-      "label": "Sub Pop",
+      "artist": "Catherine Elicson",
+      "album": "River Of Fat",
+      "label": "Community Music",
       "section": "starting5"
     },
     {
-      "artist": "2nd Grade",
-      "album": "Girls & Boys",
-      "label": "Lame-O",
+      "artist": "Straw Man Army",
+      "album": "True North",
+      "label": "La Vida Es Un Mus",
       "section": "lightningRound"
     },
     {
-      "artist": "NØ MAN",
-      "album": "Between the Sword and the Neck",
-      "label": "Iodine",
+      "artist": "Odette",
+      "album": "Blink",
+      "label": "Beloved",
       "section": "lightningRound"
     },
     {
-      "artist": "Takuya Nakamura",
-      "album": "Shape The Future",
-      "label": "fabric",
+      "artist": "Skepta",
+      "album": "Swallow!",
+      "label": "Because",
       "section": "lightningRound"
     },
     {
-      "artist": "DIIV",
-      "album": "ZIRP!",
-      "label": "Fantasy",
+      "artist": "Bad Brains",
+      "album": "Are You Ready: The First Studio Recording",
+      "label": "Trust",
       "section": "lightningRound"
     },
     {
-      "artist": "Joyce Moreno",
-      "album": "Never Too Soon",
-      "label": "Far Out",
+      "artist": "Bassvictim",
+      "album": "Peace + War",
+      "label": "VOTB",
       "section": "lightningRound"
     }
   ]
