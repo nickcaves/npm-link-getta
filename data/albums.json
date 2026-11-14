@@ -1,123 +1,123 @@
 {
-  "source": "https://www.npr.org/2026/11/06/nx-s1-6030904/new-music-friday-the-best-albums-out-nov-6",
-  "scrapedAt": "2026-11-06T23:52:39.520Z",
-  "date": "2026-11-06",
-  "title": "New Music Friday: The best albums out Nov. 6",
+  "source": "https://www.npr.org/2026/11/13/nx-s1-6035012/new-music-friday-the-best-albums-out-nov-13",
+  "scrapedAt": "2026-11-14T00:33:14.145Z",
+  "date": "2026-11-13",
+  "title": "New Music Friday: The best albums out Nov. 13",
   "starting5": [
     {
-      "artist": "Willi Carlisle",
-      "album": "The Universal Bubba",
-      "label": "Signature Sounds"
+      "artist": "Snoh Aalegra",
+      "album": "Legendary Love",
+      "label": "Feels Run Free"
     },
     {
-      "artist": "Katie Gregson-MacLeod",
-      "album": "Albatross",
-      "label": "Last Recordings on Earth"
+      "artist": "Rochelle Jordan, Disc 1, Disc 2, Disc 3",
+      "album": "Disc 4",
+      "label": "Empire"
     },
     {
-      "artist": "Dawuna",
-      "album": "Love's Arp",
-      "label": "True Panther"
+      "artist": "U2",
+      "album": "Carnaval de Luz Island",
+      "label": "Island"
     },
     {
-      "artist": "Bricknasty",
-      "album": "forever EP",
-      "label": "FAMM"
+      "artist": "Emma Ogier",
+      "album": "Fly 1111",
+      "label": "Lost Highway"
     },
     {
-      "artist": "Catherine Elicson",
-      "album": "River Of Fat",
-      "label": "Community Music"
+      "artist": "Brad Mehldau",
+      "album": "Fantasy & Reveries",
+      "label": "Nonesuch"
     }
   ],
   "lightningRound": [
     {
-      "artist": "Straw Man Army",
-      "album": "True North",
-      "label": "La Vida Es Un Mus"
+      "artist": "Anna Butterss, John Raymond & Ben Lumsdaine",
+      "album": "Beginningless",
+      "label": "Northern Spy"
     },
     {
-      "artist": "Odette",
-      "album": "Blink",
-      "label": "Beloved"
+      "artist": "Land of Talk",
+      "album": "Lasts",
+      "label": "Saddle Creek"
     },
     {
-      "artist": "Skepta",
-      "album": "Swallow!",
-      "label": "Because"
+      "artist": "Radie Peat",
+      "album": "No Human Tongue Can Tell",
+      "label": "Rough Trade"
     },
     {
-      "artist": "Bad Brains",
-      "album": "Are You Ready: The First Studio Recording",
-      "label": "Trust"
+      "artist": "Aesop Rock & Blockhead",
+      "album": "Trouble Mountain",
+      "label": "Rhymesayers"
     },
     {
-      "artist": "Bassvictim",
-      "album": "Peace + War",
-      "label": "VOTB"
+      "artist": "Armand Hammer",
+      "album": "Snakes & Ladders",
+      "label": "Backwoodz Studioz"
     }
   ],
   "dorasCorner": [],
   "longList": {},
   "allAlbums": [
     {
-      "artist": "Willi Carlisle",
-      "album": "The Universal Bubba",
-      "label": "Signature Sounds",
+      "artist": "Snoh Aalegra",
+      "album": "Legendary Love",
+      "label": "Feels Run Free",
       "section": "starting5"
     },
     {
-      "artist": "Katie Gregson-MacLeod",
-      "album": "Albatross",
-      "label": "Last Recordings on Earth",
+      "artist": "Rochelle Jordan, Disc 1, Disc 2, Disc 3",
+      "album": "Disc 4",
+      "label": "Empire",
       "section": "starting5"
     },
     {
-      "artist": "Dawuna",
-      "album": "Love's Arp",
-      "label": "True Panther",
+      "artist": "U2",
+      "album": "Carnaval de Luz Island",
+      "label": "Island",
       "section": "starting5"
     },
     {
-      "artist": "Bricknasty",
-      "album": "forever EP",
-      "label": "FAMM",
+      "artist": "Emma Ogier",
+      "album": "Fly 1111",
+      "label": "Lost Highway",
       "section": "starting5"
     },
     {
-      "artist": "Catherine Elicson",
-      "album": "River Of Fat",
-      "label": "Community Music",
+      "artist": "Brad Mehldau",
+      "album": "Fantasy & Reveries",
+      "label": "Nonesuch",
       "section": "starting5"
     },
     {
-      "artist": "Straw Man Army",
-      "album": "True North",
-      "label": "La Vida Es Un Mus",
+      "artist": "Anna Butterss, John Raymond & Ben Lumsdaine",
+      "album": "Beginningless",
+      "label": "Northern Spy",
       "section": "lightningRound"
     },
     {
-      "artist": "Odette",
-      "album": "Blink",
-      "label": "Beloved",
+      "artist": "Land of Talk",
+      "album": "Lasts",
+      "label": "Saddle Creek",
       "section": "lightningRound"
     },
     {
-      "artist": "Skepta",
-      "album": "Swallow!",
-      "label": "Because",
+      "artist": "Radie Peat",
+      "album": "No Human Tongue Can Tell",
+      "label": "Rough Trade",
       "section": "lightningRound"
     },
     {
-      "artist": "Bad Brains",
-      "album": "Are You Ready: The First Studio Recording",
-      "label": "Trust",
+      "artist": "Aesop Rock & Blockhead",
+      "album": "Trouble Mountain",
+      "label": "Rhymesayers",
       "section": "lightningRound"
     },
     {
-      "artist": "Bassvictim",
-      "album": "Peace + War",
-      "label": "VOTB",
+      "artist": "Armand Hammer",
+      "album": "Snakes & Ladders",
+      "label": "Backwoodz Studioz",
       "section": "lightningRound"
     }
   ]
