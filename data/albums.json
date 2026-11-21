@@ -1,123 +1,67 @@
 {
-  "source": "https://www.npr.org/2026/11/13/nx-s1-6035012/new-music-friday-the-best-albums-out-nov-13",
-  "scrapedAt": "2026-11-14T00:33:14.145Z",
-  "date": "2026-11-13",
-  "title": "New Music Friday: The best albums out Nov. 13",
-  "starting5": [
-    {
-      "artist": "Snoh Aalegra",
-      "album": "Legendary Love",
-      "label": "Feels Run Free"
-    },
-    {
-      "artist": "Rochelle Jordan, Disc 1, Disc 2, Disc 3",
-      "album": "Disc 4",
-      "label": "Empire"
-    },
-    {
-      "artist": "U2",
-      "album": "Carnaval de Luz Island",
-      "label": "Island"
-    },
-    {
-      "artist": "Emma Ogier",
-      "album": "Fly 1111",
-      "label": "Lost Highway"
-    },
-    {
-      "artist": "Brad Mehldau",
-      "album": "Fantasy & Reveries",
-      "label": "Nonesuch"
-    }
-  ],
+  "source": "https://www.npr.org/2026/11/20/nx-s1-6047584/new-music-friday-the-best-albums-out-nov-20",
+  "scrapedAt": "2026-11-21T00:59:06.440Z",
+  "date": "2026-11-20",
+  "title": "New Music Friday: The best albums out Nov. 20",
+  "starting5": [],
   "lightningRound": [
     {
-      "artist": "Anna Butterss, John Raymond & Ben Lumsdaine",
-      "album": "Beginningless",
-      "label": "Northern Spy"
+      "artist": "Joshua Redman",
+      "album": "If Ever You Would Leave Us (we play for Rollins)",
+      "label": "Blue Note"
     },
     {
-      "artist": "Land of Talk",
-      "album": "Lasts",
-      "label": "Saddle Creek"
+      "artist": "V/A",
+      "album": "Grand Theft Auto VI: The Album",
+      "label": "Atlantic"
     },
     {
-      "artist": "Radie Peat",
-      "album": "No Human Tongue Can Tell",
-      "label": "Rough Trade"
+      "artist": "Mineral",
+      "album": "Might As Well Be Here",
+      "label": "Numero Group"
     },
     {
-      "artist": "Aesop Rock & Blockhead",
-      "album": "Trouble Mountain",
-      "label": "Rhymesayers"
+      "artist": "Sheherazaad",
+      "album": "Khudgarzi",
+      "label": "Erased Tapes"
     },
     {
-      "artist": "Armand Hammer",
-      "album": "Snakes & Ladders",
-      "label": "Backwoodz Studioz"
+      "artist": "MPH, Here",
+      "album": "Forever",
+      "label": "Capitol"
     }
   ],
   "dorasCorner": [],
   "longList": {},
   "allAlbums": [
     {
-      "artist": "Snoh Aalegra",
-      "album": "Legendary Love",
-      "label": "Feels Run Free",
-      "section": "starting5"
-    },
-    {
-      "artist": "Rochelle Jordan, Disc 1, Disc 2, Disc 3",
-      "album": "Disc 4",
-      "label": "Empire",
-      "section": "starting5"
-    },
-    {
-      "artist": "U2",
-      "album": "Carnaval de Luz Island",
-      "label": "Island",
-      "section": "starting5"
-    },
-    {
-      "artist": "Emma Ogier",
-      "album": "Fly 1111",
-      "label": "Lost Highway",
-      "section": "starting5"
-    },
-    {
-      "artist": "Brad Mehldau",
-      "album": "Fantasy & Reveries",
-      "label": "Nonesuch",
-      "section": "starting5"
-    },
-    {
-      "artist": "Anna Butterss, John Raymond & Ben Lumsdaine",
-      "album": "Beginningless",
-      "label": "Northern Spy",
+      "artist": "Joshua Redman",
+      "album": "If Ever You Would Leave Us (we play for Rollins)",
+      "label": "Blue Note",
       "section": "lightningRound"
     },
     {
-      "artist": "Land of Talk",
-      "album": "Lasts",
-      "label": "Saddle Creek",
+      "artist": "V/A",
+      "album": "Grand Theft Auto VI: The Album",
+      "label": "Atlantic",
       "section": "lightningRound"
     },
     {
-      "artist": "Radie Peat",
-      "album": "No Human Tongue Can Tell",
-      "label": "Rough Trade",
+      "artist": "Mineral",
+      "album": "Might As Well Be Here",
+      "label": "Numero Group",
       "section": "lightningRound"
     },
     {
-      "artist": "Aesop Rock & Blockhead",
-      "album": "Trouble Mountain",
-      "label": "Rhymesayers",
+      "artist": "Sheherazaad",
+      "album": "Khudgarzi",
+      "label": "Erased Tapes",
       "section": "lightningRound"
     },
     {
-      "artist": "Armand Hammer",
-      "album": "Snakes & Ladders",
-      "label": "Backwoodz Studioz",
+      "artist": "MPH, Here",
+      "album": "Forever",
+      "label": "Capitol",
       "section": "lightningRound"
     }
   ]
