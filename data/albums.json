@@ -1,68 +1,11 @@
 {
-  "source": "https://www.npr.org/2026/11/20/nx-s1-6047584/new-music-friday-the-best-albums-out-nov-20",
-  "scrapedAt": "2026-11-21T00:59:06.440Z",
-  "date": "2026-11-20",
-  "title": "New Music Friday: The best albums out Nov. 20",
+  "source": "https://www.npr.org/2026/11/27/nx-s1-6054010/new-music-friday-the-best-albums-out-nov-27",
+  "scrapedAt": "2026-11-28T02:22:49.907Z",
+  "date": "2026-11-27",
+  "title": "New Music Friday: The best albums out Nov. 27",
   "starting5": [],
-  "lightningRound": [
-    {
-      "artist": "Joshua Redman",
-      "album": "If Ever You Would Leave Us (we play for Rollins)",
-      "label": "Blue Note"
-    },
-    {
-      "artist": "V/A",
-      "album": "Grand Theft Auto VI: The Album",
-      "label": "Atlantic"
-    },
-    {
-      "artist": "Mineral",
-      "album": "Might As Well Be Here",
-      "label": "Numero Group"
-    },
-    {
-      "artist": "Sheherazaad",
-      "album": "Khudgarzi",
-      "label": "Erased Tapes"
-    },
-    {
-      "artist": "MPH, Here",
-      "album": "Forever",
-      "label": "Capitol"
-    }
-  ],
+  "lightningRound": [],
   "dorasCorner": [],
   "longList": {},
-  "allAlbums": [
-    {
-      "artist": "Joshua Redman",
-      "album": "If Ever You Would Leave Us (we play for Rollins)",
-      "label": "Blue Note",
-      "section": "lightningRound"
-    },
-    {
-      "artist": "V/A",
-      "album": "Grand Theft Auto VI: The Album",
-      "label": "Atlantic",
-      "section": "lightningRound"
-    },
-    {
-      "artist": "Mineral",
-      "album": "Might As Well Be Here",
-      "label": "Numero Group",
-      "section": "lightningRound"
-    },
-    {
-      "artist": "Sheherazaad",
-      "album": "Khudgarzi",
-      "label": "Erased Tapes",
-      "section": "lightningRound"
-    },
-    {
-      "artist": "MPH, Here",
-      "album": "Forever",
-      "label": "Capitol",
-      "section": "lightningRound"
-    }
-  ]
+  "allAlbums": []
 }
